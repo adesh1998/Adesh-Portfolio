@@ -19,60 +19,60 @@
     },
     function (e, t, a) {
       var l = {
-        "./CISA.png": 129,
-        "./Clemson.png": 130,
-        "./Cognizant.png": 131,
-        "./Deep_learning.png": 132,
-        "./SPPU.png": 133,
-        "./Udemy.png": 134,
-        "./address_image.svg": 135,
-        "./adesh.png": 136,
-        "./animated_ashutosh.png": 137,
-        "./animated_logo.svg": 138,
-        "./blogs_image.svg": 139,
-        "./cloud_infrastructure.svg": 140,
-        "./codeInLogo.png": 141,
-        "./contactMail.png": 142,
-        "./coursera_logo.png": 143,
-        "./data_science.svg": 144,
-        "./deeplearning_ai_logo.png": 145,
-        "./delhivery_logo.png": 146,
-        "./developerActivity.svg": 147,
-        "./dsc_logo.png": 148,
-        "./education.svg": 149,
-        "./experience.svg": 150,
-        "./feelingProud.svg": 151,
-        "./freecopy_logo.png": 152,
-        "./fullstack.svg": 153,
-        "./gcp_logo.png": 154,
-        "./github_logo.png": 155,
-        "./googleAssistant.jpg": 156,
-        "./googleAssistant.svg": 157,
-        "./google_logo.png": 158,
-        "./ibm_logo.png": 159,
-        "./iiitk_logo.png": 160,
-        "./intel_logo.jpg": 161,
-        "./iu_logo.png": 162,
-        "./jsFramework.svg": 163,
-        "./legato_logo.png": 164,
-        "./manOnTable.svg": 165,
-        "./microsoft_logo.png": 166,
-        "./mozilla_logo.png": 167,
-        "./muffito_logo.png": 168,
-        "./nextuLogo.jpg": 169,
-        "./nptel_logo.png": 170,
-        "./portfolio.gif": 171,
-        "./profile-pic (1).png": 172,
+        "./CISA.png": 128,
+        "./Clemson.png": 129,
+        "./Cognizant.png": 130,
+        "./Deep_learning.png": 131,
+        "./SPPU.png": 132,
+        "./Udemy.png": 133,
+        "./address_image.svg": 134,
+        "./adesh.png": 135,
+        "./animated_ashutosh.png": 136,
+        "./animated_logo.svg": 137,
+        "./blogs_image.svg": 138,
+        "./cloud_infrastructure.svg": 139,
+        "./codeInLogo.png": 140,
+        "./contactMail.png": 141,
+        "./coursera_logo.png": 142,
+        "./data_science.svg": 143,
+        "./deeplearning_ai_logo.png": 144,
+        "./delhivery_logo.png": 145,
+        "./developerActivity.svg": 146,
+        "./dsc_logo.png": 147,
+        "./education.svg": 148,
+        "./experience.svg": 149,
+        "./feelingProud.svg": 150,
+        "./freecopy_logo.png": 151,
+        "./fullstack.svg": 152,
+        "./gcp_logo.png": 153,
+        "./github_logo.png": 154,
+        "./googleAssistant.jpg": 155,
+        "./googleAssistant.svg": 156,
+        "./google_logo.png": 157,
+        "./ibm_logo.png": 158,
+        "./iiitk_logo.png": 159,
+        "./intel_logo.jpg": 160,
+        "./iu_logo.png": 161,
+        "./jsFramework.svg": 162,
+        "./legato_logo.png": 163,
+        "./manOnTable.svg": 164,
+        "./microsoft_logo.png": 165,
+        "./mozilla_logo.png": 166,
+        "./muffito_logo.png": 167,
+        "./nextuLogo.jpg": 168,
+        "./nptel_logo.png": 169,
+        "./portfolio.gif": 170,
+        "./profile-pic (1).png": 171,
         "./profile-pic.png": 55,
-        "./programmer.svg": 173,
-        "./projects_image.svg": 174,
-        "./pwa.png": 175,
-        "./saayaHealthLogo.png": 176,
-        "./stanford_logo.png": 177,
-        "./talksCardBack.svg": 178,
-        "./talksCardBackAlt.svg": 179,
-        "./tiktok_logo.png": 180,
-        "./ui_ux_design.svg": 181,
+        "./programmer.svg": 172,
+        "./projects_image.svg": 173,
+        "./pwa.png": 174,
+        "./saayaHealthLogo.png": 175,
+        "./stanford_logo.png": 176,
+        "./talksCardBack.svg": 177,
+        "./talksCardBackAlt.svg": 178,
+        "./tiktok_logo.png": 179,
+        "./ui_ux_design.svg": 180,
       };
       function r(e) {
         var t = n(e);
@@ -163,7 +163,7 @@
     },
     ,
     function (e, t, a) {
-      e.exports = a(302);
+      e.exports = a(301);
     },
     ,
     ,
@@ -191,7 +191,6 @@
     function (e, t, a) {},
     function (e, t, a) {},
     ,
-    function (e, t) {},
     function (e, t, a) {},
     ,
     function (e, t, a) {},
@@ -495,10 +494,10 @@
         r = a.n(l),
         n = a(11),
         s = a.n(n),
-        i = a(320),
-        c = a(303),
+        i = a(319),
+        c = a(302),
         o = a(19),
-        m = a(318),
+        m = a(317),
         d = (a(98), a(99), a(6)),
         h = a(5),
         C = (a(100), a(3));
@@ -1117,7 +1116,6 @@
           )
         );
       }
-      a(120);
       var z = a(55),
         G = a.n(z);
       function V(e) {
@@ -1177,9 +1175,9 @@
           )
         );
       }
-      a(66), a(121);
-      var Q = a(317),
-        F = a(315);
+      a(66), a(120);
+      var Q = a(316),
+        F = a(314);
       class P extends r.a.Component {
         render() {
           return r.a.createElement(
@@ -3545,7 +3543,7 @@
           r.a.createElement(_, { theme: t })
         );
       }
-      a(123);
+      a(122);
       function ee(e) {
         return r.a.createElement(
           "div",
@@ -3567,7 +3565,7 @@
           )
         );
       }
-      a(124);
+      a(123);
       function te(e) {
         let { theme: t } = e;
         window.onscroll = function () {
@@ -3628,7 +3626,7 @@
         }
       }
       var le = ae;
-      a(125), a(126);
+      a(124), a(125);
       class re extends r.a.Component {
         render() {
           const e = this.props.theme;
@@ -3899,7 +3897,7 @@
         }
       }
       var ce = ie;
-      a(127), a(128);
+      a(126), a(127);
       class oe extends l.Component {
         render() {
           const e = this.props.degree,
@@ -4032,7 +4030,7 @@
         }
       }
       var he = de;
-      a(182), a(183);
+      a(181), a(182);
       class Ce extends l.Component {
         render() {
           const e = this.props.certificate,
@@ -4129,7 +4127,7 @@
         }
       }
       var fe = pe;
-      a(184);
+      a(183);
       class ge extends r.a.Component {
         render() {
           return r.a.createElement(
@@ -4482,7 +4480,7 @@
           );
         }
       }
-      a(185);
+      a(184);
       class ye extends l.Component {
         render() {
           const e = this.props.theme;
@@ -4535,7 +4533,7 @@
         }
       }
       var be = ye;
-      a(186);
+      a(185);
       class xe extends l.Component {
         render() {
           const e = this.props.experience,
@@ -4681,8 +4679,8 @@
         }
       }
       var ve = xe,
-        Me = (a(187), a(321)),
-        we = a(319);
+        Me = (a(186), a(320)),
+        we = a(318);
       class ke extends l.Component {
         render() {
           const e = this.props.theme;
@@ -4733,7 +4731,7 @@
         }
       }
       var Ze = ke;
-      a(189);
+      a(188);
       class Ne extends l.Component {
         render() {
           const e = this.props.theme;
@@ -5232,7 +5230,7 @@
       }
       var Re = Se,
         Ie = a(41),
-        He = (a(284), a(25));
+        He = (a(283), a(25));
       class Be extends l.Component {
         render() {
           const e = {
@@ -5271,7 +5269,7 @@
         }
       }
       var je = Be,
-        De = (a(285), a(31));
+        De = (a(284), a(31));
       class Le extends l.Component {
         render() {
           const e = {
@@ -5310,7 +5308,7 @@
         }
       }
       var Ue = Le;
-      a(286);
+      a(285);
       class Oe extends l.Component {
         render() {
           const e = this.props.theme;
@@ -5340,7 +5338,7 @@
         }
       }
       var ze = Oe;
-      a(287), a(288);
+      a(286), a(287);
       class Ge extends l.Component {
         render() {
           return r.a.createElement(
@@ -5410,7 +5408,7 @@
         }
       }
       var Pe = Fe;
-      a(289), a(290);
+      a(288), a(289);
       class Te extends l.Component {
         render() {
           const e = this.props.pullRequest;
@@ -5616,7 +5614,7 @@
         }
       }
       var We = qe;
-      a(291), a(292);
+      a(290), a(291);
       class Xe extends l.Component {
         render() {
           const e = this.props.issue;
@@ -5782,7 +5780,7 @@
         }
       }
       var _e = Ke;
-      a(293);
+      a(292);
       class $e extends l.Component {
         render() {
           return r.a.createElement(
@@ -5802,7 +5800,7 @@
         }
       }
       var et = $e;
-      a(294);
+      a(293);
       function tt(e) {
         let { text: t, className: a, href: l, newTab: n, theme: s } = e;
         return r.a.createElement(
@@ -5834,7 +5832,7 @@
           )
         );
       }
-      a(295);
+      a(294);
       const at = w;
       class lt extends l.Component {
         render() {
@@ -5903,7 +5901,7 @@
         }
       }
       var rt = lt;
-      a(296);
+      a(295);
       class nt extends l.Component {
         render() {
           return r.a.createElement(
@@ -5947,7 +5945,7 @@
         }
       }
       var st = nt;
-      a(297);
+      a(296);
       function it(e) {
         let { repo: t, theme: a } = e;
         return r.a.createElement(
@@ -6020,7 +6018,7 @@
         );
       }
       var ct = a(91);
-      a(298);
+      a(297);
       class ot extends l.Component {
         render() {
           const e = this.props.theme;
@@ -6770,7 +6768,7 @@
         }
       }
       var dt = mt;
-      a(299);
+      a(298);
       class ht extends l.Component {
         render() {
           const e = this.props.theme;
@@ -6953,7 +6951,7 @@
             /^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/
           )
       );
-      a(300);
+      a(299);
       const Et = new m.a();
       s.a.render(
         r.a.createElement(
@@ -6971,4 +6969,4 @@
   ]),
   [[93, 1, 2]],
 ]);
-//# sourceMappingURL=main.8fd7da3d.chunk.js.map
+//# sourceMappingURL=main.6a839fa3.chunk.js.map
