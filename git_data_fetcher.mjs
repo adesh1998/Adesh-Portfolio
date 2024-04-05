@@ -101,28 +101,29 @@ const query_org = {
 
 const query_pinned_projects = {
   query: `
-	query { 
-	  user(login: "${openSource.githubUserName}") { 
-	    pinnedItems(first: 6, types: REPOSITORY) {
-	      totalCount
-	      nodes{
-	        ... on Repository{
-	          id
-		          name
-		          createdAt,
-		          url,
-		          description,
-		          isFork,
-		          languages(first:10){
-		            nodes{
-		              name
-		            }
-		          }
-	        }
-	      }
-		  }
-	  }
-	}
+	query {
+    viewer {
+      repositories(first: 6, orderBy: {field: CREATED_AT, direction: DESC}, isFork: false) {
+        nodes {
+          id
+          name
+          description
+          url
+          createdAt
+          
+          primaryLanguage {
+            name
+          }
+          languages(first: 5) {
+            nodes {
+              name
+            }
+          }
+        }
+      }
+    }
+  }
+  
 	`,
 };
 
@@ -268,8 +269,8 @@ fetch(baseUrl, {
   .then((response) => response.text())
   .then((txt) => {
     const data = JSON.parse(txt);
-    // console.log(txt);
-    const projects = data["data"]["user"]["pinnedItems"]["nodes"];
+     console.log(data);
+    const projects = data["data"]["viewer"]["repositories"]["nodes"];
     var newProjects = { data: [] };
     for (var i = 0; i < projects.length; i++) {
       var obj = projects[i];
