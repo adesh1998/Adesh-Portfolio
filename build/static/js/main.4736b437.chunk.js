@@ -115,7 +115,7 @@
     ,
     ,
     function (e, t, a) {
-      e.exports = a.p + "static/media/profile-pic.664c6d6d.png";
+      e.exports = a.p + "static/media/profile-pic.795eb7c0.png";
     },
     ,
     ,
@@ -337,7 +337,7 @@
       e.exports = a.p + "static/media/portfolio.414dfbd9.gif";
     },
     function (e, t, a) {
-      e.exports = a.p + "static/media/profile-pic (1).a7cc99b8.png";
+      e.exports = a.p + "static/media/profile-pic (1).5767166c.png";
     },
     function (e, t, a) {
       e.exports = a.p + "static/media/programmer.5faf790b.svg";
@@ -6969,4 +6969,4 @@
   ]),
   [[93, 1, 2]],
 ]);
-//# sourceMappingURL=main.6a839fa3.chunk.js.map
+//# sourceMappingURL=main.4736b437.chunk.js.map
