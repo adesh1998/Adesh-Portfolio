@@ -53,38 +53,6 @@
       ]
     },
     {
-      "id": "R_kgDOK2SXmw",
-      "name": "DBMS_PizzaStore",
-      "description": null,
-      "url": "https://github.com/pragathi207/DBMS_PizzaStore",
-      "createdAt": "2023-12-06T03:24:35Z",
-      "primaryLanguage": {
-        "name": "Java"
-      },
-      "languages": [
-        {
-          "name": "Java",
-          "iconifyClass": "logos-java"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOKuFO3A",
-      "name": "demo",
-      "description": null,
-      "url": "https://github.com/adesh1998/demo",
-      "createdAt": "2023-11-16T05:14:12Z",
-      "primaryLanguage": {
-        "name": "HTML"
-      },
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        }
-      ]
-    },
-    {
       "id": "R_kgDOKiljrw",
       "name": "TitleTrek-Image-Edition",
       "description": null,
@@ -109,13 +77,60 @@
       ]
     },
     {
-      "id": "R_kgDOKNknzQ",
-      "name": "youtube_clone",
+      "id": "R_kgDOJQXZxg",
+      "name": "CPSC-6620-PIZZA-R-US",
       "description": null,
-      "url": "https://github.com/adesh1998/youtube_clone",
-      "createdAt": "2023-08-31T01:18:24Z",
-      "primaryLanguage": null,
-      "languages": []
+      "url": "https://github.com/adesh1998/CPSC-6620-PIZZA-R-US",
+      "createdAt": "2023-03-30T04:15:56Z",
+      "primaryLanguage": {
+        "name": "Java"
+      },
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJZ447g",
+      "name": "DATA_MINING_PROJECT",
+      "description": null,
+      "url": "https://github.com/adesh1998/DATA_MINING_PROJECT",
+      "createdAt": "2023-04-22T02:39:11Z",
+      "primaryLanguage": {
+        "name": "Jupyter Notebook"
+      },
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOIUUy_Q",
+      "name": "DV-Uk-traffic-accident-visualization",
+      "description": null,
+      "url": "https://github.com/adesh1998/DV-Uk-traffic-accident-visualization",
+      "createdAt": "2022-10-27T03:33:16Z",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
     }
   ]
 }

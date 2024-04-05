@@ -99,18 +99,16 @@ const query_org = {
 	}`,
 };
 
-const query_pinned_projects = {
+const query_specific_projects = {
   query: `
-	query {
-    viewer {
-      repositories(first: 6, orderBy: {field: CREATED_AT, direction: DESC}, isFork: false) {
-        nodes {
+    query {
+      viewer {
+        repository1: repository(name: "Adesh-Portfolio") {
           id
           name
           description
           url
           createdAt
-          
           primaryLanguage {
             name
           }
@@ -120,12 +118,87 @@ const query_pinned_projects = {
             }
           }
         }
+        repository2: repository(name: "Ecommerce") {
+          id
+          name
+          description
+          url
+          createdAt
+          primaryLanguage {
+            name
+          }
+          languages(first: 5) {
+            nodes {
+              name
+            }
+          }
+        }
+        repository3: repository(name: "TitleTrek-Image-Edition") {
+          id
+          name
+          description
+          url
+          createdAt
+          primaryLanguage {
+            name
+          }
+          languages(first: 5) {
+            nodes {
+              name
+            }
+          }
+        }
+        repository4: repository(name: "CPSC-6620-PIZZA-R-US") {
+          id
+          name
+          description
+          url
+          createdAt
+          primaryLanguage {
+            name
+          }
+          languages(first: 5) {
+            nodes {
+              name
+            }
+          }
+        }
+        repository5: repository(name: "DATA_MINING_PROJECT") {
+          id
+          name
+          description
+          url
+          createdAt
+          primaryLanguage {
+            name
+          }
+          languages(first: 5) {
+            nodes {
+              name
+            }
+          }
+        }
+        repository6: repository(name: "DV-Uk-traffic-accident-visualization") {
+          id
+          name
+          description
+          url
+          createdAt
+          primaryLanguage {
+            name
+          }
+          languages(first: 5) {
+            nodes {
+              name
+            }
+          }
+        }
+     
       }
     }
-  }
-  
-	`,
+  `,
 };
+
 
 const baseUrl = "https://api.github.com/graphql";
 
@@ -264,44 +337,45 @@ const languages_icons = {
 fetch(baseUrl, {
   method: "POST",
   headers: headers,
-  body: JSON.stringify(query_pinned_projects),
+  body: JSON.stringify(query_specific_projects),
 })
-  .then((response) => response.text())
-  .then((txt) => {
-    const data = JSON.parse(txt);
-     console.log(data);
-    const projects = data["data"]["viewer"]["repositories"]["nodes"];
+  .then((response) => response.json())
+  .then((data) => {
+    console.log(data);
+    const repositories = data.data.viewer;
+    const projects = Object.values(repositories).filter(repo => repo !== null);
     var newProjects = { data: [] };
-    for (var i = 0; i < projects.length; i++) {
-      var obj = projects[i];
-      var langobjs = obj["languages"]["nodes"];
-      var newLangobjs = [];
-      for (var j = 0; j < langobjs.length; j++) {
-        if (langobjs[j]["name"] in languages_icons) {
-          newLangobjs.push({
-            name: langobjs[j]["name"],
-            iconifyClass: languages_icons[langobjs[j]["name"]],
-          });
+    projects.forEach((repo) => {
+      if (repo !== null) {
+        var obj = repo;
+        var langobjs = obj.languages.nodes;
+        var newLangobjs = [];
+        for (var j = 0; j < langobjs.length; j++) {
+          if (langobjs[j].name in languages_icons) {
+            newLangobjs.push({
+              name: langobjs[j].name,
+              iconifyClass: languages_icons[langobjs[j].name],
+            });
+          }
         }
+        obj.languages = newLangobjs;
+        newProjects.data.push(obj);
       }
-      obj["languages"] = newLangobjs;
-      newProjects["data"].push(obj);
-    }
-
-    console.log("Fetching the Pinned Projects Data.\n");
+    });
+    console.log(newProjects);
+    // Save newProjects to JSON file
     fs.writeFile(
       "./src/shared/opensource/projects.json",
       JSON.stringify(newProjects),
       function (err) {
         if (err) {
-          console.log(
-            "Error occured in pinned projects 1",
-            JSON.stringify(err)
-          );
+          console.log("Error saving specific projects:", err);
+        } else {
+          console.log("Specific projects saved successfully!");
         }
       }
     );
   })
-  .catch((error) =>
-    console.log("Error occured in pinned projects 2", JSON.stringify(error))
-  );
+  .catch((error) => console.error("Error fetching specific projects:", error));
+
+
