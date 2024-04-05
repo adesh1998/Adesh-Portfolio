@@ -75,12 +75,12 @@
       return Object.prototype.hasOwnProperty.call(e, r);
     }),
     (l.p = "/");
-  var f = (this.webpackJsonpADESHPORTFOLIO =
-      this.webpackJsonpADESHPORTFOLIO || []),
+  var f = (this["webpackJsonpAdesh-Portfolio"] =
+      this["webpackJsonpAdesh-Portfolio"] || []),
     i = f.push.bind(f);
   (f.push = r), (f = f.slice());
   for (var a = 0; a < f.length; a++) r(f[a]);
   var p = i;
   t();
 })([]);
-//# sourceMappingURL=runtime-main.7d677f48.js.map
+//# sourceMappingURL=runtime-main.46eb58d0.js.map

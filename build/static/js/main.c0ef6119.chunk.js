@@ -1,4 +1,5 @@
-(this.webpackJsonpADESHPORTFOLIO = this.webpackJsonpADESHPORTFOLIO || []).push([
+(this["webpackJsonpAdesh-Portfolio"] =
+  this["webpackJsonpAdesh-Portfolio"] || []).push([
   [0],
   Array(25).concat([
     function (e) {
@@ -7363,4 +7364,4 @@
   ]),
   [[92, 1, 2]],
 ]);
-//# sourceMappingURL=main.7dffb831.chunk.js.map
+//# sourceMappingURL=main.c0ef6119.chunk.js.map
