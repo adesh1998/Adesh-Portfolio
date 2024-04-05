@@ -19,57 +19,60 @@
     },
     function (e, t, a) {
       var l = {
-        "./CISA.png": 127,
-        "./Clemson.png": 128,
-        "./Cognizant.png": 129,
-        "./Deep_learning.png": 130,
-        "./SPPU.png": 131,
-        "./Udemy.png": 132,
-        "./address_image.svg": 133,
-        "./animated_ashutosh.png": 134,
-        "./animated_logo.svg": 135,
-        "./blogs_image.svg": 136,
-        "./cloud_infrastructure.svg": 137,
-        "./codeInLogo.png": 138,
-        "./contactMail.png": 139,
-        "./coursera_logo.png": 140,
-        "./data_science.svg": 141,
-        "./deeplearning_ai_logo.png": 142,
-        "./delhivery_logo.png": 143,
-        "./developerActivity.svg": 144,
-        "./dsc_logo.png": 145,
-        "./education.svg": 146,
-        "./experience.svg": 147,
-        "./feelingProud.svg": 148,
-        "./freecopy_logo.png": 149,
-        "./fullstack.svg": 150,
-        "./gcp_logo.png": 151,
-        "./github_logo.png": 152,
-        "./googleAssistant.jpg": 153,
-        "./googleAssistant.svg": 154,
-        "./google_logo.png": 155,
-        "./ibm_logo.png": 156,
-        "./iiitk_logo.png": 157,
-        "./intel_logo.jpg": 158,
-        "./iu_logo.png": 159,
-        "./jsFramework.svg": 160,
-        "./legato_logo.png": 161,
-        "./manOnTable.svg": 162,
-        "./microsoft_logo.png": 163,
-        "./mozilla_logo.png": 164,
-        "./muffito_logo.png": 165,
-        "./nextuLogo.jpg": 166,
-        "./nptel_logo.png": 167,
-        "./portfolio.gif": 168,
-        "./programmer.svg": 169,
-        "./projects_image.svg": 170,
-        "./pwa.png": 171,
-        "./saayaHealthLogo.png": 172,
-        "./stanford_logo.png": 173,
-        "./talksCardBack.svg": 174,
-        "./talksCardBackAlt.svg": 175,
-        "./tiktok_logo.png": 176,
-        "./ui_ux_design.svg": 177,
+        "./CISA.png": 129,
+        "./Clemson.png": 130,
+        "./Cognizant.png": 131,
+        "./Deep_learning.png": 132,
+        "./SPPU.png": 133,
+        "./Udemy.png": 134,
+        "./address_image.svg": 135,
+        "./adesh.png": 136,
+        "./animated_ashutosh.png": 137,
+        "./animated_logo.svg": 138,
+        "./blogs_image.svg": 139,
+        "./cloud_infrastructure.svg": 140,
+        "./codeInLogo.png": 141,
+        "./contactMail.png": 142,
+        "./coursera_logo.png": 143,
+        "./data_science.svg": 144,
+        "./deeplearning_ai_logo.png": 145,
+        "./delhivery_logo.png": 146,
+        "./developerActivity.svg": 147,
+        "./dsc_logo.png": 148,
+        "./education.svg": 149,
+        "./experience.svg": 150,
+        "./feelingProud.svg": 151,
+        "./freecopy_logo.png": 152,
+        "./fullstack.svg": 153,
+        "./gcp_logo.png": 154,
+        "./github_logo.png": 155,
+        "./googleAssistant.jpg": 156,
+        "./googleAssistant.svg": 157,
+        "./google_logo.png": 158,
+        "./ibm_logo.png": 159,
+        "./iiitk_logo.png": 160,
+        "./intel_logo.jpg": 161,
+        "./iu_logo.png": 162,
+        "./jsFramework.svg": 163,
+        "./legato_logo.png": 164,
+        "./manOnTable.svg": 165,
+        "./microsoft_logo.png": 166,
+        "./mozilla_logo.png": 167,
+        "./muffito_logo.png": 168,
+        "./nextuLogo.jpg": 169,
+        "./nptel_logo.png": 170,
+        "./portfolio.gif": 171,
+        "./profile-pic (1).png": 172,
+        "./profile-pic.png": 55,
+        "./programmer.svg": 173,
+        "./projects_image.svg": 174,
+        "./pwa.png": 175,
+        "./saayaHealthLogo.png": 176,
+        "./stanford_logo.png": 177,
+        "./talksCardBack.svg": 178,
+        "./talksCardBackAlt.svg": 179,
+        "./tiktok_logo.png": 180,
+        "./ui_ux_design.svg": 181,
       };
       function r(e) {
         var t = n(e);
@@ -111,6 +114,9 @@
     ,
     ,
     ,
+    function (e, t, a) {
+      e.exports = a.p + "static/media/profile-pic.664c6d6d.png";
+    },
     ,
     ,
     ,
@@ -157,7 +163,7 @@
     },
     ,
     function (e, t, a) {
-      e.exports = a(298);
+      e.exports = a(302);
     },
     ,
     ,
@@ -185,6 +191,7 @@
     function (e, t, a) {},
     function (e, t, a) {},
     ,
+    function (e, t) {},
     function (e, t, a) {},
     ,
     function (e, t, a) {},
@@ -214,6 +221,9 @@
     },
     function (e, t, a) {
       e.exports = a.p + "static/media/address_image.16559172.svg";
+    },
+    function (e, t, a) {
+      e.exports = a.p + "static/media/adesh.3bddfd98.png";
     },
     function (e, t, a) {
       e.exports = a.p + "static/media/animated_ashutosh.eaf02c2d.png";
@@ -326,6 +336,9 @@
     },
     function (e, t, a) {
       e.exports = a.p + "static/media/portfolio.414dfbd9.gif";
+    },
+    function (e, t, a) {
+      e.exports = a.p + "static/media/profile-pic (1).a7cc99b8.png";
     },
     function (e, t, a) {
       e.exports = a.p + "static/media/programmer.5faf790b.svg";
@@ -482,29 +495,25 @@
         r = a.n(l),
         n = a(11),
         s = a.n(n),
-        i = a(316),
-        c = a(299),
+        i = a(320),
+        c = a(303),
         o = a(19),
-        m = a(314),
-        d = (a(97), a(98), a(6)),
+        m = a(318),
+        d = (a(98), a(99), a(6)),
         h = a(5),
-        C = (a(99), a(3));
-      const p = !1,
-        A = {
+        C = (a(100), a(3));
+      const A = !1,
+        p = {
           title: "Adesh's Portfolio",
           description:
-            "Results-driven Software Engineer with a Master's degree in Computer Science from Clemson University. Possess strong soft skills such as teamwork, communication, and problem-solving, along with hard skills in Data Structure and Object Oriented Programming.",
-          og: {
-            title: "Adesh Bhosale Portfolio",
-            type: "website",
-            url: "http://ashutoshhathidara.com/",
-          },
+            "A dynamic Software Engineer, fueled by a Master's degree in Computer Science from Clemson University. I excel not only in technical domains like Data Structures and Object-Oriented Programming but also in essential soft skills such as collaboration, communication, and creative problem-solving. My track record speaks of results delivered through a potent blend of expertise and adaptability, making me a valuable asset in any software engineering endeavor.",
+          og: { title: "Adesh Bhosale Portfolio", type: "website" },
         },
         f = {
           title: "Adesh Bhosale",
           logo_name: "AdeshBhosale",
           subTitle:
-            "Results-driven Software Engineer with a Master's degree in Computer Science from Clemson University. Possess strong soft skills such as teamwork, communication, and problem-solving, along with hard skills in Data Structure and Object Oriented Programming.",
+            "A dynamic Software Engineer, fueled by a Master's degree in Computer Science from Clemson University. I excel not only in technical domains like Data Structures and Object-Oriented Programming but also in essential soft skills such as collaboration, communication, and creative problem-solving. My track record speaks of results delivered through a potent blend of expertise and adaptability, making me a valuable asset in any software engineering endeavor.",
           resumeLink:
             "https://drive.google.com/file/d/1NAdwwaXYg9utsMcT4eqGmRM29WWNBBQo/view?usp=drive_link",
           portfolio_repository:
@@ -810,7 +819,7 @@
           "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
         w = {
           title: "Contact Me",
-          profile_image_path: "animated_ashutosh.png",
+          profile_image_path: "profile-pic (1).png",
           description:
             "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Cloud and Opensource Development.",
         },
@@ -826,14 +835,14 @@
           location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
         },
         Z = { title: "", subtitle: "" };
-      var N = a(81);
+      var N = a(82);
       var S = function () {
         var e, t, a, l, n, s, i, c, o, m, d, h, C;
-        let p = [];
+        let A = [];
         g.filter(
           (e) => !(e.link.startsWith("tel") || e.link.startsWith("mailto"))
         ).forEach((e) => {
-          p.push(e.link);
+          A.push(e.link);
         });
         let E = g
             .find((e) => e.link.startsWith("mailto"))
@@ -862,12 +871,12 @@
           "@type": "Person",
           name: f.title,
           url:
-            null === A || void 0 === A || null === (l = A.og) || void 0 === l
+            null === p || void 0 === p || null === (l = p.og) || void 0 === l
               ? void 0
               : l.url,
           email: E,
           telephone: null === (n = Z) || void 0 === n ? void 0 : n.subtitle,
-          sameAs: p,
+          sameAs: A,
           jobTitle: u.title,
           worksFor: { "@type": "Organization", name: u.company },
           address: {
@@ -887,29 +896,29 @@
         return r.a.createElement(
           N.a,
           null,
-          r.a.createElement("title", null, A.title),
+          r.a.createElement("title", null, p.title),
           r.a.createElement("meta", {
             name: "description",
-            content: A.description,
+            content: p.description,
           }),
           r.a.createElement("meta", {
             property: "og:title",
             content:
-              null === A || void 0 === A || null === (d = A.og) || void 0 === d
+              null === p || void 0 === p || null === (d = p.og) || void 0 === d
                 ? void 0
                 : d.title,
           }),
           r.a.createElement("meta", {
             property: "og:type",
             content:
-              null === A || void 0 === A || null === (h = A.og) || void 0 === h
+              null === p || void 0 === p || null === (h = p.og) || void 0 === h
                 ? void 0
                 : h.type,
           }),
           r.a.createElement("meta", {
             property: "og:url",
             content:
-              null === A || void 0 === A || null === (C = A.og) || void 0 === C
+              null === p || void 0 === p || null === (C = p.og) || void 0 === C
                 ? void 0
                 : C.url,
           }),
@@ -929,7 +938,7 @@
       class H extends l.Component {
         render() {
           const e = this.props.theme,
-            t = p ? "/splash" : "home";
+            t = A ? "/splash" : "home";
           return r.a.createElement(
             C.Fade,
             { top: !0, duration: 1e3, distance: "20px" },
@@ -1068,8 +1077,8 @@
       }
       var B,
         j = H,
-        D = (a(116), a(40)),
-        L = (a(117), a(21));
+        D = (a(117), a(40)),
+        L = (a(118), a(21));
       const U = L.c.span(
         B ||
           (B = Object(D.a)([
@@ -1108,411 +1117,9 @@
           )
         );
       }
-      class z extends l.Component {
-        render() {
-          const e = this.props.theme;
-          return r.a.createElement(
-            "svg",
-            {
-              id: "b52d7e2d-d80f-4111-b6ed-d15502ee1edd",
-              "data-name": "Layer 1",
-              xmlns: "http://www.w3.org/2000/svg",
-              width: "711.1879",
-              height: "669.68268",
-              viewBox: "0 0 711.1879 669.68268",
-            },
-            r.a.createElement("title", null, "feeling_proud"),
-            r.a.createElement("polygon", {
-              points:
-                "516.326 380.018 516.326 565.013 547.27 615.443 549.625 619.279 671.722 619.279 674.189 380.018 516.326 380.018",
-              fill: "#e6e6e6",
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "516.326 380.018 516.326 565.013 547.27 615.443 549.169 380.018 516.326 380.018",
-              opacity: "0.1",
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "221.566 375.084 221.566 560.08 190.622 610.51 188.267 614.345 66.17 614.345 63.703 375.084 221.566 375.084",
-              fill: "#e6e6e6",
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "221.566 375.084 221.566 560.08 190.622 610.51 188.723 375.084 221.566 375.084",
-              opacity: "0.1",
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "711.188 371.385 711.188 382.484 47.67 382.484 47.67 366.451 109.335 334.385 656.923 334.385 711.188 371.385",
-              fill: "#e6e6e6",
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "711.188 371.385 711.188 382.484 47.67 382.484 47.67 366.451 711.188 371.385",
-              opacity: "0.1",
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "142.635 426.883 113.035 426.883 100.702 418.25 156.201 418.25 142.635 426.883",
-              fill: e.text,
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "142.635 462.649 113.035 462.649 100.702 454.016 156.201 454.016 142.635 462.649",
-              fill: e.text,
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "142.635 513.215 113.035 513.215 100.702 504.581 156.201 504.581 142.635 513.215",
-              fill: e.text,
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "142.635 563.78 113.035 563.78 100.702 555.147 156.201 555.147 142.635 563.78",
-              fill: e.text,
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "595.257 431.816 624.857 431.816 637.19 423.183 581.691 423.183 595.257 431.816",
-              fill: e.text,
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "595.257 467.582 624.857 467.582 637.19 458.949 581.691 458.949 595.257 467.582",
-              fill: e.text,
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "595.257 518.148 624.857 518.148 637.19 509.515 581.691 509.515 595.257 518.148",
-              fill: e.text,
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "595.257 568.713 624.857 568.713 637.19 560.08 581.691 560.08 595.257 568.713",
-              fill: e.text,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M859.81989,235.61493H610.63446a9.4227,9.4227,0,0,0-9.42389,9.42389V412.89655a9.4227,9.4227,0,0,0,9.42389,9.42388h94.5929l-3.54389,22.62623s-20.25281,10.75927-6.01251,11.07574,81.32764,0,81.32764,0,12.97448,0-7.59479-11.39221l-3.33362-22.30976h93.7497a9.42266,9.42266,0,0,0,9.42388-9.42388V245.03882A9.42266,9.42266,0,0,0,859.81989,235.61493Z",
-              transform: "translate(-244.40605 -115.15866)",
-              fill: e.text,
-            }),
-            r.a.createElement("rect", {
-              x: "365.82336",
-              y: "130.42445",
-              width: "249.99557",
-              height: "139.87094",
-              fill: "#f2f2f2",
-            }),
-            r.a.createElement("circle", {
-              cx: "490.82114",
-              cy: "125.99415",
-              r: "1.58225",
-              fill: "#f2f2f2",
-            }),
-            r.a.createElement("circle", {
-              cx: "490.82114",
-              cy: "294.34559",
-              r: "6.01255",
-              fill: "#f2f2f2",
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "481.452 357.952 481.452 361.117 311.202 361.117 311.202 358.585 311.436 357.952 315.632 346.56 477.971 346.56 481.452 357.952",
-              fill: e.text,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M791.37558,470.01266c-.31011,1.3259-1.481,2.72467-4.1265,4.04741-9.4935,4.74675-28.797-1.2658-28.797-1.2658s-14.87315-2.53161-14.87315-9.17706a11.86592,11.86592,0,0,1,1.30377-.77528c3.99133-2.11163,17.2253-7.32222,40.69051.22062a9.78618,9.78618,0,0,1,4.46035,2.923A4.667,4.667,0,0,1,791.37558,470.01266Z",
-              transform: "translate(-244.40605 -115.15866)",
-              fill: e.text,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M791.37558,470.01266c-11.62,4.45247-21.97744,4.78472-32.607-2.59805a23.34328,23.34328,0,0,0-13.88583-4.57268c3.99133-2.11163,17.2253-7.32222,40.69051.22062a9.78618,9.78618,0,0,1,4.46035,2.923A4.667,4.667,0,0,1,791.37558,470.01266Z",
-              transform: "translate(-244.40605 -115.15866)",
-              opacity: "0.1",
-            }),
-            r.a.createElement("ellipse", {
-              cx: "532.40017",
-              cy: "350.99016",
-              rx: "4.11385",
-              ry: "1.2658",
-              fill: "#f2f2f2",
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "481.452 357.952 481.452 361.117 311.202 361.117 311.202 358.585 311.436 357.952 481.452 357.952",
-              opacity: "0.1",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M339.06751,115.15881a8.55394,8.55394,0,0,0-4.96126,1.1083c-1.476,1.0108-2.40629,2.78162-3.35588,4.42947a52.98576,52.98576,0,0,1-14.43428,16.30464c-4.28894,3.142-9.74169,7.05966-9.00789,12.85269a17.37163,17.37163,0,0,0,2.09058,5.4255c3.9566,7.987,14.75357,14.15926,13.69156,23.27309,3.931-6.58092-1.327-9.835,2.604-16.41586,1.87205-3.134,5.12412-6.67168,7.95054-4.70353.94637.659,1.56777,1.84095,2.55314,2.41917,2.35122,1.37972,4.85259-1.258,6.93387-3.12633,7.17685-6.44263,17.383-4.7548,26.31387-2.74743,4.21624.94767,8.8473,2.191,11.33971,6.2207,3.277,5.29821-3.11344,11.02034-4.72807,17.01049a3.264,3.264,0,0,0,3.50293,4.06214c2.67975-.26434,5.8542-.481,6.01278-1.65694,3.37154.12,7.50269-.26181,8.94728-3.7725a14.76216,14.76216,0,0,0,.69252-4.29319c.5302-5.89718,3.0331-11.27719,4.69119-16.88993s2.37906-12.1905-.41909-17.1668a19.86362,19.86362,0,0,0-3.666-4.45557C379.94,117.67017,359.06259,115.136,339.06751,115.15881Z",
-              transform: "translate(-244.40605 -115.15866)",
-              fill: e.dark,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M326.54375,190.06386s3.4534,28.7784-9.20909,31.08068,11.51136,41.4409,11.51136,41.4409l57.55681,6.90682-13.81364-46.04545s-9.20909-3.45341-3.4534-26.47613S326.54375,190.06386,326.54375,190.06386Z",
-              transform: "translate(-244.40605 -115.15866)",
-              fill: "#ffb8b8",
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "47.028 569.318 51.633 632.631 75.806 632.631 68.9 569.318 47.028 569.318",
-              fill: "#ffb8b8",
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "224.303 449.6 227.756 502.552 254.233 491.041 243.872 447.298 224.303 449.6",
-              fill: "#ffb8b8",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M274.16705,442.73826s1.15113,66.7659,8.058,88.63749,5.75568,23.02272,4.60455,26.47613-2.30228,1.15114-2.30228,6.90682-2.30227,96.69544,0,104.7534-6.90681,21.87159,0,23.02272,39.13863,0,40.28977-6.90682-9.20909-9.20909-4.60454-13.81363,11.51136-98.99772,11.51136-98.99772l16.11591-65.61476,29.92954-34.53409H441.0818l19.56932,75.975s-8.058,21.87159-2.30228,21.87159,40.28977,6.90682,40.28977-18.41818S487.12725,451.94735,484.825,449.64508s1.15113-10.36023-2.30228-13.81364-43.74317-27.62727-58.70794-32.23181S387.857,393.51476,387.857,393.51476Z",
-              transform: "translate(-244.40605 -115.15866)",
-              fill: e.dark,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M498.63861,596.99051s-17.267-5.75568-25.325,11.51137-4.60454,21.87159-4.60454,21.87159,26.47613,9.20909,31.08068,4.60454c2.00333-2.00334,8.36471-2.69926,14.91273-2.84621,9.97289-.22381,12.62625-14.33323,3.20748-17.61885q-.42145-.147-.85317-.25539C507.8477,611.95529,498.63861,596.99051,498.63861,596.99051Z",
-              transform: "translate(-244.40605 -115.15866)",
-              fill: e.dark,
-            }),
-            r.a.createElement("circle", {
-              cx: "108.03826",
-              cy: "59.36486",
-              r: "34.53409",
-              fill: "#ffb8b8",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M307.55,235.53374s56.40567,11.51136,70.21931-6.90682,19.56931,51.80113,19.56931,51.80113l6.90682,73.67272-10.36023,40.28977s-54.1034,43.74318-71.37044,47.19658-43.74318,5.75569-43.74318,5.75569,8.058-127.77613,8.058-130.0784S307.55,235.53374,307.55,235.53374Z",
-              transform: "translate(-244.40605 -115.15866)",
-              fill: e.imageHighlight,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M324.70433,213.94456s-12.54979-7.18923-16.0032-.28241S273.01591,237.836,269.5625,237.836s6.90682,95.54431,2.30227,107.05567S245.38864,440.436,258.05114,447.34281s3.45341-6.90682,16.11591,10.36022,74.82385,17.267,78.27726,10.36023-27.62727-58.708-21.87159-107.05567,14.96477-115.11362,6.90682-124.32271S324.70433,213.94456,324.70433,213.94456Z",
-              transform: "translate(-244.40605 -115.15866)",
-              fill: e.dark,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M366.258,221.7201l1.60341-5.518s47.89544,15.87824,50.19772,26.23847,1.15113,82.88181-6.90682,88.63749-19.56932,14.96477-11.51136,28.7784,17.267,28.77841,24.17386,29.92954,19.56931,9.20909,16.1159,17.267-44.89431-6.90682-44.89431-6.90682-27.62727-20.72045-26.47613-52.95227S366.258,221.7201,366.258,221.7201Z",
-              transform: "translate(-244.40605 -115.15866)",
-              fill: e.dark,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M406.54771,357.55418l-27.62727,51.80113s-40.28976,41.4409-17.267,46.04545,35.68522-37.9875,35.68522-37.9875l29.92955-42.592Z",
-              transform: "translate(-244.40605 -115.15866)",
-              fill: "#ffb8b8",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M340.74981,124.19457a7.83806,7.83806,0,0,0-4.03868.78334,9.41322,9.41322,0,0,0-2.73182,3.13072,39.77267,39.77267,0,0,1-11.7501,11.524c-3.49138,2.22077-7.93014,4.98972-7.3328,9.0842a11.35949,11.35949,0,0,0,1.70182,3.8347,30.16344,30.16344,0,0,1,3.66519,18.80068l9.60011-13.954c1.52393-2.21507,4.17125-4.7155,6.47207-3.32442.77039.46577,1.27623,1.30117,2.07836,1.70985,1.914.97518,3.95021-.88912,5.64447-2.20967,5.84225-4.55361,14.15049-3.36066,21.42059-1.94187,3.43219.66981,7.20207,1.54859,9.231,4.39676,3.37169,4.73311-.149,11.5721,1.81882,17.04a5.02339,5.02339,0,0,0,2.07852-3.31717c2.74457.08484,6.1075-.185,7.28345-2.66638a9.18757,9.18757,0,0,0,.56374-3.03439c.43161-4.16809,2.46907-7.97065,3.81883-11.93769s1.93666-8.61616-.34116-12.13338a14.68107,14.68107,0,0,0-2.98426-3.14917C374.02174,125.96958,357.02664,124.17845,340.74981,124.19457Z",
-              transform: "translate(-244.40605 -115.15866)",
-              fill: e.dark,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M406.54771,237.836l10.72528,2.84686s24.95995,63.919,19.20427,107.66222-9.20909,34.53409-9.20909,34.53409-9.20909-20.72046-29.92955-16.11591Z",
-              transform: "translate(-244.40605 -115.15866)",
-              fill: e.dark,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M293.02894,739.422c-2.77592,3.77228-2.21935,9.16459-4.67828,13.15075-2.13144,3.45526-6.14837,5.26695-8.81439,8.32869a22.32616,22.32616,0,0,0-2.26617,3.25987c-2.47311,4.14255-4.4833,9.45174-2.04761,13.61641,1.95936,3.35022,6.07786,4.65961,9.855,5.552,4.77407,1.128,9.73436,2.03071,14.56354,1.16876s9.54882-3.819,11.27067-8.41239a32.50011,32.50011,0,0,1,1.2051-3.4007c2.61747-5.15294,10.82749-5.20864,13.50628-10.33,1.87466-3.584.15138-7.91623-1.57118-11.57578l-5.26109-11.1771c-1.74592-3.70919-8.82362-1.57608-12.51339-2.46492C301.46518,735.97844,296.49084,734.70126,293.02894,739.422Z",
-              transform: "translate(-244.40605 -115.15866)",
-              fill: e.dark,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M254.59773,380.5769l48.34772,74.82386s29.92954,37.98749,39.13863,20.72045-32.23181-46.04545-32.23181-46.04545L278.77159,372.519Z",
-              transform: "translate(-244.40605 -115.15866)",
-              fill: "#ffb8b8",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M278.77159,240.13828,269.5625,237.836s-18.41818,5.75568-23.02272,29.92954-1.15114,120.86931,4.60454,122.02044,28.42725-16.83663,32.05624-13.02286-7.88238-15.75554-4.429-26.11577S278.77159,240.13828,278.77159,240.13828Z",
-              transform: "translate(-244.40605 -115.15866)",
-              fill: e.dark,
-            }),
-            r.a.createElement(
-              "g",
-              {
-                id: "f3c2397c-d780-4cc6-97d8-1503d8277a2c",
-                "data-name": "Group 13",
-              },
-              r.a.createElement("rect", {
-                id: "ad41612f-86f7-46b2-a964-3a5da7bcf3cf",
-                "data-name": "Rectangle 55",
-                x: "437.40692",
-                y: "176.36275",
-                width: "29.75235",
-                height: "7.1626",
-                fill: e.imageHighlight,
-              }),
-              r.a.createElement("rect", {
-                id: "b9a0b375-cc2a-4c59-8850-661af54e4f62",
-                "data-name": "Rectangle 56",
-                x: "559.72215",
-                y: "176.36275",
-                width: "10.46842",
-                height: "7.1626",
-                fill: e.imageHighlight,
-              }),
-              r.a.createElement("rect", {
-                id: "e174c2ab-9bc5-41ec-b37c-b06fbf8a9878",
-                "data-name": "Rectangle 57",
-                x: "580.65899",
-                y: "176.36275",
-                width: "10.46842",
-                height: "7.1626",
-                fill: e.imageHighlight,
-              }),
-              r.a.createElement("rect", {
-                id: "ba2479ac-4c7d-43b4-a028-73b1e20e4002",
-                "data-name": "Rectangle 58",
-                x: "477.62768",
-                y: "176.36275",
-                width: "71.07506",
-                height: "7.1626",
-                fill: e.imageHighlight,
-              }),
-              r.a.createElement("rect", {
-                id: "ac60ef86-00f2-480b-8171-28b6fdfc1958",
-                "data-name": "Rectangle 59",
-                x: "399.94099",
-                y: "222.6442",
-                width: "29.75235",
-                height: "7.1626",
-                fill: e.imageHighlight,
-              }),
-              r.a.createElement("rect", {
-                id: "b3d8298d-cd65-487a-8b19-4cee946356e7",
-                "data-name": "Rectangle 60",
-                x: "522.25621",
-                y: "222.6442",
-                width: "10.46842",
-                height: "7.1626",
-                fill: e.imageHighlight,
-              }),
-              r.a.createElement("rect", {
-                id: "ed27f15f-f0c4-4569-8330-a6688f8e356c",
-                "data-name": "Rectangle 61",
-                x: "543.19305",
-                y: "222.6442",
-                width: "10.46842",
-                height: "7.1626",
-                fill: e.imageHighlight,
-              }),
-              r.a.createElement("rect", {
-                id: "f685c005-adaf-4d60-acda-005b037d82a6",
-                "data-name": "Rectangle 62",
-                x: "440.16176",
-                y: "222.6442",
-                width: "71.07506",
-                height: "7.1626",
-                fill: e.imageHighlight,
-              }),
-              r.a.createElement("rect", {
-                id: "eca7c7fc-83f8-48ca-a588-6606db47af3f",
-                "data-name": "Rectangle 63",
-                x: "522.80718",
-                y: "192.34088",
-                width: "29.75235",
-                height: "7.1626",
-                fill: e.imageHighlight,
-              }),
-              r.a.createElement("rect", {
-                id: "a71b5b2f-f8b9-481d-a301-5e3357e5fe42",
-                "data-name": "Rectangle 64",
-                x: "563.02795",
-                y: "192.34088",
-                width: "29.75235",
-                height: "7.1626",
-                fill: e.imageHighlight,
-              }),
-              r.a.createElement("rect", {
-                id: "abb3a25a-f854-41fc-8391-e6ad9fbe2417",
-                "data-name": "Rectangle 66",
-                x: "399.94099",
-                y: "192.34088",
-                width: "10.46842",
-                height: "7.1626",
-                fill: e.imageHighlight,
-              }),
-              r.a.createElement("rect", {
-                id: "add2b425-b775-4eb5-9c25-8c4c14f957c9",
-                "data-name": "Rectangle 67",
-                x: "420.87784",
-                y: "192.34088",
-                width: "10.46842",
-                height: "7.1626",
-                fill: e.imageHighlight,
-              }),
-              r.a.createElement("rect", {
-                id: "b7159612-3b84-4b0b-a885-612eaab04c06",
-                "data-name": "Rectangle 68",
-                x: "441.81466",
-                y: "192.34088",
-                width: "71.07506",
-                height: "7.1626",
-                fill: e.imageHighlight,
-              }),
-              r.a.createElement("rect", {
-                id: "edfc7301-4de5-47dc-80e2-1ae2da982d6d",
-                "data-name": "Rectangle 69",
-                x: "461.09859",
-                y: "207.76802",
-                width: "29.75235",
-                height: "7.1626",
-                fill: e.imageHighlight,
-              }),
-              r.a.createElement("rect", {
-                id: "e1009f91-6275-4375-80fa-0d778e331fdc",
-                "data-name": "Rectangle 70",
-                x: "420.87783",
-                y: "207.76802",
-                width: "29.75235",
-                height: "7.1626",
-                fill: e.imageHighlight,
-              }),
-              r.a.createElement("rect", {
-                id: "a060fb9f-1f1a-4862-9a69-16dd49199e18",
-                "data-name": "Rectangle 71",
-                x: "399.941",
-                y: "207.76802",
-                width: "10.46842",
-                height: "7.1626",
-                fill: e.imageHighlight,
-              }),
-              r.a.createElement("rect", {
-                id: "b6754d5f-104f-449c-b9a9-cf9ac82bf5fe",
-                "data-name": "Rectangle 73",
-                x: "582.31189",
-                y: "207.76802",
-                width: "10.46842",
-                height: "7.1626",
-                fill: e.imageHighlight,
-              }),
-              r.a.createElement("rect", {
-                id: "e6ed1ccd-2cfd-450f-a339-07df3a1ee6bb",
-                "data-name": "Rectangle 74",
-                x: "500.76841",
-                y: "207.76802",
-                width: "71.07506",
-                height: "7.1626",
-                fill: e.imageHighlight,
-              })
-            )
-          );
-        }
-      }
-      var G = z;
+      a(120);
+      var z = a(55),
+        G = a.n(z);
       function V(e) {
         const t = e.theme;
         return r.a.createElement(
@@ -1560,15 +1167,19 @@
               r.a.createElement(
                 "div",
                 { className: "greeting-image-div" },
-                r.a.createElement(G, { theme: t })
+                r.a.createElement("img", {
+                  src: G.a,
+                  alt: "Your description",
+                  style: { maxWidth: "100%", height: "auto" },
+                })
               )
             )
           )
         );
       }
-      a(65), a(119);
-      var Q = a(313),
-        F = a(311);
+      a(66), a(121);
+      var Q = a(317),
+        F = a(315);
       class P extends r.a.Component {
         render() {
           return r.a.createElement(
@@ -2291,7 +1902,7 @@
           );
         }
       }
-      class X extends l.Component {
+      class W extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -2651,7 +2262,7 @@
           );
         }
       }
-      class W extends l.Component {
+      class X extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -3848,8 +3459,8 @@
           : "FullStackImg" === e.fileName
           ? r.a.createElement(q, { theme: e.theme })
           : "CloudInfraImg" === e.fileName
-          ? r.a.createElement(X, { theme: e.theme })
-          : r.a.createElement(W, { theme: e.theme });
+          ? r.a.createElement(W, { theme: e.theme })
+          : r.a.createElement(X, { theme: e.theme });
       }
       class K extends l.Component {
         render() {
@@ -3934,7 +3545,7 @@
           r.a.createElement(_, { theme: t })
         );
       }
-      a(121);
+      a(123);
       function ee(e) {
         return r.a.createElement(
           "div",
@@ -3956,7 +3567,7 @@
           )
         );
       }
-      a(122);
+      a(124);
       function te(e) {
         let { theme: t } = e;
         window.onscroll = function () {
@@ -4017,7 +3628,7 @@
         }
       }
       var le = ae;
-      a(123), a(124);
+      a(125), a(126);
       class re extends r.a.Component {
         render() {
           const e = this.props.theme;
@@ -4288,7 +3899,7 @@
         }
       }
       var ce = ie;
-      a(125), a(126);
+      a(127), a(128);
       class oe extends l.Component {
         render() {
           const e = this.props.degree,
@@ -4421,7 +4032,7 @@
         }
       }
       var he = de;
-      a(178), a(179);
+      a(182), a(183);
       class Ce extends l.Component {
         render() {
           const e = this.props.certificate,
@@ -4487,8 +4098,8 @@
           );
         }
       }
-      var pe = Ce;
-      class Ae extends l.Component {
+      var Ae = Ce;
+      class pe extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -4511,14 +4122,14 @@
               "div",
               { className: "certs-body-div" },
               b.certifications.map((t) =>
-                r.a.createElement(pe, { certificate: t, theme: e })
+                r.a.createElement(Ae, { certificate: t, theme: e })
               )
             )
           );
         }
       }
-      var fe = Ae;
-      a(180);
+      var fe = pe;
+      a(184);
       class ge extends r.a.Component {
         render() {
           return r.a.createElement(
@@ -4871,7 +4482,7 @@
           );
         }
       }
-      a(181);
+      a(185);
       class ye extends l.Component {
         render() {
           const e = this.props.theme;
@@ -4924,7 +4535,7 @@
         }
       }
       var be = ye;
-      a(182);
+      a(186);
       class xe extends l.Component {
         render() {
           const e = this.props.experience,
@@ -5070,8 +4681,8 @@
         }
       }
       var ve = xe,
-        Me = (a(183), a(317)),
-        we = a(315);
+        Me = (a(187), a(321)),
+        we = a(319);
       class ke extends l.Component {
         render() {
           const e = this.props.theme;
@@ -5122,7 +4733,7 @@
         }
       }
       var Ze = ke;
-      a(185);
+      a(189);
       class Ne extends l.Component {
         render() {
           const e = this.props.theme;
@@ -5621,7 +5232,7 @@
       }
       var Re = Se,
         Ie = a(41),
-        He = (a(280), a(25));
+        He = (a(284), a(25));
       class Be extends l.Component {
         render() {
           const e = {
@@ -5660,7 +5271,7 @@
         }
       }
       var je = Be,
-        De = (a(281), a(31));
+        De = (a(285), a(31));
       class Le extends l.Component {
         render() {
           const e = {
@@ -5699,7 +5310,7 @@
         }
       }
       var Ue = Le;
-      a(282);
+      a(286);
       class Oe extends l.Component {
         render() {
           const e = this.props.theme;
@@ -5729,7 +5340,7 @@
         }
       }
       var ze = Oe;
-      a(283), a(284);
+      a(287), a(288);
       class Ge extends l.Component {
         render() {
           return r.a.createElement(
@@ -5771,7 +5382,7 @@
         }
       }
       var Ve = Ge,
-        Qe = a(89);
+        Qe = a(90);
       class Fe extends l.Component {
         render() {
           const e = this.props.theme;
@@ -5799,7 +5410,7 @@
         }
       }
       var Pe = Fe;
-      a(285), a(286);
+      a(289), a(290);
       class Te extends l.Component {
         render() {
           const e = this.props.pullRequest;
@@ -6004,9 +5615,9 @@
           );
         }
       }
-      var Xe = qe;
-      a(287), a(288);
-      class We extends l.Component {
+      var We = qe;
+      a(291), a(292);
+      class Xe extends l.Component {
         render() {
           const e = this.props.issue;
           var t, a;
@@ -6142,7 +5753,7 @@
           );
         }
       }
-      var Ye = We;
+      var Ye = Xe;
       class Ke extends l.Component {
         render() {
           const e = this.props.theme;
@@ -6171,7 +5782,7 @@
         }
       }
       var _e = Ke;
-      a(289);
+      a(293);
       class $e extends l.Component {
         render() {
           return r.a.createElement(
@@ -6180,7 +5791,7 @@
             r.a.createElement(j, { theme: this.props.theme }),
             r.a.createElement(Pe, { theme: this.props.theme }),
             r.a.createElement(ze, { theme: this.props.theme }),
-            r.a.createElement(Xe, { theme: this.props.theme }),
+            r.a.createElement(We, { theme: this.props.theme }),
             r.a.createElement(_e, { theme: this.props.theme }),
             r.a.createElement(ee, {
               theme: this.props.theme,
@@ -6191,7 +5802,7 @@
         }
       }
       var et = $e;
-      a(290);
+      a(294);
       function tt(e) {
         let { text: t, className: a, href: l, newTab: n, theme: s } = e;
         return r.a.createElement(
@@ -6223,7 +5834,7 @@
           )
         );
       }
-      a(291);
+      a(295);
       const at = w;
       class lt extends l.Component {
         render() {
@@ -6292,7 +5903,7 @@
         }
       }
       var rt = lt;
-      a(292);
+      a(296);
       class nt extends l.Component {
         render() {
           return r.a.createElement(
@@ -6336,7 +5947,7 @@
         }
       }
       var st = nt;
-      a(293);
+      a(297);
       function it(e) {
         let { repo: t, theme: a } = e;
         return r.a.createElement(
@@ -6408,8 +6019,8 @@
           )
         );
       }
-      var ct = a(90);
-      a(294);
+      var ct = a(91);
+      a(298);
       class ot extends l.Component {
         render() {
           const e = this.props.theme;
@@ -7159,7 +6770,7 @@
         }
       }
       var dt = mt;
-      a(295);
+      a(299);
       class ht extends l.Component {
         render() {
           const e = this.props.theme;
@@ -7213,7 +6824,7 @@
                 path: "/",
                 exact: !0,
                 render: (e) =>
-                  p
+                  A
                     ? r.a.createElement(
                         ce,
                         Object.assign({}, e, { theme: this.props.theme })
@@ -7264,7 +6875,7 @@
                     Object.assign({}, e, { theme: this.props.theme })
                   ),
               }),
-              p &&
+              A &&
                 r.a.createElement(h.b, {
                   path: "/splash",
                   render: (e) =>
@@ -7293,7 +6904,7 @@
           );
         }
       }
-      const pt = {
+      const At = {
         body: "#EDF9FE",
         text: "#001C55",
         expTxtColor: "#000a12",
@@ -7306,10 +6917,10 @@
         headerColor: "#0E6BA877",
         splashBg: "#001C55",
       };
-      var At;
+      var pt;
       const ft = Object(L.b)(
-        At ||
-          (At = Object(D.a)([
+        pt ||
+          (pt = Object(D.a)([
             "\n  *,\n  *::after,\n  *::before {\n    box-sizing: border-box;\n  }\n\n  body {\n    align-items: center;\n    background: ",
             ";\n    color: ",
             ";\n    display: flex;\n    // flex-direction: column;\n    // justify-content: center;\n    // height: 100vh;\n    // margin: 0;\n    // padding: 0;\n    font-family: BlinkMacSystemFont, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\n    transition: all 0.25s linear;\n  }",
@@ -7326,12 +6937,12 @@
       var gt = function () {
         return r.a.createElement(
           L.a,
-          { theme: pt },
+          { theme: At },
           r.a.createElement(
             r.a.Fragment,
             null,
             r.a.createElement(ft, null),
-            r.a.createElement("div", null, r.a.createElement(Ct, { theme: pt }))
+            r.a.createElement("div", null, r.a.createElement(Ct, { theme: At }))
           )
         );
       };
@@ -7342,7 +6953,7 @@
             /^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/
           )
       );
-      a(296);
+      a(300);
       const Et = new m.a();
       s.a.render(
         r.a.createElement(
@@ -7358,6 +6969,6 @@
           });
     },
   ]),
-  [[92, 1, 2]],
+  [[93, 1, 2]],
 ]);
-//# sourceMappingURL=main.b0258a15.chunk.js.map
+//# sourceMappingURL=main.8fd7da3d.chunk.js.map

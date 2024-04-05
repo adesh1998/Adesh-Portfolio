@@ -9,11 +9,11 @@ const settings = {
 const seo = {
   title: "Adesh's Portfolio",
   description:
-    "Results-driven Software Engineer with a Master's degree in Computer Science from Clemson University. Possess strong soft skills such as teamwork, communication, and problem-solving, along with hard skills in Data Structure and Object Oriented Programming.",
+    "A dynamic Software Engineer, fueled by a Master's degree in Computer Science from Clemson University. I excel not only in technical domains like Data Structures and Object-Oriented Programming but also in essential soft skills such as collaboration, communication, and creative problem-solving. My track record speaks of results delivered through a potent blend of expertise and adaptability, making me a valuable asset in any software engineering endeavor.",
   og: {
     title: "Adesh Bhosale Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    // url: "http://ashutoshhathidara.com/",
   },
 };
 
@@ -22,7 +22,7 @@ const greeting = {
   title: "Adesh Bhosale",
   logo_name: "AdeshBhosale",
   subTitle:
-    "Results-driven Software Engineer with a Master's degree in Computer Science from Clemson University. Possess strong soft skills such as teamwork, communication, and problem-solving, along with hard skills in Data Structure and Object Oriented Programming.",
+    "A dynamic Software Engineer, fueled by a Master's degree in Computer Science from Clemson University. I excel not only in technical domains like Data Structures and Object-Oriented Programming but also in essential soft skills such as collaboration, communication, and creative problem-solving. My track record speaks of results delivered through a potent blend of expertise and adaptability, making me a valuable asset in any software engineering endeavor.",
   resumeLink:
     "https://drive.google.com/file/d/1NAdwwaXYg9utsMcT4eqGmRM29WWNBBQo/view?usp=drive_link",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
@@ -745,7 +745,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "profile-pic (1).png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Cloud and Opensource Development.",
   },

@@ -5,6 +5,7 @@ import SocialMedia from "../../components/socialMedia/SocialMedia";
 import { greeting } from "../../portfolio";
 import { Fade } from "react-reveal";
 import FeelingProud from "./FeelingProud";
+import profilePic from "../../assests/images/profile-pic.png";
 
 export default function Greeting(props) {
   const theme = props.theme;
@@ -49,7 +50,15 @@ export default function Greeting(props) {
 							alt="saad sitting on table"
 							src={require("../../assests/images/feelingProud.svg")}
 						></img> */}
-            <FeelingProud theme={theme} />
+            <img
+              src={profilePic}
+              alt="Your description"
+              style={{
+                // Add any styles you need here
+                maxWidth: "100%",
+                height: "auto",
+              }}
+            />
           </div>
         </div>
       </div>
