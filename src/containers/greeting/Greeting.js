@@ -55,7 +55,7 @@ export default function Greeting(props) {
               alt="Your description"
               style={{
                 // Add any styles you need here
-                maxWidth: "100%",
+                maxWidth: "75%",
                 height: "auto",
               }}
             />

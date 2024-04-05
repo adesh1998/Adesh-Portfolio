@@ -1168,7 +1168,7 @@
                 r.a.createElement("img", {
                   src: G.a,
                   alt: "Your description",
-                  style: { maxWidth: "100%", height: "auto" },
+                  style: { maxWidth: "75%", height: "auto" },
                 })
               )
             )
@@ -6969,4 +6969,4 @@
   ]),
   [[93, 1, 2]],
 ]);
-//# sourceMappingURL=main.4736b437.chunk.js.map
+//# sourceMappingURL=main.8a03b36f.chunk.js.map
