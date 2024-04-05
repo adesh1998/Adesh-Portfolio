@@ -19,57 +19,57 @@
     },
     function (e, t, a) {
       var l = {
-        "./CISA.png": 128,
-        "./Clemson.png": 129,
-        "./Cognizant.png": 130,
-        "./Deep_learning.png": 131,
-        "./SPPU.png": 132,
-        "./Udemy.png": 133,
-        "./address_image.svg": 134,
-        "./animated_ashutosh.png": 135,
-        "./animated_logo.svg": 136,
-        "./blogs_image.svg": 137,
-        "./cloud_infrastructure.svg": 138,
-        "./codeInLogo.png": 139,
-        "./contactMail.png": 140,
-        "./coursera_logo.png": 141,
-        "./data_science.svg": 142,
-        "./deeplearning_ai_logo.png": 143,
-        "./delhivery_logo.png": 144,
-        "./developerActivity.svg": 145,
-        "./dsc_logo.png": 146,
-        "./education.svg": 147,
-        "./experience.svg": 148,
-        "./feelingProud.svg": 149,
-        "./freecopy_logo.png": 150,
-        "./fullstack.svg": 151,
-        "./gcp_logo.png": 152,
-        "./github_logo.png": 153,
-        "./googleAssistant.jpg": 154,
-        "./googleAssistant.svg": 155,
-        "./google_logo.png": 156,
-        "./ibm_logo.png": 157,
-        "./iiitk_logo.png": 158,
-        "./intel_logo.jpg": 159,
-        "./iu_logo.png": 160,
-        "./jsFramework.svg": 161,
-        "./legato_logo.png": 162,
-        "./manOnTable.svg": 163,
-        "./microsoft_logo.png": 164,
-        "./mozilla_logo.png": 165,
-        "./muffito_logo.png": 166,
-        "./nextuLogo.jpg": 167,
-        "./nptel_logo.png": 168,
-        "./portfolio.gif": 169,
-        "./programmer.svg": 170,
-        "./projects_image.svg": 171,
-        "./pwa.png": 172,
-        "./saayaHealthLogo.png": 173,
-        "./stanford_logo.png": 174,
-        "./talksCardBack.svg": 175,
-        "./talksCardBackAlt.svg": 176,
-        "./tiktok_logo.png": 177,
-        "./ui_ux_design.svg": 178,
+        "./CISA.png": 127,
+        "./Clemson.png": 128,
+        "./Cognizant.png": 129,
+        "./Deep_learning.png": 130,
+        "./SPPU.png": 131,
+        "./Udemy.png": 132,
+        "./address_image.svg": 133,
+        "./animated_ashutosh.png": 134,
+        "./animated_logo.svg": 135,
+        "./blogs_image.svg": 136,
+        "./cloud_infrastructure.svg": 137,
+        "./codeInLogo.png": 138,
+        "./contactMail.png": 139,
+        "./coursera_logo.png": 140,
+        "./data_science.svg": 141,
+        "./deeplearning_ai_logo.png": 142,
+        "./delhivery_logo.png": 143,
+        "./developerActivity.svg": 144,
+        "./dsc_logo.png": 145,
+        "./education.svg": 146,
+        "./experience.svg": 147,
+        "./feelingProud.svg": 148,
+        "./freecopy_logo.png": 149,
+        "./fullstack.svg": 150,
+        "./gcp_logo.png": 151,
+        "./github_logo.png": 152,
+        "./googleAssistant.jpg": 153,
+        "./googleAssistant.svg": 154,
+        "./google_logo.png": 155,
+        "./ibm_logo.png": 156,
+        "./iiitk_logo.png": 157,
+        "./intel_logo.jpg": 158,
+        "./iu_logo.png": 159,
+        "./jsFramework.svg": 160,
+        "./legato_logo.png": 161,
+        "./manOnTable.svg": 162,
+        "./microsoft_logo.png": 163,
+        "./mozilla_logo.png": 164,
+        "./muffito_logo.png": 165,
+        "./nextuLogo.jpg": 166,
+        "./nptel_logo.png": 167,
+        "./portfolio.gif": 168,
+        "./programmer.svg": 169,
+        "./projects_image.svg": 170,
+        "./pwa.png": 171,
+        "./saayaHealthLogo.png": 172,
+        "./stanford_logo.png": 173,
+        "./talksCardBack.svg": 174,
+        "./talksCardBackAlt.svg": 175,
+        "./tiktok_logo.png": 176,
+        "./ui_ux_design.svg": 177,
       };
       function r(e) {
         var t = n(e);
@@ -157,7 +157,7 @@
     },
     ,
     function (e, t, a) {
-      e.exports = a(299);
+      e.exports = a(298);
     },
     ,
     ,
@@ -185,7 +185,6 @@
     function (e, t, a) {},
     function (e, t, a) {},
     ,
-    function (e, t, a) {},
     function (e, t, a) {},
     ,
     function (e, t, a) {},
@@ -483,10 +482,10 @@
         r = a.n(l),
         n = a(11),
         s = a.n(n),
-        i = a(317),
-        c = a(300),
+        i = a(316),
+        c = a(299),
         o = a(19),
-        m = a(315),
+        m = a(314),
         d = (a(97), a(98), a(6)),
         h = a(5),
         C = (a(99), a(3));
@@ -1109,39 +1108,7 @@
           )
         );
       }
-      a(119);
-      function z(e) {
-        let { text: t, className: a, href: l, newTab: n, theme: s } = e;
-        return r.a.createElement(
-          "div",
-          { className: a },
-          r.a.createElement(
-            "a",
-            {
-              className: "main-button",
-              href: l,
-              target: n && "_blank",
-              style: {
-                color: s.body,
-                backgroundColor: s.text,
-                border: "solid 1px ".concat(s.text),
-              },
-              onMouseEnter: (e) =>
-                ((e, t, a) => {
-                  const l = e.target;
-                  (l.style.color = t), (l.style.backgroundColor = a);
-                })(e, s.text, s.body),
-              onMouseOut: (e) =>
-                ((e, t, a) => {
-                  const l = e.target;
-                  (l.style.color = t), (l.style.backgroundColor = a);
-                })(e, s.body, s.text),
-            },
-            t
-          )
-        );
-      }
-      class G extends l.Component {
+      class z extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -1545,8 +1512,8 @@
           );
         }
       }
-      var V = G;
-      function Q(e) {
+      var G = z;
+      function V(e) {
         const t = e.theme;
         return r.a.createElement(
           C.Fade,
@@ -1593,16 +1560,16 @@
               r.a.createElement(
                 "div",
                 { className: "greeting-image-div" },
-                r.a.createElement(V, { theme: t })
+                r.a.createElement(G, { theme: t })
               )
             )
           )
         );
       }
-      a(65), a(120);
-      var F = a(314),
-        P = a(312);
-      class T extends r.a.Component {
+      a(65), a(119);
+      var Q = a(313),
+        F = a(311);
+      class P extends r.a.Component {
         render() {
           return r.a.createElement(
             "div",
@@ -1615,12 +1582,12 @@
                 { className: "dev-icons" },
                 this.props.logos.map((e) =>
                   r.a.createElement(
-                    F.a,
+                    Q.a,
                     {
                       key: e.skillName,
                       placement: "top",
                       overlay: r.a.createElement(
-                        P.a,
+                        F.a,
                         { id: "tooltip-top" },
                         r.a.createElement("strong", null, e.skillName)
                       ),
@@ -1651,8 +1618,8 @@
           );
         }
       }
-      var J = T;
-      class q extends l.Component {
+      var T = P;
+      class J extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -2027,7 +1994,7 @@
           );
         }
       }
-      class X extends l.Component {
+      class q extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -2324,7 +2291,7 @@
           );
         }
       }
-      class W extends l.Component {
+      class X extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -2684,7 +2651,7 @@
           );
         }
       }
-      class Y extends l.Component {
+      class W extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -3875,16 +3842,16 @@
           );
         }
       }
-      function K(e) {
+      function Y(e) {
         return "DataScienceImg" === e.fileName
-          ? r.a.createElement(q, { theme: e.theme })
+          ? r.a.createElement(J, { theme: e.theme })
           : "FullStackImg" === e.fileName
-          ? r.a.createElement(X, { theme: e.theme })
+          ? r.a.createElement(q, { theme: e.theme })
           : "CloudInfraImg" === e.fileName
-          ? r.a.createElement(W, { theme: e.theme })
-          : r.a.createElement(Y, { theme: e.theme });
+          ? r.a.createElement(X, { theme: e.theme })
+          : r.a.createElement(W, { theme: e.theme });
       }
-      class _ extends l.Component {
+      class K extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -3900,7 +3867,7 @@
                   r.a.createElement(
                     "div",
                     { className: "skills-image-div" },
-                    r.a.createElement(K, { fileName: t.fileName, theme: e })
+                    r.a.createElement(Y, { fileName: t.fileName, theme: e })
                   )
                 ),
                 r.a.createElement(
@@ -3918,7 +3885,7 @@
                   r.a.createElement(
                     C.Fade,
                     { right: !0, duration: 1500 },
-                    r.a.createElement(J, { logos: t.softwareSkills })
+                    r.a.createElement(T, { logos: t.softwareSkills })
                   ),
                   r.a.createElement(
                     C.Fade,
@@ -3945,8 +3912,8 @@
           );
         }
       }
-      var $ = _;
-      function ee(e) {
+      var _ = K;
+      function $(e) {
         const t = e.theme;
         return r.a.createElement(
           "div",
@@ -3964,11 +3931,11 @@
               )
             )
           ),
-          r.a.createElement($, { theme: t })
+          r.a.createElement(_, { theme: t })
         );
       }
-      a(122);
-      function te(e) {
+      a(121);
+      function ee(e) {
         return r.a.createElement(
           "div",
           { className: "footer-div" },
@@ -3989,8 +3956,8 @@
           )
         );
       }
-      a(123);
-      function ae(e) {
+      a(122);
+      function te(e) {
         let { theme: t } = e;
         window.onscroll = function () {
           document.body.scrollTop > 30 ||
@@ -4036,22 +4003,22 @@
           })
         );
       }
-      class le extends l.Component {
+      class ae extends l.Component {
         render() {
           return r.a.createElement(
             "div",
             null,
             r.a.createElement(j, { theme: this.props.theme }),
-            r.a.createElement(Q, { theme: this.props.theme }),
+            r.a.createElement(V, { theme: this.props.theme }),
+            r.a.createElement($, { theme: this.props.theme }),
             r.a.createElement(ee, { theme: this.props.theme }),
-            r.a.createElement(te, { theme: this.props.theme }),
-            r.a.createElement(ae, { theme: this.props.theme })
+            r.a.createElement(te, { theme: this.props.theme })
           );
         }
       }
-      var re = le;
-      a(124), a(125);
-      class ne extends r.a.Component {
+      var le = ae;
+      a(123), a(124);
+      class re extends r.a.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -4289,8 +4256,8 @@
           );
         }
       }
-      var se = ne;
-      function ie(e) {
+      var ne = re;
+      function se(e) {
         return r.a.createElement(
           "div",
           { className: "logo_wrapper" },
@@ -4300,11 +4267,11 @@
               className: "screen",
               style: { backgroundColor: e.theme.splashBg },
             },
-            r.a.createElement(se, { id: "logo", theme: e.theme })
+            r.a.createElement(ne, { id: "logo", theme: e.theme })
           )
         );
       }
-      class ce extends l.Component {
+      class ie extends l.Component {
         constructor(e) {
           super(e), (this.state = { redirect: !1 });
         }
@@ -4317,12 +4284,12 @@
         render() {
           return this.state.redirect
             ? r.a.createElement(h.a, { to: "/home" })
-            : r.a.createElement(ie, { theme: this.props.theme });
+            : r.a.createElement(se, { theme: this.props.theme });
         }
       }
-      var oe = ce;
-      a(126), a(127);
-      class me extends l.Component {
+      var ce = ie;
+      a(125), a(126);
+      class oe extends l.Component {
         render() {
           const e = this.props.degree,
             t = this.props.theme;
@@ -4423,8 +4390,8 @@
           );
         }
       }
-      var de = me;
-      class he extends l.Component {
+      var me = oe;
+      class de extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -4447,15 +4414,15 @@
               "div",
               { className: "educations-body-div" },
               y.degrees.map((t) =>
-                r.a.createElement(de, { degree: t, theme: e })
+                r.a.createElement(me, { degree: t, theme: e })
               )
             )
           );
         }
       }
-      var Ce = he;
-      a(179), a(180);
-      class pe extends l.Component {
+      var he = de;
+      a(178), a(179);
+      class Ce extends l.Component {
         render() {
           const e = this.props.certificate,
             t = this.props.theme;
@@ -4520,8 +4487,8 @@
           );
         }
       }
-      var Ae = pe;
-      class fe extends l.Component {
+      var pe = Ce;
+      class Ae extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -4544,15 +4511,15 @@
               "div",
               { className: "certs-body-div" },
               b.certifications.map((t) =>
-                r.a.createElement(Ae, { certificate: t, theme: e })
+                r.a.createElement(pe, { certificate: t, theme: e })
               )
             )
           );
         }
       }
-      var ge = fe;
-      a(181);
-      class Ee extends r.a.Component {
+      var fe = Ae;
+      a(180);
+      class ge extends r.a.Component {
         render() {
           return r.a.createElement(
             "div",
@@ -4562,13 +4529,13 @@
               { className: "dev-icons" },
               this.props.logos.map((e) =>
                 r.a.createElement(
-                  F.a,
+                  Q.a,
                   {
                     key: e.siteName,
                     placement: "top",
                     style: { marginBottom: "5px" },
                     overlay: r.a.createElement(
-                      P.a,
+                      F.a,
                       { id: "tooltip-top" },
                       r.a.createElement("strong", null, e.siteName)
                     ),
@@ -4597,8 +4564,8 @@
           );
         }
       }
-      var ue = Ee;
-      class ye extends l.Component {
+      var Ee = ge;
+      class ue extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -4904,8 +4871,8 @@
           );
         }
       }
-      a(182);
-      class be extends l.Component {
+      a(181);
+      class ye extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -4924,7 +4891,7 @@
                   r.a.createElement(
                     "div",
                     { className: "heading-img-div" },
-                    r.a.createElement(ye, { theme: e })
+                    r.a.createElement(ue, { theme: e })
                   ),
                   r.a.createElement(
                     "div",
@@ -4942,23 +4909,23 @@
                       },
                       "Basic Qualification and Certifcations"
                     ),
-                    r.a.createElement(ue, { logos: u.competitiveSites })
+                    r.a.createElement(Ee, { logos: u.competitiveSites })
                   )
                 )
               ),
-              r.a.createElement(Ce, { theme: this.props.theme }),
+              r.a.createElement(he, { theme: this.props.theme }),
               b.certifications.length > 0
-                ? r.a.createElement(ge, { theme: this.props.theme })
+                ? r.a.createElement(fe, { theme: this.props.theme })
                 : null
             ),
-            r.a.createElement(te, { theme: this.props.theme }),
-            r.a.createElement(ae, { theme: this.props.theme })
+            r.a.createElement(ee, { theme: this.props.theme }),
+            r.a.createElement(te, { theme: this.props.theme })
           );
         }
       }
-      var xe = be;
-      a(183);
-      class ve extends l.Component {
+      var be = ye;
+      a(182);
+      class xe extends l.Component {
         render() {
           const e = this.props.experience,
             t = this.props.index,
@@ -5102,21 +5069,21 @@
           );
         }
       }
-      var Me = ve,
-        we = (a(184), a(318)),
-        ke = a(316);
-      class Ze extends l.Component {
+      var ve = xe,
+        Me = (a(183), a(317)),
+        we = a(315);
+      class ke extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
             "div",
             { className: "experience-accord" },
             r.a.createElement(
-              we.a,
+              Me.a,
               null,
               this.props.sections.map((t) =>
                 r.a.createElement(
-                  ke.a,
+                  we.a,
                   {
                     className: "accord-panel",
                     title: t.title,
@@ -5141,7 +5108,7 @@
                     },
                   },
                   t.experiences.map((a, l) =>
-                    r.a.createElement(Me, {
+                    r.a.createElement(ve, {
                       index: l,
                       totalCards: t.experiences.length,
                       experience: a,
@@ -5154,9 +5121,9 @@
           );
         }
       }
-      var Ne = Ze;
-      a(186);
-      class Se extends l.Component {
+      var Ze = ke;
+      a(185);
+      class Ne extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -5591,7 +5558,7 @@
           );
         }
       }
-      class Re extends l.Component {
+      class Se extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -5610,7 +5577,7 @@
                   r.a.createElement(
                     "div",
                     { className: "experience-heading-img-div" },
-                    r.a.createElement(Se, { theme: e })
+                    r.a.createElement(Ne, { theme: e })
                   ),
                   r.a.createElement(
                     "div",
@@ -5643,25 +5610,25 @@
                 )
               )
             ),
-            r.a.createElement(Ne, { sections: x.sections, theme: e }),
-            r.a.createElement(te, {
+            r.a.createElement(Ze, { sections: x.sections, theme: e }),
+            r.a.createElement(ee, {
               theme: this.props.theme,
               onToggle: this.props.onToggle,
             }),
-            r.a.createElement(ae, { theme: this.props.theme })
+            r.a.createElement(te, { theme: this.props.theme })
           );
         }
       }
-      var He = Re,
-        Ie = a(41),
-        Be = (a(281), a(25));
-      class je extends l.Component {
+      var Re = Se,
+        He = a(41),
+        Ie = (a(280), a(25));
+      class Be extends l.Component {
         render() {
           const e = {
             labels: ["Open", "Merged", "Closed"],
             datasets: [
               {
-                data: [Be.open, Be.merged, Be.closed],
+                data: [Ie.open, Ie.merged, Ie.closed],
                 backgroundColor: ["#28a745", "#6f42c1", "#d73a49"],
                 hoverBackgroundColor: ["#28a745dd", "#6f42c1dd", "#d73a49dd"],
               },
@@ -5679,7 +5646,7 @@
                 "Pull Request Distribution"
               )
             ),
-            r.a.createElement(Ie.Doughnut, {
+            r.a.createElement(He.Doughnut, {
               data: e,
               options: {
                 padding: "0",
@@ -5692,15 +5659,15 @@
           );
         }
       }
-      var De = je,
-        Le = (a(282), a(31));
-      class Ue extends l.Component {
+      var je = Be,
+        De = (a(281), a(31));
+      class Le extends l.Component {
         render() {
           const e = {
             labels: ["Open", "Closed"],
             datasets: [
               {
-                data: [Le.open, Le.closed],
+                data: [De.open, De.closed],
                 backgroundColor: ["#28a745", "#d73a49"],
                 hoverBackgroundColor: ["#28a745dd", "#d73a49dd"],
               },
@@ -5718,7 +5685,7 @@
                 "Issue Distribution"
               )
             ),
-            r.a.createElement(Ie.Doughnut, {
+            r.a.createElement(He.Doughnut, {
               data: e,
               options: {
                 margin: "0",
@@ -5731,9 +5698,9 @@
           );
         }
       }
-      var Oe = Ue;
-      a(283);
-      class ze extends l.Component {
+      var Ue = Le;
+      a(282);
+      class Oe extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -5755,15 +5722,15 @@
             r.a.createElement(
               "div",
               { className: "os-charts-body-div" },
-              r.a.createElement(De, null),
-              r.a.createElement(Oe, null)
+              r.a.createElement(je, null),
+              r.a.createElement(Ue, null)
             )
           );
         }
       }
-      var Ge = ze;
-      a(284), a(285);
-      class Ve extends l.Component {
+      var ze = Oe;
+      a(283), a(284);
+      class Ge extends l.Component {
         render() {
           return r.a.createElement(
             "div",
@@ -5773,13 +5740,13 @@
               { className: "dev-icons-orgs" },
               this.props.logos.map((e) =>
                 r.a.createElement(
-                  F.a,
+                  Q.a,
                   {
                     key: e.login,
                     placement: "top",
                     style: { marginBottom: "5px" },
                     overlay: r.a.createElement(
-                      P.a,
+                      F.a,
                       { id: "tooltip-top" },
                       r.a.createElement("strong", null, e.login)
                     ),
@@ -5803,9 +5770,9 @@
           );
         }
       }
-      var Qe = Ve,
-        Fe = a(89);
-      class Pe extends l.Component {
+      var Ve = Ge,
+        Qe = a(89);
+      class Fe extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -5827,13 +5794,13 @@
                 )
               )
             ),
-            r.a.createElement(Qe, { logos: Fe.data })
+            r.a.createElement(Ve, { logos: Qe.data })
           );
         }
       }
-      var Te = Pe;
-      a(286), a(287);
-      class Je extends l.Component {
+      var Pe = Fe;
+      a(285), a(286);
+      class Te extends l.Component {
         render() {
           const e = this.props.pullRequest;
           var t, a;
@@ -5859,13 +5826,13 @@
           if (null !== e.mergedBy) {
             const t = e.mergedBy.login;
             l = r.a.createElement(
-              F.a,
+              Q.a,
               {
                 key: t,
                 placement: "top",
                 style: { marginBottom: "5px" },
                 overlay: r.a.createElement(
-                  P.a,
+                  F.a,
                   { id: "tooltip-top" },
                   r.a.createElement("strong", null, "Merged by ".concat(t))
                 ),
@@ -6006,8 +5973,8 @@
           );
         }
       }
-      var qe = Je;
-      class Xe extends l.Component {
+      var Je = Te;
+      class qe extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -6032,14 +5999,14 @@
             r.a.createElement(
               "div",
               { className: "pull-request-body-div" },
-              Be.data.map((e) => r.a.createElement(qe, { pullRequest: e }))
+              Ie.data.map((e) => r.a.createElement(Je, { pullRequest: e }))
             )
           );
         }
       }
-      var We = Xe;
-      a(288), a(289);
-      class Ye extends l.Component {
+      var Xe = qe;
+      a(287), a(288);
+      class We extends l.Component {
         render() {
           const e = this.props.issue;
           var t, a;
@@ -6059,13 +6026,13 @@
           if (e.assignees.nodes.length > 0) {
             const t = e.assignees.nodes[0].name;
             l = r.a.createElement(
-              F.a,
+              Q.a,
               {
                 key: t,
                 placement: "top",
                 style: { marginBottom: "5px" },
                 overlay: r.a.createElement(
-                  P.a,
+                  F.a,
                   { id: "tooltip-top" },
                   r.a.createElement("strong", null, "Assigned to ".concat(t))
                 ),
@@ -6175,8 +6142,8 @@
           );
         }
       }
-      var Ke = Ye;
-      class _e extends l.Component {
+      var Ye = We;
+      class Ke extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -6198,34 +6165,64 @@
             r.a.createElement(
               "div",
               { className: "issues-body-div" },
-              Le.data.map((e) => r.a.createElement(Ke, { issue: e }))
+              De.data.map((e) => r.a.createElement(Ye, { issue: e }))
             )
           );
         }
       }
-      var $e = _e;
-      a(290);
-      class et extends l.Component {
+      var _e = Ke;
+      a(289);
+      class $e extends l.Component {
         render() {
           return r.a.createElement(
             "div",
             { className: "opensource-main" },
             r.a.createElement(j, { theme: this.props.theme }),
-            r.a.createElement(Te, { theme: this.props.theme }),
-            r.a.createElement(Ge, { theme: this.props.theme }),
-            r.a.createElement(We, { theme: this.props.theme }),
-            r.a.createElement($e, { theme: this.props.theme }),
-            r.a.createElement(te, {
+            r.a.createElement(Pe, { theme: this.props.theme }),
+            r.a.createElement(ze, { theme: this.props.theme }),
+            r.a.createElement(Xe, { theme: this.props.theme }),
+            r.a.createElement(_e, { theme: this.props.theme }),
+            r.a.createElement(ee, {
               theme: this.props.theme,
               onToggle: this.props.onToggle,
             }),
-            r.a.createElement(ae, { theme: this.props.theme })
+            r.a.createElement(te, { theme: this.props.theme })
           );
         }
       }
-      var tt = et;
-      l.Component;
-      l.Component;
+      var et = $e;
+      a(290);
+      function tt(e) {
+        let { text: t, className: a, href: l, newTab: n, theme: s } = e;
+        return r.a.createElement(
+          "div",
+          { className: a },
+          r.a.createElement(
+            "a",
+            {
+              className: "main-button",
+              href: l,
+              target: n && "_blank",
+              style: {
+                color: s.body,
+                backgroundColor: s.text,
+                border: "solid 1px ".concat(s.text),
+              },
+              onMouseEnter: (e) =>
+                ((e, t, a) => {
+                  const l = e.target;
+                  (l.style.color = t), (l.style.backgroundColor = a);
+                })(e, s.text, s.body),
+              onMouseOut: (e) =>
+                ((e, t, a) => {
+                  const l = e.target;
+                  (l.style.color = t), (l.style.backgroundColor = a);
+                })(e, s.body, s.text),
+            },
+            t
+          )
+        );
+      }
       a(291);
       const at = w;
       class lt extends l.Component {
@@ -6275,7 +6272,7 @@
                     r.a.createElement(
                       "div",
                       { className: "resume-btn-div" },
-                      r.a.createElement(z, {
+                      r.a.createElement(tt, {
                         text: "See My Resume",
                         newTab: !0,
                         href: f.resumeLink,
@@ -6286,11 +6283,11 @@
                 )
               )
             ),
-            r.a.createElement(te, {
+            r.a.createElement(ee, {
               theme: this.props.theme,
               onToggle: this.props.onToggle,
             }),
-            r.a.createElement(ae, { theme: this.props.theme })
+            r.a.createElement(te, { theme: this.props.theme })
           );
         }
       }
@@ -6309,12 +6306,12 @@
                 { className: "dev-icons-languages" },
                 this.props.logos.map((e) =>
                   r.a.createElement(
-                    F.a,
+                    Q.a,
                     {
                       key: e.name,
                       placement: "top",
                       overlay: r.a.createElement(
-                        P.a,
+                        F.a,
                         { id: "tooltip-top" },
                         r.a.createElement("strong", null, e.name)
                       ),
@@ -6411,9 +6408,8 @@
           )
         );
       }
-      a(294);
       var ct = a(90);
-      a(295);
+      a(294);
       class ot extends l.Component {
         render() {
           const e = this.props.theme;
@@ -7147,23 +7143,23 @@
               { className: "repo-cards-div-main" },
               ct.data.map((t) => r.a.createElement(it, { repo: t, theme: e }))
             ),
-            r.a.createElement(z, {
+            r.a.createElement(tt, {
               text: "More Projects",
               className: "project-button",
               href: f.githubProfile,
               newTab: !0,
               theme: e,
             }),
-            r.a.createElement(te, {
+            r.a.createElement(ee, {
               theme: this.props.theme,
               onToggle: this.props.onToggle,
             }),
-            r.a.createElement(ae, { theme: this.props.theme })
+            r.a.createElement(te, { theme: this.props.theme })
           );
         }
       }
       var dt = mt;
-      a(296);
+      a(295);
       class ht extends l.Component {
         render() {
           const e = this.props.theme;
@@ -7200,8 +7196,8 @@
                 )
               )
             ),
-            r.a.createElement(te, { theme: this.props.theme }),
-            r.a.createElement(ae, { theme: this.props.theme })
+            r.a.createElement(ee, { theme: this.props.theme }),
+            r.a.createElement(te, { theme: this.props.theme })
           );
         }
       }
@@ -7219,11 +7215,11 @@
                 render: (e) =>
                   p
                     ? r.a.createElement(
-                        oe,
+                        ce,
                         Object.assign({}, e, { theme: this.props.theme })
                       )
                     : r.a.createElement(
-                        re,
+                        le,
                         Object.assign({}, e, { theme: this.props.theme })
                       ),
               }),
@@ -7231,7 +7227,7 @@
                 path: "/home",
                 render: (e) =>
                   r.a.createElement(
-                    re,
+                    le,
                     Object.assign({}, e, { theme: this.props.theme })
                   ),
               }),
@@ -7240,7 +7236,7 @@
                 exact: !0,
                 render: (e) =>
                   r.a.createElement(
-                    He,
+                    Re,
                     Object.assign({}, e, { theme: this.props.theme })
                   ),
               }),
@@ -7248,7 +7244,7 @@
                 path: "/education",
                 render: (e) =>
                   r.a.createElement(
-                    xe,
+                    be,
                     Object.assign({}, e, { theme: this.props.theme })
                   ),
               }),
@@ -7256,7 +7252,7 @@
                 path: "/opensource",
                 render: (e) =>
                   r.a.createElement(
-                    tt,
+                    et,
                     Object.assign({}, e, { theme: this.props.theme })
                   ),
               }),
@@ -7273,7 +7269,7 @@
                   path: "/splash",
                   render: (e) =>
                     r.a.createElement(
-                      oe,
+                      ce,
                       Object.assign({}, e, { theme: this.props.theme })
                     ),
                 }),
@@ -7346,7 +7342,7 @@
             /^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/
           )
       );
-      a(297);
+      a(296);
       const Et = new m.a();
       s.a.render(
         r.a.createElement(
@@ -7364,4 +7360,4 @@
   ]),
   [[92, 1, 2]],
 ]);
-//# sourceMappingURL=main.c0ef6119.chunk.js.map
+//# sourceMappingURL=main.9ef2163c.chunk.js.map
