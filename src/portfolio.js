@@ -13,7 +13,6 @@ const seo = {
   og: {
     title: "Adesh Bhosale Portfolio",
     type: "website",
-    // url: "http://ashutoshhathidara.com/",
   },
 };
 
@@ -25,20 +24,11 @@ const greeting = {
     "A dynamic Software Engineer, fueled by a Master's degree in Computer Science from Clemson University. I excel not only in technical domains like Data Structures and Object-Oriented Programming but also in essential soft skills such as collaboration, communication, and creative problem-solving. My track record speaks of results delivered through a potent blend of expertise and adaptability, making me a valuable asset in any software engineering endeavor.",
   resumeLink:
     "https://drive.google.com/file/d/1NAdwwaXYg9utsMcT4eqGmRM29WWNBBQo/view?usp=drive_link",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+  portfolio_repository: "https://github.com/adesh1998/Adesh-Portfolio",
   githubProfile: "https://github.com/adesh1998",
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
-
   {
     name: "Github",
     link: "https://github.com/adesh1998",
@@ -57,24 +47,6 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
-  // {
-  //   name: "X-Twitter",
-  //   link: "https://twitter.com/ashutosh_1919",
-  //   fontAwesomeIcon: "fa-x-twitter", // Reference https://fontawesome.com/icons/x-twitter?f=brands&s=solid
-  //   backgroundColor: "#000000", // Reference https://simpleicons.org/?q=x
-  // },
-  // {
-  //   name: "Facebook",
-  //   link: "https://www.facebook.com/laymanbrother.19/",
-  //   fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-  //   backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
-  // },
-  // {
-  //   name: "Instagram",
-  //   link: "https://www.instagram.com/layman_brother/",
-  //   fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-  //   backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
-  // },
 ];
 
 const skills = {
