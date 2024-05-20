@@ -108,6 +108,7 @@ const query_specific_projects = {
           name
           description
           url
+          homepageUrl
           createdAt
           primaryLanguage {
             name
@@ -123,6 +124,7 @@ const query_specific_projects = {
           name
           description
           url
+          homepageUrl
           createdAt
           primaryLanguage {
             name
@@ -138,6 +140,7 @@ const query_specific_projects = {
           name
           description
           url
+          homepageUrl
           createdAt
           primaryLanguage {
             name
@@ -153,6 +156,7 @@ const query_specific_projects = {
           name
           description
           url
+          homepageUrl
           createdAt
           primaryLanguage {
             name
@@ -163,11 +167,12 @@ const query_specific_projects = {
             }
           }
         }
-        repository5: repository(name: "DATA_MINING_PROJECT") {
+        repository5: repository(name: "Angular-BankManagement") {
           id
           name
           description
           url
+          homepageUrl
           createdAt
           primaryLanguage {
             name
@@ -183,6 +188,7 @@ const query_specific_projects = {
           name
           description
           url
+          homepageUrl
           createdAt
           primaryLanguage {
             name

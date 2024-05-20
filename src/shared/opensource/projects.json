@@ -5,6 +5,7 @@
       "name": "Adesh-Portfolio",
       "description": null,
       "url": "https://github.com/adesh1998/Adesh-Portfolio",
+      "homepageUrl": "https://adeshbhosaleport.netlify.app",
       "createdAt": "2024-04-04T20:23:29Z",
       "primaryLanguage": {
         "name": "JavaScript"
@@ -33,11 +34,16 @@
       "name": "Ecommerce",
       "description": null,
       "url": "https://github.com/adesh1998/Ecommerce",
+      "homepageUrl": null,
       "createdAt": "2023-12-30T16:19:31Z",
       "primaryLanguage": {
         "name": "JavaScript"
       },
       "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        },
         {
           "name": "HTML",
           "iconifyClass": "logos-html-5"
@@ -57,6 +63,7 @@
       "name": "TitleTrek-Image-Edition",
       "description": null,
       "url": "https://github.com/adesh1998/TitleTrek-Image-Edition",
+      "homepageUrl": "https://adesh1998.github.io/TitleTrek-Image-Edition/",
       "createdAt": "2023-10-19T18:14:25Z",
       "primaryLanguage": {
         "name": "JavaScript"
@@ -81,6 +88,7 @@
       "name": "CPSC-6620-PIZZA-R-US",
       "description": null,
       "url": "https://github.com/adesh1998/CPSC-6620-PIZZA-R-US",
+      "homepageUrl": null,
       "createdAt": "2023-03-30T04:15:56Z",
       "primaryLanguage": {
         "name": "Java"
@@ -93,18 +101,27 @@
       ]
     },
     {
-      "id": "R_kgDOJZ447g",
-      "name": "DATA_MINING_PROJECT",
+      "id": "MDEwOlJlcG9zaXRvcnkzNjQ1NDIzMDU=",
+      "name": "Angular-BankManagement",
       "description": null,
-      "url": "https://github.com/adesh1998/DATA_MINING_PROJECT",
-      "createdAt": "2023-04-22T02:39:11Z",
+      "url": "https://github.com/adesh1998/Angular-BankManagement",
+      "homepageUrl": "https://main--bankmanagementangular.netlify.app/",
+      "createdAt": "2021-05-05T10:40:15Z",
       "primaryLanguage": {
-        "name": "Jupyter Notebook"
+        "name": "TypeScript"
       },
       "languages": [
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
         }
       ]
     },
@@ -113,6 +130,7 @@
       "name": "DV-Uk-traffic-accident-visualization",
       "description": null,
       "url": "https://github.com/adesh1998/DV-Uk-traffic-accident-visualization",
+      "homepageUrl": "https://adesh1998.github.io/DV-Uk-traffic-accident-visualization/",
       "createdAt": "2022-10-27T03:33:16Z",
       "primaryLanguage": {
         "name": "JavaScript"

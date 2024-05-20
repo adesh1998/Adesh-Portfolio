@@ -52,50 +52,6 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
-      fileName: "DataScienceImg",
-      skills: [
-        "⚡ Developing highly scalable production-ready models for diverse deep learning and statistical applications",
-        "⚡ Experience in quantitative modeling techniques for dynamic forecasting and time series analysis, utilizing Python, R, and deep learning frameworks to tackle real-world challenges ",
-      ],
-      softwareSkills: [
-        // {
-        //   skillName: "Tensorflow",
-        //   fontAwesomeClassname: "logos-tensorflow",
-        //   style: {
-        //     backgroundColor: "transparent",
-        //   },
-        // },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
-        },
-      ],
-    },
-    {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
@@ -188,6 +144,50 @@ const skills = {
         //     color: "#02569B",
         //   },
         // },
+      ],
+    },
+    {
+      title: "Data Science & AI",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Developing highly scalable production-ready models for diverse deep learning and statistical applications",
+        "⚡ Experience in quantitative modeling techniques for dynamic forecasting and time series analysis, utilizing Python, R, and deep learning frameworks to tackle real-world challenges ",
+      ],
+      softwareSkills: [
+        // {
+        //   skillName: "Tensorflow",
+        //   fontAwesomeClassname: "logos-tensorflow",
+        //   style: {
+        //     backgroundColor: "transparent",
+        //   },
+        // },
+        {
+          skillName: "Keras",
+          fontAwesomeClassname: "simple-icons:keras",
+          style: {
+            backgroundColor: "white",
+            color: "#D00000",
+          },
+        },
+        {
+          skillName: "PyTorch",
+          fontAwesomeClassname: "logos-pytorch",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "ion-logo-python",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Deeplearning",
+          imageSrc: "deeplearning_ai_logo.png",
+        },
       ],
     },
     {

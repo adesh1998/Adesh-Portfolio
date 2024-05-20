@@ -2,6 +2,31 @@
   "closed": 3,
   "data": [
     {
+      "id": "PR_kwDOLp9X5c5sTUmQ",
+      "title": "updated index page",
+      "url": "https://github.com/adesh1998/Adesh-Portfolio/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50673082?v=4",
+        "url": "https://github.com/adesh1998",
+        "login": "adesh1998"
+      },
+      "createdAt": "2024-04-11T00:14:00Z",
+      "number": 1,
+      "changedFiles": 6,
+      "additions": 18,
+      "deletions": 12,
+      "baseRepository": {
+        "name": "Adesh-Portfolio",
+        "url": "https://github.com/adesh1998/Adesh-Portfolio",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/50673082?v=4",
+          "login": "adesh1998",
+          "url": "https://github.com/adesh1998"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOJoOK7c5gmHqX",
       "title": "Added inverse of matrix in  R",
       "url": "https://github.com/codinasion/codinasion/pull/4765",
@@ -290,7 +315,7 @@
       }
     }
   ],
-  "merged": 9,
+  "merged": 10,
   "open": 0,
-  "totalCount": 12
+  "totalCount": 13
 }

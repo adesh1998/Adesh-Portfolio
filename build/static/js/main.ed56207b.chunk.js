@@ -4,7 +4,7 @@
   Array(25).concat([
     function (e) {
       e.exports = JSON.parse(
-        '{"closed":3,"data":[{"id":"PR_kwDOJoOK7c5gmHqX","title":"Added inverse of matrix in  R","url":"https://github.com/codinasion/codinasion/pull/4765","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/54644599?u=d4ff768cfe85c0cd4ad1318dbb428a66d7cf4bea&v=4","url":"https://github.com/harshraj8843","login":"harshraj8843"},"createdAt":"2023-11-28T20:00:47Z","number":4765,"changedFiles":1,"additions":39,"deletions":0,"baseRepository":{"name":"codinasion","url":"https://github.com/codinasion/codinasion","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/98682602?v=4","login":"codinasion","url":"https://github.com/codinasion"}}},{"id":"PR_kwDOJoOK7c5gg8GQ","title":"Added String Consonantcase perl","url":"https://github.com/codinasion/codinasion/pull/4760","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/54644599?u=d4ff768cfe85c0cd4ad1318dbb428a66d7cf4bea&v=4","url":"https://github.com/harshraj8843","login":"harshraj8843"},"createdAt":"2023-11-28T05:48:37Z","number":4760,"changedFiles":1,"additions":16,"deletions":0,"baseRepository":{"name":"codinasion","url":"https://github.com/codinasion/codinasion","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/98682602?v=4","login":"codinasion","url":"https://github.com/codinasion"}}},{"id":"PR_kwDOJoOK7c5gg7el","title":"Added String consonantcase r","url":"https://github.com/codinasion/codinasion/pull/4759","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/54644599?u=d4ff768cfe85c0cd4ad1318dbb428a66d7cf4bea&v=4","url":"https://github.com/harshraj8843","login":"harshraj8843"},"createdAt":"2023-11-28T05:45:39Z","number":4759,"changedFiles":1,"additions":12,"deletions":0,"baseRepository":{"name":"codinasion","url":"https://github.com/codinasion/codinasion","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/98682602?v=4","login":"codinasion","url":"https://github.com/codinasion"}}},{"id":"PR_kwDOJoOK7c5gg3ja","title":"Convert string to consonantcase in R","url":"https://github.com/codinasion/codinasion/pull/4758","state":"CLOSED","mergedBy":null,"createdAt":"2023-11-28T05:27:08Z","number":4758,"changedFiles":1,"additions":12,"deletions":0,"baseRepository":{"name":"codinasion","url":"https://github.com/codinasion/codinasion","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/98682602?v=4","login":"codinasion","url":"https://github.com/codinasion"}}},{"id":"PR_kwDOGWQ7G85gSJ_f","title":"Added button for sign up page","url":"https://github.com/KwickerHub/WebCraftifyAI/pull/880","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/60122117?u=ffc7d9083dbee33254f38b9b9ed4f324ebe17dbc&v=4","url":"https://github.com/NtemKenyor","login":"NtemKenyor"},"createdAt":"2023-11-24T07:43:05Z","number":880,"changedFiles":1,"additions":42,"deletions":0,"baseRepository":{"name":"WebCraftifyAI","url":"https://github.com/KwickerHub/WebCraftifyAI","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/93937658?v=4","login":"KwickerHub","url":"https://github.com/KwickerHub"}}},{"id":"PR_kwDOCIsEO85gRHJY","title":"Added delete function for order table","url":"https://github.com/mindsdb/mindsdb/pull/8424","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/109554435?v=4","url":"https://github.com/martyna-mindsdb","login":"martyna-mindsdb"},"createdAt":"2023-11-24T01:10:08Z","number":8424,"changedFiles":2,"additions":48,"deletions":0,"baseRepository":{"name":"mindsdb","url":"https://github.com/mindsdb/mindsdb","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31035808?v=4","login":"mindsdb","url":"https://github.com/mindsdb"}}},{"id":"PR_kwDOKSkx5M5f-sdX","title":"Hide password when signing up","url":"https://github.com/prasenjeet-symon/intellectia/pull/222","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/70169921?u=039cf52b78e3ce9007698f9296f18f98b1bed3aa&v=4","url":"https://github.com/prasenjeet-symon","login":"prasenjeet-symon"},"createdAt":"2023-11-21T05:44:46Z","number":222,"changedFiles":1,"additions":1,"deletions":1,"baseRepository":{"name":"intellectia","url":"https://github.com/prasenjeet-symon/intellectia","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/70169921?u=039cf52b78e3ce9007698f9296f18f98b1bed3aa&v=4","login":"prasenjeet-symon","url":"https://github.com/prasenjeet-symon"}}},{"id":"PR_kwDOKCIogc5f1NDx","title":"Added New Game Entry: Super Mario Odyssey","url":"https://github.com/DoonOnthon/GamePulse/pull/22","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/73943064?u=c4b3a76f31f6c40ecfc504c610849fb81bc50c52&v=4","url":"https://github.com/DoonOnthon","login":"DoonOnthon"},"createdAt":"2023-11-19T03:10:16Z","number":22,"changedFiles":1,"additions":7,"deletions":0,"baseRepository":{"name":"GamePulse","url":"https://github.com/DoonOnthon/GamePulse","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/73943064?u=c4b3a76f31f6c40ecfc504c610849fb81bc50c52&v=4","login":"DoonOnthon","url":"https://github.com/DoonOnthon"}}},{"id":"PR_kwDOGWQ7G85flzAE","title":"Adding web design 151 under text_on_image","url":"https://github.com/KwickerHub/WebCraftifyAI/pull/702","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/60122117?u=ffc7d9083dbee33254f38b9b9ed4f324ebe17dbc&v=4","url":"https://github.com/NtemKenyor","login":"NtemKenyor"},"createdAt":"2023-11-16T06:01:32Z","number":702,"changedFiles":2,"additions":106,"deletions":0,"baseRepository":{"name":"WebCraftifyAI","url":"https://github.com/KwickerHub/WebCraftifyAI","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/93937658?v=4","login":"KwickerHub","url":"https://github.com/KwickerHub"}}},{"id":"PR_kwDOKcVlZM5flU1S","title":"Added SQL AI Tool","url":"https://github.com/Hyraze/ai-collective-tools/pull/86","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/10241082?u=7e748bc06ba5bf1e59f5cc0efd15d44842fa1f55&v=4","url":"https://github.com/Hyraze","login":"Hyraze"},"createdAt":"2023-11-16T03:29:56Z","number":86,"changedFiles":1,"additions":1,"deletions":0,"baseRepository":{"name":"ai-collective-tools","url":"https://github.com/Hyraze/ai-collective-tools","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/10241082?u=7e748bc06ba5bf1e59f5cc0efd15d44842fa1f55&v=4","login":"Hyraze","url":"https://github.com/Hyraze"}}},{"id":"PR_kwDOA8iScc5em6eW","title":"Duplicate implementation found in data_struture/binary_tree/binary_search_tree_recursive.py Fixes: #8098","url":"https://github.com/TheAlgorithms/Python/pull/11142","state":"CLOSED","mergedBy":null,"createdAt":"2023-11-05T01:15:48Z","number":11142,"changedFiles":1,"additions":0,"deletions":294,"baseRepository":{"name":"Python","url":"https://github.com/TheAlgorithms/Python","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/20487725?v=4","login":"TheAlgorithms","url":"https://github.com/TheAlgorithms"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzA4Mzg3MzE4","title":"adesh submission:fruit_classification","url":"https://github.com/ai-techsystems/internShowcase/pull/144","state":"CLOSED","mergedBy":null,"createdAt":"2019-08-18T19:20:00Z","number":144,"changedFiles":1,"additions":1,"deletions":0,"baseRepository":{"name":"internShowcase","url":"https://github.com/ai-techsystems/internShowcase","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/51919821?v=4","login":"ai-techsystems","url":"https://github.com/ai-techsystems"}}}],"merged":9,"open":0,"totalCount":12}'
+        '{"data":[{"id":"PR_kwDOLp9X5c5sTUmQ","title":"updated index page","url":"https://github.com/adesh1998/Adesh-Portfolio/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/50673082?v=4","url":"https://github.com/adesh1998","login":"adesh1998"},"createdAt":"2024-04-11T00:14:00Z","number":1,"changedFiles":6,"additions":18,"deletions":12,"baseRepository":{"name":"Adesh-Portfolio","url":"https://github.com/adesh1998/Adesh-Portfolio","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/50673082?v=4","login":"adesh1998","url":"https://github.com/adesh1998"}}},{"id":"PR_kwDOJoOK7c5gmHqX","title":"Added inverse of matrix in  R","url":"https://github.com/codinasion/codinasion/pull/4765","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/54644599?u=d4ff768cfe85c0cd4ad1318dbb428a66d7cf4bea&v=4","url":"https://github.com/harshraj8843","login":"harshraj8843"},"createdAt":"2023-11-28T20:00:47Z","number":4765,"changedFiles":1,"additions":39,"deletions":0,"baseRepository":{"name":"codinasion","url":"https://github.com/codinasion/codinasion","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/98682602?v=4","login":"codinasion","url":"https://github.com/codinasion"}}},{"id":"PR_kwDOJoOK7c5gg8GQ","title":"Added String Consonantcase perl","url":"https://github.com/codinasion/codinasion/pull/4760","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/54644599?u=d4ff768cfe85c0cd4ad1318dbb428a66d7cf4bea&v=4","url":"https://github.com/harshraj8843","login":"harshraj8843"},"createdAt":"2023-11-28T05:48:37Z","number":4760,"changedFiles":1,"additions":16,"deletions":0,"baseRepository":{"name":"codinasion","url":"https://github.com/codinasion/codinasion","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/98682602?v=4","login":"codinasion","url":"https://github.com/codinasion"}}},{"id":"PR_kwDOJoOK7c5gg7el","title":"Added String consonantcase r","url":"https://github.com/codinasion/codinasion/pull/4759","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/54644599?u=d4ff768cfe85c0cd4ad1318dbb428a66d7cf4bea&v=4","url":"https://github.com/harshraj8843","login":"harshraj8843"},"createdAt":"2023-11-28T05:45:39Z","number":4759,"changedFiles":1,"additions":12,"deletions":0,"baseRepository":{"name":"codinasion","url":"https://github.com/codinasion/codinasion","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/98682602?v=4","login":"codinasion","url":"https://github.com/codinasion"}}},{"id":"PR_kwDOJoOK7c5gg3ja","title":"Convert string to consonantcase in R","url":"https://github.com/codinasion/codinasion/pull/4758","state":"CLOSED","mergedBy":null,"createdAt":"2023-11-28T05:27:08Z","number":4758,"changedFiles":1,"additions":12,"deletions":0,"baseRepository":{"name":"codinasion","url":"https://github.com/codinasion/codinasion","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/98682602?v=4","login":"codinasion","url":"https://github.com/codinasion"}}},{"id":"PR_kwDOGWQ7G85gSJ_f","title":"Added button for sign up page","url":"https://github.com/KwickerHub/WebCraftifyAI/pull/880","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/60122117?u=ffc7d9083dbee33254f38b9b9ed4f324ebe17dbc&v=4","url":"https://github.com/NtemKenyor","login":"NtemKenyor"},"createdAt":"2023-11-24T07:43:05Z","number":880,"changedFiles":1,"additions":42,"deletions":0,"baseRepository":{"name":"WebCraftifyAI","url":"https://github.com/KwickerHub/WebCraftifyAI","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/93937658?v=4","login":"KwickerHub","url":"https://github.com/KwickerHub"}}},{"id":"PR_kwDOCIsEO85gRHJY","title":"Added delete function for order table","url":"https://github.com/mindsdb/mindsdb/pull/8424","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/109554435?v=4","url":"https://github.com/martyna-mindsdb","login":"martyna-mindsdb"},"createdAt":"2023-11-24T01:10:08Z","number":8424,"changedFiles":2,"additions":48,"deletions":0,"baseRepository":{"name":"mindsdb","url":"https://github.com/mindsdb/mindsdb","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31035808?v=4","login":"mindsdb","url":"https://github.com/mindsdb"}}},{"id":"PR_kwDOKSkx5M5f-sdX","title":"Hide password when signing up","url":"https://github.com/prasenjeet-symon/intellectia/pull/222","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/70169921?u=039cf52b78e3ce9007698f9296f18f98b1bed3aa&v=4","url":"https://github.com/prasenjeet-symon","login":"prasenjeet-symon"},"createdAt":"2023-11-21T05:44:46Z","number":222,"changedFiles":1,"additions":1,"deletions":1,"baseRepository":{"name":"intellectia","url":"https://github.com/prasenjeet-symon/intellectia","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/70169921?u=039cf52b78e3ce9007698f9296f18f98b1bed3aa&v=4","login":"prasenjeet-symon","url":"https://github.com/prasenjeet-symon"}}},{"id":"PR_kwDOKCIogc5f1NDx","title":"Added New Game Entry: Super Mario Odyssey","url":"https://github.com/DoonOnthon/GamePulse/pull/22","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/73943064?u=c4b3a76f31f6c40ecfc504c610849fb81bc50c52&v=4","url":"https://github.com/DoonOnthon","login":"DoonOnthon"},"createdAt":"2023-11-19T03:10:16Z","number":22,"changedFiles":1,"additions":7,"deletions":0,"baseRepository":{"name":"GamePulse","url":"https://github.com/DoonOnthon/GamePulse","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/73943064?u=c4b3a76f31f6c40ecfc504c610849fb81bc50c52&v=4","login":"DoonOnthon","url":"https://github.com/DoonOnthon"}}},{"id":"PR_kwDOGWQ7G85flzAE","title":"Adding web design 151 under text_on_image","url":"https://github.com/KwickerHub/WebCraftifyAI/pull/702","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/60122117?u=ffc7d9083dbee33254f38b9b9ed4f324ebe17dbc&v=4","url":"https://github.com/NtemKenyor","login":"NtemKenyor"},"createdAt":"2023-11-16T06:01:32Z","number":702,"changedFiles":2,"additions":106,"deletions":0,"baseRepository":{"name":"WebCraftifyAI","url":"https://github.com/KwickerHub/WebCraftifyAI","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/93937658?v=4","login":"KwickerHub","url":"https://github.com/KwickerHub"}}},{"id":"PR_kwDOKcVlZM5flU1S","title":"Added SQL AI Tool","url":"https://github.com/Hyraze/ai-collective-tools/pull/86","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/10241082?u=7e748bc06ba5bf1e59f5cc0efd15d44842fa1f55&v=4","url":"https://github.com/Hyraze","login":"Hyraze"},"createdAt":"2023-11-16T03:29:56Z","number":86,"changedFiles":1,"additions":1,"deletions":0,"baseRepository":{"name":"ai-collective-tools","url":"https://github.com/Hyraze/ai-collective-tools","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/10241082?u=7e748bc06ba5bf1e59f5cc0efd15d44842fa1f55&v=4","login":"Hyraze","url":"https://github.com/Hyraze"}}},{"id":"PR_kwDOA8iScc5em6eW","title":"Duplicate implementation found in data_struture/binary_tree/binary_search_tree_recursive.py Fixes: #8098","url":"https://github.com/TheAlgorithms/Python/pull/11142","state":"CLOSED","mergedBy":null,"createdAt":"2023-11-05T01:15:48Z","number":11142,"changedFiles":1,"additions":0,"deletions":294,"baseRepository":{"name":"Python","url":"https://github.com/TheAlgorithms/Python","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/20487725?v=4","login":"TheAlgorithms","url":"https://github.com/TheAlgorithms"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzA4Mzg3MzE4","title":"adesh submission:fruit_classification","url":"https://github.com/ai-techsystems/internShowcase/pull/144","state":"CLOSED","mergedBy":null,"createdAt":"2019-08-18T19:20:00Z","number":144,"changedFiles":1,"additions":1,"deletions":0,"baseRepository":{"name":"internShowcase","url":"https://github.com/ai-techsystems/internShowcase","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/51919821?v=4","login":"ai-techsystems","url":"https://github.com/ai-techsystems"}}}],"open":0,"closed":3,"merged":10,"totalCount":13}'
       );
     },
     ,
@@ -14,64 +14,64 @@
     ,
     function (e) {
       e.exports = JSON.parse(
-        '{"closed":1,"data":[{"id":"I_kwDOKSkx5M53Z6pH","closed":true,"title":"Password field is visible in signup page","createdAt":"2023-11-21T01:27:15Z","url":"https://github.com/prasenjeet-symon/intellectia/issues/221","number":221,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/50673082?v=4","name":null,"url":"https://github.com/adesh1998"}]},"repository":{"name":"intellectia","url":"https://github.com/prasenjeet-symon/intellectia","owner":{"login":"prasenjeet-symon","avatarUrl":"https://avatars.githubusercontent.com/u/70169921?u=039cf52b78e3ce9007698f9296f18f98b1bed3aa&v=4","url":"https://github.com/prasenjeet-symon"}}}],"open":0,"totalCount":1}'
+        '{"data":[{"id":"I_kwDOKSkx5M53Z6pH","closed":true,"title":"Password field is visible in signup page","createdAt":"2023-11-21T01:27:15Z","url":"https://github.com/prasenjeet-symon/intellectia/issues/221","number":221,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/50673082?v=4","name":null,"url":"https://github.com/adesh1998"}]},"repository":{"name":"intellectia","url":"https://github.com/prasenjeet-symon/intellectia","owner":{"login":"prasenjeet-symon","avatarUrl":"https://avatars.githubusercontent.com/u/70169921?u=039cf52b78e3ce9007698f9296f18f98b1bed3aa&v=4","url":"https://github.com/prasenjeet-symon"}}}],"open":0,"closed":1,"totalCount":1}'
       );
     },
     function (e, t, a) {
       var l = {
-        "./CISA.png": 128,
-        "./Clemson.png": 129,
-        "./Cognizant.png": 130,
-        "./Deep_learning.png": 131,
-        "./SPPU.png": 132,
-        "./Udemy.png": 133,
-        "./address_image.svg": 134,
-        "./adesh.png": 135,
-        "./animated_logo.svg": 136,
-        "./blogs_image.svg": 137,
-        "./cloud_infrastructure.svg": 138,
-        "./codeInLogo.png": 139,
-        "./contactMail.png": 140,
-        "./coursera_logo.png": 141,
-        "./data_science.svg": 142,
-        "./deeplearning_ai_logo.png": 143,
-        "./delhivery_logo.png": 144,
-        "./developerActivity.svg": 145,
-        "./dsc_logo.png": 146,
-        "./education.svg": 147,
-        "./experience.svg": 148,
-        "./feelingProud.svg": 149,
-        "./freecopy_logo.png": 150,
-        "./fullstack.svg": 151,
-        "./gcp_logo.png": 152,
-        "./github_logo.png": 153,
-        "./googleAssistant.jpg": 154,
-        "./googleAssistant.svg": 155,
-        "./google_logo.png": 156,
-        "./ibm_logo.png": 157,
-        "./iiitk_logo.png": 158,
-        "./intel_logo.jpg": 159,
-        "./iu_logo.png": 160,
-        "./jsFramework.svg": 161,
-        "./legato_logo.png": 162,
-        "./manOnTable.svg": 163,
-        "./microsoft_logo.png": 164,
-        "./mozilla_logo.png": 165,
-        "./muffito_logo.png": 166,
-        "./nextuLogo.jpg": 167,
-        "./nptel_logo.png": 168,
-        "./portfolio.gif": 169,
-        "./profile-pic (1).png": 170,
+        "./CISA.png": 132,
+        "./Clemson.png": 133,
+        "./Cognizant.png": 134,
+        "./Deep_learning.png": 135,
+        "./SPPU.png": 136,
+        "./Udemy.png": 137,
+        "./address_image.svg": 138,
+        "./adesh.png": 139,
+        "./animated_logo.svg": 140,
+        "./blogs_image.svg": 141,
+        "./cloud_infrastructure.svg": 142,
+        "./codeInLogo.png": 143,
+        "./contactMail.png": 144,
+        "./coursera_logo.png": 145,
+        "./data_science.svg": 146,
+        "./deeplearning_ai_logo.png": 147,
+        "./delhivery_logo.png": 148,
+        "./developerActivity.svg": 149,
+        "./dsc_logo.png": 150,
+        "./education.svg": 151,
+        "./experience.svg": 152,
+        "./feelingProud.svg": 153,
+        "./freecopy_logo.png": 154,
+        "./fullstack.svg": 155,
+        "./gcp_logo.png": 156,
+        "./github_logo.png": 157,
+        "./googleAssistant.jpg": 158,
+        "./googleAssistant.svg": 159,
+        "./google_logo.png": 160,
+        "./ibm_logo.png": 161,
+        "./iiitk_logo.png": 162,
+        "./intel_logo.jpg": 163,
+        "./iu_logo.png": 164,
+        "./jsFramework.svg": 165,
+        "./legato_logo.png": 166,
+        "./manOnTable.svg": 167,
+        "./microsoft_logo.png": 168,
+        "./mozilla_logo.png": 169,
+        "./muffito_logo.png": 170,
+        "./nextuLogo.jpg": 171,
+        "./nptel_logo.png": 172,
+        "./portfolio.gif": 173,
+        "./profile-pic (1).png": 174,
         "./profile-pic.png": 55,
-        "./programmer.svg": 171,
-        "./projects_image.svg": 172,
-        "./pwa.png": 173,
-        "./saayaHealthLogo.png": 174,
-        "./stanford_logo.png": 175,
-        "./talksCardBack.svg": 176,
-        "./talksCardBackAlt.svg": 177,
-        "./tiktok_logo.png": 178,
-        "./ui_ux_design.svg": 179,
+        "./programmer.svg": 175,
+        "./projects_image.svg": 176,
+        "./pwa.png": 177,
+        "./saayaHealthLogo.png": 178,
+        "./stanford_logo.png": 179,
+        "./talksCardBack.svg": 180,
+        "./talksCardBackAlt.svg": 181,
+        "./tiktok_logo.png": 182,
+        "./ui_ux_design.svg": 183,
       };
       function r(e) {
         var t = n(e);
@@ -149,15 +149,15 @@
     ,
     ,
     ,
+    function (e) {
+      e.exports = JSON.parse(
+        '{"data":[{"id":"R_kgDOLp9X5Q","name":"Adesh-Portfolio","description":null,"url":"https://github.com/adesh1998/Adesh-Portfolio","homepageUrl":"https://adeshbhosaleport.netlify.app","createdAt":"2024-04-04T20:23:29Z","primaryLanguage":{"name":"JavaScript"},"languages":[{"name":"Dockerfile","iconifyClass":"simple-icons:docker"},{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"}]},{"id":"R_kgDOK_KzgA","name":"Ecommerce","description":null,"url":"https://github.com/adesh1998/Ecommerce","homepageUrl":null,"createdAt":"2023-12-30T16:19:31Z","primaryLanguage":{"name":"JavaScript"},"languages":[{"name":"Java","iconifyClass":"logos-java"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"R_kgDOKiljrw","name":"TitleTrek-Image-Edition","description":null,"url":"https://github.com/adesh1998/TitleTrek-Image-Edition","homepageUrl":"https://adesh1998.github.io/TitleTrek-Image-Edition/","createdAt":"2023-10-19T18:14:25Z","primaryLanguage":{"name":"JavaScript"},"languages":[{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"HTML","iconifyClass":"logos-html-5"}]},{"id":"R_kgDOJQXZxg","name":"CPSC-6620-PIZZA-R-US","description":null,"url":"https://github.com/adesh1998/CPSC-6620-PIZZA-R-US","homepageUrl":null,"createdAt":"2023-03-30T04:15:56Z","primaryLanguage":{"name":"Java"},"languages":[{"name":"Java","iconifyClass":"logos-java"}]},{"id":"MDEwOlJlcG9zaXRvcnkzNjQ1NDIzMDU=","name":"Angular-BankManagement","description":null,"url":"https://github.com/adesh1998/Angular-BankManagement","homepageUrl":"https://main--bankmanagementangular.netlify.app/","createdAt":"2021-05-05T10:40:15Z","primaryLanguage":{"name":"TypeScript"},"languages":[{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"}]},{"id":"R_kgDOIUUy_Q","name":"DV-Uk-traffic-accident-visualization","description":null,"url":"https://github.com/adesh1998/DV-Uk-traffic-accident-visualization","homepageUrl":"https://adesh1998.github.io/DV-Uk-traffic-accident-visualization/","createdAt":"2022-10-27T03:33:16Z","primaryLanguage":{"name":"JavaScript"},"languages":[{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]}]}'
+      );
+    },
     ,
     function (e) {
       e.exports = JSON.parse(
         '{"data":[{"login":"TheAlgorithms","avatarUrl":"https://avatars.githubusercontent.com/u/20487725?v=4","__typename":"Organization"},{"login":"mindsdb","avatarUrl":"https://avatars.githubusercontent.com/u/31035808?v=4","__typename":"Organization"},{"login":"KwickerHub","avatarUrl":"https://avatars.githubusercontent.com/u/93937658?v=4","__typename":"Organization"},{"login":"codinasion","avatarUrl":"https://avatars.githubusercontent.com/u/98682602?v=4","__typename":"Organization"}]}'
-      );
-    },
-    function (e) {
-      e.exports = JSON.parse(
-        '{"data":[{"id":"R_kgDOLp9X5Q","name":"Adesh-Portfolio","description":null,"url":"https://github.com/adesh1998/Adesh-Portfolio","createdAt":"2024-04-04T20:23:29Z","primaryLanguage":{"name":"JavaScript"},"languages":[{"name":"Dockerfile","iconifyClass":"simple-icons:docker"},{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"}]},{"id":"R_kgDOK_KzgA","name":"Ecommerce","description":null,"url":"https://github.com/adesh1998/Ecommerce","createdAt":"2023-12-30T16:19:31Z","primaryLanguage":{"name":"JavaScript"},"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"R_kgDOKiljrw","name":"TitleTrek-Image-Edition","description":null,"url":"https://github.com/adesh1998/TitleTrek-Image-Edition","createdAt":"2023-10-19T18:14:25Z","primaryLanguage":{"name":"JavaScript"},"languages":[{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"HTML","iconifyClass":"logos-html-5"}]},{"id":"R_kgDOJQXZxg","name":"CPSC-6620-PIZZA-R-US","description":null,"url":"https://github.com/adesh1998/CPSC-6620-PIZZA-R-US","createdAt":"2023-03-30T04:15:56Z","primaryLanguage":{"name":"Java"},"languages":[{"name":"Java","iconifyClass":"logos-java"}]},{"id":"R_kgDOJZ447g","name":"DATA_MINING_PROJECT","description":null,"url":"https://github.com/adesh1998/DATA_MINING_PROJECT","createdAt":"2023-04-22T02:39:11Z","primaryLanguage":{"name":"Jupyter Notebook"},"languages":[{"name":"Jupyter Notebook","iconifyClass":"logos-jupyter"}]},{"id":"R_kgDOIUUy_Q","name":"DV-Uk-traffic-accident-visualization","description":null,"url":"https://github.com/adesh1998/DV-Uk-traffic-accident-visualization","createdAt":"2022-10-27T03:33:16Z","primaryLanguage":{"name":"JavaScript"},"languages":[{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]}]}'
       );
     },
     ,
@@ -192,6 +192,10 @@
     ,
     function (e, t, a) {},
     ,
+    function (e, t, a) {},
+    function (e, t, a) {},
+    function (e, t, a) {},
+    function (e, t, a) {},
     function (e, t, a) {},
     function (e, t, a) {},
     function (e, t, a) {},
@@ -478,10 +482,6 @@
     function (e, t, a) {},
     function (e, t, a) {},
     function (e, t, a) {},
-    function (e, t, a) {},
-    function (e, t, a) {},
-    function (e, t, a) {},
-    function (e, t, a) {},
     ,
     function (e, t, a) {
       "use strict";
@@ -494,7 +494,7 @@
         c = a(301),
         o = a(19),
         m = a(316),
-        d = (a(98), a(99), a(6)),
+        d = (a(98), a(99), a(7)),
         h = a(5),
         C = (a(100), a(3));
       const A = !1,
@@ -536,35 +536,6 @@
         ],
         E = {
           data: [
-            {
-              title: "Data Science & AI",
-              fileName: "DataScienceImg",
-              skills: [
-                "\u26a1 Developing highly scalable production-ready models for diverse deep learning and statistical applications",
-                "\u26a1 Experience in quantitative modeling techniques for dynamic forecasting and time series analysis, utilizing Python, R, and deep learning frameworks to tackle real-world challenges ",
-              ],
-              softwareSkills: [
-                {
-                  skillName: "Keras",
-                  fontAwesomeClassname: "simple-icons:keras",
-                  style: { backgroundColor: "white", color: "#D00000" },
-                },
-                {
-                  skillName: "PyTorch",
-                  fontAwesomeClassname: "logos-pytorch",
-                  style: { backgroundColor: "transparent" },
-                },
-                {
-                  skillName: "Python",
-                  fontAwesomeClassname: "ion-logo-python",
-                  style: { backgroundColor: "transparent", color: "#3776AB" },
-                },
-                {
-                  skillName: "Deeplearning",
-                  imageSrc: "deeplearning_ai_logo.png",
-                },
-              ],
-            },
             {
               title: "Full Stack Development",
               fileName: "FullStackImg",
@@ -612,6 +583,35 @@
                   skillName: "Java",
                   fontAwesomeClassname: "devicon:java-wordmark",
                   style: { color: "#CB3837" },
+                },
+              ],
+            },
+            {
+              title: "Data Science & AI",
+              fileName: "DataScienceImg",
+              skills: [
+                "\u26a1 Developing highly scalable production-ready models for diverse deep learning and statistical applications",
+                "\u26a1 Experience in quantitative modeling techniques for dynamic forecasting and time series analysis, utilizing Python, R, and deep learning frameworks to tackle real-world challenges ",
+              ],
+              softwareSkills: [
+                {
+                  skillName: "Keras",
+                  fontAwesomeClassname: "simple-icons:keras",
+                  style: { backgroundColor: "white", color: "#D00000" },
+                },
+                {
+                  skillName: "PyTorch",
+                  fontAwesomeClassname: "logos-pytorch",
+                  style: { backgroundColor: "transparent" },
+                },
+                {
+                  skillName: "Python",
+                  fontAwesomeClassname: "ion-logo-python",
+                  style: { backgroundColor: "transparent", color: "#3776AB" },
+                },
+                {
+                  skillName: "Deeplearning",
+                  imageSrc: "deeplearning_ai_logo.png",
                 },
               ],
             },
@@ -1021,22 +1021,6 @@
                     r.a.createElement(
                       d.c,
                       {
-                        to: "/projects",
-                        tag: d.b,
-                        activeStyle: { fontWeight: "bold" },
-                        style: { color: e.text },
-                        onMouseEnter: (t) => R(t, e.highlight),
-                        onMouseOut: (e) => I(e),
-                      },
-                      "Projects"
-                    )
-                  ),
-                  r.a.createElement(
-                    "li",
-                    null,
-                    r.a.createElement(
-                      d.c,
-                      {
                         to: "/opensource",
                         tag: d.b,
                         activeStyle: { fontWeight: "bold" },
@@ -1072,8 +1056,8 @@
       var B,
         j = H,
         D = (a(117), a(40)),
-        L = (a(118), a(21));
-      const U = L.c.span(
+        U = (a(118), a(21));
+      const L = U.c.span(
         B ||
           (B = Object(D.a)([
             "\n  i {\n    background-color: ",
@@ -1101,7 +1085,7 @@
                 rel: "noopener noreferrer",
               },
               r.a.createElement(
-                U,
+                L,
                 Object.assign({}, t, e),
                 r.a.createElement("i", {
                   className: "fab ".concat(t.fontAwesomeIcon),
@@ -1895,7 +1879,7 @@
           );
         }
       }
-      class W extends l.Component {
+      class X extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -2255,7 +2239,7 @@
           );
         }
       }
-      class X extends l.Component {
+      class W extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -3452,8 +3436,8 @@
           : "FullStackImg" === e.fileName
           ? r.a.createElement(q, { theme: e.theme })
           : "CloudInfraImg" === e.fileName
-          ? r.a.createElement(W, { theme: e.theme })
-          : r.a.createElement(X, { theme: e.theme });
+          ? r.a.createElement(X, { theme: e.theme })
+          : r.a.createElement(W, { theme: e.theme });
       }
       class K extends l.Component {
         render() {
@@ -3607,2297 +3591,8 @@
           })
         );
       }
+      a(124);
       class ae extends l.Component {
-        render() {
-          return r.a.createElement(
-            "div",
-            null,
-            r.a.createElement(j, { theme: this.props.theme }),
-            r.a.createElement(V, { theme: this.props.theme }),
-            r.a.createElement($, { theme: this.props.theme }),
-            r.a.createElement(ee, { theme: this.props.theme }),
-            r.a.createElement(te, { theme: this.props.theme })
-          );
-        }
-      }
-      var le = ae;
-      a(124), a(125);
-      class re extends r.a.Component {
-        render() {
-          const e = this.props.theme;
-          return r.a.createElement(
-            "svg",
-            {
-              className: "raw_logo",
-              width: "50%",
-              height: "40%",
-              viewBox: "0 0 440 305",
-              fill: "none",
-              xmlns: "http://www.w3.org/2000/svg",
-            },
-            r.a.createElement("path", {
-              class: "myHexagon",
-              d:
-                "M293.545 167.405L229.5 204.381C227.025 205.81 223.975 205.81 221.5 204.381L157.455 167.405C154.98 165.976 153.455 163.335 153.455 160.476L153.455 86.5234C153.455 83.6653 154.98 81.0243 157.455 79.5952L221.5 42.6187C223.975 41.1896 227.025 41.1897 229.5 42.6187L293.545 79.5952C296.02 81.0243 297.545 83.6653 297.545 86.5234L297.545 160.476C297.545 163.335 296.02 165.976 293.545 167.405Z",
-              stroke: e.body,
-              "stroke-width": "4",
-            }),
-            r.a.createElement("path", {
-              class: "myHexagon",
-              d:
-                "M147.455 73.5953L211.5 36.6188C213.975 35.1898 217.025 35.1898 219.5 36.6188L283.545 73.5953C286.02 75.0244 287.545 77.6654 287.545 80.5235L287.545 154.477C287.545 157.335 286.02 159.976 283.545 161.405L219.5 198.381C217.025 199.81 213.975 199.81 211.5 198.381L147.455 161.405C144.98 159.976 143.455 157.335 143.455 154.477L143.455 80.5235C143.455 77.6654 144.98 75.0244 147.455 73.5953Z",
-              stroke: e.body,
-              "stroke-width": "4",
-            }),
-            r.a.createElement("path", {
-              class: "letter",
-              d:
-                "M217.945 123.968V132H194.566V123.968H200.65L198.395 115.799H186.056L183.526 123.968H189.884V132H168.829V123.968H174.708L183.971 92.4883H177.647V84.4561H208.683V92.4883H202.291L212.271 123.968H217.945ZM196.446 108.826L192.481 94.5049L188.209 108.826H196.446Z",
-              stroke: e.body,
-              "stroke-width": "3",
-            }),
-            r.a.createElement("path", {
-              class: "letter",
-              d:
-                "M217.153 158V149.968H223.101V118.488H217.153V110.456H240.122V118.488H235.132V128.913H248.086V118.488H243.267V110.456H266.099V118.488H260.117V149.968H266.099V158H243.267V149.968H248.086V136.979H235.132V149.968H240.122V158H217.153Z",
-              stroke: e.body,
-              "stroke-width": "3",
-            }),
-            r.a.createElement(
-              "mask",
-              { id: "path-5-inside-1", fill: e.body },
-              r.a.createElement("path", {
-                d:
-                  "M32.5195 293.502C32.2917 293.73 32.015 293.844 31.6895 293.844C31.3965 293.844 31.1361 293.73 30.9082 293.502C30.7129 293.274 30.6152 292.997 30.6152 292.672C30.6152 292.379 30.7292 292.118 30.957 291.891C33.9844 288.896 39.3066 283.85 46.9238 276.754C44.7428 277.014 42.4154 277.356 39.9414 277.779C25.2279 280.351 12.5 284.632 1.75782 290.621C1.4974 290.784 1.20443 290.816 0.878911 290.719C0.585942 290.654 0.358077 290.475 0.195317 290.182C0.0651085 289.921 0.0488325 289.645 0.146489 289.352C0.244145 289.059 0.423181 288.831 0.683598 288.668C11.6211 282.548 24.5931 278.186 39.5996 275.582C42.8223 275.029 46.1914 274.557 49.707 274.166C73.0794 252.486 88.1348 240.377 94.8731 237.838C97.2819 236.926 98.8119 237.317 99.4629 239.01C99.821 239.954 99.7721 241.386 99.3164 243.307C98.8607 245.195 97.933 247.669 96.5332 250.729C95.166 253.756 93.9616 256.295 92.9199 258.346C91.9108 260.396 90.4297 263.294 88.4766 267.037C86.7839 270.292 85.6934 272.408 85.2051 273.385C85.8561 273.417 86.735 273.482 87.8418 273.58C90.2832 273.775 92.041 274.101 93.1152 274.557C94.1895 275.012 94.694 275.598 94.6289 276.314C94.5964 276.673 94.401 277.031 94.043 277.389C93.7175 277.747 93.1641 278.121 92.3828 278.512C91.6016 278.902 90.918 279.212 90.332 279.439C89.7461 279.7 88.8672 280.058 87.6953 280.514C84.9935 281.555 83.0892 282.337 81.9824 282.857C80.8757 283.411 80.1107 283.248 79.6875 282.369C79.2643 281.555 79.9479 279.228 81.7383 275.387C71.224 274.866 60.8561 275.159 50.6348 276.266C42.1387 284.176 36.1003 289.921 32.5195 293.502ZM95.6543 239.889C89.3718 242.298 75.2767 253.593 53.3691 273.775C63.1348 272.864 72.9492 272.669 82.8125 273.189C83.4635 271.92 84.7005 269.527 86.5234 266.012C87.7604 263.635 88.7044 261.813 89.3555 260.543C90.0065 259.273 90.8691 257.548 91.9434 255.367C93.0501 253.154 93.8965 251.38 94.4824 250.045C95.0684 248.71 95.6543 247.278 96.2402 245.748C96.8587 244.218 97.2494 242.981 97.4121 242.037C97.5749 241.061 97.5586 240.328 97.3633 239.84C97.2331 239.482 96.6634 239.498 95.6543 239.889ZM84.082 275.533C82.8776 277.975 82.1289 279.635 81.8359 280.514C82.8776 280.025 84.554 279.326 86.8652 278.414C90.5436 277.014 92.3828 276.266 92.3828 276.168C92.3828 276.135 92.2526 276.119 91.9922 276.119C91.7318 276.087 91.1784 276.054 90.332 276.021C89.5182 275.956 88.6231 275.875 87.6465 275.777C86.6374 275.68 85.4492 275.598 84.082 275.533Z",
-              }),
-              r.a.createElement("path", {
-                d:
-                  "M106.006 271.822C105.843 272.05 105.632 272.197 105.371 272.262C105.111 272.294 104.867 272.229 104.639 272.066C104.411 271.904 104.264 271.692 104.199 271.432C104.134 271.171 104.183 270.927 104.346 270.699C105.322 269.234 105.762 268.258 105.664 267.77C105.632 267.672 105.404 267.672 104.98 267.77C104.102 267.9 103.19 268.323 102.246 269.039C101.497 269.592 100.928 270.195 100.537 270.846C100.146 271.497 100.081 272.115 100.342 272.701C100.602 273.385 101.367 274.573 102.637 276.266L102.881 276.51C103.988 276.054 105.127 275.598 106.299 275.143C107.503 274.654 108.545 274.247 109.424 273.922C110.335 273.564 111.165 273.255 111.914 272.994C112.695 272.701 113.281 272.49 113.672 272.359C114.063 272.197 114.274 272.115 114.307 272.115C114.469 272.05 114.632 272.034 114.795 272.066C114.958 272.099 115.104 272.18 115.234 272.311C115.397 272.408 115.511 272.555 115.576 272.75C115.674 273.01 115.658 273.271 115.527 273.531C115.397 273.759 115.202 273.922 114.941 274.02C114.941 274.02 114.876 274.052 114.746 274.117C114.616 274.15 114.421 274.215 114.16 274.312C113.932 274.378 113.656 274.475 113.33 274.605C113.005 274.736 112.63 274.882 112.207 275.045C111.784 275.175 111.328 275.338 110.84 275.533C110.352 275.696 109.831 275.891 109.277 276.119C108.724 276.314 108.171 276.526 107.617 276.754C107.064 276.949 106.478 277.177 105.859 277.438C105.241 277.665 104.639 277.91 104.053 278.17C105.16 279.765 105.713 281.1 105.713 282.174C105.745 283.574 104.948 284.664 103.32 285.445C101.725 286.259 99.0072 286.715 95.166 286.812C89.5996 286.943 87.2721 286.227 88.1836 284.664C89.0951 283.036 93.3594 280.595 100.977 277.34C99.6419 275.582 98.7956 274.28 98.4375 273.434C98.0469 272.359 98.112 271.301 98.6328 270.26C99.1537 269.186 99.9675 268.242 101.074 267.428C102.279 266.516 103.467 265.963 104.639 265.768C106.331 265.475 107.324 265.995 107.617 267.33C107.845 268.404 107.308 269.902 106.006 271.822ZM103.711 282.223C103.711 281.474 103.19 280.383 102.148 278.951C95.1172 281.881 91.9922 283.72 92.7734 284.469C93.0339 284.729 93.8151 284.843 95.1172 284.811C100.879 284.68 103.743 283.818 103.711 282.223Z",
-              }),
-              r.a.createElement("path", {
-                d:
-                  "M140.234 272.018C140.495 271.952 140.739 271.985 140.967 272.115C141.227 272.245 141.39 272.457 141.455 272.75C141.52 273.01 141.471 273.255 141.309 273.482C141.178 273.71 140.983 273.857 140.723 273.922C140.625 273.954 140.186 274.068 139.404 274.264C138.623 274.459 137.549 274.752 136.182 275.143C134.814 275.501 133.447 275.891 132.08 276.314C130.713 276.705 129.378 277.145 128.076 277.633C126.774 278.121 125.798 278.561 125.146 278.951C123.747 279.798 122.835 279.863 122.412 279.146C122.184 278.788 122.233 278.137 122.559 277.193C123.275 275.11 123.372 273.434 122.852 272.164C122.624 271.578 121.973 271.806 120.898 272.848C119.824 273.857 118.571 275.37 117.139 277.389C115.706 279.374 114.632 280.872 113.916 281.881C113.232 282.89 112.646 283.769 112.158 284.518V284.566C112.028 284.794 111.816 284.924 111.523 284.957C111.263 285.022 111.019 284.99 110.791 284.859C110.368 284.566 110.238 284.176 110.4 283.688H110.352C114.355 271.09 117.887 261.015 120.947 253.463C124.04 245.911 126.595 240.654 128.613 237.691C129.362 236.585 130.062 235.771 130.713 235.25C131.396 234.729 131.982 234.501 132.471 234.566C132.959 234.632 133.382 234.957 133.74 235.543C134.456 236.682 134.456 239.026 133.74 242.574C133.285 244.853 132.568 247.294 131.592 249.898C130.648 252.503 129.443 255.237 127.979 258.102C126.546 260.934 124.756 263.733 122.607 266.5C120.492 269.234 118.213 271.578 115.771 273.531C115.446 274.475 114.941 276.005 114.258 278.121C116.602 275.029 118.75 272.717 120.703 271.188C122.656 269.625 123.991 269.706 124.707 271.432C125.358 273.027 125.374 274.85 124.756 276.9C126.025 276.249 127.979 275.517 130.615 274.703C133.285 273.857 135.482 273.206 137.207 272.75C138.932 272.294 139.941 272.05 140.234 272.018ZM130.225 238.814C126.839 243.795 122.461 254.098 117.09 269.723C119.661 267.184 122.021 264.173 124.17 260.689C126.318 257.174 127.979 253.886 129.15 250.826C130.355 247.766 131.234 244.885 131.787 242.184C132.406 239.189 132.487 237.317 132.031 236.568C131.934 236.438 131.331 237.187 130.225 238.814Z",
-              }),
-              r.a.createElement("path", {
-                d:
-                  "M163.574 247.359C163.216 247.359 162.939 247.522 162.744 247.848C162.256 248.531 161.426 250.077 160.254 252.486C149.837 253.007 141.585 254.033 135.498 255.563C133.35 256.116 131.608 256.653 130.273 257.174C128.939 257.695 128.027 258.167 127.539 258.59C127.018 258.98 126.807 259.355 126.904 259.713C127.132 260.592 128.532 260.982 131.104 260.885C133.122 260.82 135.124 260.592 137.109 260.201C138.607 259.941 139.779 259.583 140.625 259.127C141.504 258.671 141.878 258.134 141.748 257.516C141.715 257.255 141.585 257.044 141.357 256.881C141.13 256.718 140.869 256.669 140.576 256.734C140.316 256.799 140.104 256.946 139.941 257.174C139.779 257.369 139.73 257.613 139.795 257.906C139.795 257.939 139.665 257.971 139.404 258.004C139.176 258.004 138.786 258.036 138.232 258.102C137.712 258.134 137.223 258.183 136.768 258.248C134.88 258.606 132.975 258.818 131.055 258.883C130.697 258.883 130.322 258.932 129.932 259.029C129.541 259.127 129.297 259.192 129.199 259.225C129.069 259.257 128.955 259.257 128.857 259.225C128.857 259.192 129.053 259.143 129.443 259.078C129.834 258.98 130.648 258.801 131.885 258.541C133.122 258.248 134.489 257.906 135.986 257.516C141.748 256.051 149.512 255.058 159.277 254.537C158.984 255.156 158.561 256.051 158.008 257.223C157.064 259.176 156.348 260.673 155.859 261.715C155.371 262.724 154.688 264.156 153.809 266.012C152.93 267.835 152.214 269.251 151.66 270.26C151.107 271.269 150.505 272.343 149.854 273.482C149.202 274.589 148.665 275.387 148.242 275.875C147.819 276.363 147.477 276.591 147.217 276.559C147.054 276.526 147.054 276.282 147.217 275.826C147.38 275.37 147.673 274.768 148.096 274.02C148.519 273.238 148.812 272.717 148.975 272.457C149.137 272.164 149.333 271.839 149.561 271.48C149.821 271.057 149.788 270.667 149.463 270.309C149.268 270.081 149.04 269.967 148.779 269.967C148.519 269.934 148.275 270.016 148.047 270.211L139.99 277.291C140.055 276.184 141.488 273.531 144.287 269.332C144.45 269.104 144.499 268.86 144.434 268.6C144.368 268.339 144.222 268.128 143.994 267.965C143.766 267.802 143.506 267.753 143.213 267.818C142.952 267.851 142.757 267.997 142.627 268.258C138.883 274.41 137.435 278.056 138.281 279.195C138.997 280.139 141.032 279.065 144.385 275.973C144.873 275.549 145.361 275.094 145.85 274.605C145.068 276.949 145.41 278.251 146.875 278.512C147.786 278.707 148.942 277.828 150.342 275.875C151.742 273.922 153.337 271.22 155.127 267.77C148.389 287.236 146.338 299.378 148.975 304.195C149.137 304.423 149.349 304.57 149.609 304.635C149.87 304.732 150.114 304.716 150.342 304.586C150.602 304.456 150.765 304.244 150.83 303.951C150.895 303.691 150.863 303.447 150.732 303.219C150.179 302.177 149.87 300.68 149.805 298.727C149.772 296.773 149.935 294.658 150.293 292.379C150.684 290.1 151.237 287.512 151.953 284.615C152.702 281.751 153.483 279.016 154.297 276.412C155.143 273.775 156.071 271.008 157.08 268.111C158.089 265.182 158.984 262.675 159.766 260.592C160.579 258.508 161.393 256.441 162.207 254.391C165.43 254.228 168.815 254.13 172.363 254.098C175.911 254.065 178.988 254.081 181.592 254.146C184.229 254.179 186.751 254.228 189.16 254.293C191.602 254.358 193.311 254.423 194.287 254.488C195.264 254.521 195.898 254.553 196.191 254.586C196.387 254.586 196.566 254.553 196.729 254.488C196.891 254.391 197.021 254.277 197.119 254.146C197.217 253.984 197.266 253.805 197.266 253.609C197.266 253.349 197.168 253.121 196.973 252.926C196.81 252.698 196.598 252.584 196.338 252.584C195.264 252.519 193.62 252.454 191.406 252.389C189.225 252.291 185.156 252.193 179.199 252.096C173.275 251.998 167.887 252.079 163.037 252.34C163.786 250.452 164.274 249.264 164.502 248.775C164.567 248.645 164.6 248.499 164.6 248.336C164.6 248.303 164.6 248.271 164.6 248.238C164.567 248.206 164.551 248.173 164.551 248.141C164.551 248.108 164.551 248.092 164.551 248.092C164.551 248.059 164.535 248.043 164.502 248.043C164.502 248.01 164.502 247.994 164.502 247.994C164.502 247.962 164.502 247.945 164.502 247.945V247.896C164.404 247.766 164.307 247.652 164.209 247.555C164.144 247.522 164.062 247.49 163.965 247.457C163.835 247.392 163.704 247.359 163.574 247.359Z",
-              }),
-              r.a.createElement("path", {
-                d:
-                  "M162.744 271.773C162.972 271.969 162.956 272.278 162.695 272.701C162.598 272.864 162.5 273.043 162.402 273.238C162.305 273.401 162.126 273.71 161.865 274.166C161.637 274.622 161.442 275.045 161.279 275.436C161.117 275.794 160.97 276.184 160.84 276.607C160.742 276.998 160.726 277.324 160.791 277.584C160.856 277.844 161.019 277.975 161.279 277.975C161.833 278.072 162.646 277.47 163.721 276.168C164.404 275.354 165.039 274.41 165.625 273.336C165.072 273.108 164.6 272.799 164.209 272.408C162.809 271.204 162.288 269.706 162.646 267.916C162.907 266.354 163.639 265.165 164.844 264.352C166.081 263.538 167.188 263.538 168.164 264.352C169.206 265.198 169.613 266.565 169.385 268.453C169.255 269.592 168.913 270.846 168.359 272.213C170.801 272.734 174.17 272.604 178.467 271.822C178.76 271.757 179.02 271.806 179.248 271.969C179.476 272.132 179.606 272.359 179.639 272.652C179.704 272.913 179.655 273.157 179.492 273.385C179.329 273.58 179.118 273.71 178.857 273.775C174.105 274.654 170.329 274.736 167.529 274.02C166.846 275.322 166.097 276.461 165.283 277.438C163.721 279.293 162.305 280.139 161.035 279.977C158.626 279.716 158.203 277.763 159.766 274.117C159.961 273.531 160.173 273.043 160.4 272.652C160.661 272.262 160.905 271.985 161.133 271.822C161.361 271.66 161.572 271.562 161.768 271.529C161.995 271.464 162.191 271.464 162.354 271.529C162.516 271.562 162.646 271.643 162.744 271.773ZM166.455 271.578C166.976 270.341 167.285 269.234 167.383 268.258C167.546 267.086 167.383 266.305 166.895 265.914C166.667 265.719 166.357 265.751 165.967 266.012C165.251 266.5 164.795 267.249 164.6 268.258C164.404 269.332 164.714 270.227 165.527 270.943C165.788 271.171 166.097 271.383 166.455 271.578Z",
-              }),
-              r.a.createElement("path", {
-                d:
-                  "M185.352 271.822C185.189 272.05 184.977 272.197 184.717 272.262C184.456 272.294 184.212 272.229 183.984 272.066C183.757 271.904 183.61 271.692 183.545 271.432C183.48 271.171 183.529 270.927 183.691 270.699C184.668 269.234 185.107 268.258 185.01 267.77C184.977 267.672 184.749 267.672 184.326 267.77C183.447 267.9 182.536 268.323 181.592 269.039C180.843 269.592 180.273 270.195 179.883 270.846C179.492 271.497 179.427 272.115 179.688 272.701C179.948 273.385 180.713 274.573 181.982 276.266L182.227 276.51C183.333 276.054 184.473 275.598 185.645 275.143C186.849 274.654 187.891 274.247 188.77 273.922C189.681 273.564 190.511 273.255 191.26 272.994C192.041 272.701 192.627 272.49 193.018 272.359C193.408 272.197 193.62 272.115 193.652 272.115C193.815 272.05 193.978 272.034 194.141 272.066C194.303 272.099 194.45 272.18 194.58 272.311C194.743 272.408 194.857 272.555 194.922 272.75C195.02 273.01 195.003 273.271 194.873 273.531C194.743 273.759 194.548 273.922 194.287 274.02C194.287 274.02 194.222 274.052 194.092 274.117C193.962 274.15 193.766 274.215 193.506 274.312C193.278 274.378 193.001 274.475 192.676 274.605C192.35 274.736 191.976 274.882 191.553 275.045C191.13 275.175 190.674 275.338 190.186 275.533C189.697 275.696 189.176 275.891 188.623 276.119C188.07 276.314 187.516 276.526 186.963 276.754C186.41 276.949 185.824 277.177 185.205 277.438C184.587 277.665 183.984 277.91 183.398 278.17C184.505 279.765 185.059 281.1 185.059 282.174C185.091 283.574 184.294 284.664 182.666 285.445C181.071 286.259 178.353 286.715 174.512 286.812C168.945 286.943 166.618 286.227 167.529 284.664C168.441 283.036 172.705 280.595 180.322 277.34C178.988 275.582 178.141 274.28 177.783 273.434C177.393 272.359 177.458 271.301 177.979 270.26C178.499 269.186 179.313 268.242 180.42 267.428C181.624 266.516 182.812 265.963 183.984 265.768C185.677 265.475 186.67 265.995 186.963 267.33C187.191 268.404 186.654 269.902 185.352 271.822ZM183.057 282.223C183.057 281.474 182.536 280.383 181.494 278.951C174.463 281.881 171.338 283.72 172.119 284.469C172.38 284.729 173.161 284.843 174.463 284.811C180.225 284.68 183.089 283.818 183.057 282.223Z",
-              }),
-              r.a.createElement("path", {
-                d:
-                  "M219.58 272.018C219.84 271.952 220.085 271.985 220.312 272.115C220.573 272.245 220.736 272.457 220.801 272.75C220.866 273.01 220.817 273.255 220.654 273.482C220.524 273.71 220.329 273.857 220.068 273.922C219.971 273.954 219.531 274.068 218.75 274.264C217.969 274.459 216.895 274.752 215.527 275.143C214.16 275.501 212.793 275.891 211.426 276.314C210.059 276.705 208.724 277.145 207.422 277.633C206.12 278.121 205.143 278.561 204.492 278.951C203.092 279.798 202.181 279.863 201.758 279.146C201.53 278.788 201.579 278.137 201.904 277.193C202.62 275.11 202.718 273.434 202.197 272.164C201.969 271.578 201.318 271.806 200.244 272.848C199.17 273.857 197.917 275.37 196.484 277.389C195.052 279.374 193.978 280.872 193.262 281.881C192.578 282.89 191.992 283.769 191.504 284.518V284.566C191.374 284.794 191.162 284.924 190.869 284.957C190.609 285.022 190.365 284.99 190.137 284.859C189.714 284.566 189.583 284.176 189.746 283.688H189.697C193.701 271.09 197.233 261.015 200.293 253.463C203.385 245.911 205.941 240.654 207.959 237.691C208.708 236.585 209.408 235.771 210.059 235.25C210.742 234.729 211.328 234.501 211.816 234.566C212.305 234.632 212.728 234.957 213.086 235.543C213.802 236.682 213.802 239.026 213.086 242.574C212.63 244.853 211.914 247.294 210.938 249.898C209.993 252.503 208.789 255.237 207.324 258.102C205.892 260.934 204.102 263.733 201.953 266.5C199.837 269.234 197.559 271.578 195.117 273.531C194.792 274.475 194.287 276.005 193.604 278.121C195.947 275.029 198.096 272.717 200.049 271.188C202.002 269.625 203.337 269.706 204.053 271.432C204.704 273.027 204.72 274.85 204.102 276.9C205.371 276.249 207.324 275.517 209.961 274.703C212.63 273.857 214.827 273.206 216.553 272.75C218.278 272.294 219.287 272.05 219.58 272.018ZM209.57 238.814C206.185 243.795 201.807 254.098 196.436 269.723C199.007 267.184 201.367 264.173 203.516 260.689C205.664 257.174 207.324 253.886 208.496 250.826C209.701 247.766 210.579 244.885 211.133 242.184C211.751 239.189 211.833 237.317 211.377 236.568C211.279 236.438 210.677 237.187 209.57 238.814Z",
-              }),
-              r.a.createElement("path", {
-                d:
-                  "M306.299 242.184C305.876 242.184 305.566 242.379 305.371 242.77C301.204 251.396 297.428 259.908 294.043 268.307C292.839 268.339 291.455 268.388 289.893 268.453C285.075 268.714 278.89 269.251 271.338 270.064C272.477 266.972 273.633 263.733 274.805 260.348C276.009 256.93 276.888 254.374 277.441 252.682C278.027 250.989 278.353 250.045 278.418 249.85C278.451 249.752 278.467 249.622 278.467 249.459C278.434 249.199 278.304 248.987 278.076 248.824C277.881 248.629 277.653 248.531 277.393 248.531C270.361 249.02 262.63 250.077 254.199 251.705C235.221 255.383 223.372 260.494 218.652 267.037C215.983 270.748 215.788 274.85 218.066 279.342C218.197 279.602 218.392 279.765 218.652 279.83C218.913 279.928 219.157 279.911 219.385 279.781C219.645 279.651 219.808 279.456 219.873 279.195C219.971 278.935 219.971 278.691 219.873 278.463C215.902 270.65 220.703 264.173 234.277 259.029C244.076 255.318 256.999 252.633 273.047 250.973L276.025 250.68C273.91 257.092 271.696 263.619 269.385 270.26C264.404 270.813 259.88 271.383 255.811 271.969C251.742 272.522 249.544 272.864 249.219 272.994C247.363 273.873 246.794 275.094 247.51 276.656C247.835 277.372 248.877 278.609 250.635 280.367C251.676 281.344 252.49 282.158 253.076 282.809C253.662 283.46 254.395 284.355 255.273 285.494C256.152 286.633 256.852 287.822 257.373 289.059C257.894 290.296 258.236 291.581 258.398 292.916C258.919 296.692 260.986 294.641 264.6 286.764C266.292 283.053 268.278 278.17 270.557 272.115C278.532 271.269 285.01 270.715 289.99 270.455C291.162 270.39 292.253 270.357 293.262 270.357C284.993 291.191 282.975 302.307 287.207 303.707C287.565 303.805 287.956 303.837 288.379 303.805C288.672 303.805 288.9 303.691 289.062 303.463C289.258 303.268 289.339 303.04 289.307 302.779C289.274 302.193 288.932 301.868 288.281 301.803C285.677 301.607 286.068 296.236 289.453 285.689C290.918 281.1 292.822 275.973 295.166 270.309C296.045 270.309 296.794 270.341 297.412 270.406C297.673 270.439 298.193 270.276 298.975 269.918C299.072 269.885 299.105 269.902 299.072 269.967C299.04 270.032 298.763 270.211 298.242 270.504C297.982 270.634 297.803 270.829 297.705 271.09C297.64 271.35 297.673 271.611 297.803 271.871C297.933 272.099 298.128 272.262 298.389 272.359C298.649 272.424 298.91 272.392 299.17 272.262C300.114 271.773 300.684 271.285 300.879 270.797C301.497 269.43 300.391 268.632 297.559 268.404C297.103 268.372 296.582 268.355 295.996 268.355C297.624 264.514 299.382 260.494 301.27 256.295C303.19 252.063 304.59 249.003 305.469 247.115C306.38 245.227 306.95 244.072 307.178 243.648C307.275 243.388 307.275 243.128 307.178 242.867C307.113 242.607 306.95 242.411 306.689 242.281C306.559 242.216 306.429 242.184 306.299 242.184ZM268.652 272.311C265.82 280.481 263.379 286.243 261.328 289.596C260.482 290.898 259.977 291.305 259.814 290.816C259.424 289.384 258.968 288.115 258.447 287.008C257.959 285.901 257.357 284.876 256.641 283.932C255.924 282.988 255.322 282.239 254.834 281.686C254.346 281.165 253.63 280.449 252.686 279.537C252.393 279.277 252.181 279.081 252.051 278.951C250.456 277.389 249.544 276.347 249.316 275.826C249.154 275.468 249.398 275.143 250.049 274.85C250.342 274.687 252.344 274.361 256.055 273.873C259.798 273.352 263.997 272.831 268.652 272.311Z",
-              }),
-              r.a.createElement("path", {
-                d:
-                  "M333.789 247.359C333.398 247.359 333.073 247.571 332.812 247.994C331.803 249.654 330.827 251.249 329.883 252.779C320.052 253.333 312.24 254.342 306.445 255.807C304.818 256.23 303.418 256.637 302.246 257.027C301.074 257.418 300.163 257.792 299.512 258.15C298.861 258.476 298.405 258.801 298.145 259.127C297.884 259.42 297.786 259.697 297.852 259.957C298.079 260.836 299.479 261.227 302.051 261.129C304.004 261.064 306.006 260.836 308.057 260.445C309.554 260.185 310.726 259.827 311.572 259.371C312.419 258.915 312.793 258.378 312.695 257.76C312.63 257.499 312.484 257.288 312.256 257.125C312.028 256.962 311.784 256.913 311.523 256.979C311.263 257.011 311.051 257.141 310.889 257.369C310.726 257.597 310.677 257.857 310.742 258.15C310.742 258.183 310.612 258.215 310.352 258.248C310.091 258.248 309.701 258.281 309.18 258.346C308.659 258.378 308.171 258.427 307.715 258.492C305.762 258.85 303.857 259.062 302.002 259.127C301.611 259.127 301.221 259.176 300.83 259.273C300.439 259.371 300.195 259.436 300.098 259.469C299.967 259.501 299.87 259.501 299.805 259.469C299.805 259.436 300 259.387 300.391 259.322C300.781 259.225 301.595 259.046 302.832 258.785C304.069 258.492 305.436 258.15 306.934 257.76C312.37 256.36 319.596 255.4 328.613 254.879C322.949 263.896 318.815 269.641 316.211 272.115C315.495 272.799 315.007 273.157 314.746 273.189V273.141C314.811 273.076 314.844 273.01 314.844 272.945C314.714 271.936 315.072 270.032 315.918 267.232C316.081 266.679 315.983 266.256 315.625 265.963C315.43 265.8 315.186 265.751 314.893 265.816C314.6 265.882 314.355 266.044 314.16 266.305C314.16 266.435 313.721 267.005 312.842 268.014C312.809 267.753 312.744 267.542 312.646 267.379C312.223 266.793 311.751 266.37 311.23 266.109C310.71 265.849 310.156 265.735 309.57 265.768C309.017 265.8 308.464 265.93 307.91 266.158C307.357 266.354 306.803 266.646 306.25 267.037C305.208 267.818 304.329 268.73 303.613 269.771C302.799 271.008 302.441 272.115 302.539 273.092C302.669 274.492 303.564 275.11 305.225 274.947C307.764 274.719 310.335 273.352 312.939 270.846C312.744 272.018 312.679 272.962 312.744 273.678C312.907 274.98 313.493 275.615 314.502 275.582C315.283 275.549 316.243 274.98 317.383 273.873C319.824 271.562 323.486 266.614 328.369 259.029C327.393 261.503 326.481 263.945 325.635 266.354C324.821 268.762 323.942 271.432 322.998 274.361C322.087 277.291 321.322 280.058 320.703 282.662C320.117 285.266 319.629 287.789 319.238 290.23C318.848 292.704 318.701 294.918 318.799 296.871C318.929 298.824 319.303 300.387 319.922 301.559C320.052 301.786 320.247 301.933 320.508 301.998C320.801 302.096 321.061 302.079 321.289 301.949C321.517 301.819 321.663 301.607 321.729 301.314C321.826 301.054 321.81 300.81 321.68 300.582C321.224 299.768 320.931 298.71 320.801 297.408C320.671 296.106 320.671 294.674 320.801 293.111C320.931 291.581 321.175 289.856 321.533 287.936C321.891 286.015 322.314 284.111 322.803 282.223C323.291 280.335 323.861 278.316 324.512 276.168C325.163 274.02 325.798 272.018 326.416 270.162C327.067 268.274 327.751 266.337 328.467 264.352C329.215 262.333 329.867 260.592 330.42 259.127C331.006 257.63 331.592 256.148 332.178 254.684C335.465 254.521 338.932 254.423 342.578 254.391C346.224 254.326 349.382 254.309 352.051 254.342C354.753 254.374 357.357 254.439 359.863 254.537C362.37 254.602 364.128 254.667 365.137 254.732C366.178 254.765 366.846 254.798 367.139 254.83C367.432 254.83 367.676 254.749 367.871 254.586C368.066 254.391 368.164 254.163 368.164 253.902C368.197 253.609 368.115 253.365 367.92 253.17C367.757 252.942 367.529 252.828 367.236 252.828C366.195 252.763 364.518 252.698 362.207 252.633C359.896 252.535 355.68 252.438 349.561 252.34C343.473 252.242 337.956 252.34 333.008 252.633C333.659 251.038 334.163 249.85 334.521 249.068C334.652 248.775 334.684 248.482 334.619 248.189C334.587 247.896 334.473 247.669 334.277 247.506C334.147 247.408 333.984 247.359 333.789 247.359ZM309.277 268.209C309.961 268.209 310.514 268.518 310.938 269.137C311.068 269.299 311.23 269.397 311.426 269.43C309.342 271.318 307.324 272.359 305.371 272.555C304.883 272.587 304.622 272.555 304.59 272.457C304.557 272.164 304.753 271.692 305.176 271.041C305.729 270.26 306.38 269.592 307.129 269.039C307.91 268.486 308.626 268.209 309.277 268.209Z",
-              }),
-              r.a.createElement("path", {
-                d:
-                  "M357.227 272.018C357.487 271.952 357.731 271.985 357.959 272.115C358.219 272.245 358.382 272.457 358.447 272.75C358.512 273.01 358.464 273.255 358.301 273.482C358.171 273.71 357.975 273.857 357.715 273.922C357.617 273.954 357.178 274.068 356.396 274.264C355.615 274.459 354.541 274.752 353.174 275.143C351.807 275.501 350.439 275.891 349.072 276.314C347.705 276.705 346.37 277.145 345.068 277.633C343.766 278.121 342.79 278.561 342.139 278.951C340.739 279.798 339.827 279.863 339.404 279.146C339.176 278.788 339.225 278.137 339.551 277.193C340.267 275.11 340.365 273.434 339.844 272.164C339.616 271.578 338.965 271.806 337.891 272.848C336.816 273.857 335.563 275.37 334.131 277.389C332.699 279.374 331.624 280.872 330.908 281.881C330.225 282.89 329.639 283.769 329.15 284.518V284.566C329.02 284.794 328.809 284.924 328.516 284.957C328.255 285.022 328.011 284.99 327.783 284.859C327.36 284.566 327.23 284.176 327.393 283.688H327.344C331.348 271.09 334.88 261.015 337.939 253.463C341.032 245.911 343.587 240.654 345.605 237.691C346.354 236.585 347.054 235.771 347.705 235.25C348.389 234.729 348.975 234.501 349.463 234.566C349.951 234.632 350.374 234.957 350.732 235.543C351.449 236.682 351.449 239.026 350.732 242.574C350.277 244.853 349.561 247.294 348.584 249.898C347.64 252.503 346.436 255.237 344.971 258.102C343.538 260.934 341.748 263.733 339.6 266.5C337.484 269.234 335.205 271.578 332.764 273.531C332.438 274.475 331.934 276.005 331.25 278.121C333.594 275.029 335.742 272.717 337.695 271.188C339.648 269.625 340.983 269.706 341.699 271.432C342.35 273.027 342.367 274.85 341.748 276.9C343.018 276.249 344.971 275.517 347.607 274.703C350.277 273.857 352.474 273.206 354.199 272.75C355.924 272.294 356.934 272.05 357.227 272.018ZM347.217 238.814C343.831 243.795 339.453 254.098 334.082 269.723C336.654 267.184 339.014 264.173 341.162 260.689C343.311 257.174 344.971 253.886 346.143 250.826C347.347 247.766 348.226 244.885 348.779 242.184C349.398 239.189 349.479 237.317 349.023 236.568C348.926 236.438 348.324 237.187 347.217 238.814Z",
-              }),
-              r.a.createElement("path", {
-                d:
-                  "M364.16 262.74C364.062 262.74 363.981 262.74 363.916 262.74C363.59 262.838 363.249 263.001 362.891 263.229C362.565 263.424 362.272 263.635 362.012 263.863C361.751 264.091 361.475 264.384 361.182 264.742C360.921 265.068 360.71 265.344 360.547 265.572C360.384 265.8 360.205 266.077 360.01 266.402C359.847 266.695 359.749 266.874 359.717 266.939C359.717 266.972 359.684 267.037 359.619 267.135C359.489 267.395 359.473 267.656 359.57 267.916C359.668 268.176 359.831 268.372 360.059 268.502C360.319 268.6 360.579 268.6 360.84 268.502C361.1 268.404 361.296 268.242 361.426 268.014C361.426 267.949 361.556 267.688 361.816 267.232C362.077 266.777 362.451 266.272 362.939 265.719C363.428 265.133 363.916 264.791 364.404 264.693C364.665 264.628 364.86 264.482 364.99 264.254C365.153 264.026 365.202 263.782 365.137 263.521C365.007 262.968 364.681 262.708 364.16 262.74ZM359.229 269.967C358.936 269.967 358.675 270.081 358.447 270.309C357.113 271.936 356.234 273.352 355.811 274.557C355.518 275.403 355.452 276.119 355.615 276.705C355.778 277.486 356.217 278.04 356.934 278.365C357.454 278.593 358.057 278.707 358.74 278.707C360.042 278.707 361.947 278.235 364.453 277.291C365.43 276.9 366.423 276.477 367.432 276.021C368.441 275.566 369.303 275.143 370.02 274.752C370.736 274.361 371.257 274.052 371.582 273.824C371.81 273.661 371.94 273.45 371.973 273.189C372.038 272.929 371.989 272.685 371.826 272.457C371.663 272.229 371.436 272.099 371.143 272.066C370.882 272.001 370.654 272.05 370.459 272.213C369.124 273.157 366.895 274.215 363.77 275.387C361.491 276.266 359.814 276.705 358.74 276.705C358.317 276.705 358.008 276.656 357.812 276.559C357.682 276.493 357.601 276.396 357.568 276.266C357.503 276.005 357.552 275.663 357.715 275.24C358.04 274.231 358.805 273.01 360.01 271.578C360.173 271.383 360.238 271.155 360.205 270.895C360.205 270.602 360.091 270.357 359.863 270.162C359.701 270.032 359.489 269.967 359.229 269.967Z",
-              }),
-              r.a.createElement("path", {
-                d:
-                  "M374.268 271.529C374.495 271.562 374.691 271.66 374.854 271.822C375.016 271.985 375.081 272.18 375.049 272.408C375.049 272.538 375.016 272.669 374.951 272.799C374.886 272.896 374.805 272.994 374.707 273.092C374.642 273.157 374.544 273.206 374.414 273.238C374.316 273.271 374.202 273.287 374.072 273.287C372.64 273.32 371.37 274.02 370.264 275.387C369.482 276.396 369.271 277.079 369.629 277.438C369.824 277.665 370.231 277.649 370.85 277.389C371.208 277.258 371.712 276.835 372.363 276.119C373.535 274.882 374.951 273.01 376.611 270.504C377.393 267.574 378.304 264.514 379.346 261.324C380.973 256.311 382.633 251.819 384.326 247.848C386.019 243.844 387.419 241.24 388.525 240.035C389.535 238.961 390.397 238.766 391.113 239.449C391.374 239.677 391.569 239.97 391.699 240.328C391.96 241.174 391.846 242.558 391.357 244.479C390.869 246.367 390.12 248.482 389.111 250.826C388.135 253.17 386.963 255.676 385.596 258.346C383.187 263.033 380.729 267.281 378.223 271.09C377.441 274.02 376.855 276.559 376.465 278.707C376.074 280.855 375.944 282.418 376.074 283.395C376.074 283.492 376.042 283.622 375.977 283.785V283.834C376.204 283.801 376.416 283.85 376.611 283.98C376.807 284.111 376.921 284.29 376.953 284.518C376.986 284.745 376.921 284.957 376.758 285.152C376.595 285.38 376.4 285.527 376.172 285.592C375.098 285.82 374.479 285.217 374.316 283.785C374.121 282.223 374.512 279.293 375.488 274.996C374.772 275.908 374.137 276.656 373.584 277.242C372.738 278.186 372.005 278.772 371.387 279C369.922 279.618 368.799 279.57 368.018 278.854C367.464 278.398 367.204 277.747 367.236 276.9C367.301 275.273 367.969 273.954 369.238 272.945C370.54 271.904 372.217 271.432 374.268 271.529ZM379.932 265.133C381.331 262.724 382.682 260.25 383.984 257.711C386.035 253.707 387.63 250.191 388.77 247.164C389.909 244.104 390.316 242.07 389.99 241.061C389.958 240.93 389.925 240.849 389.893 240.816L389.844 240.865L389.746 241.158C388.737 242.232 387.419 244.706 385.791 248.58C384.196 252.421 382.601 256.783 381.006 261.666C380.583 263.001 380.225 264.156 379.932 265.133Z",
-              }),
-              r.a.createElement("path", {
-                d:
-                  "M389.99 271.822C390.088 271.952 390.153 272.099 390.186 272.262C391.064 271.253 391.504 270.699 391.504 270.602C391.667 270.374 391.878 270.243 392.139 270.211C392.432 270.146 392.692 270.178 392.92 270.309C393.245 270.569 393.392 270.895 393.359 271.285C393.066 273.434 392.871 274.898 392.773 275.68C392.708 276.461 392.725 276.9 392.822 276.998C393.083 277.031 394.206 276.477 396.191 275.338C398.568 273.971 400.57 272.896 402.197 272.115C402.425 271.985 402.669 271.969 402.93 272.066C403.223 272.164 403.418 272.343 403.516 272.604C403.646 272.831 403.662 273.076 403.564 273.336C403.467 273.596 403.304 273.792 403.076 273.922C401.546 274.671 399.593 275.712 397.217 277.047C396.305 277.6 395.638 277.991 395.215 278.219C394.792 278.447 394.32 278.642 393.799 278.805C393.311 278.967 392.904 279.033 392.578 279C391.862 278.902 391.374 278.495 391.113 277.779C390.885 277.063 390.837 275.924 390.967 274.361C388.265 277.128 385.547 278.658 382.812 278.951C381.087 279.114 380.143 278.479 379.98 277.047C379.915 276.168 380.257 275.175 381.006 274.068C381.689 273.027 382.52 272.148 383.496 271.432C383.887 271.171 384.261 270.943 384.619 270.748C384.977 270.553 385.352 270.406 385.742 270.309C386.133 270.178 386.523 270.113 386.914 270.113C387.305 270.113 387.679 270.178 388.037 270.309C388.395 270.406 388.737 270.585 389.062 270.846C389.421 271.106 389.73 271.432 389.99 271.822ZM389.062 273.434C388.802 273.401 388.574 273.255 388.379 272.994C387.565 271.855 386.328 271.871 384.668 273.043C383.887 273.629 383.219 274.329 382.666 275.143C382.178 275.891 381.95 276.461 381.982 276.852C382.015 276.949 382.227 276.982 382.617 276.949C384.733 276.721 386.882 275.549 389.062 273.434Z",
-              }),
-              r.a.createElement("path", {
-                d:
-                  "M401.855 275.631C401.888 275.761 401.888 275.891 401.855 276.021C401.823 276.152 401.774 276.282 401.709 276.412C401.644 276.51 401.562 276.607 401.465 276.705C401.367 276.77 401.253 276.819 401.123 276.852C400.863 276.917 400.602 276.884 400.342 276.754C400.114 276.591 399.967 276.38 399.902 276.119C399.805 275.826 399.854 275.452 400.049 274.996C400.277 274.508 400.667 273.922 401.221 273.238C401.774 272.555 402.262 271.969 402.686 271.48C403.141 270.992 403.792 270.292 404.639 269.381C405.452 268.535 406.055 267.9 406.445 267.477C406.12 267.444 405.876 267.428 405.713 267.428C404.801 267.363 404.118 267.232 403.662 267.037C402.49 266.451 402.327 265.702 403.174 264.791C403.662 264.205 404.899 263.57 406.885 262.887C409.391 261.975 410.84 262.073 411.23 263.18C411.426 263.668 411.263 264.352 410.742 265.23C412.174 265.035 413.135 264.791 413.623 264.498C414.339 264.107 414.876 264.221 415.234 264.84C415.299 265.068 415.332 265.279 415.332 265.475C415.332 265.67 415.251 265.93 415.088 266.256C414.925 266.581 414.762 266.891 414.6 267.184C414.437 267.444 414.209 267.753 413.916 268.111C413.656 268.469 413.411 268.779 413.184 269.039C412.956 269.299 412.712 269.592 412.451 269.918C412.191 270.211 411.979 270.455 411.816 270.65C407.715 275.989 405.404 279.228 404.883 280.367C406.868 279.651 409.163 278.528 411.768 276.998C415.12 275.045 417.318 273.515 418.359 272.408C418.555 272.213 418.783 272.115 419.043 272.115C419.336 272.115 419.58 272.213 419.775 272.408C419.971 272.571 420.068 272.799 420.068 273.092C420.101 273.352 420.02 273.58 419.824 273.775C418.652 275.045 416.309 276.705 412.793 278.756C409.896 280.416 407.34 281.62 405.127 282.369C403.923 282.792 403.158 282.532 402.832 281.588C402.702 281.165 402.816 280.514 403.174 279.635C403.564 278.788 404.215 277.714 405.127 276.412C406.038 275.077 406.82 273.971 407.471 273.092C408.154 272.18 409.082 270.96 410.254 269.43C410.84 268.648 411.637 267.802 412.646 266.891C411.572 267.118 410.417 267.281 409.18 267.379C408.561 268.095 407.536 269.218 406.104 270.748C403.206 273.84 401.79 275.468 401.855 275.631ZM408.252 265.426C409.066 264.514 409.44 263.993 409.375 263.863C409.375 263.831 409.31 263.847 409.18 263.912C409.082 263.977 408.87 264.107 408.545 264.303C408.252 264.465 407.91 264.612 407.52 264.742C406.868 264.97 406.299 265.198 405.811 265.426H405.859C406.543 265.491 407.34 265.491 408.252 265.426Z",
-              }),
-              r.a.createElement("path", {
-                d:
-                  "M426.27 271.822C426.367 271.952 426.432 272.099 426.465 272.262C427.344 271.253 427.783 270.699 427.783 270.602C427.946 270.374 428.158 270.243 428.418 270.211C428.711 270.146 428.971 270.178 429.199 270.309C429.525 270.569 429.671 270.895 429.639 271.285C429.346 273.434 429.15 274.898 429.053 275.68C428.988 276.461 429.004 276.9 429.102 276.998C429.362 277.031 430.485 276.477 432.471 275.338C434.847 273.971 436.849 272.896 438.477 272.115C438.704 271.985 438.949 271.969 439.209 272.066C439.502 272.164 439.697 272.343 439.795 272.604C439.925 272.831 439.941 273.076 439.844 273.336C439.746 273.596 439.583 273.792 439.355 273.922C437.826 274.671 435.872 275.712 433.496 277.047C432.585 277.6 431.917 277.991 431.494 278.219C431.071 278.447 430.599 278.642 430.078 278.805C429.59 278.967 429.183 279.033 428.857 279C428.141 278.902 427.653 278.495 427.393 277.779C427.165 277.063 427.116 275.924 427.246 274.361C424.544 277.128 421.826 278.658 419.092 278.951C417.367 279.114 416.423 278.479 416.26 277.047C416.195 276.168 416.536 275.175 417.285 274.068C417.969 273.027 418.799 272.148 419.775 271.432C420.166 271.171 420.54 270.943 420.898 270.748C421.257 270.553 421.631 270.406 422.021 270.309C422.412 270.178 422.803 270.113 423.193 270.113C423.584 270.113 423.958 270.178 424.316 270.309C424.674 270.406 425.016 270.585 425.342 270.846C425.7 271.106 426.009 271.432 426.27 271.822ZM425.342 273.434C425.081 273.401 424.854 273.255 424.658 272.994C423.844 271.855 422.607 271.871 420.947 273.043C420.166 273.629 419.499 274.329 418.945 275.143C418.457 275.891 418.229 276.461 418.262 276.852C418.294 276.949 418.506 276.982 418.896 276.949C421.012 276.721 423.161 275.549 425.342 273.434Z",
-              })
-            ),
-            r.a.createElement("path", {
-              class: "signature1",
-              d:
-                "M32.5195 293.502C32.2917 293.73 32.015 293.844 31.6895 293.844C31.3965 293.844 31.1361 293.73 30.9082 293.502C30.7129 293.274 30.6152 292.997 30.6152 292.672C30.6152 292.379 30.7292 292.118 30.957 291.891C33.9844 288.896 39.3066 283.85 46.9238 276.754C44.7428 277.014 42.4154 277.356 39.9414 277.779C25.2279 280.351 12.5 284.632 1.75782 290.621C1.4974 290.784 1.20443 290.816 0.878911 290.719C0.585942 290.654 0.358077 290.475 0.195317 290.182C0.0651085 289.921 0.0488325 289.645 0.146489 289.352C0.244145 289.059 0.423181 288.831 0.683598 288.668C11.6211 282.548 24.5931 278.186 39.5996 275.582C42.8223 275.029 46.1914 274.557 49.707 274.166C73.0794 252.486 88.1348 240.377 94.8731 237.838C97.2819 236.926 98.8119 237.317 99.4629 239.01C99.821 239.954 99.7721 241.386 99.3164 243.307C98.8607 245.195 97.933 247.669 96.5332 250.729C95.166 253.756 93.9616 256.295 92.9199 258.346C91.9108 260.396 90.4297 263.294 88.4766 267.037C86.7839 270.292 85.6934 272.408 85.2051 273.385C85.8561 273.417 86.735 273.482 87.8418 273.58C90.2832 273.775 92.041 274.101 93.1152 274.557C94.1895 275.012 94.694 275.598 94.6289 276.314C94.5964 276.673 94.401 277.031 94.043 277.389C93.7175 277.747 93.1641 278.121 92.3828 278.512C91.6016 278.902 90.918 279.212 90.332 279.439C89.7461 279.7 88.8672 280.058 87.6953 280.514C84.9935 281.555 83.0892 282.337 81.9824 282.857C80.8757 283.411 80.1107 283.248 79.6875 282.369C79.2643 281.555 79.9479 279.228 81.7383 275.387C71.224 274.866 60.8561 275.159 50.6348 276.266C42.1387 284.176 36.1003 289.921 32.5195 293.502ZM95.6543 239.889C89.3718 242.298 75.2767 253.593 53.3691 273.775C63.1348 272.864 72.9492 272.669 82.8125 273.189C83.4635 271.92 84.7005 269.527 86.5234 266.012C87.7604 263.635 88.7044 261.813 89.3555 260.543C90.0065 259.273 90.8691 257.548 91.9434 255.367C93.0501 253.154 93.8965 251.38 94.4824 250.045C95.0684 248.71 95.6543 247.278 96.2402 245.748C96.8587 244.218 97.2494 242.981 97.4121 242.037C97.5749 241.061 97.5586 240.328 97.3633 239.84C97.2331 239.482 96.6634 239.498 95.6543 239.889ZM84.082 275.533C82.8776 277.975 82.1289 279.635 81.8359 280.514C82.8776 280.025 84.554 279.326 86.8652 278.414C90.5436 277.014 92.3828 276.266 92.3828 276.168C92.3828 276.135 92.2526 276.119 91.9922 276.119C91.7318 276.087 91.1784 276.054 90.332 276.021C89.5182 275.956 88.6231 275.875 87.6465 275.777C86.6374 275.68 85.4492 275.598 84.082 275.533Z",
-              stroke: e.body,
-              "stroke-width": "6",
-              mask: "url(#path-5-inside-1)",
-            }),
-            r.a.createElement("path", {
-              class: "signature2",
-              d:
-                "M106.006 271.822C105.843 272.05 105.632 272.197 105.371 272.262C105.111 272.294 104.867 272.229 104.639 272.066C104.411 271.904 104.264 271.692 104.199 271.432C104.134 271.171 104.183 270.927 104.346 270.699C105.322 269.234 105.762 268.258 105.664 267.77C105.632 267.672 105.404 267.672 104.98 267.77C104.102 267.9 103.19 268.323 102.246 269.039C101.497 269.592 100.928 270.195 100.537 270.846C100.146 271.497 100.081 272.115 100.342 272.701C100.602 273.385 101.367 274.573 102.637 276.266L102.881 276.51C103.988 276.054 105.127 275.598 106.299 275.143C107.503 274.654 108.545 274.247 109.424 273.922C110.335 273.564 111.165 273.255 111.914 272.994C112.695 272.701 113.281 272.49 113.672 272.359C114.063 272.197 114.274 272.115 114.307 272.115C114.469 272.05 114.632 272.034 114.795 272.066C114.958 272.099 115.104 272.18 115.234 272.311C115.397 272.408 115.511 272.555 115.576 272.75C115.674 273.01 115.658 273.271 115.527 273.531C115.397 273.759 115.202 273.922 114.941 274.02C114.941 274.02 114.876 274.052 114.746 274.117C114.616 274.15 114.421 274.215 114.16 274.312C113.932 274.378 113.656 274.475 113.33 274.605C113.005 274.736 112.63 274.882 112.207 275.045C111.784 275.175 111.328 275.338 110.84 275.533C110.352 275.696 109.831 275.891 109.277 276.119C108.724 276.314 108.171 276.526 107.617 276.754C107.064 276.949 106.478 277.177 105.859 277.438C105.241 277.665 104.639 277.91 104.053 278.17C105.16 279.765 105.713 281.1 105.713 282.174C105.745 283.574 104.948 284.664 103.32 285.445C101.725 286.259 99.0072 286.715 95.166 286.812C89.5996 286.943 87.2721 286.227 88.1836 284.664C89.0951 283.036 93.3594 280.595 100.977 277.34C99.6419 275.582 98.7956 274.28 98.4375 273.434C98.0469 272.359 98.112 271.301 98.6328 270.26C99.1537 269.186 99.9675 268.242 101.074 267.428C102.279 266.516 103.467 265.963 104.639 265.768C106.331 265.475 107.324 265.995 107.617 267.33C107.845 268.404 107.308 269.902 106.006 271.822ZM103.711 282.223C103.711 281.474 103.19 280.383 102.148 278.951C95.1172 281.881 91.9922 283.72 92.7734 284.469C93.0339 284.729 93.8151 284.843 95.1172 284.811C100.879 284.68 103.743 283.818 103.711 282.223Z",
-              stroke: e.body,
-              "stroke-width": "6",
-              mask: "url(#path-5-inside-1)",
-            }),
-            r.a.createElement("path", {
-              class: "signature3",
-              d:
-                "M140.234 272.018C140.495 271.952 140.739 271.985 140.967 272.115C141.227 272.245 141.39 272.457 141.455 272.75C141.52 273.01 141.471 273.255 141.309 273.482C141.178 273.71 140.983 273.857 140.723 273.922C140.625 273.954 140.186 274.068 139.404 274.264C138.623 274.459 137.549 274.752 136.182 275.143C134.814 275.501 133.447 275.891 132.08 276.314C130.713 276.705 129.378 277.145 128.076 277.633C126.774 278.121 125.798 278.561 125.146 278.951C123.747 279.798 122.835 279.863 122.412 279.146C122.184 278.788 122.233 278.137 122.559 277.193C123.275 275.11 123.372 273.434 122.852 272.164C122.624 271.578 121.973 271.806 120.898 272.848C119.824 273.857 118.571 275.37 117.139 277.389C115.706 279.374 114.632 280.872 113.916 281.881C113.232 282.89 112.646 283.769 112.158 284.518V284.566C112.028 284.794 111.816 284.924 111.523 284.957C111.263 285.022 111.019 284.99 110.791 284.859C110.368 284.566 110.238 284.176 110.4 283.688H110.352C114.355 271.09 117.887 261.015 120.947 253.463C124.04 245.911 126.595 240.654 128.613 237.691C129.362 236.585 130.062 235.771 130.713 235.25C131.396 234.729 131.982 234.501 132.471 234.566C132.959 234.632 133.382 234.957 133.74 235.543C134.456 236.682 134.456 239.026 133.74 242.574C133.285 244.853 132.568 247.294 131.592 249.898C130.648 252.503 129.443 255.237 127.979 258.102C126.546 260.934 124.756 263.733 122.607 266.5C120.492 269.234 118.213 271.578 115.771 273.531C115.446 274.475 114.941 276.005 114.258 278.121C116.602 275.029 118.75 272.717 120.703 271.188C122.656 269.625 123.991 269.706 124.707 271.432C125.358 273.027 125.374 274.85 124.756 276.9C126.025 276.249 127.979 275.517 130.615 274.703C133.285 273.857 135.482 273.206 137.207 272.75C138.932 272.294 139.941 272.05 140.234 272.018ZM130.225 238.814C126.839 243.795 122.461 254.098 117.09 269.723C119.661 267.184 122.021 264.173 124.17 260.689C126.318 257.174 127.979 253.886 129.15 250.826C130.355 247.766 131.234 244.885 131.787 242.184C132.406 239.189 132.487 237.317 132.031 236.568C131.934 236.438 131.331 237.187 130.225 238.814Z",
-              stroke: e.body,
-              "stroke-width": "6",
-              mask: "url(#path-5-inside-1)",
-            }),
-            r.a.createElement("path", {
-              class: "signature4",
-              d:
-                "M163.574 247.359C163.216 247.359 162.939 247.522 162.744 247.848C162.256 248.531 161.426 250.077 160.254 252.486C149.837 253.007 141.585 254.033 135.498 255.563C133.35 256.116 131.608 256.653 130.273 257.174C128.939 257.695 128.027 258.167 127.539 258.59C127.018 258.98 126.807 259.355 126.904 259.713C127.132 260.592 128.532 260.982 131.104 260.885C133.122 260.82 135.124 260.592 137.109 260.201C138.607 259.941 139.779 259.583 140.625 259.127C141.504 258.671 141.878 258.134 141.748 257.516C141.715 257.255 141.585 257.044 141.357 256.881C141.13 256.718 140.869 256.669 140.576 256.734C140.316 256.799 140.104 256.946 139.941 257.174C139.779 257.369 139.73 257.613 139.795 257.906C139.795 257.939 139.665 257.971 139.404 258.004C139.176 258.004 138.786 258.036 138.232 258.102C137.712 258.134 137.223 258.183 136.768 258.248C134.88 258.606 132.975 258.818 131.055 258.883C130.697 258.883 130.322 258.932 129.932 259.029C129.541 259.127 129.297 259.192 129.199 259.225C129.069 259.257 128.955 259.257 128.857 259.225C128.857 259.192 129.053 259.143 129.443 259.078C129.834 258.98 130.648 258.801 131.885 258.541C133.122 258.248 134.489 257.906 135.986 257.516C141.748 256.051 149.512 255.058 159.277 254.537C158.984 255.156 158.561 256.051 158.008 257.223C157.064 259.176 156.348 260.673 155.859 261.715C155.371 262.724 154.688 264.156 153.809 266.012C152.93 267.835 152.214 269.251 151.66 270.26C151.107 271.269 150.505 272.343 149.854 273.482C149.202 274.589 148.665 275.387 148.242 275.875C147.819 276.363 147.477 276.591 147.217 276.559C147.054 276.526 147.054 276.282 147.217 275.826C147.38 275.37 147.673 274.768 148.096 274.02C148.519 273.238 148.812 272.717 148.975 272.457C149.137 272.164 149.333 271.839 149.561 271.48C149.821 271.057 149.788 270.667 149.463 270.309C149.268 270.081 149.04 269.967 148.779 269.967C148.519 269.934 148.275 270.016 148.047 270.211L139.99 277.291C140.055 276.184 141.488 273.531 144.287 269.332C144.45 269.104 144.499 268.86 144.434 268.6C144.368 268.339 144.222 268.128 143.994 267.965C143.766 267.802 143.506 267.753 143.213 267.818C142.952 267.851 142.757 267.997 142.627 268.258C138.883 274.41 137.435 278.056 138.281 279.195C138.997 280.139 141.032 279.065 144.385 275.973C144.873 275.549 145.361 275.094 145.85 274.605C145.068 276.949 145.41 278.251 146.875 278.512C147.786 278.707 148.942 277.828 150.342 275.875C151.742 273.922 153.337 271.22 155.127 267.77C148.389 287.236 146.338 299.378 148.975 304.195C149.137 304.423 149.349 304.57 149.609 304.635C149.87 304.732 150.114 304.716 150.342 304.586C150.602 304.456 150.765 304.244 150.83 303.951C150.895 303.691 150.863 303.447 150.732 303.219C150.179 302.177 149.87 300.68 149.805 298.727C149.772 296.773 149.935 294.658 150.293 292.379C150.684 290.1 151.237 287.512 151.953 284.615C152.702 281.751 153.483 279.016 154.297 276.412C155.143 273.775 156.071 271.008 157.08 268.111C158.089 265.182 158.984 262.675 159.766 260.592C160.579 258.508 161.393 256.441 162.207 254.391C165.43 254.228 168.815 254.13 172.363 254.098C175.911 254.065 178.988 254.081 181.592 254.146C184.229 254.179 186.751 254.228 189.16 254.293C191.602 254.358 193.311 254.423 194.287 254.488C195.264 254.521 195.898 254.553 196.191 254.586C196.387 254.586 196.566 254.553 196.729 254.488C196.891 254.391 197.021 254.277 197.119 254.146C197.217 253.984 197.266 253.805 197.266 253.609C197.266 253.349 197.168 253.121 196.973 252.926C196.81 252.698 196.598 252.584 196.338 252.584C195.264 252.519 193.62 252.454 191.406 252.389C189.225 252.291 185.156 252.193 179.199 252.096C173.275 251.998 167.887 252.079 163.037 252.34C163.786 250.452 164.274 249.264 164.502 248.775C164.567 248.645 164.6 248.499 164.6 248.336C164.6 248.303 164.6 248.271 164.6 248.238C164.567 248.206 164.551 248.173 164.551 248.141C164.551 248.108 164.551 248.092 164.551 248.092C164.551 248.059 164.535 248.043 164.502 248.043C164.502 248.01 164.502 247.994 164.502 247.994C164.502 247.962 164.502 247.945 164.502 247.945V247.896C164.404 247.766 164.307 247.652 164.209 247.555C164.144 247.522 164.062 247.49 163.965 247.457C163.835 247.392 163.704 247.359 163.574 247.359Z",
-              stroke: e.body,
-              "stroke-width": "6",
-              mask: "url(#path-5-inside-1)",
-            }),
-            r.a.createElement("path", {
-              class: "signature5",
-              d:
-                "M162.744 271.773C162.972 271.969 162.956 272.278 162.695 272.701C162.598 272.864 162.5 273.043 162.402 273.238C162.305 273.401 162.126 273.71 161.865 274.166C161.637 274.622 161.442 275.045 161.279 275.436C161.117 275.794 160.97 276.184 160.84 276.607C160.742 276.998 160.726 277.324 160.791 277.584C160.856 277.844 161.019 277.975 161.279 277.975C161.833 278.072 162.646 277.47 163.721 276.168C164.404 275.354 165.039 274.41 165.625 273.336C165.072 273.108 164.6 272.799 164.209 272.408C162.809 271.204 162.288 269.706 162.646 267.916C162.907 266.354 163.639 265.165 164.844 264.352C166.081 263.538 167.188 263.538 168.164 264.352C169.206 265.198 169.613 266.565 169.385 268.453C169.255 269.592 168.913 270.846 168.359 272.213C170.801 272.734 174.17 272.604 178.467 271.822C178.76 271.757 179.02 271.806 179.248 271.969C179.476 272.132 179.606 272.359 179.639 272.652C179.704 272.913 179.655 273.157 179.492 273.385C179.329 273.58 179.118 273.71 178.857 273.775C174.105 274.654 170.329 274.736 167.529 274.02C166.846 275.322 166.097 276.461 165.283 277.438C163.721 279.293 162.305 280.139 161.035 279.977C158.626 279.716 158.203 277.763 159.766 274.117C159.961 273.531 160.173 273.043 160.4 272.652C160.661 272.262 160.905 271.985 161.133 271.822C161.361 271.66 161.572 271.562 161.768 271.529C161.995 271.464 162.191 271.464 162.354 271.529C162.516 271.562 162.646 271.643 162.744 271.773ZM166.455 271.578C166.976 270.341 167.285 269.234 167.383 268.258C167.546 267.086 167.383 266.305 166.895 265.914C166.667 265.719 166.357 265.751 165.967 266.012C165.251 266.5 164.795 267.249 164.6 268.258C164.404 269.332 164.714 270.227 165.527 270.943C165.788 271.171 166.097 271.383 166.455 271.578Z",
-              stroke: e.body,
-              "stroke-width": "6",
-              mask: "url(#path-5-inside-1)",
-            }),
-            r.a.createElement("path", {
-              class: "signature6",
-              d:
-                "M185.352 271.822C185.189 272.05 184.977 272.197 184.717 272.262C184.456 272.294 184.212 272.229 183.984 272.066C183.757 271.904 183.61 271.692 183.545 271.432C183.48 271.171 183.529 270.927 183.691 270.699C184.668 269.234 185.107 268.258 185.01 267.77C184.977 267.672 184.749 267.672 184.326 267.77C183.447 267.9 182.536 268.323 181.592 269.039C180.843 269.592 180.273 270.195 179.883 270.846C179.492 271.497 179.427 272.115 179.688 272.701C179.948 273.385 180.713 274.573 181.982 276.266L182.227 276.51C183.333 276.054 184.473 275.598 185.645 275.143C186.849 274.654 187.891 274.247 188.77 273.922C189.681 273.564 190.511 273.255 191.26 272.994C192.041 272.701 192.627 272.49 193.018 272.359C193.408 272.197 193.62 272.115 193.652 272.115C193.815 272.05 193.978 272.034 194.141 272.066C194.303 272.099 194.45 272.18 194.58 272.311C194.743 272.408 194.857 272.555 194.922 272.75C195.02 273.01 195.003 273.271 194.873 273.531C194.743 273.759 194.548 273.922 194.287 274.02C194.287 274.02 194.222 274.052 194.092 274.117C193.962 274.15 193.766 274.215 193.506 274.312C193.278 274.378 193.001 274.475 192.676 274.605C192.35 274.736 191.976 274.882 191.553 275.045C191.13 275.175 190.674 275.338 190.186 275.533C189.697 275.696 189.176 275.891 188.623 276.119C188.07 276.314 187.516 276.526 186.963 276.754C186.41 276.949 185.824 277.177 185.205 277.438C184.587 277.665 183.984 277.91 183.398 278.17C184.505 279.765 185.059 281.1 185.059 282.174C185.091 283.574 184.294 284.664 182.666 285.445C181.071 286.259 178.353 286.715 174.512 286.812C168.945 286.943 166.618 286.227 167.529 284.664C168.441 283.036 172.705 280.595 180.322 277.34C178.988 275.582 178.141 274.28 177.783 273.434C177.393 272.359 177.458 271.301 177.979 270.26C178.499 269.186 179.313 268.242 180.42 267.428C181.624 266.516 182.812 265.963 183.984 265.768C185.677 265.475 186.67 265.995 186.963 267.33C187.191 268.404 186.654 269.902 185.352 271.822ZM183.057 282.223C183.057 281.474 182.536 280.383 181.494 278.951C174.463 281.881 171.338 283.72 172.119 284.469C172.38 284.729 173.161 284.843 174.463 284.811C180.225 284.68 183.089 283.818 183.057 282.223Z",
-              stroke: e.body,
-              "stroke-width": "6",
-              mask: "url(#path-5-inside-1)",
-            }),
-            r.a.createElement("path", {
-              class: "signature7",
-              d:
-                "M219.58 272.018C219.84 271.952 220.085 271.985 220.312 272.115C220.573 272.245 220.736 272.457 220.801 272.75C220.866 273.01 220.817 273.255 220.654 273.482C220.524 273.71 220.329 273.857 220.068 273.922C219.971 273.954 219.531 274.068 218.75 274.264C217.969 274.459 216.895 274.752 215.527 275.143C214.16 275.501 212.793 275.891 211.426 276.314C210.059 276.705 208.724 277.145 207.422 277.633C206.12 278.121 205.143 278.561 204.492 278.951C203.092 279.798 202.181 279.863 201.758 279.146C201.53 278.788 201.579 278.137 201.904 277.193C202.62 275.11 202.718 273.434 202.197 272.164C201.969 271.578 201.318 271.806 200.244 272.848C199.17 273.857 197.917 275.37 196.484 277.389C195.052 279.374 193.978 280.872 193.262 281.881C192.578 282.89 191.992 283.769 191.504 284.518V284.566C191.374 284.794 191.162 284.924 190.869 284.957C190.609 285.022 190.365 284.99 190.137 284.859C189.714 284.566 189.583 284.176 189.746 283.688H189.697C193.701 271.09 197.233 261.015 200.293 253.463C203.385 245.911 205.941 240.654 207.959 237.691C208.708 236.585 209.408 235.771 210.059 235.25C210.742 234.729 211.328 234.501 211.816 234.566C212.305 234.632 212.728 234.957 213.086 235.543C213.802 236.682 213.802 239.026 213.086 242.574C212.63 244.853 211.914 247.294 210.938 249.898C209.993 252.503 208.789 255.237 207.324 258.102C205.892 260.934 204.102 263.733 201.953 266.5C199.837 269.234 197.559 271.578 195.117 273.531C194.792 274.475 194.287 276.005 193.604 278.121C195.947 275.029 198.096 272.717 200.049 271.188C202.002 269.625 203.337 269.706 204.053 271.432C204.704 273.027 204.72 274.85 204.102 276.9C205.371 276.249 207.324 275.517 209.961 274.703C212.63 273.857 214.827 273.206 216.553 272.75C218.278 272.294 219.287 272.05 219.58 272.018ZM209.57 238.814C206.185 243.795 201.807 254.098 196.436 269.723C199.007 267.184 201.367 264.173 203.516 260.689C205.664 257.174 207.324 253.886 208.496 250.826C209.701 247.766 210.579 244.885 211.133 242.184C211.751 239.189 211.833 237.317 211.377 236.568C211.279 236.438 210.677 237.187 209.57 238.814Z",
-              stroke: e.body,
-              "stroke-width": "6",
-              mask: "url(#path-5-inside-1)",
-            }),
-            r.a.createElement("path", {
-              class: "signature8",
-              d:
-                "M306.299 242.184C305.876 242.184 305.566 242.379 305.371 242.77C301.204 251.396 297.428 259.908 294.043 268.307C292.839 268.339 291.455 268.388 289.893 268.453C285.075 268.714 278.89 269.251 271.338 270.064C272.477 266.972 273.633 263.733 274.805 260.348C276.009 256.93 276.888 254.374 277.441 252.682C278.027 250.989 278.353 250.045 278.418 249.85C278.451 249.752 278.467 249.622 278.467 249.459C278.434 249.199 278.304 248.987 278.076 248.824C277.881 248.629 277.653 248.531 277.393 248.531C270.361 249.02 262.63 250.077 254.199 251.705C235.221 255.383 223.372 260.494 218.652 267.037C215.983 270.748 215.788 274.85 218.066 279.342C218.197 279.602 218.392 279.765 218.652 279.83C218.913 279.928 219.157 279.911 219.385 279.781C219.645 279.651 219.808 279.456 219.873 279.195C219.971 278.935 219.971 278.691 219.873 278.463C215.902 270.65 220.703 264.173 234.277 259.029C244.076 255.318 256.999 252.633 273.047 250.973L276.025 250.68C273.91 257.092 271.696 263.619 269.385 270.26C264.404 270.813 259.88 271.383 255.811 271.969C251.742 272.522 249.544 272.864 249.219 272.994C247.363 273.873 246.794 275.094 247.51 276.656C247.835 277.372 248.877 278.609 250.635 280.367C251.676 281.344 252.49 282.158 253.076 282.809C253.662 283.46 254.395 284.355 255.273 285.494C256.152 286.633 256.852 287.822 257.373 289.059C257.894 290.296 258.236 291.581 258.398 292.916C258.919 296.692 260.986 294.641 264.6 286.764C266.292 283.053 268.278 278.17 270.557 272.115C278.532 271.269 285.01 270.715 289.99 270.455C291.162 270.39 292.253 270.357 293.262 270.357C284.993 291.191 282.975 302.307 287.207 303.707C287.565 303.805 287.956 303.837 288.379 303.805C288.672 303.805 288.9 303.691 289.062 303.463C289.258 303.268 289.339 303.04 289.307 302.779C289.274 302.193 288.932 301.868 288.281 301.803C285.677 301.607 286.068 296.236 289.453 285.689C290.918 281.1 292.822 275.973 295.166 270.309C296.045 270.309 296.794 270.341 297.412 270.406C297.673 270.439 298.193 270.276 298.975 269.918C299.072 269.885 299.105 269.902 299.072 269.967C299.04 270.032 298.763 270.211 298.242 270.504C297.982 270.634 297.803 270.829 297.705 271.09C297.64 271.35 297.673 271.611 297.803 271.871C297.933 272.099 298.128 272.262 298.389 272.359C298.649 272.424 298.91 272.392 299.17 272.262C300.114 271.773 300.684 271.285 300.879 270.797C301.497 269.43 300.391 268.632 297.559 268.404C297.103 268.372 296.582 268.355 295.996 268.355C297.624 264.514 299.382 260.494 301.27 256.295C303.19 252.063 304.59 249.003 305.469 247.115C306.38 245.227 306.95 244.072 307.178 243.648C307.275 243.388 307.275 243.128 307.178 242.867C307.113 242.607 306.95 242.411 306.689 242.281C306.559 242.216 306.429 242.184 306.299 242.184ZM268.652 272.311C265.82 280.481 263.379 286.243 261.328 289.596C260.482 290.898 259.977 291.305 259.814 290.816C259.424 289.384 258.968 288.115 258.447 287.008C257.959 285.901 257.357 284.876 256.641 283.932C255.924 282.988 255.322 282.239 254.834 281.686C254.346 281.165 253.63 280.449 252.686 279.537C252.393 279.277 252.181 279.081 252.051 278.951C250.456 277.389 249.544 276.347 249.316 275.826C249.154 275.468 249.398 275.143 250.049 274.85C250.342 274.687 252.344 274.361 256.055 273.873C259.798 273.352 263.997 272.831 268.652 272.311Z",
-              stroke: e.body,
-              "stroke-width": "6",
-              mask: "url(#path-5-inside-1)",
-            }),
-            r.a.createElement("path", {
-              class: "signature9",
-              d:
-                "M333.789 247.359C333.398 247.359 333.073 247.571 332.812 247.994C331.803 249.654 330.827 251.249 329.883 252.779C320.052 253.333 312.24 254.342 306.445 255.807C304.818 256.23 303.418 256.637 302.246 257.027C301.074 257.418 300.163 257.792 299.512 258.15C298.861 258.476 298.405 258.801 298.145 259.127C297.884 259.42 297.786 259.697 297.852 259.957C298.079 260.836 299.479 261.227 302.051 261.129C304.004 261.064 306.006 260.836 308.057 260.445C309.554 260.185 310.726 259.827 311.572 259.371C312.419 258.915 312.793 258.378 312.695 257.76C312.63 257.499 312.484 257.288 312.256 257.125C312.028 256.962 311.784 256.913 311.523 256.979C311.263 257.011 311.051 257.141 310.889 257.369C310.726 257.597 310.677 257.857 310.742 258.15C310.742 258.183 310.612 258.215 310.352 258.248C310.091 258.248 309.701 258.281 309.18 258.346C308.659 258.378 308.171 258.427 307.715 258.492C305.762 258.85 303.857 259.062 302.002 259.127C301.611 259.127 301.221 259.176 300.83 259.273C300.439 259.371 300.195 259.436 300.098 259.469C299.967 259.501 299.87 259.501 299.805 259.469C299.805 259.436 300 259.387 300.391 259.322C300.781 259.225 301.595 259.046 302.832 258.785C304.069 258.492 305.436 258.15 306.934 257.76C312.37 256.36 319.596 255.4 328.613 254.879C322.949 263.896 318.815 269.641 316.211 272.115C315.495 272.799 315.007 273.157 314.746 273.189V273.141C314.811 273.076 314.844 273.01 314.844 272.945C314.714 271.936 315.072 270.032 315.918 267.232C316.081 266.679 315.983 266.256 315.625 265.963C315.43 265.8 315.186 265.751 314.893 265.816C314.6 265.882 314.355 266.044 314.16 266.305C314.16 266.435 313.721 267.005 312.842 268.014C312.809 267.753 312.744 267.542 312.646 267.379C312.223 266.793 311.751 266.37 311.23 266.109C310.71 265.849 310.156 265.735 309.57 265.768C309.017 265.8 308.464 265.93 307.91 266.158C307.357 266.354 306.803 266.646 306.25 267.037C305.208 267.818 304.329 268.73 303.613 269.771C302.799 271.008 302.441 272.115 302.539 273.092C302.669 274.492 303.564 275.11 305.225 274.947C307.764 274.719 310.335 273.352 312.939 270.846C312.744 272.018 312.679 272.962 312.744 273.678C312.907 274.98 313.493 275.615 314.502 275.582C315.283 275.549 316.243 274.98 317.383 273.873C319.824 271.562 323.486 266.614 328.369 259.029C327.393 261.503 326.481 263.945 325.635 266.354C324.821 268.762 323.942 271.432 322.998 274.361C322.087 277.291 321.322 280.058 320.703 282.662C320.117 285.266 319.629 287.789 319.238 290.23C318.848 292.704 318.701 294.918 318.799 296.871C318.929 298.824 319.303 300.387 319.922 301.559C320.052 301.786 320.247 301.933 320.508 301.998C320.801 302.096 321.061 302.079 321.289 301.949C321.517 301.819 321.663 301.607 321.729 301.314C321.826 301.054 321.81 300.81 321.68 300.582C321.224 299.768 320.931 298.71 320.801 297.408C320.671 296.106 320.671 294.674 320.801 293.111C320.931 291.581 321.175 289.856 321.533 287.936C321.891 286.015 322.314 284.111 322.803 282.223C323.291 280.335 323.861 278.316 324.512 276.168C325.163 274.02 325.798 272.018 326.416 270.162C327.067 268.274 327.751 266.337 328.467 264.352C329.215 262.333 329.867 260.592 330.42 259.127C331.006 257.63 331.592 256.148 332.178 254.684C335.465 254.521 338.932 254.423 342.578 254.391C346.224 254.326 349.382 254.309 352.051 254.342C354.753 254.374 357.357 254.439 359.863 254.537C362.37 254.602 364.128 254.667 365.137 254.732C366.178 254.765 366.846 254.798 367.139 254.83C367.432 254.83 367.676 254.749 367.871 254.586C368.066 254.391 368.164 254.163 368.164 253.902C368.197 253.609 368.115 253.365 367.92 253.17C367.757 252.942 367.529 252.828 367.236 252.828C366.195 252.763 364.518 252.698 362.207 252.633C359.896 252.535 355.68 252.438 349.561 252.34C343.473 252.242 337.956 252.34 333.008 252.633C333.659 251.038 334.163 249.85 334.521 249.068C334.652 248.775 334.684 248.482 334.619 248.189C334.587 247.896 334.473 247.669 334.277 247.506C334.147 247.408 333.984 247.359 333.789 247.359ZM309.277 268.209C309.961 268.209 310.514 268.518 310.938 269.137C311.068 269.299 311.23 269.397 311.426 269.43C309.342 271.318 307.324 272.359 305.371 272.555C304.883 272.587 304.622 272.555 304.59 272.457C304.557 272.164 304.753 271.692 305.176 271.041C305.729 270.26 306.38 269.592 307.129 269.039C307.91 268.486 308.626 268.209 309.277 268.209Z",
-              stroke: e.body,
-              "stroke-width": "6",
-              mask: "url(#path-5-inside-1)",
-            }),
-            r.a.createElement("path", {
-              class: "signature10",
-              d:
-                "M357.227 272.018C357.487 271.952 357.731 271.985 357.959 272.115C358.219 272.245 358.382 272.457 358.447 272.75C358.512 273.01 358.464 273.255 358.301 273.482C358.171 273.71 357.975 273.857 357.715 273.922C357.617 273.954 357.178 274.068 356.396 274.264C355.615 274.459 354.541 274.752 353.174 275.143C351.807 275.501 350.439 275.891 349.072 276.314C347.705 276.705 346.37 277.145 345.068 277.633C343.766 278.121 342.79 278.561 342.139 278.951C340.739 279.798 339.827 279.863 339.404 279.146C339.176 278.788 339.225 278.137 339.551 277.193C340.267 275.11 340.365 273.434 339.844 272.164C339.616 271.578 338.965 271.806 337.891 272.848C336.816 273.857 335.563 275.37 334.131 277.389C332.699 279.374 331.624 280.872 330.908 281.881C330.225 282.89 329.639 283.769 329.15 284.518V284.566C329.02 284.794 328.809 284.924 328.516 284.957C328.255 285.022 328.011 284.99 327.783 284.859C327.36 284.566 327.23 284.176 327.393 283.688H327.344C331.348 271.09 334.88 261.015 337.939 253.463C341.032 245.911 343.587 240.654 345.605 237.691C346.354 236.585 347.054 235.771 347.705 235.25C348.389 234.729 348.975 234.501 349.463 234.566C349.951 234.632 350.374 234.957 350.732 235.543C351.449 236.682 351.449 239.026 350.732 242.574C350.277 244.853 349.561 247.294 348.584 249.898C347.64 252.503 346.436 255.237 344.971 258.102C343.538 260.934 341.748 263.733 339.6 266.5C337.484 269.234 335.205 271.578 332.764 273.531C332.438 274.475 331.934 276.005 331.25 278.121C333.594 275.029 335.742 272.717 337.695 271.188C339.648 269.625 340.983 269.706 341.699 271.432C342.35 273.027 342.367 274.85 341.748 276.9C343.018 276.249 344.971 275.517 347.607 274.703C350.277 273.857 352.474 273.206 354.199 272.75C355.924 272.294 356.934 272.05 357.227 272.018ZM347.217 238.814C343.831 243.795 339.453 254.098 334.082 269.723C336.654 267.184 339.014 264.173 341.162 260.689C343.311 257.174 344.971 253.886 346.143 250.826C347.347 247.766 348.226 244.885 348.779 242.184C349.398 239.189 349.479 237.317 349.023 236.568C348.926 236.438 348.324 237.187 347.217 238.814Z",
-              stroke: e.body,
-              "stroke-width": "6",
-              mask: "url(#path-5-inside-1)",
-            }),
-            r.a.createElement("path", {
-              class: "signature11",
-              d:
-                "M364.16 262.74C364.062 262.74 363.981 262.74 363.916 262.74C363.59 262.838 363.249 263.001 362.891 263.229C362.565 263.424 362.272 263.635 362.012 263.863C361.751 264.091 361.475 264.384 361.182 264.742C360.921 265.068 360.71 265.344 360.547 265.572C360.384 265.8 360.205 266.077 360.01 266.402C359.847 266.695 359.749 266.874 359.717 266.939C359.717 266.972 359.684 267.037 359.619 267.135C359.489 267.395 359.473 267.656 359.57 267.916C359.668 268.176 359.831 268.372 360.059 268.502C360.319 268.6 360.579 268.6 360.84 268.502C361.1 268.404 361.296 268.242 361.426 268.014C361.426 267.949 361.556 267.688 361.816 267.232C362.077 266.777 362.451 266.272 362.939 265.719C363.428 265.133 363.916 264.791 364.404 264.693C364.665 264.628 364.86 264.482 364.99 264.254C365.153 264.026 365.202 263.782 365.137 263.521C365.007 262.968 364.681 262.708 364.16 262.74ZM359.229 269.967C358.936 269.967 358.675 270.081 358.447 270.309C357.113 271.936 356.234 273.352 355.811 274.557C355.518 275.403 355.452 276.119 355.615 276.705C355.778 277.486 356.217 278.04 356.934 278.365C357.454 278.593 358.057 278.707 358.74 278.707C360.042 278.707 361.947 278.235 364.453 277.291C365.43 276.9 366.423 276.477 367.432 276.021C368.441 275.566 369.303 275.143 370.02 274.752C370.736 274.361 371.257 274.052 371.582 273.824C371.81 273.661 371.94 273.45 371.973 273.189C372.038 272.929 371.989 272.685 371.826 272.457C371.663 272.229 371.436 272.099 371.143 272.066C370.882 272.001 370.654 272.05 370.459 272.213C369.124 273.157 366.895 274.215 363.77 275.387C361.491 276.266 359.814 276.705 358.74 276.705C358.317 276.705 358.008 276.656 357.812 276.559C357.682 276.493 357.601 276.396 357.568 276.266C357.503 276.005 357.552 275.663 357.715 275.24C358.04 274.231 358.805 273.01 360.01 271.578C360.173 271.383 360.238 271.155 360.205 270.895C360.205 270.602 360.091 270.357 359.863 270.162C359.701 270.032 359.489 269.967 359.229 269.967Z",
-              stroke: e.body,
-              "stroke-width": "6",
-              mask: "url(#path-5-inside-1)",
-            }),
-            r.a.createElement("path", {
-              class: "signature12",
-              d:
-                "M374.268 271.529C374.495 271.562 374.691 271.66 374.854 271.822C375.016 271.985 375.081 272.18 375.049 272.408C375.049 272.538 375.016 272.669 374.951 272.799C374.886 272.896 374.805 272.994 374.707 273.092C374.642 273.157 374.544 273.206 374.414 273.238C374.316 273.271 374.202 273.287 374.072 273.287C372.64 273.32 371.37 274.02 370.264 275.387C369.482 276.396 369.271 277.079 369.629 277.438C369.824 277.665 370.231 277.649 370.85 277.389C371.208 277.258 371.712 276.835 372.363 276.119C373.535 274.882 374.951 273.01 376.611 270.504C377.393 267.574 378.304 264.514 379.346 261.324C380.973 256.311 382.633 251.819 384.326 247.848C386.019 243.844 387.419 241.24 388.525 240.035C389.535 238.961 390.397 238.766 391.113 239.449C391.374 239.677 391.569 239.97 391.699 240.328C391.96 241.174 391.846 242.558 391.357 244.479C390.869 246.367 390.12 248.482 389.111 250.826C388.135 253.17 386.963 255.676 385.596 258.346C383.187 263.033 380.729 267.281 378.223 271.09C377.441 274.02 376.855 276.559 376.465 278.707C376.074 280.855 375.944 282.418 376.074 283.395C376.074 283.492 376.042 283.622 375.977 283.785V283.834C376.204 283.801 376.416 283.85 376.611 283.98C376.807 284.111 376.921 284.29 376.953 284.518C376.986 284.745 376.921 284.957 376.758 285.152C376.595 285.38 376.4 285.527 376.172 285.592C375.098 285.82 374.479 285.217 374.316 283.785C374.121 282.223 374.512 279.293 375.488 274.996C374.772 275.908 374.137 276.656 373.584 277.242C372.738 278.186 372.005 278.772 371.387 279C369.922 279.618 368.799 279.57 368.018 278.854C367.464 278.398 367.204 277.747 367.236 276.9C367.301 275.273 367.969 273.954 369.238 272.945C370.54 271.904 372.217 271.432 374.268 271.529ZM379.932 265.133C381.331 262.724 382.682 260.25 383.984 257.711C386.035 253.707 387.63 250.191 388.77 247.164C389.909 244.104 390.316 242.07 389.99 241.061C389.958 240.93 389.925 240.849 389.893 240.816L389.844 240.865L389.746 241.158C388.737 242.232 387.419 244.706 385.791 248.58C384.196 252.421 382.601 256.783 381.006 261.666C380.583 263.001 380.225 264.156 379.932 265.133Z",
-              stroke: e.body,
-              "stroke-width": "6",
-              mask: "url(#path-5-inside-1)",
-            }),
-            r.a.createElement("path", {
-              class: "signature13",
-              d:
-                "M389.99 271.822C390.088 271.952 390.153 272.099 390.186 272.262C391.064 271.253 391.504 270.699 391.504 270.602C391.667 270.374 391.878 270.243 392.139 270.211C392.432 270.146 392.692 270.178 392.92 270.309C393.245 270.569 393.392 270.895 393.359 271.285C393.066 273.434 392.871 274.898 392.773 275.68C392.708 276.461 392.725 276.9 392.822 276.998C393.083 277.031 394.206 276.477 396.191 275.338C398.568 273.971 400.57 272.896 402.197 272.115C402.425 271.985 402.669 271.969 402.93 272.066C403.223 272.164 403.418 272.343 403.516 272.604C403.646 272.831 403.662 273.076 403.564 273.336C403.467 273.596 403.304 273.792 403.076 273.922C401.546 274.671 399.593 275.712 397.217 277.047C396.305 277.6 395.638 277.991 395.215 278.219C394.792 278.447 394.32 278.642 393.799 278.805C393.311 278.967 392.904 279.033 392.578 279C391.862 278.902 391.374 278.495 391.113 277.779C390.885 277.063 390.837 275.924 390.967 274.361C388.265 277.128 385.547 278.658 382.812 278.951C381.087 279.114 380.143 278.479 379.98 277.047C379.915 276.168 380.257 275.175 381.006 274.068C381.689 273.027 382.52 272.148 383.496 271.432C383.887 271.171 384.261 270.943 384.619 270.748C384.977 270.553 385.352 270.406 385.742 270.309C386.133 270.178 386.523 270.113 386.914 270.113C387.305 270.113 387.679 270.178 388.037 270.309C388.395 270.406 388.737 270.585 389.062 270.846C389.421 271.106 389.73 271.432 389.99 271.822ZM389.062 273.434C388.802 273.401 388.574 273.255 388.379 272.994C387.565 271.855 386.328 271.871 384.668 273.043C383.887 273.629 383.219 274.329 382.666 275.143C382.178 275.891 381.95 276.461 381.982 276.852C382.015 276.949 382.227 276.982 382.617 276.949C384.733 276.721 386.882 275.549 389.062 273.434Z",
-              stroke: e.body,
-              "stroke-width": "6",
-              mask: "url(#path-5-inside-1)",
-            }),
-            r.a.createElement("path", {
-              class: "signature14",
-              d:
-                "M401.855 275.631C401.888 275.761 401.888 275.891 401.855 276.021C401.823 276.152 401.774 276.282 401.709 276.412C401.644 276.51 401.562 276.607 401.465 276.705C401.367 276.77 401.253 276.819 401.123 276.852C400.863 276.917 400.602 276.884 400.342 276.754C400.114 276.591 399.967 276.38 399.902 276.119C399.805 275.826 399.854 275.452 400.049 274.996C400.277 274.508 400.667 273.922 401.221 273.238C401.774 272.555 402.262 271.969 402.686 271.48C403.141 270.992 403.792 270.292 404.639 269.381C405.452 268.535 406.055 267.9 406.445 267.477C406.12 267.444 405.876 267.428 405.713 267.428C404.801 267.363 404.118 267.232 403.662 267.037C402.49 266.451 402.327 265.702 403.174 264.791C403.662 264.205 404.899 263.57 406.885 262.887C409.391 261.975 410.84 262.073 411.23 263.18C411.426 263.668 411.263 264.352 410.742 265.23C412.174 265.035 413.135 264.791 413.623 264.498C414.339 264.107 414.876 264.221 415.234 264.84C415.299 265.068 415.332 265.279 415.332 265.475C415.332 265.67 415.251 265.93 415.088 266.256C414.925 266.581 414.762 266.891 414.6 267.184C414.437 267.444 414.209 267.753 413.916 268.111C413.656 268.469 413.411 268.779 413.184 269.039C412.956 269.299 412.712 269.592 412.451 269.918C412.191 270.211 411.979 270.455 411.816 270.65C407.715 275.989 405.404 279.228 404.883 280.367C406.868 279.651 409.163 278.528 411.768 276.998C415.12 275.045 417.318 273.515 418.359 272.408C418.555 272.213 418.783 272.115 419.043 272.115C419.336 272.115 419.58 272.213 419.775 272.408C419.971 272.571 420.068 272.799 420.068 273.092C420.101 273.352 420.02 273.58 419.824 273.775C418.652 275.045 416.309 276.705 412.793 278.756C409.896 280.416 407.34 281.62 405.127 282.369C403.923 282.792 403.158 282.532 402.832 281.588C402.702 281.165 402.816 280.514 403.174 279.635C403.564 278.788 404.215 277.714 405.127 276.412C406.038 275.077 406.82 273.971 407.471 273.092C408.154 272.18 409.082 270.96 410.254 269.43C410.84 268.648 411.637 267.802 412.646 266.891C411.572 267.118 410.417 267.281 409.18 267.379C408.561 268.095 407.536 269.218 406.104 270.748C403.206 273.84 401.79 275.468 401.855 275.631ZM408.252 265.426C409.066 264.514 409.44 263.993 409.375 263.863C409.375 263.831 409.31 263.847 409.18 263.912C409.082 263.977 408.87 264.107 408.545 264.303C408.252 264.465 407.91 264.612 407.52 264.742C406.868 264.97 406.299 265.198 405.811 265.426H405.859C406.543 265.491 407.34 265.491 408.252 265.426Z",
-              stroke: e.body,
-              "stroke-width": "6",
-              mask: "url(#path-5-inside-1)",
-            }),
-            r.a.createElement("path", {
-              class: "signature15",
-              d:
-                "M426.27 271.822C426.367 271.952 426.432 272.099 426.465 272.262C427.344 271.253 427.783 270.699 427.783 270.602C427.946 270.374 428.158 270.243 428.418 270.211C428.711 270.146 428.971 270.178 429.199 270.309C429.525 270.569 429.671 270.895 429.639 271.285C429.346 273.434 429.15 274.898 429.053 275.68C428.988 276.461 429.004 276.9 429.102 276.998C429.362 277.031 430.485 276.477 432.471 275.338C434.847 273.971 436.849 272.896 438.477 272.115C438.704 271.985 438.949 271.969 439.209 272.066C439.502 272.164 439.697 272.343 439.795 272.604C439.925 272.831 439.941 273.076 439.844 273.336C439.746 273.596 439.583 273.792 439.355 273.922C437.826 274.671 435.872 275.712 433.496 277.047C432.585 277.6 431.917 277.991 431.494 278.219C431.071 278.447 430.599 278.642 430.078 278.805C429.59 278.967 429.183 279.033 428.857 279C428.141 278.902 427.653 278.495 427.393 277.779C427.165 277.063 427.116 275.924 427.246 274.361C424.544 277.128 421.826 278.658 419.092 278.951C417.367 279.114 416.423 278.479 416.26 277.047C416.195 276.168 416.536 275.175 417.285 274.068C417.969 273.027 418.799 272.148 419.775 271.432C420.166 271.171 420.54 270.943 420.898 270.748C421.257 270.553 421.631 270.406 422.021 270.309C422.412 270.178 422.803 270.113 423.193 270.113C423.584 270.113 423.958 270.178 424.316 270.309C424.674 270.406 425.016 270.585 425.342 270.846C425.7 271.106 426.009 271.432 426.27 271.822ZM425.342 273.434C425.081 273.401 424.854 273.255 424.658 272.994C423.844 271.855 422.607 271.871 420.947 273.043C420.166 273.629 419.499 274.329 418.945 275.143C418.457 275.891 418.229 276.461 418.262 276.852C418.294 276.949 418.506 276.982 418.896 276.949C421.012 276.721 423.161 275.549 425.342 273.434Z",
-              stroke: e.body,
-              "stroke-width": "6",
-              mask: "url(#path-5-inside-1)",
-            }),
-            r.a.createElement(
-              "defs",
-              null,
-              r.a.createElement("style", {
-                dangerouslySetInnerHTML: {
-                  __html:
-                    "\n\n      .signature1{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 0.5s;\n\t\t\t-o-animation: dash 1s linear forwards 0.5s;\n\t\t\t-moz-animation: dash 1s linear forwards 0.5s;\n\t\t\tanimation: dash 1s linear forwards 0.5s;\n\t\t}\n\t\t.signature2{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 0.7s;\n\t\t\t-o-animation: dash 1s linear forwards 0.7s;\n\t\t\t-moz-animation: dash 1s linear forwards 0.7s;\n\t\t\tanimation: dash 1s linear forwards 0.7s;\n\t\t}\n\t\t.signature3{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 0.9s;\n\t\t\t-o-animation: dash 1s linear forwards 0.9s;\n\t\t\t-moz-animation: dash 1s linear forwards 0.9s;\n\t\t\tanimation: dash 1s linear forwards 0.9s;\n\t\t}\n\t\t.signature4{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 1.1s;\n\t\t\t-o-animation: dash 1s linear forwards 1.1s;\n\t\t\t-moz-animation: dash 1s linear forwards 1.1s;\n\t\t\tanimation: dash 1s linear forwards 1.1s;\n\t\t}\n\t\t.signature5{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 1.3s;\n\t\t\t-o-animation: dash 1s linear forwards 1.3s;\n\t\t\t-moz-animation: dash 1s linear forwards 1.3s;\n\t\t\tanimation: dash 1s linear forwards 1.3s;\n\t\t}\n\t\t.signature6{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 1.5s;\n\t\t\t-o-animation: dash 1s linear forwards 1.5s;\n\t\t\t-moz-animation: dash 1s linear forwards 1.5s;\n\t\t\tanimation: dash 1s linear forwards 1.5s;\n\t\t}\n\t\t.signature7{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 1.7s;\n\t\t\t-o-animation: dash 1s linear forwards 1.7s;\n\t\t\t-moz-animation: dash 1s linear forwards 1.7s;\n\t\t\tanimation: dash 1s linear forwards 1.7s;\n\t\t}\n\t\t.signature8{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 1.9s;\n\t\t\t-o-animation: dash 1s linear forwards 1.9s;\n\t\t\t-moz-animation: dash 1s linear forwards 1.9s;\n\t\t\tanimation: dash 1s linear forwards 1.9s;\n\t\t}\n\t\t.signature9{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 2.1s;\n\t\t\t-o-animation: dash 1s linear forwards 2.1s;\n\t\t\t-moz-animation: dash 1s linear forwards 2.1s;\n\t\t\tanimation: dash 1s linear forwards 2.1s;\n\t\t}\n\t\t.signature10{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 2.3s;\n\t\t\t-o-animation: dash 1s linear forwards 2.3s;\n\t\t\t-moz-animation: dash 1s linear forwards 2.3s;\n\t\t\tanimation: dash 1s linear forwards 2.3s;\n\t\t}\n\t\t.signature11{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 2.5s;\n\t\t\t-o-animation: dash 1s linear forwards 2.5s;\n\t\t\t-moz-animation: dash 1s linear forwards 2.5s;\n\t\t\tanimation: dash 1s linear forwards 2.5s;\n\t\t}\n\t\t.signature12{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 2.7s;\n\t\t\t-o-animation: dash 1s linear forwards 2.7s;\n\t\t\t-moz-animation: dash 1s linear forwards 2.7s;\n\t\t\tanimation: dash 1s linear forwards 2.7s;\n\t\t}\n\t\t.signature13{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 2.9s;\n\t\t\t-o-animation: dash 1s linear forwards 2.9s;\n\t\t\t-moz-animation: dash 1s linear forwards 2.9s;\n\t\t\tanimation: dash 1s linear forwards 2.9s;\n\t\t}\n\t\t.signature14{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 3.1s;\n\t\t\t-o-animation: dash 1s linear forwards 3.1s;\n\t\t\t-moz-animation: dash 1s linear forwards 3.1s;\n\t\t\tanimation: dash 1s linear forwards 3.1s;\n\t\t}\n\t\t.signature15{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 3.3s;\n\t\t\t-o-animation: dash 1s linear forwards 3.3s;\n\t\t\t-moz-animation: dash 1s linear forwards 3.3s;\n\t\t\tanimation: dash 1s linear forwards 3.3s;\n\t\t}\n\n\t\t.signature{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 6s linear forwards 0.5s;\n\t\t\t-o-animation: dash 6s linear forwards 0.5s;\n\t\t\t-moz-animation: dash 6s linear forwards 0.5s;\n\t\t\tanimation: dash 6s linear forwards 0.5s;\n\t\t}\n\n\t\t.letter{\n\t\t\topacity: 0;\n\t\t\t-webkit-animation: fadein 2s linear forwards 2.5s;\n\t\t\t-o-animation: fadein 2s linear forwards 2.5s;\n\t\t\t-moz-animation: fadein 2s linear forwards 2.5s;\n\t\t\tanimation: fadein 2s linear forwards 2.5s;\n\t\t}\n\n\t\t@-webkit-keyframes fadein{\n\t\t\tfrom{\n\t\t\t\topacity: 0;\n\t\t\t}\n\t\t\tto{\n\t\t\t\topacity: 1;\n\t\t\t}\n\t\t}\n\n      .myHexagon{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 4s linear forwards 0.5s;\n\t\t\t-o-animation: dash 4s linear forwards 0.5s;\n\t\t\t-moz-animation: dash 4s linear forwards 0.5s;\n\t\t\tanimation: dash 4s linear forwards 0.5s;\n\t\t}\n\n\t\t@-webkit-keyframes dash{\n\t\t\tfrom{\n\t\t\t\tstroke-dashoffset: 800;\n\t\t\t}\n\t\t\tto{\n\t\t\t\tstroke-dashoffset: 0;\n\t\t\t}\n\t\t}\n    ",
-                },
-              })
-            )
-          );
-        }
-      }
-      var ne = re;
-      function se(e) {
-        return r.a.createElement(
-          "div",
-          { className: "logo_wrapper" },
-          r.a.createElement(
-            "div",
-            {
-              className: "screen",
-              style: { backgroundColor: e.theme.splashBg },
-            },
-            r.a.createElement(ne, { id: "logo", theme: e.theme })
-          )
-        );
-      }
-      class ie extends l.Component {
-        constructor(e) {
-          super(e), (this.state = { redirect: !1 });
-        }
-        componentDidMount() {
-          this.id = setTimeout(() => this.setState({ redirect: !0 }), 5500);
-        }
-        componentWillMount() {
-          clearTimeout(this.id);
-        }
-        render() {
-          return this.state.redirect
-            ? r.a.createElement(h.a, { to: "/home" })
-            : r.a.createElement(se, { theme: this.props.theme });
-        }
-      }
-      var ce = ie;
-      a(126), a(127);
-      class oe extends l.Component {
-        render() {
-          const e = this.props.degree,
-            t = this.props.theme;
-          return r.a.createElement(
-            "div",
-            { className: "degree-card" },
-            e.logo_path &&
-              r.a.createElement(
-                C.Flip,
-                { left: !0, duration: 2e3 },
-                r.a.createElement(
-                  "div",
-                  { className: "card-img" },
-                  r.a.createElement("img", {
-                    style: {
-                      maxWidth: "100%",
-                      maxHeight: "100%",
-                      transform: "scale(0.9)",
-                    },
-                    src: a(32)("./".concat(e.logo_path)),
-                    alt: e.alt_name,
-                  })
-                )
-              ),
-            r.a.createElement(
-              C.Fade,
-              { right: !0, duration: 2e3, distance: "40px" },
-              r.a.createElement(
-                "div",
-                {
-                  className: "card-body",
-                  style: { width: e.logo_path ? "90%" : "100%" },
-                },
-                r.a.createElement(
-                  "div",
-                  {
-                    className: "body-header",
-                    style: { backgroundColor: t.headerColor },
-                  },
-                  r.a.createElement(
-                    "div",
-                    { className: "body-header-title" },
-                    r.a.createElement(
-                      "h2",
-                      { className: "card-title", style: { color: t.text } },
-                      e.title
-                    ),
-                    r.a.createElement(
-                      "h3",
-                      { className: "card-subtitle", style: { color: t.text } },
-                      e.subtitle
-                    )
-                  ),
-                  r.a.createElement(
-                    "div",
-                    { className: "body-header-duration" },
-                    r.a.createElement(
-                      "h3",
-                      { className: "duration", style: { color: t.text } },
-                      e.duration
-                    )
-                  )
-                ),
-                r.a.createElement(
-                  "div",
-                  { className: "body-content" },
-                  e.descriptions.map((e) =>
-                    r.a.createElement(
-                      "p",
-                      { className: "content-list", style: { color: t.text } },
-                      e
-                    )
-                  ),
-                  e.website_link &&
-                    r.a.createElement(
-                      "a",
-                      {
-                        href: e.website_link,
-                        target: "_blank",
-                        rel: "noopener noreferrer",
-                      },
-                      r.a.createElement(
-                        "div",
-                        {
-                          className: "visit-btn",
-                          style: { backgroundColor: t.headerColor },
-                        },
-                        r.a.createElement(
-                          "p",
-                          { className: "btn", style: { color: t.text } },
-                          "Visit Website"
-                        )
-                      )
-                    )
-                )
-              )
-            )
-          );
-        }
-      }
-      var me = oe;
-      class de extends l.Component {
-        render() {
-          const e = this.props.theme;
-          return r.a.createElement(
-            "div",
-            { className: "main", id: "educations" },
-            r.a.createElement(
-              "div",
-              { className: "educations-header-div" },
-              r.a.createElement(
-                C.Fade,
-                { bottom: !0, duration: 2e3, distance: "20px" },
-                r.a.createElement(
-                  "h1",
-                  { className: "educations-header", style: { color: e.text } },
-                  "Degrees Received"
-                )
-              )
-            ),
-            r.a.createElement(
-              "div",
-              { className: "educations-body-div" },
-              y.degrees.map((t) =>
-                r.a.createElement(me, { degree: t, theme: e })
-              )
-            )
-          );
-        }
-      }
-      var he = de;
-      a(180), a(181);
-      class Ce extends l.Component {
-        render() {
-          const e = this.props.certificate,
-            t = this.props.theme;
-          return r.a.createElement(
-            C.Fade,
-            { bottom: !0, duration: 2e3, distance: "20px" },
-            r.a.createElement(
-              "div",
-              { className: "cert-card" },
-              r.a.createElement(
-                "div",
-                { className: "content" },
-                r.a.createElement(
-                  "a",
-                  {
-                    href: e.certificate_link,
-                    target: "_blank",
-                    rel: "noopener noreferrer",
-                  },
-                  r.a.createElement("div", { className: "content-overlay" }),
-                  r.a.createElement(
-                    "div",
-                    {
-                      className: "cert-header",
-                      style: { backgroundColor: e.color_code },
-                    },
-                    r.a.createElement("img", {
-                      className: "logo_img",
-                      src: a(32)("./".concat(e.logo_path)),
-                      alt: e.alt_name,
-                    })
-                  ),
-                  r.a.createElement(
-                    "div",
-                    { className: "content-details fadeIn-top" },
-                    r.a.createElement(
-                      "h3",
-                      { className: "content-title", style: { color: t.body } },
-                      "Certificate"
-                    )
-                  )
-                )
-              ),
-              r.a.createElement(
-                "div",
-                { className: "cert-body" },
-                r.a.createElement(
-                  "h2",
-                  { className: "cert-body-title", style: { color: t.text } },
-                  e.title
-                ),
-                r.a.createElement(
-                  "h3",
-                  {
-                    className: "cert-body-subtitle",
-                    style: { color: t.secondaryText },
-                  },
-                  e.subtitle
-                )
-              )
-            )
-          );
-        }
-      }
-      var Ae = Ce;
-      class pe extends l.Component {
-        render() {
-          const e = this.props.theme;
-          return r.a.createElement(
-            "div",
-            { className: "main", id: "certs" },
-            r.a.createElement(
-              "div",
-              { className: "certs-header-div" },
-              r.a.createElement(
-                C.Fade,
-                { bottom: !0, duration: 2e3, distance: "20px" },
-                r.a.createElement(
-                  "h1",
-                  { className: "certs-header", style: { color: e.text } },
-                  "Certifications"
-                )
-              )
-            ),
-            r.a.createElement(
-              "div",
-              { className: "certs-body-div" },
-              b.certifications.map((t) =>
-                r.a.createElement(Ae, { certificate: t, theme: e })
-              )
-            )
-          );
-        }
-      }
-      var fe = pe;
-      a(182);
-      class ge extends r.a.Component {
-        render() {
-          return r.a.createElement(
-            "div",
-            { className: "competitive-sites-main-div" },
-            r.a.createElement(
-              "ul",
-              { className: "dev-icons" },
-              this.props.logos.map((e) =>
-                r.a.createElement(
-                  Q.a,
-                  {
-                    key: e.siteName,
-                    placement: "top",
-                    style: { marginBottom: "5px" },
-                    overlay: r.a.createElement(
-                      F.a,
-                      { id: "tooltip-top" },
-                      r.a.createElement("strong", null, e.siteName)
-                    ),
-                  },
-                  r.a.createElement(
-                    "li",
-                    { className: "competitive-sites-inline", name: e.siteName },
-                    r.a.createElement(
-                      "a",
-                      {
-                        href: e.profileLink,
-                        target: "_blank",
-                        rel: "noopener noreferrer",
-                      },
-                      r.a.createElement("span", {
-                        className: "iconify",
-                        "data-icon": e.iconifyClassname,
-                        style: e.style,
-                        "data-inline": "false",
-                      })
-                    )
-                  )
-                )
-              )
-            )
-          );
-        }
-      }
-      var Ee = ge;
-      class ue extends l.Component {
-        render() {
-          const e = this.props.theme;
-          return r.a.createElement(
-            "svg",
-            {
-              id: "eb113788-f1f1-4c1f-be62-f1d0ea2e1eb6",
-              "data-name": "Layer 1",
-              xmlns: "http://www.w3.org/2000/svg",
-              width: "795.39431",
-              height: "574.03802",
-              viewBox: "0 0 795.39431 574.03802",
-            },
-            r.a.createElement(
-              "defs",
-              null,
-              r.a.createElement(
-                "linearGradient",
-                {
-                  id: "b2a81085-935f-40be-bb27-75940df8c338",
-                  x1: "-450.78971",
-                  y1: "2803.04671",
-                  x2: "-450.78971",
-                  y2: "2729.34772",
-                  gradientTransform:
-                    "translate(3217.53309 1009.65784) rotate(90)",
-                  gradientUnits: "userSpaceOnUse",
-                },
-                r.a.createElement("stop", {
-                  offset: "0",
-                  stopColor: "gray",
-                  stopOpacity: "0.25",
-                }),
-                r.a.createElement("stop", {
-                  offset: "0.53514",
-                  stopColor: "gray",
-                  stopOpacity: "0.12",
-                }),
-                r.a.createElement("stop", {
-                  offset: "1",
-                  stopColor: "gray",
-                  stopOpacity: "0.1",
-                })
-              )
-            ),
-            r.a.createElement("title", null, "Graduation"),
-            r.a.createElement("ellipse", {
-              cx: "232.05775",
-              cy: "450.06897",
-              rx: "35.09476",
-              ry: "5.26421",
-              transform: "translate(-476.55674 294.92367) rotate(-63.61079)",
-              fill: "#e0e0e0",
-            }),
-            r.a.createElement("ellipse", {
-              cx: "670.57742",
-              cy: "667.85592",
-              rx: "35.09476",
-              ry: "3.57677",
-              transform: "translate(-428.03695 808.73554) rotate(-63.61079)",
-              fill: "#e0e0e0",
-            }),
-            r.a.createElement("rect", {
-              x: "397.95325",
-              y: "566.93514",
-              width: "21.05685",
-              height: "70.18951",
-              transform: "translate(274.52069 -285.26226) rotate(39.54732)",
-              fill: "#f55f44",
-            }),
-            r.a.createElement("rect", {
-              x: "409.32507",
-              y: "573.56618",
-              width: "23.69234",
-              height: "70.18951",
-              transform: "translate(489.54965 1134.58125) rotate(-166.7689)",
-              opacity: "0.05",
-            }),
-            r.a.createElement("rect", {
-              x: "411.92558",
-              y: "573.86778",
-              width: "21.05685",
-              height: "70.18951",
-              transform: "translate(492.0121 1135.47005) rotate(-166.7689)",
-              fill: "#f55f44",
-            }),
-            r.a.createElement("rect", {
-              x: "414.48638",
-              y: "314.08219",
-              width: "73.69899",
-              height: "489.57186",
-              transform: "translate(-452.20218 551.7936) rotate(-63.61079)",
-              fill: "url(#b2a81085-935f-40be-bb27-75940df8c338)",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M655.01556,699.105c-8.584-4.11751-444.8438-220.718-438.55625-217.5983,24.21371-36.95739,31.19689-62.87545,31.19689-62.87545l438.55625,217.5983S670.81132,663.25857,655.01556,699.105Z",
-              transform: "translate(-202.30284 -162.98099)",
-              fill: "#f5f5f5",
-            }),
-            r.a.createElement("rect", {
-              x: "421.72508",
-              y: "519.09383",
-              width: "40.35897",
-              height: "70.18951",
-              transform: "translate(90.06389 -301.64381) rotate(26.38921)",
-              opacity: "0.05",
-            }),
-            r.a.createElement("rect", {
-              x: "423.47981",
-              y: "519.09383",
-              width: "36.8495",
-              height: "70.18951",
-              transform: "translate(90.06389 -301.64381) rotate(26.38921)",
-              fill: "#f55f44",
-            }),
-            r.a.createElement("rect", {
-              x: "428.83545",
-              y: "518.70387",
-              width: "24.56633",
-              height: "70.18951",
-              transform: "translate(89.80867 -301.33512) rotate(26.38921)",
-              opacity: "0.05",
-            }),
-            r.a.createElement("rect", {
-              x: "430.59019",
-              y: "518.70387",
-              width: "21.05685",
-              height: "70.18951",
-              transform: "translate(89.80867 -301.33512) rotate(26.38921)",
-              fill: "#f55f44",
-            }),
-            r.a.createElement("circle", {
-              cx: "261.30557",
-              cy: "563.92499",
-              r: "2.92569",
-              fill: "#dbdbdb",
-            }),
-            r.a.createElement(
-              "g",
-              { opacity: "0.5" },
-              r.a.createElement("rect", {
-                x: "29.39431",
-                y: "482",
-                width: "3",
-                height: "17",
-                fill: "#47e6b1",
-              }),
-              r.a.createElement("rect", {
-                x: "231.69716",
-                y: "644.98099",
-                width: "3",
-                height: "17",
-                transform: "translate(684.3753 257.30284) rotate(90)",
-                fill: "#47e6b1",
-              })
-            ),
-            r.a.createElement(
-              "g",
-              { opacity: "0.5" },
-              r.a.createElement("rect", {
-                x: "785.39431",
-                y: "270",
-                width: "3",
-                height: "17",
-                fill: "#47e6b1",
-              }),
-              r.a.createElement("rect", {
-                x: "987.69716",
-                y: "432.98099",
-                width: "3",
-                height: "17",
-                transform: "translate(1228.3753 -710.69716) rotate(90)",
-                fill: "#47e6b1",
-              })
-            ),
-            r.a.createElement(
-              "g",
-              { opacity: "0.5" },
-              r.a.createElement("rect", {
-                x: "47.39431",
-                y: "59",
-                width: "3",
-                height: "17",
-                fill: "#47e6b1",
-              }),
-              r.a.createElement("rect", {
-                x: "249.69716",
-                y: "221.98099",
-                width: "3",
-                height: "17",
-                transform: "translate(279.3753 -183.69716) rotate(90)",
-                fill: "#47e6b1",
-              })
-            ),
-            r.a.createElement(
-              "g",
-              { opacity: "0.5" },
-              r.a.createElement("rect", {
-                x: "695.39431",
-                y: "33",
-                width: "3",
-                height: "17",
-                fill: "#47e6b1",
-              }),
-              r.a.createElement("rect", {
-                x: "897.69716",
-                y: "195.98099",
-                width: "3",
-                height: "17",
-                transform: "translate(901.3753 -857.69716) rotate(90)",
-                fill: "#47e6b1",
-              })
-            ),
-            r.a.createElement("path", {
-              d:
-                "M214.59252,416.4373a3.67458,3.67458,0,0,1-2.04749-4.441,1.76592,1.76592,0,0,0,.0799-.40754h0a1.84257,1.84257,0,0,0-3.31045-1.22119h0a1.76637,1.76637,0,0,0-.2039.3618,3.67459,3.67459,0,0,1-4.441,2.04749,1.766,1.766,0,0,0-.40754-.07991h0a1.84258,1.84258,0,0,0-1.22119,3.31045h0a1.76606,1.76606,0,0,0,.3618.20389,3.67462,3.67462,0,0,1,2.04749,4.441,1.76594,1.76594,0,0,0-.07991.40754h0a1.84257,1.84257,0,0,0,3.31045,1.22119h0a1.7659,1.7659,0,0,0,.2039-.3618,3.67459,3.67459,0,0,1,4.441-2.04749,1.76665,1.76665,0,0,0,.40755.07991h0a1.84257,1.84257,0,0,0,1.22119-3.31045h0A1.76684,1.76684,0,0,0,214.59252,416.4373Z",
-              transform: "translate(-202.30284 -162.98099)",
-              fill: "#4d8af0",
-              opacity: "0.5",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M386.59252,219.4373a3.67458,3.67458,0,0,1-2.04749-4.441,1.76592,1.76592,0,0,0,.0799-.40754h0a1.84257,1.84257,0,0,0-3.31045-1.22119h0a1.76637,1.76637,0,0,0-.2039.3618,3.67459,3.67459,0,0,1-4.441,2.04749,1.766,1.766,0,0,0-.40754-.07991h0a1.84258,1.84258,0,0,0-1.22119,3.31045h0a1.76606,1.76606,0,0,0,.3618.20389,3.67462,3.67462,0,0,1,2.04749,4.441,1.76594,1.76594,0,0,0-.07991.40754h0a1.84257,1.84257,0,0,0,3.31045,1.22119h0a1.7659,1.7659,0,0,0,.2039-.3618,3.67459,3.67459,0,0,1,4.441-2.04749,1.76665,1.76665,0,0,0,.40755.07991h0a1.84257,1.84257,0,0,0,1.22119-3.31045h0A1.76684,1.76684,0,0,0,386.59252,219.4373Z",
-              transform: "translate(-202.30284 -162.98099)",
-              fill: "#4d8af0",
-              opacity: "0.5",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M596.59252,730.4373a3.67458,3.67458,0,0,1-2.04749-4.441,1.76592,1.76592,0,0,0,.0799-.40754h0a1.84257,1.84257,0,0,0-3.31045-1.22119h0a1.76637,1.76637,0,0,0-.2039.3618,3.67459,3.67459,0,0,1-4.441,2.04749,1.766,1.766,0,0,0-.40754-.07991h0a1.84258,1.84258,0,0,0-1.22119,3.31045h0a1.76606,1.76606,0,0,0,.3618.20389,3.67462,3.67462,0,0,1,2.04749,4.441,1.76594,1.76594,0,0,0-.07991.40754h0a1.84257,1.84257,0,0,0,3.31045,1.22119h0a1.7659,1.7659,0,0,0,.2039-.3618,3.67459,3.67459,0,0,1,4.441-2.04749,1.76665,1.76665,0,0,0,.40755.07991h0a1.84257,1.84257,0,0,0,1.22119-3.31045h0A1.76684,1.76684,0,0,0,596.59252,730.4373Z",
-              transform: "translate(-202.30284 -162.98099)",
-              fill: "#4d8af0",
-              opacity: "0.5",
-            }),
-            r.a.createElement("circle", {
-              cx: "759.39431",
-              cy: "444",
-              r: "6",
-              fill: "#f55f44",
-              opacity: "0.5",
-            }),
-            r.a.createElement("circle", {
-              cx: "627.39431",
-              cy: "482",
-              r: "6",
-              fill: "#4d8af0",
-              opacity: "0.5",
-            }),
-            r.a.createElement("circle", {
-              cx: "103.39431",
-              cy: "541",
-              r: "6",
-              fill: "#47e6b1",
-              opacity: "0.5",
-            }),
-            r.a.createElement("circle", {
-              cx: "411.39431",
-              cy: "6",
-              r: "6",
-              fill: "#f55f44",
-              opacity: "0.5",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M407.19716,520.481l-24,36s8,37,185,36,191-36,191-36l-33-48-101-69Z",
-              transform: "translate(-202.30284 -162.98099)",
-              fill: e.imageHighlight,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M407.19716,520.481l-24,36s8,37,185,36,191-36,191-36l-33-48-101-69Z",
-              transform: "translate(-202.30284 -162.98099)",
-              opacity: "0.15",
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "715.394 224 400.394 363 16.394 224 368.394 64 541.184 143.67 547.374 146.53 715.394 224",
-              fill: e.imageHighlight,
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "715.394 224 400.394 363 16.394 224 368.394 64 541.184 143.67 547.374 146.53 715.394 224",
-              opacity: "0.15",
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "553.894 257.32 547.894 257.68 541.184 143.67 547.374 146.53 553.894 257.32",
-              fill: "#f5f5f5",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M411.19716,386.481l-28,170s201-65,376,0l-26-180S498.19716,347.481,411.19716,386.481Z",
-              transform: "translate(-202.30284 -162.98099)",
-              fill: e.imageHighlight,
-            }),
-            r.a.createElement("ellipse", {
-              cx: "553.39431",
-              cy: "272",
-              rx: "29",
-              ry: "20",
-              fill: "#f5f5f5",
-            })
-          );
-        }
-      }
-      a(183);
-      class ye extends l.Component {
-        render() {
-          const e = this.props.theme;
-          return r.a.createElement(
-            "div",
-            { className: "education-main" },
-            r.a.createElement(j, { theme: this.props.theme }),
-            r.a.createElement(
-              "div",
-              { className: "basic-education" },
-              r.a.createElement(
-                C.Fade,
-                { bottom: !0, duration: 2e3, distance: "40px" },
-                r.a.createElement(
-                  "div",
-                  { className: "heading-div" },
-                  r.a.createElement(
-                    "div",
-                    { className: "heading-img-div" },
-                    r.a.createElement(ue, { theme: e })
-                  ),
-                  r.a.createElement(
-                    "div",
-                    { className: "heading-text-div" },
-                    r.a.createElement(
-                      "h1",
-                      { className: "heading-text", style: { color: e.text } },
-                      "Education"
-                    ),
-                    r.a.createElement(
-                      "h3",
-                      {
-                        className: "heading-sub-text",
-                        style: { color: e.text },
-                      },
-                      "Basic Qualification and Certifcations"
-                    ),
-                    r.a.createElement(Ee, { logos: u.competitiveSites })
-                  )
-                )
-              ),
-              r.a.createElement(he, { theme: this.props.theme }),
-              b.certifications.length > 0
-                ? r.a.createElement(fe, { theme: this.props.theme })
-                : null
-            ),
-            r.a.createElement(ee, { theme: this.props.theme }),
-            r.a.createElement(te, { theme: this.props.theme })
-          );
-        }
-      }
-      var be = ye;
-      a(184);
-      class xe extends l.Component {
-        render() {
-          const e = this.props.experience,
-            t = this.props.index,
-            l = this.props.totalCards,
-            n = this.props.theme;
-          return r.a.createElement(
-            "div",
-            {
-              className: "experience-list-item",
-              style: { marginTop: 0 === t ? 30 : 50 },
-            },
-            r.a.createElement(
-              C.Fade,
-              { left: !0, duration: 2e3, distance: "40px" },
-              r.a.createElement(
-                "div",
-                { className: "experience-card-logo-div" },
-                r.a.createElement("img", {
-                  className: "experience-card-logo",
-                  src: a(32)("./".concat(e.logo_path)),
-                  alt: "",
-                })
-              )
-            ),
-            r.a.createElement(
-              "div",
-              { className: "experience-card-stepper" },
-              r.a.createElement("div", {
-                style: {
-                  width: 20,
-                  height: 20,
-                  backgroundColor: "".concat(n.headerColor),
-                  borderRadius: 50,
-                  zIndex: 100,
-                },
-              }),
-              t !== l - 1 &&
-                r.a.createElement("div", {
-                  style: {
-                    height: 190,
-                    width: 2,
-                    backgroundColor: "".concat(n.headerColor),
-                    position: "absolute",
-                    marginTop: 20,
-                  },
-                })
-            ),
-            r.a.createElement(
-              C.Fade,
-              { right: !0, duration: 2e3, distance: "40px" },
-              r.a.createElement(
-                "div",
-                { style: { display: "flex", flexDirection: "row" } },
-                r.a.createElement("div", {
-                  className: "arrow-left",
-                  style: { borderRight: "10px solid ".concat(n.body) },
-                }),
-                r.a.createElement(
-                  "div",
-                  {
-                    className: "experience-card",
-                    style: { background: "".concat(n.body) },
-                  },
-                  r.a.createElement(
-                    "div",
-                    {
-                      style: {
-                        display: "flex",
-                        flexDirection: "row",
-                        justifyContent: "space-between",
-                      },
-                    },
-                    r.a.createElement(
-                      "div",
-                      null,
-                      r.a.createElement(
-                        "h3",
-                        {
-                          className: "experience-card-title",
-                          style: { color: n.text },
-                        },
-                        e.title
-                      ),
-                      r.a.createElement(
-                        "p",
-                        {
-                          className: "experience-card-company",
-                          style: { color: n.text },
-                        },
-                        r.a.createElement(
-                          "a",
-                          {
-                            href: e.company_url,
-                            target: "_blank",
-                            rel: "noopener noreferrer",
-                          },
-                          e.company
-                        )
-                      )
-                    ),
-                    r.a.createElement(
-                      "div",
-                      null,
-                      r.a.createElement(
-                        "div",
-                        { className: "experience-card-heading-right" },
-                        r.a.createElement(
-                          "p",
-                          {
-                            className: "experience-card-duration",
-                            style: { color: n.secondaryText },
-                          },
-                          e.duration
-                        ),
-                        r.a.createElement(
-                          "p",
-                          {
-                            className: "experience-card-location",
-                            style: { color: n.secondaryText },
-                          },
-                          e.location
-                        )
-                      )
-                    )
-                  ),
-                  r.a.createElement(
-                    "div",
-                    {
-                      style: {
-                        display: "flex",
-                        justifyContent: "flex-start",
-                        marginTop: 20,
-                      },
-                    },
-                    r.a.createElement("div", { className: "repo-description" }),
-                    e.description
-                  )
-                )
-              )
-            )
-          );
-        }
-      }
-      var ve = xe,
-        Me = (a(185), a(319)),
-        we = a(317);
-      class ke extends l.Component {
-        render() {
-          const e = this.props.theme;
-          return r.a.createElement(
-            "div",
-            { className: "experience-accord" },
-            r.a.createElement(
-              Me.a,
-              null,
-              this.props.sections.map((t) =>
-                r.a.createElement(
-                  we.a,
-                  {
-                    className: "accord-panel",
-                    title: t.title,
-                    key: t.title,
-                    expanded: !0,
-                    overrides: {
-                      Header: {
-                        style: () => ({
-                          backgroundColor: "".concat(e.body),
-                          border: "1px solid",
-                          borderRadius: "5px",
-                          borderColor: "".concat(e.headerColor),
-                          marginBottom: "3px",
-                          fontFamily: "Google Sans Regular",
-                          color: "".concat(e.text),
-                          ":hover": { color: "".concat(e.secondaryText) },
-                        }),
-                      },
-                      Content: {
-                        style: () => ({ backgroundColor: "".concat(e.body) }),
-                      },
-                    },
-                  },
-                  t.experiences.map((a, l) =>
-                    r.a.createElement(ve, {
-                      index: l,
-                      totalCards: t.experiences.length,
-                      experience: a,
-                      theme: e,
-                    })
-                  )
-                )
-              )
-            )
-          );
-        }
-      }
-      var Ze = ke;
-      a(187);
-      class Ne extends l.Component {
-        render() {
-          const e = this.props.theme;
-          return r.a.createElement(
-            "svg",
-            {
-              id: "bf56719a-dd30-4b09-833f-7c41eeee086b",
-              "data-name": "Layer 1",
-              xmlns: "http://www.w3.org/2000/svg",
-              width: "1094",
-              height: "760",
-              viewBox: "0 0 1094 760",
-            },
-            r.a.createElement("title", null, "career process"),
-            r.a.createElement("rect", {
-              x: "155",
-              y: "304.52",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "291.81",
-              y: "344.05",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "428.63",
-              y: "383.57",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "155",
-              y: "245.24",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "291.81",
-              y: "284.76",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "428.63",
-              y: "324.29",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "580.64",
-              y: "304.52",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "717.45",
-              y: "344.05",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "854.27",
-              y: "383.57",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "580.64",
-              y: "245.24",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "717.45",
-              y: "284.76",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "854.27",
-              y: "324.29",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "155",
-              y: "166.19",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "291.81",
-              y: "205.71",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "428.63",
-              y: "245.24",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "155",
-              y: "106.9",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "291.81",
-              y: "146.43",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "428.63",
-              y: "185.95",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "580.64",
-              y: "166.19",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "717.45",
-              y: "205.71",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "854.27",
-              y: "245.24",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "580.64",
-              y: "106.9",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "717.45",
-              y: "146.43",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("rect", {
-              x: "854.27",
-              y: "185.95",
-              width: "130.73",
-              height: "39.52",
-              rx: "7.43",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("ellipse", {
-              cx: "547",
-              cy: "660.5",
-              rx: "547",
-              ry: "99.5",
-              fill: e.imageHighlight,
-              opacity: "0.1",
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "240 321 194 603 402 581 393 557 230.5 570.5 268.5 320.5 240 321",
-              fill: e.text,
-            }),
-            r.a.createElement("polygon", {
-              points: "186 1 466 0 547 613 266 651 186 1",
-              fill: e.text,
-            }),
-            r.a.createElement("polygon", {
-              points:
-                "216.5 24.5 442.5 24.5 521.5 594.5 288.5 626.5 216.5 24.5",
-              fill: "#fff",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M482.64,638.86c1.42,2.72,2.48,5.66,4.33,8.11,5.4,7.22,15.65,8.35,23.34,13.06a2.15,2.15,0,0,1,.91.88c.35.83-.43,1.7-1.18,2.22-5.83,4.09-13.48,4.18-20.61,4.13a27.49,27.49,0,0,1-7.13-.68c-3.77-1-7-3.63-10.72-4.7a28.44,28.44,0,0,0-5.89-.83l-7.81-.53a18.41,18.41,0,0,1-6.09-1.13,6.16,6.16,0,0,1-3.84-4.55c-.22-1.66.49-3.27.91-4.89,1-3.84.69-8.48,3.68-11.1a11.35,11.35,0,0,1,4.15-2,132.39,132.39,0,0,1,16.61-4.42C477.93,631.52,480.59,634.92,482.64,638.86Z",
-              transform: "translate(-53 -70)",
-              fill: e.text,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M394.3,660.49c.2,2.13.26,4.57-1.28,6.06a6.83,6.83,0,0,1-3.35,1.5c-7.39,1.72-15.63,1.84-22.06-2.18a6.09,6.09,0,0,1-1.74-1.49,5.43,5.43,0,0,1-.88-2.75c-.23-2.83.64-5.62,1.43-8.35a146.52,146.52,0,0,0,4.25-19.75c.08-.55,18.87,3,20.12,4.86,1.57,2.3,1.58,7.82,2,10.56Q393.74,654.69,394.3,660.49Z",
-              transform: "translate(-53 -70)",
-              fill: e.text,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M464.24,400.27l5,46.49c1,9.5,2.05,19.05,1.36,28.58-.8,11-3.88,22-2.58,32.9.51,4.24,1.67,8.4,1.84,12.67a69,69,0,0,1-.43,8.5c-2.26,28.21,4.89,56.2,8.89,84.21a36.54,36.54,0,0,1,.42,10.48c-.52,3.55-1.56,8.21,1.6,9.89l-29.68,10.76c-3.79-4.75-1.28-12.14-2-18.17-.66-5.43-3.64-10.27-5.23-15.5-1.44-4.7-1.74-9.65-2.21-14.53-2.59-26.57-10.54-52.45-12.4-79.08a36,36,0,0,0-1-7.63c-1-3.31-3-6.2-4.46-9.31-2.24-4.67-3.34-9.79-4.42-14.85l-6.35-29.75c-6.42,9.56-6.16,22-7.43,33.46-1.78,16-5.76,31.73-9,47.53a94.47,94.47,0,0,0-1.69,10.3c-.84,9.27.83,18.63-.06,27.89-1,10.73-5.51,21.2-4.42,31.93.6,5.94,2.88,11.56,4.42,17.32s2.3,12.08-.05,17.57a54,54,0,0,0-25.71-2.84c-9.53-9.75-11.22-23.35-11.87-37s.92-27.32-.78-40.84c-.5-4-1.28-7.9-1.41-11.89-.42-12.79,5.73-24.76,8.79-37.19a78.7,78.7,0,0,0,.77-34.15c-1.5-7.47-4.08-14.72-5-22.29-1.25-10.61.87-21.3,3-31.78,1.43-7.07,2.85-14.14,4.47-21.17,1.74-7.55,3.81-15.26,8.46-21.44,7.44-9.89,20.65-14.28,33-13.32s23.88,6.58,34.08,13.58A128.48,128.48,0,0,1,464.24,400.27Z",
-              transform: "translate(-53 -70)",
-              fill: e.dark,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M431.06,222.25a8.63,8.63,0,0,0-1.15,2.94c-.25,2.05,1,3.93,2,5.72a31.15,31.15,0,0,1,2.93,7.3,12,12,0,0,1,.43,4.87,11.75,11.75,0,0,1-1.3,3.5c-1.93,3.72-4.79,7.16-8.68,8.71a15.29,15.29,0,0,1-9.39.38,28.51,28.51,0,0,1-8.59-4.08,26.11,26.11,0,0,1-5.88-5.1,35.25,35.25,0,0,1-4.06-7c-2.08-4.35-4.19-9-3.81-13.77a4.6,4.6,0,0,1,.24-1.27,6.83,6.83,0,0,1,1.34-2,26.1,26.1,0,0,0,6.12-18.15l14.57,3.31c3.21.73,6.42,1.46,9.59,2.37,2.6.75,6.6,1.79,8.29,4.11S432.21,220.13,431.06,222.25Z",
-              transform: "translate(-53 -70)",
-              fill: "#fbbebe",
-            }),
-            r.a.createElement("circle", {
-              cx: "370.26",
-              cy: "123.29",
-              r: "26.48",
-              fill: "#fbbebe",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M419,246.71c1.12-2.45,3.54-4,5.75-5.54s4.45-3.51,4.88-6.18a4.43,4.43,0,0,1,.44-1.74c.85-1.28,2.87-.64,4.08.3,2.94,2.29,4.94,5.54,6.89,8.71a74.43,74.43,0,0,1,6.45,12.19c2.81,7.41,3.15,15.5,3.46,23.41.28,7.2.55,14.51-1.2,21.49-1.1,4.42-3,8.71-3.11,13.26-.33,16.53-6.07,32.33-6.47,48.86a126.75,126.75,0,0,0,.72,14.31l.94,10.73q-21.81-1.25-43.5-3.83c-.42-4.94-1.83-9.73-3.12-14.51a314.93,314.93,0,0,1-10.11-59.74c-.77-10.72-1.56-21.4-2.75-32.08-1.07-9.71-3.17-19.48-1.91-29.17a40.27,40.27,0,0,1,4.1-12.62,8.32,8.32,0,0,1,3.2-3.83A8.65,8.65,0,0,1,390,230a41.94,41.94,0,0,1,6.88-.81,4.74,4.74,0,0,1,1.68.16,5.27,5.27,0,0,1,2.29,2.22A41.52,41.52,0,0,0,419,246.71Z",
-              transform: "translate(-53 -70)",
-              fill: "#f2f2f2",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M406.72,244.59c1.86,2.66,5.8,3.29,7.52,6a15.73,15.73,0,0,1,1.31,3.57c1.05,3.35,3.17,6.26,4.46,9.53,1.86,4.7,1.91,9.9,1.93,14.95a49.47,49.47,0,0,1-.92,12c-.6,2.47-1.58,4.82-2.3,7.26a35.5,35.5,0,0,0-1.34,12.8,5.24,5.24,0,0,0,.72,2.65,5.75,5.75,0,0,0,2.56,1.74c2.93,1.29,6,2.61,9.2,2.31a3.37,3.37,0,0,0,1.83-.61,4.07,4.07,0,0,0,.9-1.19l2-3.38c1.81-3.09,3.7-6.55,3-10.08a20,20,0,0,0-2.27-5.17,60.78,60.78,0,0,1-3.26-8.07c-3.19-9.17-6.42-18.47-7.14-28.15a24.74,24.74,0,0,1,1.2-10.92,31.1,31.1,0,0,1,3.52-6.09,2.61,2.61,0,0,0-2.81-.95,16.72,16.72,0,0,0-2.91,1.21c-2.94,1.24-6.2.79-9.17-.06-1.16-.34-3-1.5-4.2-1.42C410.14,242.57,406.79,244.71,406.72,244.59Z",
-              transform: "translate(-53 -70)",
-              fill: e.imageHighlight,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M430.13,244.48c-.6-.48-1.53-.92-2.06-.36a2.32,2.32,0,0,0-.38.81c-.52,1.4-2.05,2.09-3.44,2.63s-2.89.84-3.73-.19a2.26,2.26,0,0,1,.13-2.67,8.16,8.16,0,0,1,2.19-1.85,21.38,21.38,0,0,0,8.72-13.72,6.52,6.52,0,0,1,2.39,4.13c.33,1.59.37,3.23.7,4.82.49,2.28,1.58,4.41,1.83,6.72.13,1.23,0,2.47,0,3.7a22.71,22.71,0,0,0,.42,3.58C434.56,249.6,432.91,246.69,430.13,244.48Z",
-              transform: "translate(-53 -70)",
-              fill: "#f2f2f2",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M409.89,237.69c-1-.95-2-1.85-3-2.82a38.9,38.9,0,0,1-9.67-15.35c-1.28,1-2.69,2.32-2.72,4a6.13,6.13,0,0,0,1.32,3.25,50.68,50.68,0,0,1,7.33,19.61,5.84,5.84,0,0,1,5.05-2.69c1.58,0,8.67,4.2,9.18,3.14C418.13,245.17,411.09,238.82,409.89,237.69Z",
-              transform: "translate(-53 -70)",
-              fill: "#f2f2f2",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M432.22,229.73a83,83,0,0,0,33.58,20.33,7.54,7.54,0,0,1,3.39,1.72,6.93,6.93,0,0,1,1.41,3.1c2.44,9.54,3.26,19.41,4.07,29.22a16.28,16.28,0,0,1-.1,4.88c-.59,2.62-2.45,4.74-4.28,6.71-5.74,6.15-12.29,12.58-13.26,20.94a33.45,33.45,0,0,1-.57,4.8c-.5,1.86-1.61,3.5-2.29,5.31-3.34,8.91,4.21,19.7-.39,28A50.54,50.54,0,0,1,458.84,370a19.86,19.86,0,0,0,1.37,5.88c1.37,2.86,4.19,4.68,6.41,7,6.77,6.94,7.6,17.56,8,27.25.25,5.46.17,11.73-4,15.31-2.41,2.09-5.7,2.77-8.85,3.29-4.19.7-8.75,1.2-12.46-.87-2.66-1.48-4.47-4.07-6.2-6.57-3.28-4.77-6.57-9.53-9.68-14.42-4.92-7.71-9.56-16.52-8.14-25.56-.4,9.25-2.35,18.57-6.89,26.63s-11.85,14.79-20.72,17.45-19.24.78-25.85-5.7a34.94,34.94,0,0,1-5.51-7.43,72.52,72.52,0,0,1-8.14-20.71c-.43-1.89-.75-4,.2-5.69.45-.8,1.14-1.43,1.61-2.22,1.58-2.69.06-6.08-1.47-8.82-2.33.22-4-2.52-3.79-4.86s1.61-4.37,2.6-6.5c2.9-6.28,2.26-13.59.86-20.36s-3.49-13.5-3.33-20.41c.17-7.31-5.09-13.89-9.1-20-2.24-3.44-4.85-6.64-6.8-10.25a33.07,33.07,0,0,1-2.62-24.76,64.89,64.89,0,0,1,5.48-12.22l3.3-6.19a10.21,10.21,0,0,1,7-6l22.83-9a34.35,34.35,0,0,0,8.24-4.12c2.79-2.1,4.87-5,7.53-7.24a4.22,4.22,0,0,1,3-1.31c2.14.19,2.9,2.89,3.12,5,.5,4.72,4,8.72,5.19,13.31,6.44,25.35,20.07,48.73,23.81,74.61,4.2-10.09,8.4-20.2,13.78-29.7a24.66,24.66,0,0,0,2.13-4.31,18.4,18.4,0,0,0,.71-6.69c-.27-6.51-2-12.87-3.71-19.16C436.53,246.1,434.53,238.21,432.22,229.73Z",
-              transform: "translate(-53 -70)",
-              fill: e.text,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M475.73,307.19c.44,4.26.87,8.53,1.66,12.74.92,4.87,2.32,9.63,3.71,14.39a37.45,37.45,0,0,0,2.9,7.73,9.94,9.94,0,0,1,1.07,2.29c.49,2-.63,4-1.11,6-1.44,6,2.88,12.67.16,18.2-.82,1.68-2.25,3.07-2.79,4.87-.63,2.07,0,4.28.33,6.42.85,6-1.2,12.1-3.22,17.87L475,407.44c-3.14-5.84-6.31-11.74-10.65-16.75-1.55-1.8-3.24-3.47-4.67-5.37a37.66,37.66,0,0,1-5-9.74,84.43,84.43,0,0,1-5.17-25.72,17.59,17.59,0,0,1,.85-7.4,39.36,39.36,0,0,1,2.22-4c2.68-4.83,3.23-10.55,3.18-16.07s-.64-11.06,0-16.55a37.86,37.86,0,0,1,4-13.13,18.63,18.63,0,0,1,5.43-6.77,9.78,9.78,0,0,1,6-1.95c3.27.19,2.52,3,2.8,5.71Z",
-              transform: "translate(-53 -70)",
-              fill: e.text,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M328.64,293.58q-3.06,9-5.52,18.16-2.4,9-4.29,18.1a38.76,38.76,0,0,0-1.08,8.14,36.42,36.42,0,0,0,1.63,9.41c6.44,23.21,18.18,44.62,31.4,64.75A58.28,58.28,0,0,1,364.08,400a2.85,2.85,0,0,0,1-1,2.71,2.71,0,0,0-.32-2.34c-3.65-7.48-9.43-14.07-11.25-22.2-.76-3.38-.79-6.9-1.65-10.26-1.11-4.35-3.59-8.33-4.16-12.79-.61-4.86,1-10.16-1.28-14.47,4.65-1.81,7.34-6.6,9.31-11.19a61.29,61.29,0,0,0,4.48-14.71,44.26,44.26,0,0,0-5.41-28.15,45,45,0,0,0-9.05-11.36c-1.19-1.07-4-4.14-5.73-4.11-2.31.05-3.05,3.79-3.71,5.47C333.64,279.75,331,286.62,328.64,293.58Z",
-              transform: "translate(-53 -70)",
-              fill: e.text,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M370.06,405.51c.3.22.64.52.56.88s-.37.45-.63.6a7.76,7.76,0,0,0-2.88,3.9,108.85,108.85,0,0,0-4.34,11.49,50.37,50.37,0,0,0-7.84-9.15c-2.28-2.1-4.83-4.09-6.05-6.93,0-.08,5.24-3.95,5.72-4.37,1.47-1.31,3.32-4.94,4.84-5.74,1.72-.9,3.36,2.63,4.67,4.05A39.72,39.72,0,0,0,370.06,405.51Z",
-              transform: "translate(-53 -70)",
-              fill: "#fbbebe",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M451.38,189.15c-.07-1.31-.24-2.76-1.24-3.61a4.73,4.73,0,0,0-3-.83c-5.83-.19-11.86.79-17.36-1.17-3.62-1.29-6.71-3.77-10.24-5.31s-8.05-1.95-10.9.64c-2.16,2-2.75,5.07-3.5,7.9a46.32,46.32,0,0,1-8.63,17.12c-2.71-.84-4.65-3.26-5.9-5.8-4.25-8.66-2.16-19,.86-28.18,1-3.08,2.11-6.13,3.22-9.17l2.44-6.72a13.12,13.12,0,0,0,8.36-4.16l1.05,2.55a13.3,13.3,0,0,0,7.5-2.65c.84,1.58,3,2,4.75,1.49s3.26-1.49,5-2c4.65-1.5,9.61.81,14.49,1.07a58,58,0,0,1,6.19.18c5.76.93,9.83,6.35,11.59,11.91,1.17,3.7,2.14,8.25,5.79,9.56.08,1.4-2.4,1.67-2.61,3a2.3,2.3,0,0,0,.3,1.27l3.35,7.19a8.32,8.32,0,0,1-4.84-.24C456.54,186.74,451.53,191.86,451.38,189.15Z",
-              transform: "translate(-53 -70)",
-              fill: e.dark,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M621.14,204.8a131.36,131.36,0,0,1,4,16.73c.72,4.24,1.14,8.95-1.29,12.49,9.26-13.93,18.93-28.28,33-37.27A30.13,30.13,0,0,1,649,173.51c.08-.84-11.55,3.55-12.44,4.05-4.08,2.27-7.82,5.09-11.8,7.52-2.06,1.25-10.64,4.21-10.72,6,0,1.15,3.41,4.67,4.05,5.88A45.67,45.67,0,0,1,621.14,204.8Z",
-              transform: "translate(-53 -70)",
-              fill: "#fbbebe",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M664.17,730.18a15.5,15.5,0,0,0-15.84-1.2c-4.53,2.34-7.58,6.77-11.7,9.77-7.08,5.14-16.43,5.55-24.72,8.33-2.2.74-4.54,1.84-5.47,4a7.1,7.1,0,0,0,.41,5.57,14.42,14.42,0,0,0,6.86,7.07c3.72,1.78,8,1.86,12.12,1.91l35.8.42c11,.13,22.07.26,33,1.63,2.55.32,5.31.67,7.56-.58,3.66-2,4.08-7.06,3.8-11.23a103.07,103.07,0,0,0-7-30.8c-.43-1.09-1-2.33-2.21-2.53a3.6,3.6,0,0,0-2.38.76c-10.1,6-22.89,9.39-33.63,4.59",
-              transform: "translate(-53 -70)",
-              fill: "#fff",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M682.09,501.78c-4,23.23-1.39,47.1,3.11,70.23a122.46,122.46,0,0,0,3.27,13.64c1.61,5.1,3.78,10,5.29,15.13,3.84,13,3.3,26.9,2.73,40.47L693.87,703c-.22,5.18-.42,10.48,1.14,15.42.63,2,1.4,4.5-.19,5.85a4.46,4.46,0,0,1-2.11.81,32.66,32.66,0,0,1-21-3.15L671,659.55c-.22-19.23-.45-38.54-3.41-57.53-2.35-15.1-6.43-30-6.7-45.28-.28-16,3.64-31.79,7.64-47.3.86-3.32,4-5.75,6.58-8a8.09,8.09,0,0,1,3.2-1.94C679.51,499.17,681.35,500.77,682.09,501.78Z",
-              transform: "translate(-53 -70)",
-              fill: e.text,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M682.09,501.78c-4,23.23-1.39,47.1,3.11,70.23a122.46,122.46,0,0,0,3.27,13.64c1.61,5.1,3.78,10,5.29,15.13,3.84,13,3.3,26.9,2.73,40.47L693.87,703c-.22,5.18-.42,10.48,1.14,15.42.63,2,1.4,4.5-.19,5.85a4.46,4.46,0,0,1-2.11.81,32.66,32.66,0,0,1-21-3.15L671,659.55c-.22-19.23-.45-38.54-3.41-57.53-2.35-15.1-6.43-30-6.7-45.28-.28-16,3.64-31.79,7.64-47.3.86-3.32,4-5.75,6.58-8a8.09,8.09,0,0,1,3.2-1.94C679.51,499.17,681.35,500.77,682.09,501.78Z",
-              transform: "translate(-53 -70)",
-              opacity: "0.1",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M607,429.18c-1.48,6.09,1.66,12.4,1.31,18.66-.2,3.79-1.69,7.57-1,11.29s3.35,6.52,4.77,9.93a26.94,26.94,0,0,1,1.62,8.88c.41,7.48.08,15-.2,22.45-.47,12.5-.82,25.07.83,37.46A117.19,117.19,0,0,0,623,569a54,54,0,0,1,3.23,8.39,59.88,59.88,0,0,1,1.1,8.14,82.7,82.7,0,0,0,7.07,25.71c2.55,5.57,7,10,8.41,15.91,1.34,5.66.44,11.63,1.41,17.36.71,4.25,2.44,8.27,3.4,12.47,1.25,5.43,1.22,11.06,1.85,16.6,1.8,16,9.07,32,4.73,47.52-.87,3.12-2.22,6.29-1.61,9.47.3,1.56,1.06,3.1.72,4.65-.28,1.32-1.3,2.34-1.82,3.59-1,2.34.06,5.12,1.84,6.93a19.69,19.69,0,0,0,6.5,3.84c7.37,3.15,15,6.35,23,6.28a6.18,6.18,0,0,0,2.83-.52c1.44-.75,2.15-2.38,2.76-3.88l4.1-10.14c.5-1.23,1-2.67.31-3.81a7.1,7.1,0,0,0-1.72-1.6c-3.31-2.79-2.56-8-1.68-12.19a177.87,177.87,0,0,0,3.72-32.7c.44-21.92-3.17-43.71-6.77-65.34-1.25-7.51-2.51-15.07-5-22.27s-6.16-14.13-5.56-21.61c.64-8.08-1.46-16.55,0-24.52s3.77-15.77,5.26-23.73c1.93-10.33,2.41-20.86,3-31.34.25-4.28.57-8.7,2.57-12.5,1.17-2.22,2.87-4.12,4.18-6.27,3.38-5.59,3.92-12.52,7.15-18.2,1.53-2.69,3.64-5.06,4.76-7.94a22.19,22.19,0,0,0,1.22-7.06,84,84,0,0,0-1-18.05,117.45,117.45,0,0,0-55-12.76c-7.31.12-14.7.86-21.56,3.39C619.86,425.25,613.9,428.66,607,429.18Z",
-              transform: "translate(-53 -70)",
-              fill: e.text,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M648,746c-2.94,3.66-2.74,8.89-4.62,13.2-2.28,5.23-7.36,8.58-12.18,11.63l-30,19c-1.64,1-3.4,2.23-4,4.09a6.56,6.56,0,0,0,.15,3.59,15.58,15.58,0,0,0,10.48,10.64,31,31,0,0,0,8.11.83l13.49.18a79,79,0,0,0,12.31-.48c3.74-.54,7.38-1.61,11.1-2.29,6.77-1.23,13.73-1.12,20.51-2.31a108.46,108.46,0,0,0,12.28-3.17c4.9-1.47,9.89-3,14.09-5.91a7.31,7.31,0,0,0,2.71-2.92c.71-1.65.32-3.54-.08-5.29l-6.44-28.3a16.87,16.87,0,0,0-2.52-6.61c-1.43-1.9-4-3.16-6.23-2.35a13.21,13.21,0,0,0-2.59,1.56c-3.3,2.17-7.53,2.53-11.43,1.85-2.52-.45-5.85-1.14-7.88-2.81-1.54-1.27-2-3.24-3.31-4.68A9.39,9.39,0,0,0,648,746Z",
-              transform: "translate(-53 -70)",
-              fill: "#fff",
-            }),
-            r.a.createElement("circle", {
-              cx: "575.55",
-              cy: "94.77",
-              r: "36.13",
-              fill: "#fbbebe",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M600.68,166.89c3.46-1.94,3.46-7.53,7-9.39s7.56,1.37,9.83,4.63A42.59,42.59,0,0,1,624.26,178c.32,1.62.62,3.39,1.84,4.52s2.82,1.27,4.38,1.43q6.85.68,13.72,1.24c5.1.41,10.48.74,15.11-1.45a11,11,0,0,0,4.54-3.76,16.92,16.92,0,0,0,1.94-5.08c2.39-9.09,4.8-18.29,5-27.69.08-3.88-.26-7.9-2.13-11.3-1.09-2-2.69-3.74-3.14-5.94s1-5,3.28-4.76a13.46,13.46,0,0,1-6-1.14c-1.81-1-3.15-3.15-2.51-5.11-5.08.65-8.78-4.37-12.74-7.62a3.45,3.45,0,0,0-2.42-1,8.73,8.73,0,0,0-2,.77c-2,.7-4.09-.63-6.14-1.21-5.5-1.54-12.49,2.18-16.57-1.82.39,2.55-2.74,4.26-5.32,4.21s-5.24-1-7.68-.14a5,5,0,0,1-2.86,7.16l1.21,2.64a6.82,6.82,0,0,0-5.25,4.92c-1.33,5.25-1,12.71-.68,18.11C600,147.35,602.31,166,600.68,166.89Z",
-              transform: "translate(-53 -70)",
-              fill: e.dark,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M631.51,211.34c-18.15,20.41-22.77,49.14-26.64,76.19l-5.7,39.94c-1.48,10.36-3,20.72-4.29,31.11-.9,7.11-1.74,14.33-.76,21.43.77,5.6,2.64,11,4.2,16.39a154.56,154.56,0,0,1,6,43.49c1.21-3.56,5.4-5,9.08-5.8a146.82,146.82,0,0,1,91.86,9.81c5.05-14.15,4.1-29.63,5.51-44.59,2-21.33,8.89-42,10.93-63.29.75-7.93.84-15.9.92-23.87.06-5.85.12-11.76-1.1-17.49-1.36-6.34-4.23-12.25-7.2-18A469.1,469.1,0,0,0,687,230.24q-7.54-11.28-15.73-22.11-4.15-5.49-8.47-10.86c-2.79-3.47-4-6.48-8.43-4.4C646,196.79,637.6,204.49,631.51,211.34Z",
-              transform: "translate(-53 -70)",
-              fill: e.imageHighlight,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M641.91,381.22a98,98,0,0,1-13.27-.42c-3.27-.32-6.61-.8-9.8,0a10.2,10.2,0,0,0-3.81,1.87,2.87,2.87,0,0,0,1.63,5l3.42.3c2.17.19,4.43.41,6.12,2a3.82,3.82,0,0,1,1.24,2.41c.21,2.33-1.81,3.6-3.62,4.57a28.69,28.69,0,0,0-7.06,4.7,9.78,9.78,0,0,0-2.93,6,1.16,1.16,0,0,0,1.7,1.07c4-2,6.61-7.93,11-6.94a17.82,17.82,0,0,0-9.66,7.43,4.48,4.48,0,0,0,6,6.33,19.78,19.78,0,0,0,1.88-1.25,46.21,46.21,0,0,0,7.93-8.24c-3.2,6.75-6.44,14.65-2.76,21.36a2.13,2.13,0,0,0,2,1.18c1.16-.12,1.5-1.21,1.69-2.17.6-3.09.75-6.35,2.27-9.1,3.52-6.38,12.2-7,18.81-10.11,7.93-3.68,13.36-11.6,15.55-20.06a15.42,15.42,0,0,0,.39-7.62c-1.47-5.69-8.49-7-13-4.25C652.1,378.79,648.89,381,641.91,381.22Z",
-              transform: "translate(-53 -70)",
-              fill: "#fbbebe",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M634.89,269.29c7,10.81,19.15,16.9,29.57,24.49A24.79,24.79,0,0,1,671,300c2.63,4.06,3,9.22,2.46,14-.68,6.31-2.71,12.38-4.72,18.4l-4.37,13.05c-2.77,8.28-5.63,16.73-10.9,23.69-1.35,1.77-2.92,3.66-2.86,5.88a7.6,7.6,0,0,0,1.28,3.58,24.08,24.08,0,0,0,15.29,10.92,11.66,11.66,0,0,0,5.75,0c2.7-.8,4.73-3,6.61-5.08,9-9.93,18-20,24.5-31.65,6.35-11.37,10.15-24,13.65-36.51a76.86,76.86,0,0,0,3-14.13c.74-9-1.62-18-5.48-26.13s-9.17-15.49-14.64-22.64a157.58,157.58,0,0,0-17.15-19.68c-10.88-10.17-24.19-16.15-38.75-10.38-10.28,4.08-14.13,12.59-15.05,23.49A35.74,35.74,0,0,0,634.89,269.29Z",
-              transform: "translate(-53 -70)",
-              opacity: "0.1",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M638.53,266.55c7,10.81,19.16,16.9,29.57,24.49a24.87,24.87,0,0,1,6.51,6.26c2.63,4.06,3,9.21,2.46,14-.69,6.31-2.71,12.38-4.73,18.4l-4.37,13c-2.77,8.28-5.63,16.72-10.9,23.69-1.34,1.77-2.91,3.65-2.85,5.88a7.42,7.42,0,0,0,1.28,3.57,24.07,24.07,0,0,0,15.28,10.93,11.7,11.7,0,0,0,5.76,0c2.7-.79,4.72-3,6.61-5.07,9-9.94,18-20,24.5-31.65,6.35-11.37,10.15-24,13.65-36.52a76.08,76.08,0,0,0,3-14.12c.74-9-1.62-18-5.47-26.14s-9.17-15.49-14.64-22.64A157.65,157.65,0,0,0,687,231.06c-10.87-10.16-24.18-16.15-38.74-10.37-10.29,4.08-14.13,12.58-15.06,23.49A35.77,35.77,0,0,0,638.53,266.55Z",
-              transform: "translate(-53 -70)",
-              fill: e.imageHighlight,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M859.65,625.24a37,37,0,0,1-.8,7.76c-.1.48-.21,1-.32,1.41-2.84,11.39-10.85,19.72-20.41,20.25-.32,0-.64,0-1,0-10.11,0-18.66-8.72-21.48-20.73-.08-.32-.15-.64-.22-1a37,37,0,0,1-.8-7.76c0-16.27,10.07-29.45,22.5-29.45S859.65,609,859.65,625.24Z",
-              transform: "translate(-53 -70)",
-              fill: e.text,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M859.65,625.24a37,37,0,0,1-.8,7.76c-.1.48-.21,1-.32,1.41-.34,0-.67,0-1,0a45.76,45.76,0,0,1-7.36-1,44.92,44.92,0,0,1-6.56,1.5,45.87,45.87,0,0,1-5.14.48l-1.74,0a46.41,46.41,0,0,1-6.16-.41,45.17,45.17,0,0,1-9.67-2.4,45.56,45.56,0,0,1-5.22,1.4c-.08-.32-.15-.64-.22-1a37,37,0,0,1-.8-7.76c0-16.27,10.07-29.45,22.5-29.45S859.65,609,859.65,625.24Z",
-              transform: "translate(-53 -70)",
-              opacity: "0.1",
-            }),
-            r.a.createElement("path", {
-              d:
-                "M907.65,570.38a45.54,45.54,0,0,0-4.9-20.61L876.29,558l23.23-13.66a45.73,45.73,0,0,0-34.36-19.58,45.65,45.65,0,0,0-3.57-4.72l-38,11.83,31.17-18.33a45.73,45.73,0,0,0-72,24.39l32.55,37.47L780,549.86a45.74,45.74,0,0,0,40.93,80.7,45.92,45.92,0,0,0,29.28.81,45.78,45.78,0,0,0,55.62-44.66c0-1,0-2-.1-3A45.63,45.63,0,0,0,907.65,570.38Z",
-              transform: "translate(-53 -70)",
-              fill: e.imageHighlight,
-            }),
-            r.a.createElement("path", {
-              d:
-                "M906.86,578.86a121.9,121.9,0,0,0-42.34-.54c-15.89,2.63-32.13,8.41-47.67,4.19-9.12-2.48-17-8.22-25.91-11.41a49.18,49.18,0,0,0-26.75-1.6,45.76,45.76,0,0,0,56.69,61.06,45.92,45.92,0,0,0,29.28.81,45.78,45.78,0,0,0,55.62-44.66c0-1,0-2-.1-3A45.19,45.19,0,0,0,906.86,578.86Z",
-              transform: "translate(-53 -70)",
-              opacity: "0.1",
-            })
-          );
-        }
-      }
-      class Se extends l.Component {
-        render() {
-          const e = this.props.theme;
-          return r.a.createElement(
-            "div",
-            { className: "experience-main" },
-            r.a.createElement(j, { theme: e }),
-            r.a.createElement(
-              "div",
-              { className: "basic-experience" },
-              r.a.createElement(
-                C.Fade,
-                { bottom: !0, duration: 2e3, distance: "40px" },
-                r.a.createElement(
-                  "div",
-                  { className: "experience-heading-div" },
-                  r.a.createElement(
-                    "div",
-                    { className: "experience-heading-img-div" },
-                    r.a.createElement(Ne, { theme: e })
-                  ),
-                  r.a.createElement(
-                    "div",
-                    { className: "experience-heading-text-div" },
-                    r.a.createElement(
-                      "h1",
-                      {
-                        className: "experience-heading-text",
-                        style: { color: e.text },
-                      },
-                      x.title
-                    ),
-                    r.a.createElement(
-                      "h3",
-                      {
-                        className: "experience-heading-sub-text",
-                        style: { color: e.text },
-                      },
-                      x.subtitle
-                    ),
-                    r.a.createElement(
-                      "p",
-                      {
-                        className: "experience-header-detail-text subTitle",
-                        style: { color: e.secondaryText },
-                      },
-                      x.description
-                    )
-                  )
-                )
-              )
-            ),
-            r.a.createElement(Ze, { sections: x.sections, theme: e }),
-            r.a.createElement(ee, {
-              theme: this.props.theme,
-              onToggle: this.props.onToggle,
-            }),
-            r.a.createElement(te, { theme: this.props.theme })
-          );
-        }
-      }
-      var Re = Se,
-        Ie = a(41),
-        He = (a(282), a(25));
-      class Be extends l.Component {
-        render() {
-          const e = {
-            labels: ["Open", "Merged", "Closed"],
-            datasets: [
-              {
-                data: [He.open, He.merged, He.closed],
-                backgroundColor: ["#28a745", "#6f42c1", "#d73a49"],
-                hoverBackgroundColor: ["#28a745dd", "#6f42c1dd", "#d73a49dd"],
-              },
-            ],
-          };
-          return r.a.createElement(
-            "div",
-            { className: "pr-chart" },
-            r.a.createElement(
-              C.Fade,
-              { bottom: !0, duration: 2e3, distance: "20px" },
-              r.a.createElement(
-                "h2",
-                { className: "pr-chart-header" },
-                "Pull Request Distribution"
-              )
-            ),
-            r.a.createElement(Ie.Doughnut, {
-              data: e,
-              options: {
-                padding: "0",
-                margin: "0",
-                responsive: !0,
-                maintainAspectRatio: !0,
-                animation: { duration: 4e3 },
-              },
-            })
-          );
-        }
-      }
-      var je = Be,
-        De = (a(283), a(31));
-      class Le extends l.Component {
-        render() {
-          const e = {
-            labels: ["Open", "Closed"],
-            datasets: [
-              {
-                data: [De.open, De.closed],
-                backgroundColor: ["#28a745", "#d73a49"],
-                hoverBackgroundColor: ["#28a745dd", "#d73a49dd"],
-              },
-            ],
-          };
-          return r.a.createElement(
-            "div",
-            { className: "issue-chart" },
-            r.a.createElement(
-              C.Fade,
-              { bottom: !0, duration: 2e3, distance: "20px" },
-              r.a.createElement(
-                "h2",
-                { className: "issue-chart-header" },
-                "Issue Distribution"
-              )
-            ),
-            r.a.createElement(Ie.Doughnut, {
-              data: e,
-              options: {
-                margin: "0",
-                padding: "0",
-                responsive: !0,
-                maintainAspectRatio: !0,
-                animation: { duration: 4e3 },
-              },
-            })
-          );
-        }
-      }
-      var Ue = Le;
-      a(284);
-      class Oe extends l.Component {
-        render() {
-          const e = this.props.theme;
-          return r.a.createElement(
-            "div",
-            { className: "main-div" },
-            r.a.createElement(
-              "div",
-              { className: "os-charts-header-div" },
-              r.a.createElement(
-                C.Fade,
-                { bottom: !0, duration: 2e3, distance: "20px" },
-                r.a.createElement(
-                  "h1",
-                  { className: "os-charts-header", style: { color: e.text } },
-                  "Contributions"
-                )
-              )
-            ),
-            r.a.createElement(
-              "div",
-              { className: "os-charts-body-div" },
-              r.a.createElement(je, null),
-              r.a.createElement(Ue, null)
-            )
-          );
-        }
-      }
-      var ze = Oe;
-      a(285), a(286);
-      class Ge extends l.Component {
-        render() {
-          return r.a.createElement(
-            "div",
-            { className: "organizations-main-div" },
-            r.a.createElement(
-              "ul",
-              { className: "dev-icons-orgs" },
-              this.props.logos.map((e) =>
-                r.a.createElement(
-                  Q.a,
-                  {
-                    key: e.login,
-                    placement: "top",
-                    style: { marginBottom: "5px" },
-                    overlay: r.a.createElement(
-                      F.a,
-                      { id: "tooltip-top" },
-                      r.a.createElement("strong", null, e.login)
-                    ),
-                  },
-                  r.a.createElement(
-                    "li",
-                    { className: "organizations-inline", name: e.login },
-                    r.a.createElement(
-                      C.Fade,
-                      { bottom: !0, duration: 2e3, distance: "40px" },
-                      r.a.createElement("img", {
-                        className: "organizations-img",
-                        src: e.avatarUrl,
-                        alt: e.login,
-                      })
-                    )
-                  )
-                )
-              )
-            )
-          );
-        }
-      }
-      var Ve = Ge,
-        Qe = a(90);
-      class Fe extends l.Component {
-        render() {
-          const e = this.props.theme;
-          return r.a.createElement(
-            "div",
-            { id: "organizations" },
-            r.a.createElement(
-              "div",
-              { className: "organizations-header-div" },
-              r.a.createElement(
-                C.Fade,
-                { bottom: !0, duration: 2e3, distance: "20px" },
-                r.a.createElement(
-                  "h1",
-                  {
-                    className: "organizations-header",
-                    style: { color: e.text },
-                  },
-                  "Contributed Organizations"
-                )
-              )
-            ),
-            r.a.createElement(Ve, { logos: Qe.data })
-          );
-        }
-      }
-      var Pe = Fe;
-      a(287), a(288);
-      class Te extends l.Component {
-        render() {
-          const e = this.props.pullRequest;
-          var t, a;
-          "OPEN" === e.state
-            ? ((t = {
-                iconifyClass: "octicon:git-pull-request",
-                style: { color: "#28a745" },
-              }),
-              (a = "#dcffe4"))
-            : "MERGED" === e.state
-            ? ((t = {
-                iconifyClass: "octicon:git-merge",
-                style: { color: "#6f42c1" },
-              }),
-              (a = "#f5f0ff"))
-            : ((t = {
-                iconifyClass: "octicon:git-pull-request",
-                style: { color: "#d73a49" },
-              }),
-              (a = "#ffdce0"));
-          var l,
-            n = "#" + e.number + " opened on " + e.createdAt.split("T")[0];
-          if (null !== e.mergedBy) {
-            const t = e.mergedBy.login;
-            l = r.a.createElement(
-              Q.a,
-              {
-                key: t,
-                placement: "top",
-                style: { marginBottom: "5px" },
-                overlay: r.a.createElement(
-                  F.a,
-                  { id: "tooltip-top" },
-                  r.a.createElement("strong", null, "Merged by ".concat(t))
-                ),
-              },
-              r.a.createElement(
-                "a",
-                {
-                  href: e.mergedBy.url,
-                  target: "_blank",
-                  rel: "noopener noreferrer",
-                },
-                r.a.createElement("img", {
-                  className: "merge-by-img",
-                  src: e.mergedBy.avatarUrl,
-                  alt: "",
-                })
-              )
-            );
-          } else l = r.a.createElement("noscript", null);
-          return r.a.createElement(
-            C.Fade,
-            { bottom: !0, duration: 2e3, distance: "40px" },
-            r.a.createElement(
-              "div",
-              {
-                className: "pull-request-card",
-                style: {
-                  backgroundColor: a,
-                  border: "1px solid ".concat(t.style.color),
-                },
-              },
-              r.a.createElement(
-                "div",
-                { className: "pr-top" },
-                r.a.createElement(
-                  "div",
-                  { className: "pr-header" },
-                  r.a.createElement("span", {
-                    className: "iconify pr-icons",
-                    "data-icon": t.iconifyClass,
-                    style: t.style,
-                    "data-inline": "false",
-                  }),
-                  r.a.createElement(
-                    "div",
-                    { className: "pr-title-header" },
-                    r.a.createElement(
-                      "p",
-                      { className: "pr-title" },
-                      r.a.createElement(
-                        "a",
-                        {
-                          href: e.url,
-                          target: "_blank",
-                          rel: "noopener noreferrer",
-                        },
-                        e.title
-                      )
-                    ),
-                    r.a.createElement("p", { className: "pr-subtitle" }, n)
-                  )
-                ),
-                r.a.createElement(
-                  "div",
-                  { className: "files-changed-header" },
-                  r.a.createElement(
-                    "p",
-                    {
-                      className: "files-changed-text",
-                      style: { backgroundColor: t.style.color },
-                    },
-                    e.changedFiles
-                  ),
-                  r.a.createElement(
-                    "p",
-                    { className: "files-changed-text-2" },
-                    "Files Changed"
-                  )
-                )
-              ),
-              r.a.createElement(
-                "div",
-                { className: "pr-down" },
-                r.a.createElement(
-                  "div",
-                  { className: "changes-repo" },
-                  r.a.createElement(
-                    "p",
-                    { className: "parent-repo" },
-                    "Repository:",
-                    " ",
-                    r.a.createElement(
-                      "a",
-                      {
-                        style: { color: t.style.color },
-                        href: e.baseRepository.url,
-                      },
-                      e.baseRepository.owner.login,
-                      "/",
-                      e.baseRepository.name
-                    )
-                  ),
-                  r.a.createElement(
-                    "div",
-                    { className: "changes-files" },
-                    r.a.createElement(
-                      "p",
-                      { className: "additions-files" },
-                      r.a.createElement("strong", null, e.additions, " + ")
-                    ),
-                    r.a.createElement(
-                      "p",
-                      { className: "deletions-files" },
-                      r.a.createElement("strong", null, e.deletions, " - ")
-                    ),
-                    l
-                  )
-                ),
-                r.a.createElement(
-                  "div",
-                  { className: "owner-img-div" },
-                  r.a.createElement(
-                    "a",
-                    {
-                      href: e.baseRepository.owner.url,
-                      target: "_blank",
-                      rel: "noopener noreferrer",
-                    },
-                    r.a.createElement("img", {
-                      className: "owner-img",
-                      src: e.baseRepository.owner.avatarUrl,
-                      alt: "",
-                    })
-                  )
-                )
-              )
-            )
-          );
-        }
-      }
-      var Je = Te;
-      class qe extends l.Component {
-        render() {
-          const e = this.props.theme;
-          return r.a.createElement(
-            "div",
-            null,
-            r.a.createElement(
-              "div",
-              { className: "pull-requests-header-div" },
-              r.a.createElement(
-                C.Fade,
-                { bottom: !0, duration: 2e3, distance: "20px" },
-                r.a.createElement(
-                  "h1",
-                  {
-                    className: "pull-requests-header",
-                    style: { color: e.text },
-                  },
-                  "Pull Requests"
-                )
-              )
-            ),
-            r.a.createElement(
-              "div",
-              { className: "pull-request-body-div" },
-              He.data.map((e) => r.a.createElement(Je, { pullRequest: e }))
-            )
-          );
-        }
-      }
-      var We = qe;
-      a(289), a(290);
-      class Xe extends l.Component {
-        render() {
-          const e = this.props.issue;
-          var t, a;
-          !1 === e.closed
-            ? ((t = {
-                iconifyClass: "octicon:issue-opened",
-                style: { color: "#28a745" },
-              }),
-              (a = "#dcffe4"))
-            : ((t = {
-                iconifyClass: "octicon:issue-closed",
-                style: { color: "#d73a49" },
-              }),
-              (a = "#ffdce0"));
-          var l,
-            n = "#" + e.number + " opened on " + e.createdAt.split("T")[0];
-          if (e.assignees.nodes.length > 0) {
-            const t = e.assignees.nodes[0].name;
-            l = r.a.createElement(
-              Q.a,
-              {
-                key: t,
-                placement: "top",
-                style: { marginBottom: "5px" },
-                overlay: r.a.createElement(
-                  F.a,
-                  { id: "tooltip-top" },
-                  r.a.createElement("strong", null, "Assigned to ".concat(t))
-                ),
-              },
-              r.a.createElement(
-                "a",
-                {
-                  href: e.assignees.nodes[0].url,
-                  target: "_blank",
-                  rel: "noopener noreferrer",
-                },
-                r.a.createElement("img", {
-                  className: "assigned-to-img",
-                  src: e.assignees.nodes[0].avatarUrl,
-                  alt: "",
-                })
-              )
-            );
-          } else l = r.a.createElement("noscript", null);
-          return r.a.createElement(
-            C.Fade,
-            { bottom: !0, duration: 2e3, distance: "40px" },
-            r.a.createElement(
-              "div",
-              {
-                className: "issue-card",
-                style: {
-                  backgroundColor: a,
-                  border: "1px solid ".concat(t.style.color),
-                },
-              },
-              r.a.createElement(
-                "div",
-                { className: "issue-top" },
-                r.a.createElement(
-                  "div",
-                  { className: "issue-header" },
-                  r.a.createElement("span", {
-                    className: "iconify issue-icons",
-                    "data-icon": t.iconifyClass,
-                    style: t.style,
-                    "data-inline": "false",
-                  }),
-                  r.a.createElement(
-                    "div",
-                    { className: "issue-title-header" },
-                    r.a.createElement(
-                      "p",
-                      { className: "issue-title" },
-                      r.a.createElement(
-                        "a",
-                        {
-                          href: e.url,
-                          target: "_blank",
-                          rel: "noopener noreferrer",
-                        },
-                        e.title
-                      )
-                    ),
-                    r.a.createElement("p", { className: "issue-subtitle" }, n)
-                  )
-                )
-              ),
-              r.a.createElement(
-                "div",
-                { className: "issue-down" },
-                r.a.createElement(
-                  "div",
-                  { className: "assignee-repo" },
-                  r.a.createElement(
-                    "p",
-                    { className: "parent-repo" },
-                    "Repository:",
-                    " ",
-                    r.a.createElement(
-                      "a",
-                      {
-                        style: { color: t.style.color },
-                        href: e.repository.url,
-                      },
-                      e.repository.owner.login,
-                      "/",
-                      e.repository.name
-                    )
-                  ),
-                  r.a.createElement("div", { className: "assignee-info" }, l)
-                ),
-                r.a.createElement(
-                  "div",
-                  { className: "owner-img-div" },
-                  r.a.createElement(
-                    "a",
-                    {
-                      href: e.repository.owner.url,
-                      target: "_blank",
-                      rel: "noopener noreferrer",
-                    },
-                    r.a.createElement("img", {
-                      className: "owner-img",
-                      src: e.repository.owner.avatarUrl,
-                      alt: "",
-                    })
-                  )
-                )
-              )
-            )
-          );
-        }
-      }
-      var Ye = Xe;
-      class Ke extends l.Component {
-        render() {
-          const e = this.props.theme;
-          return r.a.createElement(
-            "div",
-            null,
-            r.a.createElement(
-              "div",
-              { className: "issues-header-div" },
-              r.a.createElement(
-                C.Fade,
-                { bottom: !0, duration: 2e3, distance: "20px" },
-                r.a.createElement(
-                  "h1",
-                  { className: "issues-header", style: { color: e.text } },
-                  "Issues"
-                )
-              )
-            ),
-            r.a.createElement(
-              "div",
-              { className: "issues-body-div" },
-              De.data.map((e) => r.a.createElement(Ye, { issue: e }))
-            )
-          );
-        }
-      }
-      var _e = Ke;
-      a(291);
-      class $e extends l.Component {
-        render() {
-          return r.a.createElement(
-            "div",
-            { className: "opensource-main" },
-            r.a.createElement(j, { theme: this.props.theme }),
-            r.a.createElement(Pe, { theme: this.props.theme }),
-            r.a.createElement(ze, { theme: this.props.theme }),
-            r.a.createElement(We, { theme: this.props.theme }),
-            r.a.createElement(_e, { theme: this.props.theme }),
-            r.a.createElement(ee, {
-              theme: this.props.theme,
-              onToggle: this.props.onToggle,
-            }),
-            r.a.createElement(te, { theme: this.props.theme })
-          );
-        }
-      }
-      var et = $e;
-      a(292);
-      function tt(e) {
-        let { text: t, className: a, href: l, newTab: n, theme: s } = e;
-        return r.a.createElement(
-          "div",
-          { className: a },
-          r.a.createElement(
-            "a",
-            {
-              className: "main-button",
-              href: l,
-              target: n && "_blank",
-              style: {
-                color: s.body,
-                backgroundColor: s.text,
-                border: "solid 1px ".concat(s.text),
-              },
-              onMouseEnter: (e) =>
-                ((e, t, a) => {
-                  const l = e.target;
-                  (l.style.color = t), (l.style.backgroundColor = a);
-                })(e, s.text, s.body),
-              onMouseOut: (e) =>
-                ((e, t, a) => {
-                  const l = e.target;
-                  (l.style.color = t), (l.style.backgroundColor = a);
-                })(e, s.body, s.text),
-            },
-            t
-          )
-        );
-      }
-      a(293);
-      const at = w;
-      class lt extends l.Component {
-        render() {
-          const e = this.props.theme;
-          return r.a.createElement(
-            "div",
-            { className: "contact-main" },
-            r.a.createElement(j, { theme: e }),
-            r.a.createElement(
-              "div",
-              { className: "basic-contact" },
-              r.a.createElement(
-                C.Fade,
-                { bottom: !0, duration: 1e3, distance: "40px" },
-                r.a.createElement(
-                  "div",
-                  { className: "contact-heading-div" },
-                  r.a.createElement(
-                    "div",
-                    { className: "contact-heading-img-div" },
-                    r.a.createElement("img", {
-                      src: a(32)("./".concat(at.profile_image_path)),
-                      alt: "",
-                    })
-                  ),
-                  r.a.createElement(
-                    "div",
-                    { className: "contact-heading-text-div" },
-                    r.a.createElement(
-                      "h1",
-                      {
-                        className: "contact-heading-text",
-                        style: { color: e.text },
-                      },
-                      at.title
-                    ),
-                    r.a.createElement(
-                      "p",
-                      {
-                        className: "contact-header-detail-text subTitle",
-                        style: { color: e.secondaryText },
-                      },
-                      at.description
-                    ),
-                    r.a.createElement(O, { theme: e }),
-                    r.a.createElement(
-                      "div",
-                      { className: "resume-btn-div" },
-                      r.a.createElement(tt, {
-                        text: "See My Resume",
-                        newTab: !0,
-                        href: f.resumeLink,
-                        theme: e,
-                      })
-                    )
-                  )
-                )
-              )
-            ),
-            r.a.createElement(ee, {
-              theme: this.props.theme,
-              onToggle: this.props.onToggle,
-            }),
-            r.a.createElement(te, { theme: this.props.theme })
-          );
-        }
-      }
-      var rt = lt;
-      a(294);
-      class nt extends l.Component {
         render() {
           return r.a.createElement(
             "div",
@@ -5939,9 +3634,9 @@
           );
         }
       }
-      var st = nt;
-      a(295);
-      function it(e) {
+      var le = ae;
+      a(125);
+      function re(e) {
         let { repo: t, theme: a } = e;
         return r.a.createElement(
           "div",
@@ -5957,7 +3652,9 @@
               {
                 key: t.id,
                 onClick: () => {
-                  return (e = t.url), void window.open(e, "_blank").focus();
+                  return (
+                    (e = t.homepageUrl), void window.open(e, "_blank").focus()
+                  );
                   var e;
                 },
               },
@@ -5975,7 +3672,7 @@
                     width: "12",
                   },
                   r.a.createElement("path", {
-                    "fill-rule": "evenodd",
+                    fillRule: "evenodd",
                     d:
                       "M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z",
                   })
@@ -5987,34 +3684,57 @@
                 )
               ),
               r.a.createElement(
-                "p",
-                { className: "repo-description", style: { color: a.text } },
-                t.description
-              ),
-              r.a.createElement(
                 "div",
                 { className: "repo-details" },
-                r.a.createElement(
-                  "p",
-                  {
-                    className: "repo-creation-date subTitle",
-                    style: { color: a.secondaryText },
-                  },
-                  "Created on ",
-                  t.createdAt.split("T")[0]
-                ),
-                r.a.createElement(st, {
+                r.a.createElement(le, {
                   className: "repo-languages",
                   logos: t.languages,
                 })
+              ),
+              r.a.createElement(
+                "p",
+                { className: "repo-description", style: { color: a.text } },
+                t.description
               )
             )
           )
         );
       }
-      var ct = a(91);
-      a(296);
-      class ot extends l.Component {
+      a(126);
+      function ne(e) {
+        let { text: t, className: a, href: l, newTab: n, theme: s } = e;
+        return r.a.createElement(
+          "div",
+          { className: a },
+          r.a.createElement(
+            "a",
+            {
+              className: "main-button",
+              href: l,
+              target: n && "_blank",
+              style: {
+                color: s.body,
+                backgroundColor: s.text,
+                border: "solid 1px ".concat(s.text),
+              },
+              onMouseEnter: (e) =>
+                ((e, t, a) => {
+                  const l = e.target;
+                  (l.style.color = t), (l.style.backgroundColor = a);
+                })(e, s.text, s.body),
+              onMouseOut: (e) =>
+                ((e, t, a) => {
+                  const l = e.target;
+                  (l.style.color = t), (l.style.backgroundColor = a);
+                })(e, s.body, s.text),
+            },
+            t
+          )
+        );
+      }
+      var se = a(89);
+      a(127);
+      class ie extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -6698,13 +4418,12 @@
           );
         }
       }
-      class mt extends l.Component {
+      class ce extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
             "div",
             { className: "projects-main" },
-            r.a.createElement(j, { theme: e }),
             r.a.createElement(
               "div",
               { className: "basic-projects" },
@@ -6717,7 +4436,7 @@
                   r.a.createElement(
                     "div",
                     { className: "projects-heading-img-div" },
-                    r.a.createElement(ot, { theme: e })
+                    r.a.createElement(ie, { theme: e })
                   ),
                   r.a.createElement(
                     "div",
@@ -6745,15 +4464,2269 @@
             r.a.createElement(
               "div",
               { className: "repo-cards-div-main" },
-              ct.data.map((t) => r.a.createElement(it, { repo: t, theme: e }))
+              se.data.map((t) => r.a.createElement(re, { repo: t, theme: e }))
             ),
-            r.a.createElement(tt, {
+            r.a.createElement(ne, {
               text: "More Projects",
               className: "project-button",
               href: f.githubProfile,
               newTab: !0,
               theme: e,
             }),
+            r.a.createElement(te, { theme: this.props.theme })
+          );
+        }
+      }
+      var oe = ce;
+      class me extends l.Component {
+        render() {
+          return r.a.createElement(
+            "div",
+            null,
+            r.a.createElement(j, { theme: this.props.theme }),
+            r.a.createElement(V, { theme: this.props.theme }),
+            r.a.createElement(oe, { theme: this.props.theme }),
+            r.a.createElement($, { theme: this.props.theme }),
+            r.a.createElement(ee, { theme: this.props.theme }),
+            r.a.createElement(te, { theme: this.props.theme })
+          );
+        }
+      }
+      var de = me;
+      a(128), a(129);
+      class he extends r.a.Component {
+        render() {
+          const e = this.props.theme;
+          return r.a.createElement(
+            "svg",
+            {
+              className: "raw_logo",
+              width: "50%",
+              height: "40%",
+              viewBox: "0 0 440 305",
+              fill: "none",
+              xmlns: "http://www.w3.org/2000/svg",
+            },
+            r.a.createElement("path", {
+              class: "myHexagon",
+              d:
+                "M293.545 167.405L229.5 204.381C227.025 205.81 223.975 205.81 221.5 204.381L157.455 167.405C154.98 165.976 153.455 163.335 153.455 160.476L153.455 86.5234C153.455 83.6653 154.98 81.0243 157.455 79.5952L221.5 42.6187C223.975 41.1896 227.025 41.1897 229.5 42.6187L293.545 79.5952C296.02 81.0243 297.545 83.6653 297.545 86.5234L297.545 160.476C297.545 163.335 296.02 165.976 293.545 167.405Z",
+              stroke: e.body,
+              "stroke-width": "4",
+            }),
+            r.a.createElement("path", {
+              class: "myHexagon",
+              d:
+                "M147.455 73.5953L211.5 36.6188C213.975 35.1898 217.025 35.1898 219.5 36.6188L283.545 73.5953C286.02 75.0244 287.545 77.6654 287.545 80.5235L287.545 154.477C287.545 157.335 286.02 159.976 283.545 161.405L219.5 198.381C217.025 199.81 213.975 199.81 211.5 198.381L147.455 161.405C144.98 159.976 143.455 157.335 143.455 154.477L143.455 80.5235C143.455 77.6654 144.98 75.0244 147.455 73.5953Z",
+              stroke: e.body,
+              "stroke-width": "4",
+            }),
+            r.a.createElement("path", {
+              class: "letter",
+              d:
+                "M217.945 123.968V132H194.566V123.968H200.65L198.395 115.799H186.056L183.526 123.968H189.884V132H168.829V123.968H174.708L183.971 92.4883H177.647V84.4561H208.683V92.4883H202.291L212.271 123.968H217.945ZM196.446 108.826L192.481 94.5049L188.209 108.826H196.446Z",
+              stroke: e.body,
+              "stroke-width": "3",
+            }),
+            r.a.createElement("path", {
+              class: "letter",
+              d:
+                "M217.153 158V149.968H223.101V118.488H217.153V110.456H240.122V118.488H235.132V128.913H248.086V118.488H243.267V110.456H266.099V118.488H260.117V149.968H266.099V158H243.267V149.968H248.086V136.979H235.132V149.968H240.122V158H217.153Z",
+              stroke: e.body,
+              "stroke-width": "3",
+            }),
+            r.a.createElement(
+              "mask",
+              { id: "path-5-inside-1", fill: e.body },
+              r.a.createElement("path", {
+                d:
+                  "M32.5195 293.502C32.2917 293.73 32.015 293.844 31.6895 293.844C31.3965 293.844 31.1361 293.73 30.9082 293.502C30.7129 293.274 30.6152 292.997 30.6152 292.672C30.6152 292.379 30.7292 292.118 30.957 291.891C33.9844 288.896 39.3066 283.85 46.9238 276.754C44.7428 277.014 42.4154 277.356 39.9414 277.779C25.2279 280.351 12.5 284.632 1.75782 290.621C1.4974 290.784 1.20443 290.816 0.878911 290.719C0.585942 290.654 0.358077 290.475 0.195317 290.182C0.0651085 289.921 0.0488325 289.645 0.146489 289.352C0.244145 289.059 0.423181 288.831 0.683598 288.668C11.6211 282.548 24.5931 278.186 39.5996 275.582C42.8223 275.029 46.1914 274.557 49.707 274.166C73.0794 252.486 88.1348 240.377 94.8731 237.838C97.2819 236.926 98.8119 237.317 99.4629 239.01C99.821 239.954 99.7721 241.386 99.3164 243.307C98.8607 245.195 97.933 247.669 96.5332 250.729C95.166 253.756 93.9616 256.295 92.9199 258.346C91.9108 260.396 90.4297 263.294 88.4766 267.037C86.7839 270.292 85.6934 272.408 85.2051 273.385C85.8561 273.417 86.735 273.482 87.8418 273.58C90.2832 273.775 92.041 274.101 93.1152 274.557C94.1895 275.012 94.694 275.598 94.6289 276.314C94.5964 276.673 94.401 277.031 94.043 277.389C93.7175 277.747 93.1641 278.121 92.3828 278.512C91.6016 278.902 90.918 279.212 90.332 279.439C89.7461 279.7 88.8672 280.058 87.6953 280.514C84.9935 281.555 83.0892 282.337 81.9824 282.857C80.8757 283.411 80.1107 283.248 79.6875 282.369C79.2643 281.555 79.9479 279.228 81.7383 275.387C71.224 274.866 60.8561 275.159 50.6348 276.266C42.1387 284.176 36.1003 289.921 32.5195 293.502ZM95.6543 239.889C89.3718 242.298 75.2767 253.593 53.3691 273.775C63.1348 272.864 72.9492 272.669 82.8125 273.189C83.4635 271.92 84.7005 269.527 86.5234 266.012C87.7604 263.635 88.7044 261.813 89.3555 260.543C90.0065 259.273 90.8691 257.548 91.9434 255.367C93.0501 253.154 93.8965 251.38 94.4824 250.045C95.0684 248.71 95.6543 247.278 96.2402 245.748C96.8587 244.218 97.2494 242.981 97.4121 242.037C97.5749 241.061 97.5586 240.328 97.3633 239.84C97.2331 239.482 96.6634 239.498 95.6543 239.889ZM84.082 275.533C82.8776 277.975 82.1289 279.635 81.8359 280.514C82.8776 280.025 84.554 279.326 86.8652 278.414C90.5436 277.014 92.3828 276.266 92.3828 276.168C92.3828 276.135 92.2526 276.119 91.9922 276.119C91.7318 276.087 91.1784 276.054 90.332 276.021C89.5182 275.956 88.6231 275.875 87.6465 275.777C86.6374 275.68 85.4492 275.598 84.082 275.533Z",
+              }),
+              r.a.createElement("path", {
+                d:
+                  "M106.006 271.822C105.843 272.05 105.632 272.197 105.371 272.262C105.111 272.294 104.867 272.229 104.639 272.066C104.411 271.904 104.264 271.692 104.199 271.432C104.134 271.171 104.183 270.927 104.346 270.699C105.322 269.234 105.762 268.258 105.664 267.77C105.632 267.672 105.404 267.672 104.98 267.77C104.102 267.9 103.19 268.323 102.246 269.039C101.497 269.592 100.928 270.195 100.537 270.846C100.146 271.497 100.081 272.115 100.342 272.701C100.602 273.385 101.367 274.573 102.637 276.266L102.881 276.51C103.988 276.054 105.127 275.598 106.299 275.143C107.503 274.654 108.545 274.247 109.424 273.922C110.335 273.564 111.165 273.255 111.914 272.994C112.695 272.701 113.281 272.49 113.672 272.359C114.063 272.197 114.274 272.115 114.307 272.115C114.469 272.05 114.632 272.034 114.795 272.066C114.958 272.099 115.104 272.18 115.234 272.311C115.397 272.408 115.511 272.555 115.576 272.75C115.674 273.01 115.658 273.271 115.527 273.531C115.397 273.759 115.202 273.922 114.941 274.02C114.941 274.02 114.876 274.052 114.746 274.117C114.616 274.15 114.421 274.215 114.16 274.312C113.932 274.378 113.656 274.475 113.33 274.605C113.005 274.736 112.63 274.882 112.207 275.045C111.784 275.175 111.328 275.338 110.84 275.533C110.352 275.696 109.831 275.891 109.277 276.119C108.724 276.314 108.171 276.526 107.617 276.754C107.064 276.949 106.478 277.177 105.859 277.438C105.241 277.665 104.639 277.91 104.053 278.17C105.16 279.765 105.713 281.1 105.713 282.174C105.745 283.574 104.948 284.664 103.32 285.445C101.725 286.259 99.0072 286.715 95.166 286.812C89.5996 286.943 87.2721 286.227 88.1836 284.664C89.0951 283.036 93.3594 280.595 100.977 277.34C99.6419 275.582 98.7956 274.28 98.4375 273.434C98.0469 272.359 98.112 271.301 98.6328 270.26C99.1537 269.186 99.9675 268.242 101.074 267.428C102.279 266.516 103.467 265.963 104.639 265.768C106.331 265.475 107.324 265.995 107.617 267.33C107.845 268.404 107.308 269.902 106.006 271.822ZM103.711 282.223C103.711 281.474 103.19 280.383 102.148 278.951C95.1172 281.881 91.9922 283.72 92.7734 284.469C93.0339 284.729 93.8151 284.843 95.1172 284.811C100.879 284.68 103.743 283.818 103.711 282.223Z",
+              }),
+              r.a.createElement("path", {
+                d:
+                  "M140.234 272.018C140.495 271.952 140.739 271.985 140.967 272.115C141.227 272.245 141.39 272.457 141.455 272.75C141.52 273.01 141.471 273.255 141.309 273.482C141.178 273.71 140.983 273.857 140.723 273.922C140.625 273.954 140.186 274.068 139.404 274.264C138.623 274.459 137.549 274.752 136.182 275.143C134.814 275.501 133.447 275.891 132.08 276.314C130.713 276.705 129.378 277.145 128.076 277.633C126.774 278.121 125.798 278.561 125.146 278.951C123.747 279.798 122.835 279.863 122.412 279.146C122.184 278.788 122.233 278.137 122.559 277.193C123.275 275.11 123.372 273.434 122.852 272.164C122.624 271.578 121.973 271.806 120.898 272.848C119.824 273.857 118.571 275.37 117.139 277.389C115.706 279.374 114.632 280.872 113.916 281.881C113.232 282.89 112.646 283.769 112.158 284.518V284.566C112.028 284.794 111.816 284.924 111.523 284.957C111.263 285.022 111.019 284.99 110.791 284.859C110.368 284.566 110.238 284.176 110.4 283.688H110.352C114.355 271.09 117.887 261.015 120.947 253.463C124.04 245.911 126.595 240.654 128.613 237.691C129.362 236.585 130.062 235.771 130.713 235.25C131.396 234.729 131.982 234.501 132.471 234.566C132.959 234.632 133.382 234.957 133.74 235.543C134.456 236.682 134.456 239.026 133.74 242.574C133.285 244.853 132.568 247.294 131.592 249.898C130.648 252.503 129.443 255.237 127.979 258.102C126.546 260.934 124.756 263.733 122.607 266.5C120.492 269.234 118.213 271.578 115.771 273.531C115.446 274.475 114.941 276.005 114.258 278.121C116.602 275.029 118.75 272.717 120.703 271.188C122.656 269.625 123.991 269.706 124.707 271.432C125.358 273.027 125.374 274.85 124.756 276.9C126.025 276.249 127.979 275.517 130.615 274.703C133.285 273.857 135.482 273.206 137.207 272.75C138.932 272.294 139.941 272.05 140.234 272.018ZM130.225 238.814C126.839 243.795 122.461 254.098 117.09 269.723C119.661 267.184 122.021 264.173 124.17 260.689C126.318 257.174 127.979 253.886 129.15 250.826C130.355 247.766 131.234 244.885 131.787 242.184C132.406 239.189 132.487 237.317 132.031 236.568C131.934 236.438 131.331 237.187 130.225 238.814Z",
+              }),
+              r.a.createElement("path", {
+                d:
+                  "M163.574 247.359C163.216 247.359 162.939 247.522 162.744 247.848C162.256 248.531 161.426 250.077 160.254 252.486C149.837 253.007 141.585 254.033 135.498 255.563C133.35 256.116 131.608 256.653 130.273 257.174C128.939 257.695 128.027 258.167 127.539 258.59C127.018 258.98 126.807 259.355 126.904 259.713C127.132 260.592 128.532 260.982 131.104 260.885C133.122 260.82 135.124 260.592 137.109 260.201C138.607 259.941 139.779 259.583 140.625 259.127C141.504 258.671 141.878 258.134 141.748 257.516C141.715 257.255 141.585 257.044 141.357 256.881C141.13 256.718 140.869 256.669 140.576 256.734C140.316 256.799 140.104 256.946 139.941 257.174C139.779 257.369 139.73 257.613 139.795 257.906C139.795 257.939 139.665 257.971 139.404 258.004C139.176 258.004 138.786 258.036 138.232 258.102C137.712 258.134 137.223 258.183 136.768 258.248C134.88 258.606 132.975 258.818 131.055 258.883C130.697 258.883 130.322 258.932 129.932 259.029C129.541 259.127 129.297 259.192 129.199 259.225C129.069 259.257 128.955 259.257 128.857 259.225C128.857 259.192 129.053 259.143 129.443 259.078C129.834 258.98 130.648 258.801 131.885 258.541C133.122 258.248 134.489 257.906 135.986 257.516C141.748 256.051 149.512 255.058 159.277 254.537C158.984 255.156 158.561 256.051 158.008 257.223C157.064 259.176 156.348 260.673 155.859 261.715C155.371 262.724 154.688 264.156 153.809 266.012C152.93 267.835 152.214 269.251 151.66 270.26C151.107 271.269 150.505 272.343 149.854 273.482C149.202 274.589 148.665 275.387 148.242 275.875C147.819 276.363 147.477 276.591 147.217 276.559C147.054 276.526 147.054 276.282 147.217 275.826C147.38 275.37 147.673 274.768 148.096 274.02C148.519 273.238 148.812 272.717 148.975 272.457C149.137 272.164 149.333 271.839 149.561 271.48C149.821 271.057 149.788 270.667 149.463 270.309C149.268 270.081 149.04 269.967 148.779 269.967C148.519 269.934 148.275 270.016 148.047 270.211L139.99 277.291C140.055 276.184 141.488 273.531 144.287 269.332C144.45 269.104 144.499 268.86 144.434 268.6C144.368 268.339 144.222 268.128 143.994 267.965C143.766 267.802 143.506 267.753 143.213 267.818C142.952 267.851 142.757 267.997 142.627 268.258C138.883 274.41 137.435 278.056 138.281 279.195C138.997 280.139 141.032 279.065 144.385 275.973C144.873 275.549 145.361 275.094 145.85 274.605C145.068 276.949 145.41 278.251 146.875 278.512C147.786 278.707 148.942 277.828 150.342 275.875C151.742 273.922 153.337 271.22 155.127 267.77C148.389 287.236 146.338 299.378 148.975 304.195C149.137 304.423 149.349 304.57 149.609 304.635C149.87 304.732 150.114 304.716 150.342 304.586C150.602 304.456 150.765 304.244 150.83 303.951C150.895 303.691 150.863 303.447 150.732 303.219C150.179 302.177 149.87 300.68 149.805 298.727C149.772 296.773 149.935 294.658 150.293 292.379C150.684 290.1 151.237 287.512 151.953 284.615C152.702 281.751 153.483 279.016 154.297 276.412C155.143 273.775 156.071 271.008 157.08 268.111C158.089 265.182 158.984 262.675 159.766 260.592C160.579 258.508 161.393 256.441 162.207 254.391C165.43 254.228 168.815 254.13 172.363 254.098C175.911 254.065 178.988 254.081 181.592 254.146C184.229 254.179 186.751 254.228 189.16 254.293C191.602 254.358 193.311 254.423 194.287 254.488C195.264 254.521 195.898 254.553 196.191 254.586C196.387 254.586 196.566 254.553 196.729 254.488C196.891 254.391 197.021 254.277 197.119 254.146C197.217 253.984 197.266 253.805 197.266 253.609C197.266 253.349 197.168 253.121 196.973 252.926C196.81 252.698 196.598 252.584 196.338 252.584C195.264 252.519 193.62 252.454 191.406 252.389C189.225 252.291 185.156 252.193 179.199 252.096C173.275 251.998 167.887 252.079 163.037 252.34C163.786 250.452 164.274 249.264 164.502 248.775C164.567 248.645 164.6 248.499 164.6 248.336C164.6 248.303 164.6 248.271 164.6 248.238C164.567 248.206 164.551 248.173 164.551 248.141C164.551 248.108 164.551 248.092 164.551 248.092C164.551 248.059 164.535 248.043 164.502 248.043C164.502 248.01 164.502 247.994 164.502 247.994C164.502 247.962 164.502 247.945 164.502 247.945V247.896C164.404 247.766 164.307 247.652 164.209 247.555C164.144 247.522 164.062 247.49 163.965 247.457C163.835 247.392 163.704 247.359 163.574 247.359Z",
+              }),
+              r.a.createElement("path", {
+                d:
+                  "M162.744 271.773C162.972 271.969 162.956 272.278 162.695 272.701C162.598 272.864 162.5 273.043 162.402 273.238C162.305 273.401 162.126 273.71 161.865 274.166C161.637 274.622 161.442 275.045 161.279 275.436C161.117 275.794 160.97 276.184 160.84 276.607C160.742 276.998 160.726 277.324 160.791 277.584C160.856 277.844 161.019 277.975 161.279 277.975C161.833 278.072 162.646 277.47 163.721 276.168C164.404 275.354 165.039 274.41 165.625 273.336C165.072 273.108 164.6 272.799 164.209 272.408C162.809 271.204 162.288 269.706 162.646 267.916C162.907 266.354 163.639 265.165 164.844 264.352C166.081 263.538 167.188 263.538 168.164 264.352C169.206 265.198 169.613 266.565 169.385 268.453C169.255 269.592 168.913 270.846 168.359 272.213C170.801 272.734 174.17 272.604 178.467 271.822C178.76 271.757 179.02 271.806 179.248 271.969C179.476 272.132 179.606 272.359 179.639 272.652C179.704 272.913 179.655 273.157 179.492 273.385C179.329 273.58 179.118 273.71 178.857 273.775C174.105 274.654 170.329 274.736 167.529 274.02C166.846 275.322 166.097 276.461 165.283 277.438C163.721 279.293 162.305 280.139 161.035 279.977C158.626 279.716 158.203 277.763 159.766 274.117C159.961 273.531 160.173 273.043 160.4 272.652C160.661 272.262 160.905 271.985 161.133 271.822C161.361 271.66 161.572 271.562 161.768 271.529C161.995 271.464 162.191 271.464 162.354 271.529C162.516 271.562 162.646 271.643 162.744 271.773ZM166.455 271.578C166.976 270.341 167.285 269.234 167.383 268.258C167.546 267.086 167.383 266.305 166.895 265.914C166.667 265.719 166.357 265.751 165.967 266.012C165.251 266.5 164.795 267.249 164.6 268.258C164.404 269.332 164.714 270.227 165.527 270.943C165.788 271.171 166.097 271.383 166.455 271.578Z",
+              }),
+              r.a.createElement("path", {
+                d:
+                  "M185.352 271.822C185.189 272.05 184.977 272.197 184.717 272.262C184.456 272.294 184.212 272.229 183.984 272.066C183.757 271.904 183.61 271.692 183.545 271.432C183.48 271.171 183.529 270.927 183.691 270.699C184.668 269.234 185.107 268.258 185.01 267.77C184.977 267.672 184.749 267.672 184.326 267.77C183.447 267.9 182.536 268.323 181.592 269.039C180.843 269.592 180.273 270.195 179.883 270.846C179.492 271.497 179.427 272.115 179.688 272.701C179.948 273.385 180.713 274.573 181.982 276.266L182.227 276.51C183.333 276.054 184.473 275.598 185.645 275.143C186.849 274.654 187.891 274.247 188.77 273.922C189.681 273.564 190.511 273.255 191.26 272.994C192.041 272.701 192.627 272.49 193.018 272.359C193.408 272.197 193.62 272.115 193.652 272.115C193.815 272.05 193.978 272.034 194.141 272.066C194.303 272.099 194.45 272.18 194.58 272.311C194.743 272.408 194.857 272.555 194.922 272.75C195.02 273.01 195.003 273.271 194.873 273.531C194.743 273.759 194.548 273.922 194.287 274.02C194.287 274.02 194.222 274.052 194.092 274.117C193.962 274.15 193.766 274.215 193.506 274.312C193.278 274.378 193.001 274.475 192.676 274.605C192.35 274.736 191.976 274.882 191.553 275.045C191.13 275.175 190.674 275.338 190.186 275.533C189.697 275.696 189.176 275.891 188.623 276.119C188.07 276.314 187.516 276.526 186.963 276.754C186.41 276.949 185.824 277.177 185.205 277.438C184.587 277.665 183.984 277.91 183.398 278.17C184.505 279.765 185.059 281.1 185.059 282.174C185.091 283.574 184.294 284.664 182.666 285.445C181.071 286.259 178.353 286.715 174.512 286.812C168.945 286.943 166.618 286.227 167.529 284.664C168.441 283.036 172.705 280.595 180.322 277.34C178.988 275.582 178.141 274.28 177.783 273.434C177.393 272.359 177.458 271.301 177.979 270.26C178.499 269.186 179.313 268.242 180.42 267.428C181.624 266.516 182.812 265.963 183.984 265.768C185.677 265.475 186.67 265.995 186.963 267.33C187.191 268.404 186.654 269.902 185.352 271.822ZM183.057 282.223C183.057 281.474 182.536 280.383 181.494 278.951C174.463 281.881 171.338 283.72 172.119 284.469C172.38 284.729 173.161 284.843 174.463 284.811C180.225 284.68 183.089 283.818 183.057 282.223Z",
+              }),
+              r.a.createElement("path", {
+                d:
+                  "M219.58 272.018C219.84 271.952 220.085 271.985 220.312 272.115C220.573 272.245 220.736 272.457 220.801 272.75C220.866 273.01 220.817 273.255 220.654 273.482C220.524 273.71 220.329 273.857 220.068 273.922C219.971 273.954 219.531 274.068 218.75 274.264C217.969 274.459 216.895 274.752 215.527 275.143C214.16 275.501 212.793 275.891 211.426 276.314C210.059 276.705 208.724 277.145 207.422 277.633C206.12 278.121 205.143 278.561 204.492 278.951C203.092 279.798 202.181 279.863 201.758 279.146C201.53 278.788 201.579 278.137 201.904 277.193C202.62 275.11 202.718 273.434 202.197 272.164C201.969 271.578 201.318 271.806 200.244 272.848C199.17 273.857 197.917 275.37 196.484 277.389C195.052 279.374 193.978 280.872 193.262 281.881C192.578 282.89 191.992 283.769 191.504 284.518V284.566C191.374 284.794 191.162 284.924 190.869 284.957C190.609 285.022 190.365 284.99 190.137 284.859C189.714 284.566 189.583 284.176 189.746 283.688H189.697C193.701 271.09 197.233 261.015 200.293 253.463C203.385 245.911 205.941 240.654 207.959 237.691C208.708 236.585 209.408 235.771 210.059 235.25C210.742 234.729 211.328 234.501 211.816 234.566C212.305 234.632 212.728 234.957 213.086 235.543C213.802 236.682 213.802 239.026 213.086 242.574C212.63 244.853 211.914 247.294 210.938 249.898C209.993 252.503 208.789 255.237 207.324 258.102C205.892 260.934 204.102 263.733 201.953 266.5C199.837 269.234 197.559 271.578 195.117 273.531C194.792 274.475 194.287 276.005 193.604 278.121C195.947 275.029 198.096 272.717 200.049 271.188C202.002 269.625 203.337 269.706 204.053 271.432C204.704 273.027 204.72 274.85 204.102 276.9C205.371 276.249 207.324 275.517 209.961 274.703C212.63 273.857 214.827 273.206 216.553 272.75C218.278 272.294 219.287 272.05 219.58 272.018ZM209.57 238.814C206.185 243.795 201.807 254.098 196.436 269.723C199.007 267.184 201.367 264.173 203.516 260.689C205.664 257.174 207.324 253.886 208.496 250.826C209.701 247.766 210.579 244.885 211.133 242.184C211.751 239.189 211.833 237.317 211.377 236.568C211.279 236.438 210.677 237.187 209.57 238.814Z",
+              }),
+              r.a.createElement("path", {
+                d:
+                  "M306.299 242.184C305.876 242.184 305.566 242.379 305.371 242.77C301.204 251.396 297.428 259.908 294.043 268.307C292.839 268.339 291.455 268.388 289.893 268.453C285.075 268.714 278.89 269.251 271.338 270.064C272.477 266.972 273.633 263.733 274.805 260.348C276.009 256.93 276.888 254.374 277.441 252.682C278.027 250.989 278.353 250.045 278.418 249.85C278.451 249.752 278.467 249.622 278.467 249.459C278.434 249.199 278.304 248.987 278.076 248.824C277.881 248.629 277.653 248.531 277.393 248.531C270.361 249.02 262.63 250.077 254.199 251.705C235.221 255.383 223.372 260.494 218.652 267.037C215.983 270.748 215.788 274.85 218.066 279.342C218.197 279.602 218.392 279.765 218.652 279.83C218.913 279.928 219.157 279.911 219.385 279.781C219.645 279.651 219.808 279.456 219.873 279.195C219.971 278.935 219.971 278.691 219.873 278.463C215.902 270.65 220.703 264.173 234.277 259.029C244.076 255.318 256.999 252.633 273.047 250.973L276.025 250.68C273.91 257.092 271.696 263.619 269.385 270.26C264.404 270.813 259.88 271.383 255.811 271.969C251.742 272.522 249.544 272.864 249.219 272.994C247.363 273.873 246.794 275.094 247.51 276.656C247.835 277.372 248.877 278.609 250.635 280.367C251.676 281.344 252.49 282.158 253.076 282.809C253.662 283.46 254.395 284.355 255.273 285.494C256.152 286.633 256.852 287.822 257.373 289.059C257.894 290.296 258.236 291.581 258.398 292.916C258.919 296.692 260.986 294.641 264.6 286.764C266.292 283.053 268.278 278.17 270.557 272.115C278.532 271.269 285.01 270.715 289.99 270.455C291.162 270.39 292.253 270.357 293.262 270.357C284.993 291.191 282.975 302.307 287.207 303.707C287.565 303.805 287.956 303.837 288.379 303.805C288.672 303.805 288.9 303.691 289.062 303.463C289.258 303.268 289.339 303.04 289.307 302.779C289.274 302.193 288.932 301.868 288.281 301.803C285.677 301.607 286.068 296.236 289.453 285.689C290.918 281.1 292.822 275.973 295.166 270.309C296.045 270.309 296.794 270.341 297.412 270.406C297.673 270.439 298.193 270.276 298.975 269.918C299.072 269.885 299.105 269.902 299.072 269.967C299.04 270.032 298.763 270.211 298.242 270.504C297.982 270.634 297.803 270.829 297.705 271.09C297.64 271.35 297.673 271.611 297.803 271.871C297.933 272.099 298.128 272.262 298.389 272.359C298.649 272.424 298.91 272.392 299.17 272.262C300.114 271.773 300.684 271.285 300.879 270.797C301.497 269.43 300.391 268.632 297.559 268.404C297.103 268.372 296.582 268.355 295.996 268.355C297.624 264.514 299.382 260.494 301.27 256.295C303.19 252.063 304.59 249.003 305.469 247.115C306.38 245.227 306.95 244.072 307.178 243.648C307.275 243.388 307.275 243.128 307.178 242.867C307.113 242.607 306.95 242.411 306.689 242.281C306.559 242.216 306.429 242.184 306.299 242.184ZM268.652 272.311C265.82 280.481 263.379 286.243 261.328 289.596C260.482 290.898 259.977 291.305 259.814 290.816C259.424 289.384 258.968 288.115 258.447 287.008C257.959 285.901 257.357 284.876 256.641 283.932C255.924 282.988 255.322 282.239 254.834 281.686C254.346 281.165 253.63 280.449 252.686 279.537C252.393 279.277 252.181 279.081 252.051 278.951C250.456 277.389 249.544 276.347 249.316 275.826C249.154 275.468 249.398 275.143 250.049 274.85C250.342 274.687 252.344 274.361 256.055 273.873C259.798 273.352 263.997 272.831 268.652 272.311Z",
+              }),
+              r.a.createElement("path", {
+                d:
+                  "M333.789 247.359C333.398 247.359 333.073 247.571 332.812 247.994C331.803 249.654 330.827 251.249 329.883 252.779C320.052 253.333 312.24 254.342 306.445 255.807C304.818 256.23 303.418 256.637 302.246 257.027C301.074 257.418 300.163 257.792 299.512 258.15C298.861 258.476 298.405 258.801 298.145 259.127C297.884 259.42 297.786 259.697 297.852 259.957C298.079 260.836 299.479 261.227 302.051 261.129C304.004 261.064 306.006 260.836 308.057 260.445C309.554 260.185 310.726 259.827 311.572 259.371C312.419 258.915 312.793 258.378 312.695 257.76C312.63 257.499 312.484 257.288 312.256 257.125C312.028 256.962 311.784 256.913 311.523 256.979C311.263 257.011 311.051 257.141 310.889 257.369C310.726 257.597 310.677 257.857 310.742 258.15C310.742 258.183 310.612 258.215 310.352 258.248C310.091 258.248 309.701 258.281 309.18 258.346C308.659 258.378 308.171 258.427 307.715 258.492C305.762 258.85 303.857 259.062 302.002 259.127C301.611 259.127 301.221 259.176 300.83 259.273C300.439 259.371 300.195 259.436 300.098 259.469C299.967 259.501 299.87 259.501 299.805 259.469C299.805 259.436 300 259.387 300.391 259.322C300.781 259.225 301.595 259.046 302.832 258.785C304.069 258.492 305.436 258.15 306.934 257.76C312.37 256.36 319.596 255.4 328.613 254.879C322.949 263.896 318.815 269.641 316.211 272.115C315.495 272.799 315.007 273.157 314.746 273.189V273.141C314.811 273.076 314.844 273.01 314.844 272.945C314.714 271.936 315.072 270.032 315.918 267.232C316.081 266.679 315.983 266.256 315.625 265.963C315.43 265.8 315.186 265.751 314.893 265.816C314.6 265.882 314.355 266.044 314.16 266.305C314.16 266.435 313.721 267.005 312.842 268.014C312.809 267.753 312.744 267.542 312.646 267.379C312.223 266.793 311.751 266.37 311.23 266.109C310.71 265.849 310.156 265.735 309.57 265.768C309.017 265.8 308.464 265.93 307.91 266.158C307.357 266.354 306.803 266.646 306.25 267.037C305.208 267.818 304.329 268.73 303.613 269.771C302.799 271.008 302.441 272.115 302.539 273.092C302.669 274.492 303.564 275.11 305.225 274.947C307.764 274.719 310.335 273.352 312.939 270.846C312.744 272.018 312.679 272.962 312.744 273.678C312.907 274.98 313.493 275.615 314.502 275.582C315.283 275.549 316.243 274.98 317.383 273.873C319.824 271.562 323.486 266.614 328.369 259.029C327.393 261.503 326.481 263.945 325.635 266.354C324.821 268.762 323.942 271.432 322.998 274.361C322.087 277.291 321.322 280.058 320.703 282.662C320.117 285.266 319.629 287.789 319.238 290.23C318.848 292.704 318.701 294.918 318.799 296.871C318.929 298.824 319.303 300.387 319.922 301.559C320.052 301.786 320.247 301.933 320.508 301.998C320.801 302.096 321.061 302.079 321.289 301.949C321.517 301.819 321.663 301.607 321.729 301.314C321.826 301.054 321.81 300.81 321.68 300.582C321.224 299.768 320.931 298.71 320.801 297.408C320.671 296.106 320.671 294.674 320.801 293.111C320.931 291.581 321.175 289.856 321.533 287.936C321.891 286.015 322.314 284.111 322.803 282.223C323.291 280.335 323.861 278.316 324.512 276.168C325.163 274.02 325.798 272.018 326.416 270.162C327.067 268.274 327.751 266.337 328.467 264.352C329.215 262.333 329.867 260.592 330.42 259.127C331.006 257.63 331.592 256.148 332.178 254.684C335.465 254.521 338.932 254.423 342.578 254.391C346.224 254.326 349.382 254.309 352.051 254.342C354.753 254.374 357.357 254.439 359.863 254.537C362.37 254.602 364.128 254.667 365.137 254.732C366.178 254.765 366.846 254.798 367.139 254.83C367.432 254.83 367.676 254.749 367.871 254.586C368.066 254.391 368.164 254.163 368.164 253.902C368.197 253.609 368.115 253.365 367.92 253.17C367.757 252.942 367.529 252.828 367.236 252.828C366.195 252.763 364.518 252.698 362.207 252.633C359.896 252.535 355.68 252.438 349.561 252.34C343.473 252.242 337.956 252.34 333.008 252.633C333.659 251.038 334.163 249.85 334.521 249.068C334.652 248.775 334.684 248.482 334.619 248.189C334.587 247.896 334.473 247.669 334.277 247.506C334.147 247.408 333.984 247.359 333.789 247.359ZM309.277 268.209C309.961 268.209 310.514 268.518 310.938 269.137C311.068 269.299 311.23 269.397 311.426 269.43C309.342 271.318 307.324 272.359 305.371 272.555C304.883 272.587 304.622 272.555 304.59 272.457C304.557 272.164 304.753 271.692 305.176 271.041C305.729 270.26 306.38 269.592 307.129 269.039C307.91 268.486 308.626 268.209 309.277 268.209Z",
+              }),
+              r.a.createElement("path", {
+                d:
+                  "M357.227 272.018C357.487 271.952 357.731 271.985 357.959 272.115C358.219 272.245 358.382 272.457 358.447 272.75C358.512 273.01 358.464 273.255 358.301 273.482C358.171 273.71 357.975 273.857 357.715 273.922C357.617 273.954 357.178 274.068 356.396 274.264C355.615 274.459 354.541 274.752 353.174 275.143C351.807 275.501 350.439 275.891 349.072 276.314C347.705 276.705 346.37 277.145 345.068 277.633C343.766 278.121 342.79 278.561 342.139 278.951C340.739 279.798 339.827 279.863 339.404 279.146C339.176 278.788 339.225 278.137 339.551 277.193C340.267 275.11 340.365 273.434 339.844 272.164C339.616 271.578 338.965 271.806 337.891 272.848C336.816 273.857 335.563 275.37 334.131 277.389C332.699 279.374 331.624 280.872 330.908 281.881C330.225 282.89 329.639 283.769 329.15 284.518V284.566C329.02 284.794 328.809 284.924 328.516 284.957C328.255 285.022 328.011 284.99 327.783 284.859C327.36 284.566 327.23 284.176 327.393 283.688H327.344C331.348 271.09 334.88 261.015 337.939 253.463C341.032 245.911 343.587 240.654 345.605 237.691C346.354 236.585 347.054 235.771 347.705 235.25C348.389 234.729 348.975 234.501 349.463 234.566C349.951 234.632 350.374 234.957 350.732 235.543C351.449 236.682 351.449 239.026 350.732 242.574C350.277 244.853 349.561 247.294 348.584 249.898C347.64 252.503 346.436 255.237 344.971 258.102C343.538 260.934 341.748 263.733 339.6 266.5C337.484 269.234 335.205 271.578 332.764 273.531C332.438 274.475 331.934 276.005 331.25 278.121C333.594 275.029 335.742 272.717 337.695 271.188C339.648 269.625 340.983 269.706 341.699 271.432C342.35 273.027 342.367 274.85 341.748 276.9C343.018 276.249 344.971 275.517 347.607 274.703C350.277 273.857 352.474 273.206 354.199 272.75C355.924 272.294 356.934 272.05 357.227 272.018ZM347.217 238.814C343.831 243.795 339.453 254.098 334.082 269.723C336.654 267.184 339.014 264.173 341.162 260.689C343.311 257.174 344.971 253.886 346.143 250.826C347.347 247.766 348.226 244.885 348.779 242.184C349.398 239.189 349.479 237.317 349.023 236.568C348.926 236.438 348.324 237.187 347.217 238.814Z",
+              }),
+              r.a.createElement("path", {
+                d:
+                  "M364.16 262.74C364.062 262.74 363.981 262.74 363.916 262.74C363.59 262.838 363.249 263.001 362.891 263.229C362.565 263.424 362.272 263.635 362.012 263.863C361.751 264.091 361.475 264.384 361.182 264.742C360.921 265.068 360.71 265.344 360.547 265.572C360.384 265.8 360.205 266.077 360.01 266.402C359.847 266.695 359.749 266.874 359.717 266.939C359.717 266.972 359.684 267.037 359.619 267.135C359.489 267.395 359.473 267.656 359.57 267.916C359.668 268.176 359.831 268.372 360.059 268.502C360.319 268.6 360.579 268.6 360.84 268.502C361.1 268.404 361.296 268.242 361.426 268.014C361.426 267.949 361.556 267.688 361.816 267.232C362.077 266.777 362.451 266.272 362.939 265.719C363.428 265.133 363.916 264.791 364.404 264.693C364.665 264.628 364.86 264.482 364.99 264.254C365.153 264.026 365.202 263.782 365.137 263.521C365.007 262.968 364.681 262.708 364.16 262.74ZM359.229 269.967C358.936 269.967 358.675 270.081 358.447 270.309C357.113 271.936 356.234 273.352 355.811 274.557C355.518 275.403 355.452 276.119 355.615 276.705C355.778 277.486 356.217 278.04 356.934 278.365C357.454 278.593 358.057 278.707 358.74 278.707C360.042 278.707 361.947 278.235 364.453 277.291C365.43 276.9 366.423 276.477 367.432 276.021C368.441 275.566 369.303 275.143 370.02 274.752C370.736 274.361 371.257 274.052 371.582 273.824C371.81 273.661 371.94 273.45 371.973 273.189C372.038 272.929 371.989 272.685 371.826 272.457C371.663 272.229 371.436 272.099 371.143 272.066C370.882 272.001 370.654 272.05 370.459 272.213C369.124 273.157 366.895 274.215 363.77 275.387C361.491 276.266 359.814 276.705 358.74 276.705C358.317 276.705 358.008 276.656 357.812 276.559C357.682 276.493 357.601 276.396 357.568 276.266C357.503 276.005 357.552 275.663 357.715 275.24C358.04 274.231 358.805 273.01 360.01 271.578C360.173 271.383 360.238 271.155 360.205 270.895C360.205 270.602 360.091 270.357 359.863 270.162C359.701 270.032 359.489 269.967 359.229 269.967Z",
+              }),
+              r.a.createElement("path", {
+                d:
+                  "M374.268 271.529C374.495 271.562 374.691 271.66 374.854 271.822C375.016 271.985 375.081 272.18 375.049 272.408C375.049 272.538 375.016 272.669 374.951 272.799C374.886 272.896 374.805 272.994 374.707 273.092C374.642 273.157 374.544 273.206 374.414 273.238C374.316 273.271 374.202 273.287 374.072 273.287C372.64 273.32 371.37 274.02 370.264 275.387C369.482 276.396 369.271 277.079 369.629 277.438C369.824 277.665 370.231 277.649 370.85 277.389C371.208 277.258 371.712 276.835 372.363 276.119C373.535 274.882 374.951 273.01 376.611 270.504C377.393 267.574 378.304 264.514 379.346 261.324C380.973 256.311 382.633 251.819 384.326 247.848C386.019 243.844 387.419 241.24 388.525 240.035C389.535 238.961 390.397 238.766 391.113 239.449C391.374 239.677 391.569 239.97 391.699 240.328C391.96 241.174 391.846 242.558 391.357 244.479C390.869 246.367 390.12 248.482 389.111 250.826C388.135 253.17 386.963 255.676 385.596 258.346C383.187 263.033 380.729 267.281 378.223 271.09C377.441 274.02 376.855 276.559 376.465 278.707C376.074 280.855 375.944 282.418 376.074 283.395C376.074 283.492 376.042 283.622 375.977 283.785V283.834C376.204 283.801 376.416 283.85 376.611 283.98C376.807 284.111 376.921 284.29 376.953 284.518C376.986 284.745 376.921 284.957 376.758 285.152C376.595 285.38 376.4 285.527 376.172 285.592C375.098 285.82 374.479 285.217 374.316 283.785C374.121 282.223 374.512 279.293 375.488 274.996C374.772 275.908 374.137 276.656 373.584 277.242C372.738 278.186 372.005 278.772 371.387 279C369.922 279.618 368.799 279.57 368.018 278.854C367.464 278.398 367.204 277.747 367.236 276.9C367.301 275.273 367.969 273.954 369.238 272.945C370.54 271.904 372.217 271.432 374.268 271.529ZM379.932 265.133C381.331 262.724 382.682 260.25 383.984 257.711C386.035 253.707 387.63 250.191 388.77 247.164C389.909 244.104 390.316 242.07 389.99 241.061C389.958 240.93 389.925 240.849 389.893 240.816L389.844 240.865L389.746 241.158C388.737 242.232 387.419 244.706 385.791 248.58C384.196 252.421 382.601 256.783 381.006 261.666C380.583 263.001 380.225 264.156 379.932 265.133Z",
+              }),
+              r.a.createElement("path", {
+                d:
+                  "M389.99 271.822C390.088 271.952 390.153 272.099 390.186 272.262C391.064 271.253 391.504 270.699 391.504 270.602C391.667 270.374 391.878 270.243 392.139 270.211C392.432 270.146 392.692 270.178 392.92 270.309C393.245 270.569 393.392 270.895 393.359 271.285C393.066 273.434 392.871 274.898 392.773 275.68C392.708 276.461 392.725 276.9 392.822 276.998C393.083 277.031 394.206 276.477 396.191 275.338C398.568 273.971 400.57 272.896 402.197 272.115C402.425 271.985 402.669 271.969 402.93 272.066C403.223 272.164 403.418 272.343 403.516 272.604C403.646 272.831 403.662 273.076 403.564 273.336C403.467 273.596 403.304 273.792 403.076 273.922C401.546 274.671 399.593 275.712 397.217 277.047C396.305 277.6 395.638 277.991 395.215 278.219C394.792 278.447 394.32 278.642 393.799 278.805C393.311 278.967 392.904 279.033 392.578 279C391.862 278.902 391.374 278.495 391.113 277.779C390.885 277.063 390.837 275.924 390.967 274.361C388.265 277.128 385.547 278.658 382.812 278.951C381.087 279.114 380.143 278.479 379.98 277.047C379.915 276.168 380.257 275.175 381.006 274.068C381.689 273.027 382.52 272.148 383.496 271.432C383.887 271.171 384.261 270.943 384.619 270.748C384.977 270.553 385.352 270.406 385.742 270.309C386.133 270.178 386.523 270.113 386.914 270.113C387.305 270.113 387.679 270.178 388.037 270.309C388.395 270.406 388.737 270.585 389.062 270.846C389.421 271.106 389.73 271.432 389.99 271.822ZM389.062 273.434C388.802 273.401 388.574 273.255 388.379 272.994C387.565 271.855 386.328 271.871 384.668 273.043C383.887 273.629 383.219 274.329 382.666 275.143C382.178 275.891 381.95 276.461 381.982 276.852C382.015 276.949 382.227 276.982 382.617 276.949C384.733 276.721 386.882 275.549 389.062 273.434Z",
+              }),
+              r.a.createElement("path", {
+                d:
+                  "M401.855 275.631C401.888 275.761 401.888 275.891 401.855 276.021C401.823 276.152 401.774 276.282 401.709 276.412C401.644 276.51 401.562 276.607 401.465 276.705C401.367 276.77 401.253 276.819 401.123 276.852C400.863 276.917 400.602 276.884 400.342 276.754C400.114 276.591 399.967 276.38 399.902 276.119C399.805 275.826 399.854 275.452 400.049 274.996C400.277 274.508 400.667 273.922 401.221 273.238C401.774 272.555 402.262 271.969 402.686 271.48C403.141 270.992 403.792 270.292 404.639 269.381C405.452 268.535 406.055 267.9 406.445 267.477C406.12 267.444 405.876 267.428 405.713 267.428C404.801 267.363 404.118 267.232 403.662 267.037C402.49 266.451 402.327 265.702 403.174 264.791C403.662 264.205 404.899 263.57 406.885 262.887C409.391 261.975 410.84 262.073 411.23 263.18C411.426 263.668 411.263 264.352 410.742 265.23C412.174 265.035 413.135 264.791 413.623 264.498C414.339 264.107 414.876 264.221 415.234 264.84C415.299 265.068 415.332 265.279 415.332 265.475C415.332 265.67 415.251 265.93 415.088 266.256C414.925 266.581 414.762 266.891 414.6 267.184C414.437 267.444 414.209 267.753 413.916 268.111C413.656 268.469 413.411 268.779 413.184 269.039C412.956 269.299 412.712 269.592 412.451 269.918C412.191 270.211 411.979 270.455 411.816 270.65C407.715 275.989 405.404 279.228 404.883 280.367C406.868 279.651 409.163 278.528 411.768 276.998C415.12 275.045 417.318 273.515 418.359 272.408C418.555 272.213 418.783 272.115 419.043 272.115C419.336 272.115 419.58 272.213 419.775 272.408C419.971 272.571 420.068 272.799 420.068 273.092C420.101 273.352 420.02 273.58 419.824 273.775C418.652 275.045 416.309 276.705 412.793 278.756C409.896 280.416 407.34 281.62 405.127 282.369C403.923 282.792 403.158 282.532 402.832 281.588C402.702 281.165 402.816 280.514 403.174 279.635C403.564 278.788 404.215 277.714 405.127 276.412C406.038 275.077 406.82 273.971 407.471 273.092C408.154 272.18 409.082 270.96 410.254 269.43C410.84 268.648 411.637 267.802 412.646 266.891C411.572 267.118 410.417 267.281 409.18 267.379C408.561 268.095 407.536 269.218 406.104 270.748C403.206 273.84 401.79 275.468 401.855 275.631ZM408.252 265.426C409.066 264.514 409.44 263.993 409.375 263.863C409.375 263.831 409.31 263.847 409.18 263.912C409.082 263.977 408.87 264.107 408.545 264.303C408.252 264.465 407.91 264.612 407.52 264.742C406.868 264.97 406.299 265.198 405.811 265.426H405.859C406.543 265.491 407.34 265.491 408.252 265.426Z",
+              }),
+              r.a.createElement("path", {
+                d:
+                  "M426.27 271.822C426.367 271.952 426.432 272.099 426.465 272.262C427.344 271.253 427.783 270.699 427.783 270.602C427.946 270.374 428.158 270.243 428.418 270.211C428.711 270.146 428.971 270.178 429.199 270.309C429.525 270.569 429.671 270.895 429.639 271.285C429.346 273.434 429.15 274.898 429.053 275.68C428.988 276.461 429.004 276.9 429.102 276.998C429.362 277.031 430.485 276.477 432.471 275.338C434.847 273.971 436.849 272.896 438.477 272.115C438.704 271.985 438.949 271.969 439.209 272.066C439.502 272.164 439.697 272.343 439.795 272.604C439.925 272.831 439.941 273.076 439.844 273.336C439.746 273.596 439.583 273.792 439.355 273.922C437.826 274.671 435.872 275.712 433.496 277.047C432.585 277.6 431.917 277.991 431.494 278.219C431.071 278.447 430.599 278.642 430.078 278.805C429.59 278.967 429.183 279.033 428.857 279C428.141 278.902 427.653 278.495 427.393 277.779C427.165 277.063 427.116 275.924 427.246 274.361C424.544 277.128 421.826 278.658 419.092 278.951C417.367 279.114 416.423 278.479 416.26 277.047C416.195 276.168 416.536 275.175 417.285 274.068C417.969 273.027 418.799 272.148 419.775 271.432C420.166 271.171 420.54 270.943 420.898 270.748C421.257 270.553 421.631 270.406 422.021 270.309C422.412 270.178 422.803 270.113 423.193 270.113C423.584 270.113 423.958 270.178 424.316 270.309C424.674 270.406 425.016 270.585 425.342 270.846C425.7 271.106 426.009 271.432 426.27 271.822ZM425.342 273.434C425.081 273.401 424.854 273.255 424.658 272.994C423.844 271.855 422.607 271.871 420.947 273.043C420.166 273.629 419.499 274.329 418.945 275.143C418.457 275.891 418.229 276.461 418.262 276.852C418.294 276.949 418.506 276.982 418.896 276.949C421.012 276.721 423.161 275.549 425.342 273.434Z",
+              })
+            ),
+            r.a.createElement("path", {
+              class: "signature1",
+              d:
+                "M32.5195 293.502C32.2917 293.73 32.015 293.844 31.6895 293.844C31.3965 293.844 31.1361 293.73 30.9082 293.502C30.7129 293.274 30.6152 292.997 30.6152 292.672C30.6152 292.379 30.7292 292.118 30.957 291.891C33.9844 288.896 39.3066 283.85 46.9238 276.754C44.7428 277.014 42.4154 277.356 39.9414 277.779C25.2279 280.351 12.5 284.632 1.75782 290.621C1.4974 290.784 1.20443 290.816 0.878911 290.719C0.585942 290.654 0.358077 290.475 0.195317 290.182C0.0651085 289.921 0.0488325 289.645 0.146489 289.352C0.244145 289.059 0.423181 288.831 0.683598 288.668C11.6211 282.548 24.5931 278.186 39.5996 275.582C42.8223 275.029 46.1914 274.557 49.707 274.166C73.0794 252.486 88.1348 240.377 94.8731 237.838C97.2819 236.926 98.8119 237.317 99.4629 239.01C99.821 239.954 99.7721 241.386 99.3164 243.307C98.8607 245.195 97.933 247.669 96.5332 250.729C95.166 253.756 93.9616 256.295 92.9199 258.346C91.9108 260.396 90.4297 263.294 88.4766 267.037C86.7839 270.292 85.6934 272.408 85.2051 273.385C85.8561 273.417 86.735 273.482 87.8418 273.58C90.2832 273.775 92.041 274.101 93.1152 274.557C94.1895 275.012 94.694 275.598 94.6289 276.314C94.5964 276.673 94.401 277.031 94.043 277.389C93.7175 277.747 93.1641 278.121 92.3828 278.512C91.6016 278.902 90.918 279.212 90.332 279.439C89.7461 279.7 88.8672 280.058 87.6953 280.514C84.9935 281.555 83.0892 282.337 81.9824 282.857C80.8757 283.411 80.1107 283.248 79.6875 282.369C79.2643 281.555 79.9479 279.228 81.7383 275.387C71.224 274.866 60.8561 275.159 50.6348 276.266C42.1387 284.176 36.1003 289.921 32.5195 293.502ZM95.6543 239.889C89.3718 242.298 75.2767 253.593 53.3691 273.775C63.1348 272.864 72.9492 272.669 82.8125 273.189C83.4635 271.92 84.7005 269.527 86.5234 266.012C87.7604 263.635 88.7044 261.813 89.3555 260.543C90.0065 259.273 90.8691 257.548 91.9434 255.367C93.0501 253.154 93.8965 251.38 94.4824 250.045C95.0684 248.71 95.6543 247.278 96.2402 245.748C96.8587 244.218 97.2494 242.981 97.4121 242.037C97.5749 241.061 97.5586 240.328 97.3633 239.84C97.2331 239.482 96.6634 239.498 95.6543 239.889ZM84.082 275.533C82.8776 277.975 82.1289 279.635 81.8359 280.514C82.8776 280.025 84.554 279.326 86.8652 278.414C90.5436 277.014 92.3828 276.266 92.3828 276.168C92.3828 276.135 92.2526 276.119 91.9922 276.119C91.7318 276.087 91.1784 276.054 90.332 276.021C89.5182 275.956 88.6231 275.875 87.6465 275.777C86.6374 275.68 85.4492 275.598 84.082 275.533Z",
+              stroke: e.body,
+              "stroke-width": "6",
+              mask: "url(#path-5-inside-1)",
+            }),
+            r.a.createElement("path", {
+              class: "signature2",
+              d:
+                "M106.006 271.822C105.843 272.05 105.632 272.197 105.371 272.262C105.111 272.294 104.867 272.229 104.639 272.066C104.411 271.904 104.264 271.692 104.199 271.432C104.134 271.171 104.183 270.927 104.346 270.699C105.322 269.234 105.762 268.258 105.664 267.77C105.632 267.672 105.404 267.672 104.98 267.77C104.102 267.9 103.19 268.323 102.246 269.039C101.497 269.592 100.928 270.195 100.537 270.846C100.146 271.497 100.081 272.115 100.342 272.701C100.602 273.385 101.367 274.573 102.637 276.266L102.881 276.51C103.988 276.054 105.127 275.598 106.299 275.143C107.503 274.654 108.545 274.247 109.424 273.922C110.335 273.564 111.165 273.255 111.914 272.994C112.695 272.701 113.281 272.49 113.672 272.359C114.063 272.197 114.274 272.115 114.307 272.115C114.469 272.05 114.632 272.034 114.795 272.066C114.958 272.099 115.104 272.18 115.234 272.311C115.397 272.408 115.511 272.555 115.576 272.75C115.674 273.01 115.658 273.271 115.527 273.531C115.397 273.759 115.202 273.922 114.941 274.02C114.941 274.02 114.876 274.052 114.746 274.117C114.616 274.15 114.421 274.215 114.16 274.312C113.932 274.378 113.656 274.475 113.33 274.605C113.005 274.736 112.63 274.882 112.207 275.045C111.784 275.175 111.328 275.338 110.84 275.533C110.352 275.696 109.831 275.891 109.277 276.119C108.724 276.314 108.171 276.526 107.617 276.754C107.064 276.949 106.478 277.177 105.859 277.438C105.241 277.665 104.639 277.91 104.053 278.17C105.16 279.765 105.713 281.1 105.713 282.174C105.745 283.574 104.948 284.664 103.32 285.445C101.725 286.259 99.0072 286.715 95.166 286.812C89.5996 286.943 87.2721 286.227 88.1836 284.664C89.0951 283.036 93.3594 280.595 100.977 277.34C99.6419 275.582 98.7956 274.28 98.4375 273.434C98.0469 272.359 98.112 271.301 98.6328 270.26C99.1537 269.186 99.9675 268.242 101.074 267.428C102.279 266.516 103.467 265.963 104.639 265.768C106.331 265.475 107.324 265.995 107.617 267.33C107.845 268.404 107.308 269.902 106.006 271.822ZM103.711 282.223C103.711 281.474 103.19 280.383 102.148 278.951C95.1172 281.881 91.9922 283.72 92.7734 284.469C93.0339 284.729 93.8151 284.843 95.1172 284.811C100.879 284.68 103.743 283.818 103.711 282.223Z",
+              stroke: e.body,
+              "stroke-width": "6",
+              mask: "url(#path-5-inside-1)",
+            }),
+            r.a.createElement("path", {
+              class: "signature3",
+              d:
+                "M140.234 272.018C140.495 271.952 140.739 271.985 140.967 272.115C141.227 272.245 141.39 272.457 141.455 272.75C141.52 273.01 141.471 273.255 141.309 273.482C141.178 273.71 140.983 273.857 140.723 273.922C140.625 273.954 140.186 274.068 139.404 274.264C138.623 274.459 137.549 274.752 136.182 275.143C134.814 275.501 133.447 275.891 132.08 276.314C130.713 276.705 129.378 277.145 128.076 277.633C126.774 278.121 125.798 278.561 125.146 278.951C123.747 279.798 122.835 279.863 122.412 279.146C122.184 278.788 122.233 278.137 122.559 277.193C123.275 275.11 123.372 273.434 122.852 272.164C122.624 271.578 121.973 271.806 120.898 272.848C119.824 273.857 118.571 275.37 117.139 277.389C115.706 279.374 114.632 280.872 113.916 281.881C113.232 282.89 112.646 283.769 112.158 284.518V284.566C112.028 284.794 111.816 284.924 111.523 284.957C111.263 285.022 111.019 284.99 110.791 284.859C110.368 284.566 110.238 284.176 110.4 283.688H110.352C114.355 271.09 117.887 261.015 120.947 253.463C124.04 245.911 126.595 240.654 128.613 237.691C129.362 236.585 130.062 235.771 130.713 235.25C131.396 234.729 131.982 234.501 132.471 234.566C132.959 234.632 133.382 234.957 133.74 235.543C134.456 236.682 134.456 239.026 133.74 242.574C133.285 244.853 132.568 247.294 131.592 249.898C130.648 252.503 129.443 255.237 127.979 258.102C126.546 260.934 124.756 263.733 122.607 266.5C120.492 269.234 118.213 271.578 115.771 273.531C115.446 274.475 114.941 276.005 114.258 278.121C116.602 275.029 118.75 272.717 120.703 271.188C122.656 269.625 123.991 269.706 124.707 271.432C125.358 273.027 125.374 274.85 124.756 276.9C126.025 276.249 127.979 275.517 130.615 274.703C133.285 273.857 135.482 273.206 137.207 272.75C138.932 272.294 139.941 272.05 140.234 272.018ZM130.225 238.814C126.839 243.795 122.461 254.098 117.09 269.723C119.661 267.184 122.021 264.173 124.17 260.689C126.318 257.174 127.979 253.886 129.15 250.826C130.355 247.766 131.234 244.885 131.787 242.184C132.406 239.189 132.487 237.317 132.031 236.568C131.934 236.438 131.331 237.187 130.225 238.814Z",
+              stroke: e.body,
+              "stroke-width": "6",
+              mask: "url(#path-5-inside-1)",
+            }),
+            r.a.createElement("path", {
+              class: "signature4",
+              d:
+                "M163.574 247.359C163.216 247.359 162.939 247.522 162.744 247.848C162.256 248.531 161.426 250.077 160.254 252.486C149.837 253.007 141.585 254.033 135.498 255.563C133.35 256.116 131.608 256.653 130.273 257.174C128.939 257.695 128.027 258.167 127.539 258.59C127.018 258.98 126.807 259.355 126.904 259.713C127.132 260.592 128.532 260.982 131.104 260.885C133.122 260.82 135.124 260.592 137.109 260.201C138.607 259.941 139.779 259.583 140.625 259.127C141.504 258.671 141.878 258.134 141.748 257.516C141.715 257.255 141.585 257.044 141.357 256.881C141.13 256.718 140.869 256.669 140.576 256.734C140.316 256.799 140.104 256.946 139.941 257.174C139.779 257.369 139.73 257.613 139.795 257.906C139.795 257.939 139.665 257.971 139.404 258.004C139.176 258.004 138.786 258.036 138.232 258.102C137.712 258.134 137.223 258.183 136.768 258.248C134.88 258.606 132.975 258.818 131.055 258.883C130.697 258.883 130.322 258.932 129.932 259.029C129.541 259.127 129.297 259.192 129.199 259.225C129.069 259.257 128.955 259.257 128.857 259.225C128.857 259.192 129.053 259.143 129.443 259.078C129.834 258.98 130.648 258.801 131.885 258.541C133.122 258.248 134.489 257.906 135.986 257.516C141.748 256.051 149.512 255.058 159.277 254.537C158.984 255.156 158.561 256.051 158.008 257.223C157.064 259.176 156.348 260.673 155.859 261.715C155.371 262.724 154.688 264.156 153.809 266.012C152.93 267.835 152.214 269.251 151.66 270.26C151.107 271.269 150.505 272.343 149.854 273.482C149.202 274.589 148.665 275.387 148.242 275.875C147.819 276.363 147.477 276.591 147.217 276.559C147.054 276.526 147.054 276.282 147.217 275.826C147.38 275.37 147.673 274.768 148.096 274.02C148.519 273.238 148.812 272.717 148.975 272.457C149.137 272.164 149.333 271.839 149.561 271.48C149.821 271.057 149.788 270.667 149.463 270.309C149.268 270.081 149.04 269.967 148.779 269.967C148.519 269.934 148.275 270.016 148.047 270.211L139.99 277.291C140.055 276.184 141.488 273.531 144.287 269.332C144.45 269.104 144.499 268.86 144.434 268.6C144.368 268.339 144.222 268.128 143.994 267.965C143.766 267.802 143.506 267.753 143.213 267.818C142.952 267.851 142.757 267.997 142.627 268.258C138.883 274.41 137.435 278.056 138.281 279.195C138.997 280.139 141.032 279.065 144.385 275.973C144.873 275.549 145.361 275.094 145.85 274.605C145.068 276.949 145.41 278.251 146.875 278.512C147.786 278.707 148.942 277.828 150.342 275.875C151.742 273.922 153.337 271.22 155.127 267.77C148.389 287.236 146.338 299.378 148.975 304.195C149.137 304.423 149.349 304.57 149.609 304.635C149.87 304.732 150.114 304.716 150.342 304.586C150.602 304.456 150.765 304.244 150.83 303.951C150.895 303.691 150.863 303.447 150.732 303.219C150.179 302.177 149.87 300.68 149.805 298.727C149.772 296.773 149.935 294.658 150.293 292.379C150.684 290.1 151.237 287.512 151.953 284.615C152.702 281.751 153.483 279.016 154.297 276.412C155.143 273.775 156.071 271.008 157.08 268.111C158.089 265.182 158.984 262.675 159.766 260.592C160.579 258.508 161.393 256.441 162.207 254.391C165.43 254.228 168.815 254.13 172.363 254.098C175.911 254.065 178.988 254.081 181.592 254.146C184.229 254.179 186.751 254.228 189.16 254.293C191.602 254.358 193.311 254.423 194.287 254.488C195.264 254.521 195.898 254.553 196.191 254.586C196.387 254.586 196.566 254.553 196.729 254.488C196.891 254.391 197.021 254.277 197.119 254.146C197.217 253.984 197.266 253.805 197.266 253.609C197.266 253.349 197.168 253.121 196.973 252.926C196.81 252.698 196.598 252.584 196.338 252.584C195.264 252.519 193.62 252.454 191.406 252.389C189.225 252.291 185.156 252.193 179.199 252.096C173.275 251.998 167.887 252.079 163.037 252.34C163.786 250.452 164.274 249.264 164.502 248.775C164.567 248.645 164.6 248.499 164.6 248.336C164.6 248.303 164.6 248.271 164.6 248.238C164.567 248.206 164.551 248.173 164.551 248.141C164.551 248.108 164.551 248.092 164.551 248.092C164.551 248.059 164.535 248.043 164.502 248.043C164.502 248.01 164.502 247.994 164.502 247.994C164.502 247.962 164.502 247.945 164.502 247.945V247.896C164.404 247.766 164.307 247.652 164.209 247.555C164.144 247.522 164.062 247.49 163.965 247.457C163.835 247.392 163.704 247.359 163.574 247.359Z",
+              stroke: e.body,
+              "stroke-width": "6",
+              mask: "url(#path-5-inside-1)",
+            }),
+            r.a.createElement("path", {
+              class: "signature5",
+              d:
+                "M162.744 271.773C162.972 271.969 162.956 272.278 162.695 272.701C162.598 272.864 162.5 273.043 162.402 273.238C162.305 273.401 162.126 273.71 161.865 274.166C161.637 274.622 161.442 275.045 161.279 275.436C161.117 275.794 160.97 276.184 160.84 276.607C160.742 276.998 160.726 277.324 160.791 277.584C160.856 277.844 161.019 277.975 161.279 277.975C161.833 278.072 162.646 277.47 163.721 276.168C164.404 275.354 165.039 274.41 165.625 273.336C165.072 273.108 164.6 272.799 164.209 272.408C162.809 271.204 162.288 269.706 162.646 267.916C162.907 266.354 163.639 265.165 164.844 264.352C166.081 263.538 167.188 263.538 168.164 264.352C169.206 265.198 169.613 266.565 169.385 268.453C169.255 269.592 168.913 270.846 168.359 272.213C170.801 272.734 174.17 272.604 178.467 271.822C178.76 271.757 179.02 271.806 179.248 271.969C179.476 272.132 179.606 272.359 179.639 272.652C179.704 272.913 179.655 273.157 179.492 273.385C179.329 273.58 179.118 273.71 178.857 273.775C174.105 274.654 170.329 274.736 167.529 274.02C166.846 275.322 166.097 276.461 165.283 277.438C163.721 279.293 162.305 280.139 161.035 279.977C158.626 279.716 158.203 277.763 159.766 274.117C159.961 273.531 160.173 273.043 160.4 272.652C160.661 272.262 160.905 271.985 161.133 271.822C161.361 271.66 161.572 271.562 161.768 271.529C161.995 271.464 162.191 271.464 162.354 271.529C162.516 271.562 162.646 271.643 162.744 271.773ZM166.455 271.578C166.976 270.341 167.285 269.234 167.383 268.258C167.546 267.086 167.383 266.305 166.895 265.914C166.667 265.719 166.357 265.751 165.967 266.012C165.251 266.5 164.795 267.249 164.6 268.258C164.404 269.332 164.714 270.227 165.527 270.943C165.788 271.171 166.097 271.383 166.455 271.578Z",
+              stroke: e.body,
+              "stroke-width": "6",
+              mask: "url(#path-5-inside-1)",
+            }),
+            r.a.createElement("path", {
+              class: "signature6",
+              d:
+                "M185.352 271.822C185.189 272.05 184.977 272.197 184.717 272.262C184.456 272.294 184.212 272.229 183.984 272.066C183.757 271.904 183.61 271.692 183.545 271.432C183.48 271.171 183.529 270.927 183.691 270.699C184.668 269.234 185.107 268.258 185.01 267.77C184.977 267.672 184.749 267.672 184.326 267.77C183.447 267.9 182.536 268.323 181.592 269.039C180.843 269.592 180.273 270.195 179.883 270.846C179.492 271.497 179.427 272.115 179.688 272.701C179.948 273.385 180.713 274.573 181.982 276.266L182.227 276.51C183.333 276.054 184.473 275.598 185.645 275.143C186.849 274.654 187.891 274.247 188.77 273.922C189.681 273.564 190.511 273.255 191.26 272.994C192.041 272.701 192.627 272.49 193.018 272.359C193.408 272.197 193.62 272.115 193.652 272.115C193.815 272.05 193.978 272.034 194.141 272.066C194.303 272.099 194.45 272.18 194.58 272.311C194.743 272.408 194.857 272.555 194.922 272.75C195.02 273.01 195.003 273.271 194.873 273.531C194.743 273.759 194.548 273.922 194.287 274.02C194.287 274.02 194.222 274.052 194.092 274.117C193.962 274.15 193.766 274.215 193.506 274.312C193.278 274.378 193.001 274.475 192.676 274.605C192.35 274.736 191.976 274.882 191.553 275.045C191.13 275.175 190.674 275.338 190.186 275.533C189.697 275.696 189.176 275.891 188.623 276.119C188.07 276.314 187.516 276.526 186.963 276.754C186.41 276.949 185.824 277.177 185.205 277.438C184.587 277.665 183.984 277.91 183.398 278.17C184.505 279.765 185.059 281.1 185.059 282.174C185.091 283.574 184.294 284.664 182.666 285.445C181.071 286.259 178.353 286.715 174.512 286.812C168.945 286.943 166.618 286.227 167.529 284.664C168.441 283.036 172.705 280.595 180.322 277.34C178.988 275.582 178.141 274.28 177.783 273.434C177.393 272.359 177.458 271.301 177.979 270.26C178.499 269.186 179.313 268.242 180.42 267.428C181.624 266.516 182.812 265.963 183.984 265.768C185.677 265.475 186.67 265.995 186.963 267.33C187.191 268.404 186.654 269.902 185.352 271.822ZM183.057 282.223C183.057 281.474 182.536 280.383 181.494 278.951C174.463 281.881 171.338 283.72 172.119 284.469C172.38 284.729 173.161 284.843 174.463 284.811C180.225 284.68 183.089 283.818 183.057 282.223Z",
+              stroke: e.body,
+              "stroke-width": "6",
+              mask: "url(#path-5-inside-1)",
+            }),
+            r.a.createElement("path", {
+              class: "signature7",
+              d:
+                "M219.58 272.018C219.84 271.952 220.085 271.985 220.312 272.115C220.573 272.245 220.736 272.457 220.801 272.75C220.866 273.01 220.817 273.255 220.654 273.482C220.524 273.71 220.329 273.857 220.068 273.922C219.971 273.954 219.531 274.068 218.75 274.264C217.969 274.459 216.895 274.752 215.527 275.143C214.16 275.501 212.793 275.891 211.426 276.314C210.059 276.705 208.724 277.145 207.422 277.633C206.12 278.121 205.143 278.561 204.492 278.951C203.092 279.798 202.181 279.863 201.758 279.146C201.53 278.788 201.579 278.137 201.904 277.193C202.62 275.11 202.718 273.434 202.197 272.164C201.969 271.578 201.318 271.806 200.244 272.848C199.17 273.857 197.917 275.37 196.484 277.389C195.052 279.374 193.978 280.872 193.262 281.881C192.578 282.89 191.992 283.769 191.504 284.518V284.566C191.374 284.794 191.162 284.924 190.869 284.957C190.609 285.022 190.365 284.99 190.137 284.859C189.714 284.566 189.583 284.176 189.746 283.688H189.697C193.701 271.09 197.233 261.015 200.293 253.463C203.385 245.911 205.941 240.654 207.959 237.691C208.708 236.585 209.408 235.771 210.059 235.25C210.742 234.729 211.328 234.501 211.816 234.566C212.305 234.632 212.728 234.957 213.086 235.543C213.802 236.682 213.802 239.026 213.086 242.574C212.63 244.853 211.914 247.294 210.938 249.898C209.993 252.503 208.789 255.237 207.324 258.102C205.892 260.934 204.102 263.733 201.953 266.5C199.837 269.234 197.559 271.578 195.117 273.531C194.792 274.475 194.287 276.005 193.604 278.121C195.947 275.029 198.096 272.717 200.049 271.188C202.002 269.625 203.337 269.706 204.053 271.432C204.704 273.027 204.72 274.85 204.102 276.9C205.371 276.249 207.324 275.517 209.961 274.703C212.63 273.857 214.827 273.206 216.553 272.75C218.278 272.294 219.287 272.05 219.58 272.018ZM209.57 238.814C206.185 243.795 201.807 254.098 196.436 269.723C199.007 267.184 201.367 264.173 203.516 260.689C205.664 257.174 207.324 253.886 208.496 250.826C209.701 247.766 210.579 244.885 211.133 242.184C211.751 239.189 211.833 237.317 211.377 236.568C211.279 236.438 210.677 237.187 209.57 238.814Z",
+              stroke: e.body,
+              "stroke-width": "6",
+              mask: "url(#path-5-inside-1)",
+            }),
+            r.a.createElement("path", {
+              class: "signature8",
+              d:
+                "M306.299 242.184C305.876 242.184 305.566 242.379 305.371 242.77C301.204 251.396 297.428 259.908 294.043 268.307C292.839 268.339 291.455 268.388 289.893 268.453C285.075 268.714 278.89 269.251 271.338 270.064C272.477 266.972 273.633 263.733 274.805 260.348C276.009 256.93 276.888 254.374 277.441 252.682C278.027 250.989 278.353 250.045 278.418 249.85C278.451 249.752 278.467 249.622 278.467 249.459C278.434 249.199 278.304 248.987 278.076 248.824C277.881 248.629 277.653 248.531 277.393 248.531C270.361 249.02 262.63 250.077 254.199 251.705C235.221 255.383 223.372 260.494 218.652 267.037C215.983 270.748 215.788 274.85 218.066 279.342C218.197 279.602 218.392 279.765 218.652 279.83C218.913 279.928 219.157 279.911 219.385 279.781C219.645 279.651 219.808 279.456 219.873 279.195C219.971 278.935 219.971 278.691 219.873 278.463C215.902 270.65 220.703 264.173 234.277 259.029C244.076 255.318 256.999 252.633 273.047 250.973L276.025 250.68C273.91 257.092 271.696 263.619 269.385 270.26C264.404 270.813 259.88 271.383 255.811 271.969C251.742 272.522 249.544 272.864 249.219 272.994C247.363 273.873 246.794 275.094 247.51 276.656C247.835 277.372 248.877 278.609 250.635 280.367C251.676 281.344 252.49 282.158 253.076 282.809C253.662 283.46 254.395 284.355 255.273 285.494C256.152 286.633 256.852 287.822 257.373 289.059C257.894 290.296 258.236 291.581 258.398 292.916C258.919 296.692 260.986 294.641 264.6 286.764C266.292 283.053 268.278 278.17 270.557 272.115C278.532 271.269 285.01 270.715 289.99 270.455C291.162 270.39 292.253 270.357 293.262 270.357C284.993 291.191 282.975 302.307 287.207 303.707C287.565 303.805 287.956 303.837 288.379 303.805C288.672 303.805 288.9 303.691 289.062 303.463C289.258 303.268 289.339 303.04 289.307 302.779C289.274 302.193 288.932 301.868 288.281 301.803C285.677 301.607 286.068 296.236 289.453 285.689C290.918 281.1 292.822 275.973 295.166 270.309C296.045 270.309 296.794 270.341 297.412 270.406C297.673 270.439 298.193 270.276 298.975 269.918C299.072 269.885 299.105 269.902 299.072 269.967C299.04 270.032 298.763 270.211 298.242 270.504C297.982 270.634 297.803 270.829 297.705 271.09C297.64 271.35 297.673 271.611 297.803 271.871C297.933 272.099 298.128 272.262 298.389 272.359C298.649 272.424 298.91 272.392 299.17 272.262C300.114 271.773 300.684 271.285 300.879 270.797C301.497 269.43 300.391 268.632 297.559 268.404C297.103 268.372 296.582 268.355 295.996 268.355C297.624 264.514 299.382 260.494 301.27 256.295C303.19 252.063 304.59 249.003 305.469 247.115C306.38 245.227 306.95 244.072 307.178 243.648C307.275 243.388 307.275 243.128 307.178 242.867C307.113 242.607 306.95 242.411 306.689 242.281C306.559 242.216 306.429 242.184 306.299 242.184ZM268.652 272.311C265.82 280.481 263.379 286.243 261.328 289.596C260.482 290.898 259.977 291.305 259.814 290.816C259.424 289.384 258.968 288.115 258.447 287.008C257.959 285.901 257.357 284.876 256.641 283.932C255.924 282.988 255.322 282.239 254.834 281.686C254.346 281.165 253.63 280.449 252.686 279.537C252.393 279.277 252.181 279.081 252.051 278.951C250.456 277.389 249.544 276.347 249.316 275.826C249.154 275.468 249.398 275.143 250.049 274.85C250.342 274.687 252.344 274.361 256.055 273.873C259.798 273.352 263.997 272.831 268.652 272.311Z",
+              stroke: e.body,
+              "stroke-width": "6",
+              mask: "url(#path-5-inside-1)",
+            }),
+            r.a.createElement("path", {
+              class: "signature9",
+              d:
+                "M333.789 247.359C333.398 247.359 333.073 247.571 332.812 247.994C331.803 249.654 330.827 251.249 329.883 252.779C320.052 253.333 312.24 254.342 306.445 255.807C304.818 256.23 303.418 256.637 302.246 257.027C301.074 257.418 300.163 257.792 299.512 258.15C298.861 258.476 298.405 258.801 298.145 259.127C297.884 259.42 297.786 259.697 297.852 259.957C298.079 260.836 299.479 261.227 302.051 261.129C304.004 261.064 306.006 260.836 308.057 260.445C309.554 260.185 310.726 259.827 311.572 259.371C312.419 258.915 312.793 258.378 312.695 257.76C312.63 257.499 312.484 257.288 312.256 257.125C312.028 256.962 311.784 256.913 311.523 256.979C311.263 257.011 311.051 257.141 310.889 257.369C310.726 257.597 310.677 257.857 310.742 258.15C310.742 258.183 310.612 258.215 310.352 258.248C310.091 258.248 309.701 258.281 309.18 258.346C308.659 258.378 308.171 258.427 307.715 258.492C305.762 258.85 303.857 259.062 302.002 259.127C301.611 259.127 301.221 259.176 300.83 259.273C300.439 259.371 300.195 259.436 300.098 259.469C299.967 259.501 299.87 259.501 299.805 259.469C299.805 259.436 300 259.387 300.391 259.322C300.781 259.225 301.595 259.046 302.832 258.785C304.069 258.492 305.436 258.15 306.934 257.76C312.37 256.36 319.596 255.4 328.613 254.879C322.949 263.896 318.815 269.641 316.211 272.115C315.495 272.799 315.007 273.157 314.746 273.189V273.141C314.811 273.076 314.844 273.01 314.844 272.945C314.714 271.936 315.072 270.032 315.918 267.232C316.081 266.679 315.983 266.256 315.625 265.963C315.43 265.8 315.186 265.751 314.893 265.816C314.6 265.882 314.355 266.044 314.16 266.305C314.16 266.435 313.721 267.005 312.842 268.014C312.809 267.753 312.744 267.542 312.646 267.379C312.223 266.793 311.751 266.37 311.23 266.109C310.71 265.849 310.156 265.735 309.57 265.768C309.017 265.8 308.464 265.93 307.91 266.158C307.357 266.354 306.803 266.646 306.25 267.037C305.208 267.818 304.329 268.73 303.613 269.771C302.799 271.008 302.441 272.115 302.539 273.092C302.669 274.492 303.564 275.11 305.225 274.947C307.764 274.719 310.335 273.352 312.939 270.846C312.744 272.018 312.679 272.962 312.744 273.678C312.907 274.98 313.493 275.615 314.502 275.582C315.283 275.549 316.243 274.98 317.383 273.873C319.824 271.562 323.486 266.614 328.369 259.029C327.393 261.503 326.481 263.945 325.635 266.354C324.821 268.762 323.942 271.432 322.998 274.361C322.087 277.291 321.322 280.058 320.703 282.662C320.117 285.266 319.629 287.789 319.238 290.23C318.848 292.704 318.701 294.918 318.799 296.871C318.929 298.824 319.303 300.387 319.922 301.559C320.052 301.786 320.247 301.933 320.508 301.998C320.801 302.096 321.061 302.079 321.289 301.949C321.517 301.819 321.663 301.607 321.729 301.314C321.826 301.054 321.81 300.81 321.68 300.582C321.224 299.768 320.931 298.71 320.801 297.408C320.671 296.106 320.671 294.674 320.801 293.111C320.931 291.581 321.175 289.856 321.533 287.936C321.891 286.015 322.314 284.111 322.803 282.223C323.291 280.335 323.861 278.316 324.512 276.168C325.163 274.02 325.798 272.018 326.416 270.162C327.067 268.274 327.751 266.337 328.467 264.352C329.215 262.333 329.867 260.592 330.42 259.127C331.006 257.63 331.592 256.148 332.178 254.684C335.465 254.521 338.932 254.423 342.578 254.391C346.224 254.326 349.382 254.309 352.051 254.342C354.753 254.374 357.357 254.439 359.863 254.537C362.37 254.602 364.128 254.667 365.137 254.732C366.178 254.765 366.846 254.798 367.139 254.83C367.432 254.83 367.676 254.749 367.871 254.586C368.066 254.391 368.164 254.163 368.164 253.902C368.197 253.609 368.115 253.365 367.92 253.17C367.757 252.942 367.529 252.828 367.236 252.828C366.195 252.763 364.518 252.698 362.207 252.633C359.896 252.535 355.68 252.438 349.561 252.34C343.473 252.242 337.956 252.34 333.008 252.633C333.659 251.038 334.163 249.85 334.521 249.068C334.652 248.775 334.684 248.482 334.619 248.189C334.587 247.896 334.473 247.669 334.277 247.506C334.147 247.408 333.984 247.359 333.789 247.359ZM309.277 268.209C309.961 268.209 310.514 268.518 310.938 269.137C311.068 269.299 311.23 269.397 311.426 269.43C309.342 271.318 307.324 272.359 305.371 272.555C304.883 272.587 304.622 272.555 304.59 272.457C304.557 272.164 304.753 271.692 305.176 271.041C305.729 270.26 306.38 269.592 307.129 269.039C307.91 268.486 308.626 268.209 309.277 268.209Z",
+              stroke: e.body,
+              "stroke-width": "6",
+              mask: "url(#path-5-inside-1)",
+            }),
+            r.a.createElement("path", {
+              class: "signature10",
+              d:
+                "M357.227 272.018C357.487 271.952 357.731 271.985 357.959 272.115C358.219 272.245 358.382 272.457 358.447 272.75C358.512 273.01 358.464 273.255 358.301 273.482C358.171 273.71 357.975 273.857 357.715 273.922C357.617 273.954 357.178 274.068 356.396 274.264C355.615 274.459 354.541 274.752 353.174 275.143C351.807 275.501 350.439 275.891 349.072 276.314C347.705 276.705 346.37 277.145 345.068 277.633C343.766 278.121 342.79 278.561 342.139 278.951C340.739 279.798 339.827 279.863 339.404 279.146C339.176 278.788 339.225 278.137 339.551 277.193C340.267 275.11 340.365 273.434 339.844 272.164C339.616 271.578 338.965 271.806 337.891 272.848C336.816 273.857 335.563 275.37 334.131 277.389C332.699 279.374 331.624 280.872 330.908 281.881C330.225 282.89 329.639 283.769 329.15 284.518V284.566C329.02 284.794 328.809 284.924 328.516 284.957C328.255 285.022 328.011 284.99 327.783 284.859C327.36 284.566 327.23 284.176 327.393 283.688H327.344C331.348 271.09 334.88 261.015 337.939 253.463C341.032 245.911 343.587 240.654 345.605 237.691C346.354 236.585 347.054 235.771 347.705 235.25C348.389 234.729 348.975 234.501 349.463 234.566C349.951 234.632 350.374 234.957 350.732 235.543C351.449 236.682 351.449 239.026 350.732 242.574C350.277 244.853 349.561 247.294 348.584 249.898C347.64 252.503 346.436 255.237 344.971 258.102C343.538 260.934 341.748 263.733 339.6 266.5C337.484 269.234 335.205 271.578 332.764 273.531C332.438 274.475 331.934 276.005 331.25 278.121C333.594 275.029 335.742 272.717 337.695 271.188C339.648 269.625 340.983 269.706 341.699 271.432C342.35 273.027 342.367 274.85 341.748 276.9C343.018 276.249 344.971 275.517 347.607 274.703C350.277 273.857 352.474 273.206 354.199 272.75C355.924 272.294 356.934 272.05 357.227 272.018ZM347.217 238.814C343.831 243.795 339.453 254.098 334.082 269.723C336.654 267.184 339.014 264.173 341.162 260.689C343.311 257.174 344.971 253.886 346.143 250.826C347.347 247.766 348.226 244.885 348.779 242.184C349.398 239.189 349.479 237.317 349.023 236.568C348.926 236.438 348.324 237.187 347.217 238.814Z",
+              stroke: e.body,
+              "stroke-width": "6",
+              mask: "url(#path-5-inside-1)",
+            }),
+            r.a.createElement("path", {
+              class: "signature11",
+              d:
+                "M364.16 262.74C364.062 262.74 363.981 262.74 363.916 262.74C363.59 262.838 363.249 263.001 362.891 263.229C362.565 263.424 362.272 263.635 362.012 263.863C361.751 264.091 361.475 264.384 361.182 264.742C360.921 265.068 360.71 265.344 360.547 265.572C360.384 265.8 360.205 266.077 360.01 266.402C359.847 266.695 359.749 266.874 359.717 266.939C359.717 266.972 359.684 267.037 359.619 267.135C359.489 267.395 359.473 267.656 359.57 267.916C359.668 268.176 359.831 268.372 360.059 268.502C360.319 268.6 360.579 268.6 360.84 268.502C361.1 268.404 361.296 268.242 361.426 268.014C361.426 267.949 361.556 267.688 361.816 267.232C362.077 266.777 362.451 266.272 362.939 265.719C363.428 265.133 363.916 264.791 364.404 264.693C364.665 264.628 364.86 264.482 364.99 264.254C365.153 264.026 365.202 263.782 365.137 263.521C365.007 262.968 364.681 262.708 364.16 262.74ZM359.229 269.967C358.936 269.967 358.675 270.081 358.447 270.309C357.113 271.936 356.234 273.352 355.811 274.557C355.518 275.403 355.452 276.119 355.615 276.705C355.778 277.486 356.217 278.04 356.934 278.365C357.454 278.593 358.057 278.707 358.74 278.707C360.042 278.707 361.947 278.235 364.453 277.291C365.43 276.9 366.423 276.477 367.432 276.021C368.441 275.566 369.303 275.143 370.02 274.752C370.736 274.361 371.257 274.052 371.582 273.824C371.81 273.661 371.94 273.45 371.973 273.189C372.038 272.929 371.989 272.685 371.826 272.457C371.663 272.229 371.436 272.099 371.143 272.066C370.882 272.001 370.654 272.05 370.459 272.213C369.124 273.157 366.895 274.215 363.77 275.387C361.491 276.266 359.814 276.705 358.74 276.705C358.317 276.705 358.008 276.656 357.812 276.559C357.682 276.493 357.601 276.396 357.568 276.266C357.503 276.005 357.552 275.663 357.715 275.24C358.04 274.231 358.805 273.01 360.01 271.578C360.173 271.383 360.238 271.155 360.205 270.895C360.205 270.602 360.091 270.357 359.863 270.162C359.701 270.032 359.489 269.967 359.229 269.967Z",
+              stroke: e.body,
+              "stroke-width": "6",
+              mask: "url(#path-5-inside-1)",
+            }),
+            r.a.createElement("path", {
+              class: "signature12",
+              d:
+                "M374.268 271.529C374.495 271.562 374.691 271.66 374.854 271.822C375.016 271.985 375.081 272.18 375.049 272.408C375.049 272.538 375.016 272.669 374.951 272.799C374.886 272.896 374.805 272.994 374.707 273.092C374.642 273.157 374.544 273.206 374.414 273.238C374.316 273.271 374.202 273.287 374.072 273.287C372.64 273.32 371.37 274.02 370.264 275.387C369.482 276.396 369.271 277.079 369.629 277.438C369.824 277.665 370.231 277.649 370.85 277.389C371.208 277.258 371.712 276.835 372.363 276.119C373.535 274.882 374.951 273.01 376.611 270.504C377.393 267.574 378.304 264.514 379.346 261.324C380.973 256.311 382.633 251.819 384.326 247.848C386.019 243.844 387.419 241.24 388.525 240.035C389.535 238.961 390.397 238.766 391.113 239.449C391.374 239.677 391.569 239.97 391.699 240.328C391.96 241.174 391.846 242.558 391.357 244.479C390.869 246.367 390.12 248.482 389.111 250.826C388.135 253.17 386.963 255.676 385.596 258.346C383.187 263.033 380.729 267.281 378.223 271.09C377.441 274.02 376.855 276.559 376.465 278.707C376.074 280.855 375.944 282.418 376.074 283.395C376.074 283.492 376.042 283.622 375.977 283.785V283.834C376.204 283.801 376.416 283.85 376.611 283.98C376.807 284.111 376.921 284.29 376.953 284.518C376.986 284.745 376.921 284.957 376.758 285.152C376.595 285.38 376.4 285.527 376.172 285.592C375.098 285.82 374.479 285.217 374.316 283.785C374.121 282.223 374.512 279.293 375.488 274.996C374.772 275.908 374.137 276.656 373.584 277.242C372.738 278.186 372.005 278.772 371.387 279C369.922 279.618 368.799 279.57 368.018 278.854C367.464 278.398 367.204 277.747 367.236 276.9C367.301 275.273 367.969 273.954 369.238 272.945C370.54 271.904 372.217 271.432 374.268 271.529ZM379.932 265.133C381.331 262.724 382.682 260.25 383.984 257.711C386.035 253.707 387.63 250.191 388.77 247.164C389.909 244.104 390.316 242.07 389.99 241.061C389.958 240.93 389.925 240.849 389.893 240.816L389.844 240.865L389.746 241.158C388.737 242.232 387.419 244.706 385.791 248.58C384.196 252.421 382.601 256.783 381.006 261.666C380.583 263.001 380.225 264.156 379.932 265.133Z",
+              stroke: e.body,
+              "stroke-width": "6",
+              mask: "url(#path-5-inside-1)",
+            }),
+            r.a.createElement("path", {
+              class: "signature13",
+              d:
+                "M389.99 271.822C390.088 271.952 390.153 272.099 390.186 272.262C391.064 271.253 391.504 270.699 391.504 270.602C391.667 270.374 391.878 270.243 392.139 270.211C392.432 270.146 392.692 270.178 392.92 270.309C393.245 270.569 393.392 270.895 393.359 271.285C393.066 273.434 392.871 274.898 392.773 275.68C392.708 276.461 392.725 276.9 392.822 276.998C393.083 277.031 394.206 276.477 396.191 275.338C398.568 273.971 400.57 272.896 402.197 272.115C402.425 271.985 402.669 271.969 402.93 272.066C403.223 272.164 403.418 272.343 403.516 272.604C403.646 272.831 403.662 273.076 403.564 273.336C403.467 273.596 403.304 273.792 403.076 273.922C401.546 274.671 399.593 275.712 397.217 277.047C396.305 277.6 395.638 277.991 395.215 278.219C394.792 278.447 394.32 278.642 393.799 278.805C393.311 278.967 392.904 279.033 392.578 279C391.862 278.902 391.374 278.495 391.113 277.779C390.885 277.063 390.837 275.924 390.967 274.361C388.265 277.128 385.547 278.658 382.812 278.951C381.087 279.114 380.143 278.479 379.98 277.047C379.915 276.168 380.257 275.175 381.006 274.068C381.689 273.027 382.52 272.148 383.496 271.432C383.887 271.171 384.261 270.943 384.619 270.748C384.977 270.553 385.352 270.406 385.742 270.309C386.133 270.178 386.523 270.113 386.914 270.113C387.305 270.113 387.679 270.178 388.037 270.309C388.395 270.406 388.737 270.585 389.062 270.846C389.421 271.106 389.73 271.432 389.99 271.822ZM389.062 273.434C388.802 273.401 388.574 273.255 388.379 272.994C387.565 271.855 386.328 271.871 384.668 273.043C383.887 273.629 383.219 274.329 382.666 275.143C382.178 275.891 381.95 276.461 381.982 276.852C382.015 276.949 382.227 276.982 382.617 276.949C384.733 276.721 386.882 275.549 389.062 273.434Z",
+              stroke: e.body,
+              "stroke-width": "6",
+              mask: "url(#path-5-inside-1)",
+            }),
+            r.a.createElement("path", {
+              class: "signature14",
+              d:
+                "M401.855 275.631C401.888 275.761 401.888 275.891 401.855 276.021C401.823 276.152 401.774 276.282 401.709 276.412C401.644 276.51 401.562 276.607 401.465 276.705C401.367 276.77 401.253 276.819 401.123 276.852C400.863 276.917 400.602 276.884 400.342 276.754C400.114 276.591 399.967 276.38 399.902 276.119C399.805 275.826 399.854 275.452 400.049 274.996C400.277 274.508 400.667 273.922 401.221 273.238C401.774 272.555 402.262 271.969 402.686 271.48C403.141 270.992 403.792 270.292 404.639 269.381C405.452 268.535 406.055 267.9 406.445 267.477C406.12 267.444 405.876 267.428 405.713 267.428C404.801 267.363 404.118 267.232 403.662 267.037C402.49 266.451 402.327 265.702 403.174 264.791C403.662 264.205 404.899 263.57 406.885 262.887C409.391 261.975 410.84 262.073 411.23 263.18C411.426 263.668 411.263 264.352 410.742 265.23C412.174 265.035 413.135 264.791 413.623 264.498C414.339 264.107 414.876 264.221 415.234 264.84C415.299 265.068 415.332 265.279 415.332 265.475C415.332 265.67 415.251 265.93 415.088 266.256C414.925 266.581 414.762 266.891 414.6 267.184C414.437 267.444 414.209 267.753 413.916 268.111C413.656 268.469 413.411 268.779 413.184 269.039C412.956 269.299 412.712 269.592 412.451 269.918C412.191 270.211 411.979 270.455 411.816 270.65C407.715 275.989 405.404 279.228 404.883 280.367C406.868 279.651 409.163 278.528 411.768 276.998C415.12 275.045 417.318 273.515 418.359 272.408C418.555 272.213 418.783 272.115 419.043 272.115C419.336 272.115 419.58 272.213 419.775 272.408C419.971 272.571 420.068 272.799 420.068 273.092C420.101 273.352 420.02 273.58 419.824 273.775C418.652 275.045 416.309 276.705 412.793 278.756C409.896 280.416 407.34 281.62 405.127 282.369C403.923 282.792 403.158 282.532 402.832 281.588C402.702 281.165 402.816 280.514 403.174 279.635C403.564 278.788 404.215 277.714 405.127 276.412C406.038 275.077 406.82 273.971 407.471 273.092C408.154 272.18 409.082 270.96 410.254 269.43C410.84 268.648 411.637 267.802 412.646 266.891C411.572 267.118 410.417 267.281 409.18 267.379C408.561 268.095 407.536 269.218 406.104 270.748C403.206 273.84 401.79 275.468 401.855 275.631ZM408.252 265.426C409.066 264.514 409.44 263.993 409.375 263.863C409.375 263.831 409.31 263.847 409.18 263.912C409.082 263.977 408.87 264.107 408.545 264.303C408.252 264.465 407.91 264.612 407.52 264.742C406.868 264.97 406.299 265.198 405.811 265.426H405.859C406.543 265.491 407.34 265.491 408.252 265.426Z",
+              stroke: e.body,
+              "stroke-width": "6",
+              mask: "url(#path-5-inside-1)",
+            }),
+            r.a.createElement("path", {
+              class: "signature15",
+              d:
+                "M426.27 271.822C426.367 271.952 426.432 272.099 426.465 272.262C427.344 271.253 427.783 270.699 427.783 270.602C427.946 270.374 428.158 270.243 428.418 270.211C428.711 270.146 428.971 270.178 429.199 270.309C429.525 270.569 429.671 270.895 429.639 271.285C429.346 273.434 429.15 274.898 429.053 275.68C428.988 276.461 429.004 276.9 429.102 276.998C429.362 277.031 430.485 276.477 432.471 275.338C434.847 273.971 436.849 272.896 438.477 272.115C438.704 271.985 438.949 271.969 439.209 272.066C439.502 272.164 439.697 272.343 439.795 272.604C439.925 272.831 439.941 273.076 439.844 273.336C439.746 273.596 439.583 273.792 439.355 273.922C437.826 274.671 435.872 275.712 433.496 277.047C432.585 277.6 431.917 277.991 431.494 278.219C431.071 278.447 430.599 278.642 430.078 278.805C429.59 278.967 429.183 279.033 428.857 279C428.141 278.902 427.653 278.495 427.393 277.779C427.165 277.063 427.116 275.924 427.246 274.361C424.544 277.128 421.826 278.658 419.092 278.951C417.367 279.114 416.423 278.479 416.26 277.047C416.195 276.168 416.536 275.175 417.285 274.068C417.969 273.027 418.799 272.148 419.775 271.432C420.166 271.171 420.54 270.943 420.898 270.748C421.257 270.553 421.631 270.406 422.021 270.309C422.412 270.178 422.803 270.113 423.193 270.113C423.584 270.113 423.958 270.178 424.316 270.309C424.674 270.406 425.016 270.585 425.342 270.846C425.7 271.106 426.009 271.432 426.27 271.822ZM425.342 273.434C425.081 273.401 424.854 273.255 424.658 272.994C423.844 271.855 422.607 271.871 420.947 273.043C420.166 273.629 419.499 274.329 418.945 275.143C418.457 275.891 418.229 276.461 418.262 276.852C418.294 276.949 418.506 276.982 418.896 276.949C421.012 276.721 423.161 275.549 425.342 273.434Z",
+              stroke: e.body,
+              "stroke-width": "6",
+              mask: "url(#path-5-inside-1)",
+            }),
+            r.a.createElement(
+              "defs",
+              null,
+              r.a.createElement("style", {
+                dangerouslySetInnerHTML: {
+                  __html:
+                    "\n\n      .signature1{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 0.5s;\n\t\t\t-o-animation: dash 1s linear forwards 0.5s;\n\t\t\t-moz-animation: dash 1s linear forwards 0.5s;\n\t\t\tanimation: dash 1s linear forwards 0.5s;\n\t\t}\n\t\t.signature2{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 0.7s;\n\t\t\t-o-animation: dash 1s linear forwards 0.7s;\n\t\t\t-moz-animation: dash 1s linear forwards 0.7s;\n\t\t\tanimation: dash 1s linear forwards 0.7s;\n\t\t}\n\t\t.signature3{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 0.9s;\n\t\t\t-o-animation: dash 1s linear forwards 0.9s;\n\t\t\t-moz-animation: dash 1s linear forwards 0.9s;\n\t\t\tanimation: dash 1s linear forwards 0.9s;\n\t\t}\n\t\t.signature4{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 1.1s;\n\t\t\t-o-animation: dash 1s linear forwards 1.1s;\n\t\t\t-moz-animation: dash 1s linear forwards 1.1s;\n\t\t\tanimation: dash 1s linear forwards 1.1s;\n\t\t}\n\t\t.signature5{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 1.3s;\n\t\t\t-o-animation: dash 1s linear forwards 1.3s;\n\t\t\t-moz-animation: dash 1s linear forwards 1.3s;\n\t\t\tanimation: dash 1s linear forwards 1.3s;\n\t\t}\n\t\t.signature6{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 1.5s;\n\t\t\t-o-animation: dash 1s linear forwards 1.5s;\n\t\t\t-moz-animation: dash 1s linear forwards 1.5s;\n\t\t\tanimation: dash 1s linear forwards 1.5s;\n\t\t}\n\t\t.signature7{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 1.7s;\n\t\t\t-o-animation: dash 1s linear forwards 1.7s;\n\t\t\t-moz-animation: dash 1s linear forwards 1.7s;\n\t\t\tanimation: dash 1s linear forwards 1.7s;\n\t\t}\n\t\t.signature8{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 1.9s;\n\t\t\t-o-animation: dash 1s linear forwards 1.9s;\n\t\t\t-moz-animation: dash 1s linear forwards 1.9s;\n\t\t\tanimation: dash 1s linear forwards 1.9s;\n\t\t}\n\t\t.signature9{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 2.1s;\n\t\t\t-o-animation: dash 1s linear forwards 2.1s;\n\t\t\t-moz-animation: dash 1s linear forwards 2.1s;\n\t\t\tanimation: dash 1s linear forwards 2.1s;\n\t\t}\n\t\t.signature10{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 2.3s;\n\t\t\t-o-animation: dash 1s linear forwards 2.3s;\n\t\t\t-moz-animation: dash 1s linear forwards 2.3s;\n\t\t\tanimation: dash 1s linear forwards 2.3s;\n\t\t}\n\t\t.signature11{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 2.5s;\n\t\t\t-o-animation: dash 1s linear forwards 2.5s;\n\t\t\t-moz-animation: dash 1s linear forwards 2.5s;\n\t\t\tanimation: dash 1s linear forwards 2.5s;\n\t\t}\n\t\t.signature12{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 2.7s;\n\t\t\t-o-animation: dash 1s linear forwards 2.7s;\n\t\t\t-moz-animation: dash 1s linear forwards 2.7s;\n\t\t\tanimation: dash 1s linear forwards 2.7s;\n\t\t}\n\t\t.signature13{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 2.9s;\n\t\t\t-o-animation: dash 1s linear forwards 2.9s;\n\t\t\t-moz-animation: dash 1s linear forwards 2.9s;\n\t\t\tanimation: dash 1s linear forwards 2.9s;\n\t\t}\n\t\t.signature14{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 3.1s;\n\t\t\t-o-animation: dash 1s linear forwards 3.1s;\n\t\t\t-moz-animation: dash 1s linear forwards 3.1s;\n\t\t\tanimation: dash 1s linear forwards 3.1s;\n\t\t}\n\t\t.signature15{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 1s linear forwards 3.3s;\n\t\t\t-o-animation: dash 1s linear forwards 3.3s;\n\t\t\t-moz-animation: dash 1s linear forwards 3.3s;\n\t\t\tanimation: dash 1s linear forwards 3.3s;\n\t\t}\n\n\t\t.signature{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 6s linear forwards 0.5s;\n\t\t\t-o-animation: dash 6s linear forwards 0.5s;\n\t\t\t-moz-animation: dash 6s linear forwards 0.5s;\n\t\t\tanimation: dash 6s linear forwards 0.5s;\n\t\t}\n\n\t\t.letter{\n\t\t\topacity: 0;\n\t\t\t-webkit-animation: fadein 2s linear forwards 2.5s;\n\t\t\t-o-animation: fadein 2s linear forwards 2.5s;\n\t\t\t-moz-animation: fadein 2s linear forwards 2.5s;\n\t\t\tanimation: fadein 2s linear forwards 2.5s;\n\t\t}\n\n\t\t@-webkit-keyframes fadein{\n\t\t\tfrom{\n\t\t\t\topacity: 0;\n\t\t\t}\n\t\t\tto{\n\t\t\t\topacity: 1;\n\t\t\t}\n\t\t}\n\n      .myHexagon{\n\t\t\tstroke-dasharray: 800;\n\t\t\tstroke-dashoffset: 800;\n\t\t\t-webkit-animation: dash 4s linear forwards 0.5s;\n\t\t\t-o-animation: dash 4s linear forwards 0.5s;\n\t\t\t-moz-animation: dash 4s linear forwards 0.5s;\n\t\t\tanimation: dash 4s linear forwards 0.5s;\n\t\t}\n\n\t\t@-webkit-keyframes dash{\n\t\t\tfrom{\n\t\t\t\tstroke-dashoffset: 800;\n\t\t\t}\n\t\t\tto{\n\t\t\t\tstroke-dashoffset: 0;\n\t\t\t}\n\t\t}\n    ",
+                },
+              })
+            )
+          );
+        }
+      }
+      var Ce = he;
+      function Ae(e) {
+        return r.a.createElement(
+          "div",
+          { className: "logo_wrapper" },
+          r.a.createElement(
+            "div",
+            {
+              className: "screen",
+              style: { backgroundColor: e.theme.splashBg },
+            },
+            r.a.createElement(Ce, { id: "logo", theme: e.theme })
+          )
+        );
+      }
+      class pe extends l.Component {
+        constructor(e) {
+          super(e), (this.state = { redirect: !1 });
+        }
+        componentDidMount() {
+          this.id = setTimeout(() => this.setState({ redirect: !0 }), 5500);
+        }
+        componentWillMount() {
+          clearTimeout(this.id);
+        }
+        render() {
+          return this.state.redirect
+            ? r.a.createElement(h.a, { to: "/home" })
+            : r.a.createElement(Ae, { theme: this.props.theme });
+        }
+      }
+      var fe = pe;
+      a(130), a(131);
+      class ge extends l.Component {
+        render() {
+          const e = this.props.degree,
+            t = this.props.theme;
+          return r.a.createElement(
+            "div",
+            { className: "degree-card" },
+            e.logo_path &&
+              r.a.createElement(
+                C.Flip,
+                { left: !0, duration: 2e3 },
+                r.a.createElement(
+                  "div",
+                  { className: "card-img" },
+                  r.a.createElement("img", {
+                    style: {
+                      maxWidth: "100%",
+                      maxHeight: "100%",
+                      transform: "scale(0.9)",
+                    },
+                    src: a(32)("./".concat(e.logo_path)),
+                    alt: e.alt_name,
+                  })
+                )
+              ),
+            r.a.createElement(
+              C.Fade,
+              { right: !0, duration: 2e3, distance: "40px" },
+              r.a.createElement(
+                "div",
+                {
+                  className: "card-body",
+                  style: { width: e.logo_path ? "90%" : "100%" },
+                },
+                r.a.createElement(
+                  "div",
+                  {
+                    className: "body-header",
+                    style: { backgroundColor: t.headerColor },
+                  },
+                  r.a.createElement(
+                    "div",
+                    { className: "body-header-title" },
+                    r.a.createElement(
+                      "h2",
+                      { className: "card-title", style: { color: t.text } },
+                      e.title
+                    ),
+                    r.a.createElement(
+                      "h3",
+                      { className: "card-subtitle", style: { color: t.text } },
+                      e.subtitle
+                    )
+                  ),
+                  r.a.createElement(
+                    "div",
+                    { className: "body-header-duration" },
+                    r.a.createElement(
+                      "h3",
+                      { className: "duration", style: { color: t.text } },
+                      e.duration
+                    )
+                  )
+                ),
+                r.a.createElement(
+                  "div",
+                  { className: "body-content" },
+                  e.descriptions.map((e) =>
+                    r.a.createElement(
+                      "p",
+                      { className: "content-list", style: { color: t.text } },
+                      e
+                    )
+                  ),
+                  e.website_link &&
+                    r.a.createElement(
+                      "a",
+                      {
+                        href: e.website_link,
+                        target: "_blank",
+                        rel: "noopener noreferrer",
+                      },
+                      r.a.createElement(
+                        "div",
+                        {
+                          className: "visit-btn",
+                          style: { backgroundColor: t.headerColor },
+                        },
+                        r.a.createElement(
+                          "p",
+                          { className: "btn", style: { color: t.text } },
+                          "Visit Website"
+                        )
+                      )
+                    )
+                )
+              )
+            )
+          );
+        }
+      }
+      var Ee = ge;
+      class ue extends l.Component {
+        render() {
+          const e = this.props.theme;
+          return r.a.createElement(
+            "div",
+            { className: "main", id: "educations" },
+            r.a.createElement(
+              "div",
+              { className: "educations-header-div" },
+              r.a.createElement(
+                C.Fade,
+                { bottom: !0, duration: 2e3, distance: "20px" },
+                r.a.createElement(
+                  "h1",
+                  { className: "educations-header", style: { color: e.text } },
+                  "Degrees Received"
+                )
+              )
+            ),
+            r.a.createElement(
+              "div",
+              { className: "educations-body-div" },
+              y.degrees.map((t) =>
+                r.a.createElement(Ee, { degree: t, theme: e })
+              )
+            )
+          );
+        }
+      }
+      var ye = ue;
+      a(184), a(185);
+      class be extends l.Component {
+        render() {
+          const e = this.props.certificate,
+            t = this.props.theme;
+          return r.a.createElement(
+            C.Fade,
+            { bottom: !0, duration: 2e3, distance: "20px" },
+            r.a.createElement(
+              "div",
+              { className: "cert-card" },
+              r.a.createElement(
+                "div",
+                { className: "content" },
+                r.a.createElement(
+                  "a",
+                  {
+                    href: e.certificate_link,
+                    target: "_blank",
+                    rel: "noopener noreferrer",
+                  },
+                  r.a.createElement("div", { className: "content-overlay" }),
+                  r.a.createElement(
+                    "div",
+                    {
+                      className: "cert-header",
+                      style: { backgroundColor: e.color_code },
+                    },
+                    r.a.createElement("img", {
+                      className: "logo_img",
+                      src: a(32)("./".concat(e.logo_path)),
+                      alt: e.alt_name,
+                    })
+                  ),
+                  r.a.createElement(
+                    "div",
+                    { className: "content-details fadeIn-top" },
+                    r.a.createElement(
+                      "h3",
+                      { className: "content-title", style: { color: t.body } },
+                      "Certificate"
+                    )
+                  )
+                )
+              ),
+              r.a.createElement(
+                "div",
+                { className: "cert-body" },
+                r.a.createElement(
+                  "h2",
+                  { className: "cert-body-title", style: { color: t.text } },
+                  e.title
+                ),
+                r.a.createElement(
+                  "h3",
+                  {
+                    className: "cert-body-subtitle",
+                    style: { color: t.secondaryText },
+                  },
+                  e.subtitle
+                )
+              )
+            )
+          );
+        }
+      }
+      var xe = be;
+      class ve extends l.Component {
+        render() {
+          const e = this.props.theme;
+          return r.a.createElement(
+            "div",
+            { className: "main", id: "certs" },
+            r.a.createElement(
+              "div",
+              { className: "certs-header-div" },
+              r.a.createElement(
+                C.Fade,
+                { bottom: !0, duration: 2e3, distance: "20px" },
+                r.a.createElement(
+                  "h1",
+                  { className: "certs-header", style: { color: e.text } },
+                  "Certifications"
+                )
+              )
+            ),
+            r.a.createElement(
+              "div",
+              { className: "certs-body-div" },
+              b.certifications.map((t) =>
+                r.a.createElement(xe, { certificate: t, theme: e })
+              )
+            )
+          );
+        }
+      }
+      var Me = ve;
+      a(186);
+      class we extends r.a.Component {
+        render() {
+          return r.a.createElement(
+            "div",
+            { className: "competitive-sites-main-div" },
+            r.a.createElement(
+              "ul",
+              { className: "dev-icons" },
+              this.props.logos.map((e) =>
+                r.a.createElement(
+                  Q.a,
+                  {
+                    key: e.siteName,
+                    placement: "top",
+                    style: { marginBottom: "5px" },
+                    overlay: r.a.createElement(
+                      F.a,
+                      { id: "tooltip-top" },
+                      r.a.createElement("strong", null, e.siteName)
+                    ),
+                  },
+                  r.a.createElement(
+                    "li",
+                    { className: "competitive-sites-inline", name: e.siteName },
+                    r.a.createElement(
+                      "a",
+                      {
+                        href: e.profileLink,
+                        target: "_blank",
+                        rel: "noopener noreferrer",
+                      },
+                      r.a.createElement("span", {
+                        className: "iconify",
+                        "data-icon": e.iconifyClassname,
+                        style: e.style,
+                        "data-inline": "false",
+                      })
+                    )
+                  )
+                )
+              )
+            )
+          );
+        }
+      }
+      var ke = we;
+      class Ze extends l.Component {
+        render() {
+          const e = this.props.theme;
+          return r.a.createElement(
+            "svg",
+            {
+              id: "eb113788-f1f1-4c1f-be62-f1d0ea2e1eb6",
+              "data-name": "Layer 1",
+              xmlns: "http://www.w3.org/2000/svg",
+              width: "795.39431",
+              height: "574.03802",
+              viewBox: "0 0 795.39431 574.03802",
+            },
+            r.a.createElement(
+              "defs",
+              null,
+              r.a.createElement(
+                "linearGradient",
+                {
+                  id: "b2a81085-935f-40be-bb27-75940df8c338",
+                  x1: "-450.78971",
+                  y1: "2803.04671",
+                  x2: "-450.78971",
+                  y2: "2729.34772",
+                  gradientTransform:
+                    "translate(3217.53309 1009.65784) rotate(90)",
+                  gradientUnits: "userSpaceOnUse",
+                },
+                r.a.createElement("stop", {
+                  offset: "0",
+                  stopColor: "gray",
+                  stopOpacity: "0.25",
+                }),
+                r.a.createElement("stop", {
+                  offset: "0.53514",
+                  stopColor: "gray",
+                  stopOpacity: "0.12",
+                }),
+                r.a.createElement("stop", {
+                  offset: "1",
+                  stopColor: "gray",
+                  stopOpacity: "0.1",
+                })
+              )
+            ),
+            r.a.createElement("title", null, "Graduation"),
+            r.a.createElement("ellipse", {
+              cx: "232.05775",
+              cy: "450.06897",
+              rx: "35.09476",
+              ry: "5.26421",
+              transform: "translate(-476.55674 294.92367) rotate(-63.61079)",
+              fill: "#e0e0e0",
+            }),
+            r.a.createElement("ellipse", {
+              cx: "670.57742",
+              cy: "667.85592",
+              rx: "35.09476",
+              ry: "3.57677",
+              transform: "translate(-428.03695 808.73554) rotate(-63.61079)",
+              fill: "#e0e0e0",
+            }),
+            r.a.createElement("rect", {
+              x: "397.95325",
+              y: "566.93514",
+              width: "21.05685",
+              height: "70.18951",
+              transform: "translate(274.52069 -285.26226) rotate(39.54732)",
+              fill: "#f55f44",
+            }),
+            r.a.createElement("rect", {
+              x: "409.32507",
+              y: "573.56618",
+              width: "23.69234",
+              height: "70.18951",
+              transform: "translate(489.54965 1134.58125) rotate(-166.7689)",
+              opacity: "0.05",
+            }),
+            r.a.createElement("rect", {
+              x: "411.92558",
+              y: "573.86778",
+              width: "21.05685",
+              height: "70.18951",
+              transform: "translate(492.0121 1135.47005) rotate(-166.7689)",
+              fill: "#f55f44",
+            }),
+            r.a.createElement("rect", {
+              x: "414.48638",
+              y: "314.08219",
+              width: "73.69899",
+              height: "489.57186",
+              transform: "translate(-452.20218 551.7936) rotate(-63.61079)",
+              fill: "url(#b2a81085-935f-40be-bb27-75940df8c338)",
+            }),
+            r.a.createElement("path", {
+              d:
+                "M655.01556,699.105c-8.584-4.11751-444.8438-220.718-438.55625-217.5983,24.21371-36.95739,31.19689-62.87545,31.19689-62.87545l438.55625,217.5983S670.81132,663.25857,655.01556,699.105Z",
+              transform: "translate(-202.30284 -162.98099)",
+              fill: "#f5f5f5",
+            }),
+            r.a.createElement("rect", {
+              x: "421.72508",
+              y: "519.09383",
+              width: "40.35897",
+              height: "70.18951",
+              transform: "translate(90.06389 -301.64381) rotate(26.38921)",
+              opacity: "0.05",
+            }),
+            r.a.createElement("rect", {
+              x: "423.47981",
+              y: "519.09383",
+              width: "36.8495",
+              height: "70.18951",
+              transform: "translate(90.06389 -301.64381) rotate(26.38921)",
+              fill: "#f55f44",
+            }),
+            r.a.createElement("rect", {
+              x: "428.83545",
+              y: "518.70387",
+              width: "24.56633",
+              height: "70.18951",
+              transform: "translate(89.80867 -301.33512) rotate(26.38921)",
+              opacity: "0.05",
+            }),
+            r.a.createElement("rect", {
+              x: "430.59019",
+              y: "518.70387",
+              width: "21.05685",
+              height: "70.18951",
+              transform: "translate(89.80867 -301.33512) rotate(26.38921)",
+              fill: "#f55f44",
+            }),
+            r.a.createElement("circle", {
+              cx: "261.30557",
+              cy: "563.92499",
+              r: "2.92569",
+              fill: "#dbdbdb",
+            }),
+            r.a.createElement(
+              "g",
+              { opacity: "0.5" },
+              r.a.createElement("rect", {
+                x: "29.39431",
+                y: "482",
+                width: "3",
+                height: "17",
+                fill: "#47e6b1",
+              }),
+              r.a.createElement("rect", {
+                x: "231.69716",
+                y: "644.98099",
+                width: "3",
+                height: "17",
+                transform: "translate(684.3753 257.30284) rotate(90)",
+                fill: "#47e6b1",
+              })
+            ),
+            r.a.createElement(
+              "g",
+              { opacity: "0.5" },
+              r.a.createElement("rect", {
+                x: "785.39431",
+                y: "270",
+                width: "3",
+                height: "17",
+                fill: "#47e6b1",
+              }),
+              r.a.createElement("rect", {
+                x: "987.69716",
+                y: "432.98099",
+                width: "3",
+                height: "17",
+                transform: "translate(1228.3753 -710.69716) rotate(90)",
+                fill: "#47e6b1",
+              })
+            ),
+            r.a.createElement(
+              "g",
+              { opacity: "0.5" },
+              r.a.createElement("rect", {
+                x: "47.39431",
+                y: "59",
+                width: "3",
+                height: "17",
+                fill: "#47e6b1",
+              }),
+              r.a.createElement("rect", {
+                x: "249.69716",
+                y: "221.98099",
+                width: "3",
+                height: "17",
+                transform: "translate(279.3753 -183.69716) rotate(90)",
+                fill: "#47e6b1",
+              })
+            ),
+            r.a.createElement(
+              "g",
+              { opacity: "0.5" },
+              r.a.createElement("rect", {
+                x: "695.39431",
+                y: "33",
+                width: "3",
+                height: "17",
+                fill: "#47e6b1",
+              }),
+              r.a.createElement("rect", {
+                x: "897.69716",
+                y: "195.98099",
+                width: "3",
+                height: "17",
+                transform: "translate(901.3753 -857.69716) rotate(90)",
+                fill: "#47e6b1",
+              })
+            ),
+            r.a.createElement("path", {
+              d:
+                "M214.59252,416.4373a3.67458,3.67458,0,0,1-2.04749-4.441,1.76592,1.76592,0,0,0,.0799-.40754h0a1.84257,1.84257,0,0,0-3.31045-1.22119h0a1.76637,1.76637,0,0,0-.2039.3618,3.67459,3.67459,0,0,1-4.441,2.04749,1.766,1.766,0,0,0-.40754-.07991h0a1.84258,1.84258,0,0,0-1.22119,3.31045h0a1.76606,1.76606,0,0,0,.3618.20389,3.67462,3.67462,0,0,1,2.04749,4.441,1.76594,1.76594,0,0,0-.07991.40754h0a1.84257,1.84257,0,0,0,3.31045,1.22119h0a1.7659,1.7659,0,0,0,.2039-.3618,3.67459,3.67459,0,0,1,4.441-2.04749,1.76665,1.76665,0,0,0,.40755.07991h0a1.84257,1.84257,0,0,0,1.22119-3.31045h0A1.76684,1.76684,0,0,0,214.59252,416.4373Z",
+              transform: "translate(-202.30284 -162.98099)",
+              fill: "#4d8af0",
+              opacity: "0.5",
+            }),
+            r.a.createElement("path", {
+              d:
+                "M386.59252,219.4373a3.67458,3.67458,0,0,1-2.04749-4.441,1.76592,1.76592,0,0,0,.0799-.40754h0a1.84257,1.84257,0,0,0-3.31045-1.22119h0a1.76637,1.76637,0,0,0-.2039.3618,3.67459,3.67459,0,0,1-4.441,2.04749,1.766,1.766,0,0,0-.40754-.07991h0a1.84258,1.84258,0,0,0-1.22119,3.31045h0a1.76606,1.76606,0,0,0,.3618.20389,3.67462,3.67462,0,0,1,2.04749,4.441,1.76594,1.76594,0,0,0-.07991.40754h0a1.84257,1.84257,0,0,0,3.31045,1.22119h0a1.7659,1.7659,0,0,0,.2039-.3618,3.67459,3.67459,0,0,1,4.441-2.04749,1.76665,1.76665,0,0,0,.40755.07991h0a1.84257,1.84257,0,0,0,1.22119-3.31045h0A1.76684,1.76684,0,0,0,386.59252,219.4373Z",
+              transform: "translate(-202.30284 -162.98099)",
+              fill: "#4d8af0",
+              opacity: "0.5",
+            }),
+            r.a.createElement("path", {
+              d:
+                "M596.59252,730.4373a3.67458,3.67458,0,0,1-2.04749-4.441,1.76592,1.76592,0,0,0,.0799-.40754h0a1.84257,1.84257,0,0,0-3.31045-1.22119h0a1.76637,1.76637,0,0,0-.2039.3618,3.67459,3.67459,0,0,1-4.441,2.04749,1.766,1.766,0,0,0-.40754-.07991h0a1.84258,1.84258,0,0,0-1.22119,3.31045h0a1.76606,1.76606,0,0,0,.3618.20389,3.67462,3.67462,0,0,1,2.04749,4.441,1.76594,1.76594,0,0,0-.07991.40754h0a1.84257,1.84257,0,0,0,3.31045,1.22119h0a1.7659,1.7659,0,0,0,.2039-.3618,3.67459,3.67459,0,0,1,4.441-2.04749,1.76665,1.76665,0,0,0,.40755.07991h0a1.84257,1.84257,0,0,0,1.22119-3.31045h0A1.76684,1.76684,0,0,0,596.59252,730.4373Z",
+              transform: "translate(-202.30284 -162.98099)",
+              fill: "#4d8af0",
+              opacity: "0.5",
+            }),
+            r.a.createElement("circle", {
+              cx: "759.39431",
+              cy: "444",
+              r: "6",
+              fill: "#f55f44",
+              opacity: "0.5",
+            }),
+            r.a.createElement("circle", {
+              cx: "627.39431",
+              cy: "482",
+              r: "6",
+              fill: "#4d8af0",
+              opacity: "0.5",
+            }),
+            r.a.createElement("circle", {
+              cx: "103.39431",
+              cy: "541",
+              r: "6",
+              fill: "#47e6b1",
+              opacity: "0.5",
+            }),
+            r.a.createElement("circle", {
+              cx: "411.39431",
+              cy: "6",
+              r: "6",
+              fill: "#f55f44",
+              opacity: "0.5",
+            }),
+            r.a.createElement("path", {
+              d:
+                "M407.19716,520.481l-24,36s8,37,185,36,191-36,191-36l-33-48-101-69Z",
+              transform: "translate(-202.30284 -162.98099)",
+              fill: e.imageHighlight,
+            }),
+            r.a.createElement("path", {
+              d:
+                "M407.19716,520.481l-24,36s8,37,185,36,191-36,191-36l-33-48-101-69Z",
+              transform: "translate(-202.30284 -162.98099)",
+              opacity: "0.15",
+            }),
+            r.a.createElement("polygon", {
+              points:
+                "715.394 224 400.394 363 16.394 224 368.394 64 541.184 143.67 547.374 146.53 715.394 224",
+              fill: e.imageHighlight,
+            }),
+            r.a.createElement("polygon", {
+              points:
+                "715.394 224 400.394 363 16.394 224 368.394 64 541.184 143.67 547.374 146.53 715.394 224",
+              opacity: "0.15",
+            }),
+            r.a.createElement("polygon", {
+              points:
+                "553.894 257.32 547.894 257.68 541.184 143.67 547.374 146.53 553.894 257.32",
+              fill: "#f5f5f5",
+            }),
+            r.a.createElement("path", {
+              d:
+                "M411.19716,386.481l-28,170s201-65,376,0l-26-180S498.19716,347.481,411.19716,386.481Z",
+              transform: "translate(-202.30284 -162.98099)",
+              fill: e.imageHighlight,
+            }),
+            r.a.createElement("ellipse", {
+              cx: "553.39431",
+              cy: "272",
+              rx: "29",
+              ry: "20",
+              fill: "#f5f5f5",
+            })
+          );
+        }
+      }
+      a(187);
+      class Ne extends l.Component {
+        render() {
+          const e = this.props.theme;
+          return r.a.createElement(
+            "div",
+            { className: "education-main" },
+            r.a.createElement(j, { theme: this.props.theme }),
+            r.a.createElement(
+              "div",
+              { className: "basic-education" },
+              r.a.createElement(
+                C.Fade,
+                { bottom: !0, duration: 2e3, distance: "40px" },
+                r.a.createElement(
+                  "div",
+                  { className: "heading-div" },
+                  r.a.createElement(
+                    "div",
+                    { className: "heading-img-div" },
+                    r.a.createElement(Ze, { theme: e })
+                  ),
+                  r.a.createElement(
+                    "div",
+                    { className: "heading-text-div" },
+                    r.a.createElement(
+                      "h1",
+                      { className: "heading-text", style: { color: e.text } },
+                      "Education"
+                    ),
+                    r.a.createElement(
+                      "h3",
+                      {
+                        className: "heading-sub-text",
+                        style: { color: e.text },
+                      },
+                      "Basic Qualification and Certifcations"
+                    ),
+                    r.a.createElement(ke, { logos: u.competitiveSites })
+                  )
+                )
+              ),
+              r.a.createElement(ye, { theme: this.props.theme }),
+              b.certifications.length > 0
+                ? r.a.createElement(Me, { theme: this.props.theme })
+                : null
+            ),
+            r.a.createElement(ee, { theme: this.props.theme }),
+            r.a.createElement(te, { theme: this.props.theme })
+          );
+        }
+      }
+      var Se = Ne;
+      a(188);
+      class Re extends l.Component {
+        render() {
+          const e = this.props.experience,
+            t = this.props.index,
+            l = this.props.totalCards,
+            n = this.props.theme;
+          return r.a.createElement(
+            "div",
+            {
+              className: "experience-list-item",
+              style: { marginTop: 0 === t ? 30 : 50 },
+            },
+            r.a.createElement(
+              C.Fade,
+              { left: !0, duration: 2e3, distance: "40px" },
+              r.a.createElement(
+                "div",
+                { className: "experience-card-logo-div" },
+                r.a.createElement("img", {
+                  className: "experience-card-logo",
+                  src: a(32)("./".concat(e.logo_path)),
+                  alt: "",
+                })
+              )
+            ),
+            r.a.createElement(
+              "div",
+              { className: "experience-card-stepper" },
+              r.a.createElement("div", {
+                style: {
+                  width: 20,
+                  height: 20,
+                  backgroundColor: "".concat(n.headerColor),
+                  borderRadius: 50,
+                  zIndex: 100,
+                },
+              }),
+              t !== l - 1 &&
+                r.a.createElement("div", {
+                  style: {
+                    height: 190,
+                    width: 2,
+                    backgroundColor: "".concat(n.headerColor),
+                    position: "absolute",
+                    marginTop: 20,
+                  },
+                })
+            ),
+            r.a.createElement(
+              C.Fade,
+              { right: !0, duration: 2e3, distance: "40px" },
+              r.a.createElement(
+                "div",
+                { style: { display: "flex", flexDirection: "row" } },
+                r.a.createElement("div", {
+                  className: "arrow-left",
+                  style: { borderRight: "10px solid ".concat(n.body) },
+                }),
+                r.a.createElement(
+                  "div",
+                  {
+                    className: "experience-card",
+                    style: { background: "".concat(n.body) },
+                  },
+                  r.a.createElement(
+                    "div",
+                    {
+                      style: {
+                        display: "flex",
+                        flexDirection: "row",
+                        justifyContent: "space-between",
+                      },
+                    },
+                    r.a.createElement(
+                      "div",
+                      null,
+                      r.a.createElement(
+                        "h3",
+                        {
+                          className: "experience-card-title",
+                          style: { color: n.text },
+                        },
+                        e.title
+                      ),
+                      r.a.createElement(
+                        "p",
+                        {
+                          className: "experience-card-company",
+                          style: { color: n.text },
+                        },
+                        r.a.createElement(
+                          "a",
+                          {
+                            href: e.company_url,
+                            target: "_blank",
+                            rel: "noopener noreferrer",
+                          },
+                          e.company
+                        )
+                      )
+                    ),
+                    r.a.createElement(
+                      "div",
+                      null,
+                      r.a.createElement(
+                        "div",
+                        { className: "experience-card-heading-right" },
+                        r.a.createElement(
+                          "p",
+                          {
+                            className: "experience-card-duration",
+                            style: { color: n.secondaryText },
+                          },
+                          e.duration
+                        ),
+                        r.a.createElement(
+                          "p",
+                          {
+                            className: "experience-card-location",
+                            style: { color: n.secondaryText },
+                          },
+                          e.location
+                        )
+                      )
+                    )
+                  ),
+                  r.a.createElement(
+                    "div",
+                    {
+                      style: {
+                        display: "flex",
+                        justifyContent: "flex-start",
+                        marginTop: 20,
+                      },
+                    },
+                    r.a.createElement("div", { className: "repo-description" }),
+                    e.description
+                  )
+                )
+              )
+            )
+          );
+        }
+      }
+      var Ie = Re,
+        He = (a(189), a(319)),
+        Be = a(317);
+      class je extends l.Component {
+        render() {
+          const e = this.props.theme;
+          return r.a.createElement(
+            "div",
+            { className: "experience-accord" },
+            r.a.createElement(
+              He.a,
+              null,
+              this.props.sections.map((t) =>
+                r.a.createElement(
+                  Be.a,
+                  {
+                    className: "accord-panel",
+                    title: t.title,
+                    key: t.title,
+                    expanded: !0,
+                    overrides: {
+                      Header: {
+                        style: () => ({
+                          backgroundColor: "".concat(e.body),
+                          border: "1px solid",
+                          borderRadius: "5px",
+                          borderColor: "".concat(e.headerColor),
+                          marginBottom: "3px",
+                          fontFamily: "Google Sans Regular",
+                          color: "".concat(e.text),
+                          ":hover": { color: "".concat(e.secondaryText) },
+                        }),
+                      },
+                      Content: {
+                        style: () => ({ backgroundColor: "".concat(e.body) }),
+                      },
+                    },
+                  },
+                  t.experiences.map((a, l) =>
+                    r.a.createElement(Ie, {
+                      index: l,
+                      totalCards: t.experiences.length,
+                      experience: a,
+                      theme: e,
+                    })
+                  )
+                )
+              )
+            )
+          );
+        }
+      }
+      var De = je;
+      a(191);
+      class Ue extends l.Component {
+        render() {
+          const e = this.props.theme;
+          return r.a.createElement(
+            "svg",
+            {
+              id: "bf56719a-dd30-4b09-833f-7c41eeee086b",
+              "data-name": "Layer 1",
+              xmlns: "http://www.w3.org/2000/svg",
+              width: "1094",
+              height: "760",
+              viewBox: "0 0 1094 760",
+            },
+            r.a.createElement("title", null, "career process"),
+            r.a.createElement("rect", {
+              x: "155",
+              y: "304.52",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "291.81",
+              y: "344.05",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "428.63",
+              y: "383.57",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "155",
+              y: "245.24",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "291.81",
+              y: "284.76",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "428.63",
+              y: "324.29",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "580.64",
+              y: "304.52",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "717.45",
+              y: "344.05",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "854.27",
+              y: "383.57",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "580.64",
+              y: "245.24",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "717.45",
+              y: "284.76",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "854.27",
+              y: "324.29",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "155",
+              y: "166.19",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "291.81",
+              y: "205.71",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "428.63",
+              y: "245.24",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "155",
+              y: "106.9",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "291.81",
+              y: "146.43",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "428.63",
+              y: "185.95",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "580.64",
+              y: "166.19",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "717.45",
+              y: "205.71",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "854.27",
+              y: "245.24",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "580.64",
+              y: "106.9",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "717.45",
+              y: "146.43",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("rect", {
+              x: "854.27",
+              y: "185.95",
+              width: "130.73",
+              height: "39.52",
+              rx: "7.43",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("ellipse", {
+              cx: "547",
+              cy: "660.5",
+              rx: "547",
+              ry: "99.5",
+              fill: e.imageHighlight,
+              opacity: "0.1",
+            }),
+            r.a.createElement("polygon", {
+              points:
+                "240 321 194 603 402 581 393 557 230.5 570.5 268.5 320.5 240 321",
+              fill: e.text,
+            }),
+            r.a.createElement("polygon", {
+              points: "186 1 466 0 547 613 266 651 186 1",
+              fill: e.text,
+            }),
+            r.a.createElement("polygon", {
+              points:
+                "216.5 24.5 442.5 24.5 521.5 594.5 288.5 626.5 216.5 24.5",
+              fill: "#fff",
+            }),
+            r.a.createElement("path", {
+              d:
+                "M482.64,638.86c1.42,2.72,2.48,5.66,4.33,8.11,5.4,7.22,15.65,8.35,23.34,13.06a2.15,2.15,0,0,1,.91.88c.35.83-.43,1.7-1.18,2.22-5.83,4.09-13.48,4.18-20.61,4.13a27.49,27.49,0,0,1-7.13-.68c-3.77-1-7-3.63-10.72-4.7a28.44,28.44,0,0,0-5.89-.83l-7.81-.53a18.41,18.41,0,0,1-6.09-1.13,6.16,6.16,0,0,1-3.84-4.55c-.22-1.66.49-3.27.91-4.89,1-3.84.69-8.48,3.68-11.1a11.35,11.35,0,0,1,4.15-2,132.39,132.39,0,0,1,16.61-4.42C477.93,631.52,480.59,634.92,482.64,638.86Z",
+              transform: "translate(-53 -70)",
+              fill: e.text,
+            }),
+            r.a.createElement("path", {
+              d:
+                "M394.3,660.49c.2,2.13.26,4.57-1.28,6.06a6.83,6.83,0,0,1-3.35,1.5c-7.39,1.72-15.63,1.84-22.06-2.18a6.09,6.09,0,0,1-1.74-1.49,5.43,5.43,0,0,1-.88-2.75c-.23-2.83.64-5.62,1.43-8.35a146.52,146.52,0,0,0,4.25-19.75c.08-.55,18.87,3,20.12,4.86,1.57,2.3,1.58,7.82,2,10.56Q393.74,654.69,394.3,660.49Z",
+              transform: "translate(-53 -70)",
+              fill: e.text,
+            }),
+            r.a.createElement("path", {
+              d:
+                "M464.24,400.27l5,46.49c1,9.5,2.05,19.05,1.36,28.58-.8,11-3.88,22-2.58,32.9.51,4.24,1.67,8.4,1.84,12.67a69,69,0,0,1-.43,8.5c-2.26,28.21,4.89,56.2,8.89,84.21a36.54,36.54,0,0,1,.42,10.48c-.52,3.55-1.56,8.21,1.6,9.89l-29.68,10.76c-3.79-4.75-1.28-12.14-2-18.17-.66-5.43-3.64-10.27-5.23-15.5-1.44-4.7-1.74-9.65-2.21-14.53-2.59-26.57-10.54-52.45-12.4-79.08a36,36,0,0,0-1-7.63c-1-3.31-3-6.2-4.46-9.31-2.24-4.67-3.34-9.79-4.42-14.85l-6.35-29.75c-6.42,9.56-6.16,22-7.43,33.46-1.78,16-5.76,31.73-9,47.53a94.47,94.47,0,0,0-1.69,10.3c-.84,9.27.83,18.63-.06,27.89-1,10.73-5.51,21.2-4.42,31.93.6,5.94,2.88,11.56,4.42,17.32s2.3,12.08-.05,17.57a54,54,0,0,0-25.71-2.84c-9.53-9.75-11.22-23.35-11.87-37s.92-27.32-.78-40.84c-.5-4-1.28-7.9-1.41-11.89-.42-12.79,5.73-24.76,8.79-37.19a78.7,78.7,0,0,0,.77-34.15c-1.5-7.47-4.08-14.72-5-22.29-1.25-10.61.87-21.3,3-31.78,1.43-7.07,2.85-14.14,4.47-21.17,1.74-7.55,3.81-15.26,8.46-21.44,7.44-9.89,20.65-14.28,33-13.32s23.88,6.58,34.08,13.58A128.48,128.48,0,0,1,464.24,400.27Z",
+              transform: "translate(-53 -70)",
+              fill: e.dark,
+            }),
+            r.a.createElement("path", {
+              d:
+                "M431.06,222.25a8.63,8.63,0,0,0-1.15,2.94c-.25,2.05,1,3.93,2,5.72a31.15,31.15,0,0,1,2.93,7.3,12,12,0,0,1,.43,4.87,11.75,11.75,0,0,1-1.3,3.5c-1.93,3.72-4.79,7.16-8.68,8.71a15.29,15.29,0,0,1-9.39.38,28.51,28.51,0,0,1-8.59-4.08,26.11,26.11,0,0,1-5.88-5.1,35.25,35.25,0,0,1-4.06-7c-2.08-4.35-4.19-9-3.81-13.77a4.6,4.6,0,0,1,.24-1.27,6.83,6.83,0,0,1,1.34-2,26.1,26.1,0,0,0,6.12-18.15l14.57,3.31c3.21.73,6.42,1.46,9.59,2.37,2.6.75,6.6,1.79,8.29,4.11S432.21,220.13,431.06,222.25Z",
+              transform: "translate(-53 -70)",
+              fill: "#fbbebe",
+            }),
+            r.a.createElement("circle", {
+              cx: "370.26",
+              cy: "123.29",
+              r: "26.48",
+              fill: "#fbbebe",
+            }),
+            r.a.createElement("path", {
+              d:
+                "M419,246.71c1.12-2.45,3.54-4,5.75-5.54s4.45-3.51,4.88-6.18a4.43,4.43,0,0,1,.44-1.74c.85-1.28,2.87-.64,4.08.3,2.94,2.29,4.94,5.54,6.89,8.71a74.43,74.43,0,0,1,6.45,12.19c2.81,7.41,3.15,15.5,3.46,23.41.28,7.2.55,14.51-1.2,21.49-1.1,4.42-3,8.71-3.11,13.26-.33,16.53-6.07,32.33-6.47,48.86a126.75,126.75,0,0,0,.72,14.31l.94,10.73q-21.81-1.25-43.5-3.83c-.42-4.94-1.83-9.73-3.12-14.51a314.93,314.93,0,0,1-10.11-59.74c-.77-10.72-1.56-21.4-2.75-32.08-1.07-9.71-3.17-19.48-1.91-29.17a40.27,40.27,0,0,1,4.1-12.62,8.32,8.32,0,0,1,3.2-3.83A8.65,8.65,0,0,1,390,230a41.94,41.94,0,0,1,6.88-.81,4.74,4.74,0,0,1,1.68.16,5.27,5.27,0,0,1,2.29,2.22A41.52,41.52,0,0,0,419,246.71Z",
+              transform: "translate(-53 -70)",
+              fill: "#f2f2f2",
+            }),
+            r.a.createElement("path", {
+              d:
+                "M406.72,244.59c1.86,2.66,5.8,3.29,7.52,6a15.73,15.73,0,0,1,1.31,3.57c1.05,3.35,3.17,6.26,4.46,9.53,1.86,4.7,1.91,9.9,1.93,14.95a49.47,49.47,0,0,1-.92,12c-.6,2.47-1.58,4.82-2.3,7.26a35.5,35.5,0,0,0-1.34,12.8,5.24,5.24,0,0,0,.72,2.65,5.75,5.75,0,0,0,2.56,1.74c2.93,1.29,6,2.61,9.2,2.31a3.37,3.37,0,0,0,1.83-.61,4.07,4.07,0,0,0,.9-1.19l2-3.38c1.81-3.09,3.7-6.55,3-10.08a20,20,0,0,0-2.27-5.17,60.78,60.78,0,0,1-3.26-8.07c-3.19-9.17-6.42-18.47-7.14-28.15a24.74,24.74,0,0,1,1.2-10.92,31.1,31.1,0,0,1,3.52-6.09,2.61,2.61,0,0,0-2.81-.95,16.72,16.72,0,0,0-2.91,1.21c-2.94,1.24-6.2.79-9.17-.06-1.16-.34-3-1.5-4.2-1.42C410.14,242.57,406.79,244.71,406.72,244.59Z",
+              transform: "translate(-53 -70)",
+              fill: e.imageHighlight,
+            }),
+            r.a.createElement("path", {
+              d:
+                "M430.13,244.48c-.6-.48-1.53-.92-2.06-.36a2.32,2.32,0,0,0-.38.81c-.52,1.4-2.05,2.09-3.44,2.63s-2.89.84-3.73-.19a2.26,2.26,0,0,1,.13-2.67,8.16,8.16,0,0,1,2.19-1.85,21.38,21.38,0,0,0,8.72-13.72,6.52,6.52,0,0,1,2.39,4.13c.33,1.59.37,3.23.7,4.82.49,2.28,1.58,4.41,1.83,6.72.13,1.23,0,2.47,0,3.7a22.71,22.71,0,0,0,.42,3.58C434.56,249.6,432.91,246.69,430.13,244.48Z",
+              transform: "translate(-53 -70)",
+              fill: "#f2f2f2",
+            }),
+            r.a.createElement("path", {
+              d:
+                "M409.89,237.69c-1-.95-2-1.85-3-2.82a38.9,38.9,0,0,1-9.67-15.35c-1.28,1-2.69,2.32-2.72,4a6.13,6.13,0,0,0,1.32,3.25,50.68,50.68,0,0,1,7.33,19.61,5.84,5.84,0,0,1,5.05-2.69c1.58,0,8.67,4.2,9.18,3.14C418.13,245.17,411.09,238.82,409.89,237.69Z",
+              transform: "translate(-53 -70)",
+              fill: "#f2f2f2",
+            }),
+            r.a.createElement("path", {
+              d:
+                "M432.22,229.73a83,83,0,0,0,33.58,20.33,7.54,7.54,0,0,1,3.39,1.72,6.93,6.93,0,0,1,1.41,3.1c2.44,9.54,3.26,19.41,4.07,29.22a16.28,16.28,0,0,1-.1,4.88c-.59,2.62-2.45,4.74-4.28,6.71-5.74,6.15-12.29,12.58-13.26,20.94a33.45,33.45,0,0,1-.57,4.8c-.5,1.86-1.61,3.5-2.29,5.31-3.34,8.91,4.21,19.7-.39,28A50.54,50.54,0,0,1,458.84,370a19.86,19.86,0,0,0,1.37,5.88c1.37,2.86,4.19,4.68,6.41,7,6.77,6.94,7.6,17.56,8,27.25.25,5.46.17,11.73-4,15.31-2.41,2.09-5.7,2.77-8.85,3.29-4.19.7-8.75,1.2-12.46-.87-2.66-1.48-4.47-4.07-6.2-6.57-3.28-4.77-6.57-9.53-9.68-14.42-4.92-7.71-9.56-16.52-8.14-25.56-.4,9.25-2.35,18.57-6.89,26.63s-11.85,14.79-20.72,17.45-19.24.78-25.85-5.7a34.94,34.94,0,0,1-5.51-7.43,72.52,72.52,0,0,1-8.14-20.71c-.43-1.89-.75-4,.2-5.69.45-.8,1.14-1.43,1.61-2.22,1.58-2.69.06-6.08-1.47-8.82-2.33.22-4-2.52-3.79-4.86s1.61-4.37,2.6-6.5c2.9-6.28,2.26-13.59.86-20.36s-3.49-13.5-3.33-20.41c.17-7.31-5.09-13.89-9.1-20-2.24-3.44-4.85-6.64-6.8-10.25a33.07,33.07,0,0,1-2.62-24.76,64.89,64.89,0,0,1,5.48-12.22l3.3-6.19a10.21,10.21,0,0,1,7-6l22.83-9a34.35,34.35,0,0,0,8.24-4.12c2.79-2.1,4.87-5,7.53-7.24a4.22,4.22,0,0,1,3-1.31c2.14.19,2.9,2.89,3.12,5,.5,4.72,4,8.72,5.19,13.31,6.44,25.35,20.07,48.73,23.81,74.61,4.2-10.09,8.4-20.2,13.78-29.7a24.66,24.66,0,0,0,2.13-4.31,18.4,18.4,0,0,0,.71-6.69c-.27-6.51-2-12.87-3.71-19.16C436.53,246.1,434.53,238.21,432.22,229.73Z",
+              transform: "translate(-53 -70)",
+              fill: e.text,
+            }),
+            r.a.createElement("path", {
+              d:
+                "M475.73,307.19c.44,4.26.87,8.53,1.66,12.74.92,4.87,2.32,9.63,3.71,14.39a37.45,37.45,0,0,0,2.9,7.73,9.94,9.94,0,0,1,1.07,2.29c.49,2-.63,4-1.11,6-1.44,6,2.88,12.67.16,18.2-.82,1.68-2.25,3.07-2.79,4.87-.63,2.07,0,4.28.33,6.42.85,6-1.2,12.1-3.22,17.87L475,407.44c-3.14-5.84-6.31-11.74-10.65-16.75-1.55-1.8-3.24-3.47-4.67-5.37a37.66,37.66,0,0,1-5-9.74,84.43,84.43,0,0,1-5.17-25.72,17.59,17.59,0,0,1,.85-7.4,39.36,39.36,0,0,1,2.22-4c2.68-4.83,3.23-10.55,3.18-16.07s-.64-11.06,0-16.55a37.86,37.86,0,0,1,4-13.13,18.63,18.63,0,0,1,5.43-6.77,9.78,9.78,0,0,1,6-1.95c3.27.19,2.52,3,2.8,5.71Z",
+              transform: "translate(-53 -70)",
+              fill: e.text,
+            }),
+            r.a.createElement("path", {
+              d:
+                "M328.64,293.58q-3.06,9-5.52,18.16-2.4,9-4.29,18.1a38.76,38.76,0,0,0-1.08,8.14,36.42,36.42,0,0,0,1.63,9.41c6.44,23.21,18.18,44.62,31.4,64.75A58.28,58.28,0,0,1,364.08,400a2.85,2.85,0,0,0,1-1,2.71,2.71,0,0,0-.32-2.34c-3.65-7.48-9.43-14.07-11.25-22.2-.76-3.38-.79-6.9-1.65-10.26-1.11-4.35-3.59-8.33-4.16-12.79-.61-4.86,1-10.16-1.28-14.47,4.65-1.81,7.34-6.6,9.31-11.19a61.29,61.29,0,0,0,4.48-14.71,44.26,44.26,0,0,0-5.41-28.15,45,45,0,0,0-9.05-11.36c-1.19-1.07-4-4.14-5.73-4.11-2.31.05-3.05,3.79-3.71,5.47C333.64,279.75,331,286.62,328.64,293.58Z",
+              transform: "translate(-53 -70)",
+              fill: e.text,
+            }),
+            r.a.createElement("path", {
+              d:
+                "M370.06,405.51c.3.22.64.52.56.88s-.37.45-.63.6a7.76,7.76,0,0,0-2.88,3.9,108.85,108.85,0,0,0-4.34,11.49,50.37,50.37,0,0,0-7.84-9.15c-2.28-2.1-4.83-4.09-6.05-6.93,0-.08,5.24-3.95,5.72-4.37,1.47-1.31,3.32-4.94,4.84-5.74,1.72-.9,3.36,2.63,4.67,4.05A39.72,39.72,0,0,0,370.06,405.51Z",
+              transform: "translate(-53 -70)",
+              fill: "#fbbebe",
+            }),
+            r.a.createElement("path", {
+              d:
+                "M451.38,189.15c-.07-1.31-.24-2.76-1.24-3.61a4.73,4.73,0,0,0-3-.83c-5.83-.19-11.86.79-17.36-1.17-3.62-1.29-6.71-3.77-10.24-5.31s-8.05-1.95-10.9.64c-2.16,2-2.75,5.07-3.5,7.9a46.32,46.32,0,0,1-8.63,17.12c-2.71-.84-4.65-3.26-5.9-5.8-4.25-8.66-2.16-19,.86-28.18,1-3.08,2.11-6.13,3.22-9.17l2.44-6.72a13.12,13.12,0,0,0,8.36-4.16l1.05,2.55a13.3,13.3,0,0,0,7.5-2.65c.84,1.58,3,2,4.75,1.49s3.26-1.49,5-2c4.65-1.5,9.61.81,14.49,1.07a58,58,0,0,1,6.19.18c5.76.93,9.83,6.35,11.59,11.91,1.17,3.7,2.14,8.25,5.79,9.56.08,1.4-2.4,1.67-2.61,3a2.3,2.3,0,0,0,.3,1.27l3.35,7.19a8.32,8.32,0,0,1-4.84-.24C456.54,186.74,451.53,191.86,451.38,189.15Z",
+              transform: "translate(-53 -70)",
+              fill: e.dark,
+            }),
+            r.a.createElement("path", {
+              d:
+                "M621.14,204.8a131.36,131.36,0,0,1,4,16.73c.72,4.24,1.14,8.95-1.29,12.49,9.26-13.93,18.93-28.28,33-37.27A30.13,30.13,0,0,1,649,173.51c.08-.84-11.55,3.55-12.44,4.05-4.08,2.27-7.82,5.09-11.8,7.52-2.06,1.25-10.64,4.21-10.72,6,0,1.15,3.41,4.67,4.05,5.88A45.67,45.67,0,0,1,621.14,204.8Z",
+              transform: "translate(-53 -70)",
+              fill: "#fbbebe",
+            }),
+            r.a.createElement("path", {
+              d:
+                "M664.17,730.18a15.5,15.5,0,0,0-15.84-1.2c-4.53,2.34-7.58,6.77-11.7,9.77-7.08,5.14-16.43,5.55-24.72,8.33-2.2.74-4.54,1.84-5.47,4a7.1,7.1,0,0,0,.41,5.57,14.42,14.42,0,0,0,6.86,7.07c3.72,1.78,8,1.86,12.12,1.91l35.8.42c11,.13,22.07.26,33,1.63,2.55.32,5.31.67,7.56-.58,3.66-2,4.08-7.06,3.8-11.23a103.07,103.07,0,0,0-7-30.8c-.43-1.09-1-2.33-2.21-2.53a3.6,3.6,0,0,0-2.38.76c-10.1,6-22.89,9.39-33.63,4.59",
+              transform: "translate(-53 -70)",
+              fill: "#fff",
+            }),
+            r.a.createElement("path", {
+              d:
+                "M682.09,501.78c-4,23.23-1.39,47.1,3.11,70.23a122.46,122.46,0,0,0,3.27,13.64c1.61,5.1,3.78,10,5.29,15.13,3.84,13,3.3,26.9,2.73,40.47L693.87,703c-.22,5.18-.42,10.48,1.14,15.42.63,2,1.4,4.5-.19,5.85a4.46,4.46,0,0,1-2.11.81,32.66,32.66,0,0,1-21-3.15L671,659.55c-.22-19.23-.45-38.54-3.41-57.53-2.35-15.1-6.43-30-6.7-45.28-.28-16,3.64-31.79,7.64-47.3.86-3.32,4-5.75,6.58-8a8.09,8.09,0,0,1,3.2-1.94C679.51,499.17,681.35,500.77,682.09,501.78Z",
+              transform: "translate(-53 -70)",
+              fill: e.text,
+            }),
+            r.a.createElement("path", {
+              d:
+                "M682.09,501.78c-4,23.23-1.39,47.1,3.11,70.23a122.46,122.46,0,0,0,3.27,13.64c1.61,5.1,3.78,10,5.29,15.13,3.84,13,3.3,26.9,2.73,40.47L693.87,703c-.22,5.18-.42,10.48,1.14,15.42.63,2,1.4,4.5-.19,5.85a4.46,4.46,0,0,1-2.11.81,32.66,32.66,0,0,1-21-3.15L671,659.55c-.22-19.23-.45-38.54-3.41-57.53-2.35-15.1-6.43-30-6.7-45.28-.28-16,3.64-31.79,7.64-47.3.86-3.32,4-5.75,6.58-8a8.09,8.09,0,0,1,3.2-1.94C679.51,499.17,681.35,500.77,682.09,501.78Z",
+              transform: "translate(-53 -70)",
+              opacity: "0.1",
+            }),
+            r.a.createElement("path", {
+              d:
+                "M607,429.18c-1.48,6.09,1.66,12.4,1.31,18.66-.2,3.79-1.69,7.57-1,11.29s3.35,6.52,4.77,9.93a26.94,26.94,0,0,1,1.62,8.88c.41,7.48.08,15-.2,22.45-.47,12.5-.82,25.07.83,37.46A117.19,117.19,0,0,0,623,569a54,54,0,0,1,3.23,8.39,59.88,59.88,0,0,1,1.1,8.14,82.7,82.7,0,0,0,7.07,25.71c2.55,5.57,7,10,8.41,15.91,1.34,5.66.44,11.63,1.41,17.36.71,4.25,2.44,8.27,3.4,12.47,1.25,5.43,1.22,11.06,1.85,16.6,1.8,16,9.07,32,4.73,47.52-.87,3.12-2.22,6.29-1.61,9.47.3,1.56,1.06,3.1.72,4.65-.28,1.32-1.3,2.34-1.82,3.59-1,2.34.06,5.12,1.84,6.93a19.69,19.69,0,0,0,6.5,3.84c7.37,3.15,15,6.35,23,6.28a6.18,6.18,0,0,0,2.83-.52c1.44-.75,2.15-2.38,2.76-3.88l4.1-10.14c.5-1.23,1-2.67.31-3.81a7.1,7.1,0,0,0-1.72-1.6c-3.31-2.79-2.56-8-1.68-12.19a177.87,177.87,0,0,0,3.72-32.7c.44-21.92-3.17-43.71-6.77-65.34-1.25-7.51-2.51-15.07-5-22.27s-6.16-14.13-5.56-21.61c.64-8.08-1.46-16.55,0-24.52s3.77-15.77,5.26-23.73c1.93-10.33,2.41-20.86,3-31.34.25-4.28.57-8.7,2.57-12.5,1.17-2.22,2.87-4.12,4.18-6.27,3.38-5.59,3.92-12.52,7.15-18.2,1.53-2.69,3.64-5.06,4.76-7.94a22.19,22.19,0,0,0,1.22-7.06,84,84,0,0,0-1-18.05,117.45,117.45,0,0,0-55-12.76c-7.31.12-14.7.86-21.56,3.39C619.86,425.25,613.9,428.66,607,429.18Z",
+              transform: "translate(-53 -70)",
+              fill: e.text,
+            }),
+            r.a.createElement("path", {
+              d:
+                "M648,746c-2.94,3.66-2.74,8.89-4.62,13.2-2.28,5.23-7.36,8.58-12.18,11.63l-30,19c-1.64,1-3.4,2.23-4,4.09a6.56,6.56,0,0,0,.15,3.59,15.58,15.58,0,0,0,10.48,10.64,31,31,0,0,0,8.11.83l13.49.18a79,79,0,0,0,12.31-.48c3.74-.54,7.38-1.61,11.1-2.29,6.77-1.23,13.73-1.12,20.51-2.31a108.46,108.46,0,0,0,12.28-3.17c4.9-1.47,9.89-3,14.09-5.91a7.31,7.31,0,0,0,2.71-2.92c.71-1.65.32-3.54-.08-5.29l-6.44-28.3a16.87,16.87,0,0,0-2.52-6.61c-1.43-1.9-4-3.16-6.23-2.35a13.21,13.21,0,0,0-2.59,1.56c-3.3,2.17-7.53,2.53-11.43,1.85-2.52-.45-5.85-1.14-7.88-2.81-1.54-1.27-2-3.24-3.31-4.68A9.39,9.39,0,0,0,648,746Z",
+              transform: "translate(-53 -70)",
+              fill: "#fff",
+            }),
+            r.a.createElement("circle", {
+              cx: "575.55",
+              cy: "94.77",
+              r: "36.13",
+              fill: "#fbbebe",
+            }),
+            r.a.createElement("path", {
+              d:
+                "M600.68,166.89c3.46-1.94,3.46-7.53,7-9.39s7.56,1.37,9.83,4.63A42.59,42.59,0,0,1,624.26,178c.32,1.62.62,3.39,1.84,4.52s2.82,1.27,4.38,1.43q6.85.68,13.72,1.24c5.1.41,10.48.74,15.11-1.45a11,11,0,0,0,4.54-3.76,16.92,16.92,0,0,0,1.94-5.08c2.39-9.09,4.8-18.29,5-27.69.08-3.88-.26-7.9-2.13-11.3-1.09-2-2.69-3.74-3.14-5.94s1-5,3.28-4.76a13.46,13.46,0,0,1-6-1.14c-1.81-1-3.15-3.15-2.51-5.11-5.08.65-8.78-4.37-12.74-7.62a3.45,3.45,0,0,0-2.42-1,8.73,8.73,0,0,0-2,.77c-2,.7-4.09-.63-6.14-1.21-5.5-1.54-12.49,2.18-16.57-1.82.39,2.55-2.74,4.26-5.32,4.21s-5.24-1-7.68-.14a5,5,0,0,1-2.86,7.16l1.21,2.64a6.82,6.82,0,0,0-5.25,4.92c-1.33,5.25-1,12.71-.68,18.11C600,147.35,602.31,166,600.68,166.89Z",
+              transform: "translate(-53 -70)",
+              fill: e.dark,
+            }),
+            r.a.createElement("path", {
+              d:
+                "M631.51,211.34c-18.15,20.41-22.77,49.14-26.64,76.19l-5.7,39.94c-1.48,10.36-3,20.72-4.29,31.11-.9,7.11-1.74,14.33-.76,21.43.77,5.6,2.64,11,4.2,16.39a154.56,154.56,0,0,1,6,43.49c1.21-3.56,5.4-5,9.08-5.8a146.82,146.82,0,0,1,91.86,9.81c5.05-14.15,4.1-29.63,5.51-44.59,2-21.33,8.89-42,10.93-63.29.75-7.93.84-15.9.92-23.87.06-5.85.12-11.76-1.1-17.49-1.36-6.34-4.23-12.25-7.2-18A469.1,469.1,0,0,0,687,230.24q-7.54-11.28-15.73-22.11-4.15-5.49-8.47-10.86c-2.79-3.47-4-6.48-8.43-4.4C646,196.79,637.6,204.49,631.51,211.34Z",
+              transform: "translate(-53 -70)",
+              fill: e.imageHighlight,
+            }),
+            r.a.createElement("path", {
+              d:
+                "M641.91,381.22a98,98,0,0,1-13.27-.42c-3.27-.32-6.61-.8-9.8,0a10.2,10.2,0,0,0-3.81,1.87,2.87,2.87,0,0,0,1.63,5l3.42.3c2.17.19,4.43.41,6.12,2a3.82,3.82,0,0,1,1.24,2.41c.21,2.33-1.81,3.6-3.62,4.57a28.69,28.69,0,0,0-7.06,4.7,9.78,9.78,0,0,0-2.93,6,1.16,1.16,0,0,0,1.7,1.07c4-2,6.61-7.93,11-6.94a17.82,17.82,0,0,0-9.66,7.43,4.48,4.48,0,0,0,6,6.33,19.78,19.78,0,0,0,1.88-1.25,46.21,46.21,0,0,0,7.93-8.24c-3.2,6.75-6.44,14.65-2.76,21.36a2.13,2.13,0,0,0,2,1.18c1.16-.12,1.5-1.21,1.69-2.17.6-3.09.75-6.35,2.27-9.1,3.52-6.38,12.2-7,18.81-10.11,7.93-3.68,13.36-11.6,15.55-20.06a15.42,15.42,0,0,0,.39-7.62c-1.47-5.69-8.49-7-13-4.25C652.1,378.79,648.89,381,641.91,381.22Z",
+              transform: "translate(-53 -70)",
+              fill: "#fbbebe",
+            }),
+            r.a.createElement("path", {
+              d:
+                "M634.89,269.29c7,10.81,19.15,16.9,29.57,24.49A24.79,24.79,0,0,1,671,300c2.63,4.06,3,9.22,2.46,14-.68,6.31-2.71,12.38-4.72,18.4l-4.37,13.05c-2.77,8.28-5.63,16.73-10.9,23.69-1.35,1.77-2.92,3.66-2.86,5.88a7.6,7.6,0,0,0,1.28,3.58,24.08,24.08,0,0,0,15.29,10.92,11.66,11.66,0,0,0,5.75,0c2.7-.8,4.73-3,6.61-5.08,9-9.93,18-20,24.5-31.65,6.35-11.37,10.15-24,13.65-36.51a76.86,76.86,0,0,0,3-14.13c.74-9-1.62-18-5.48-26.13s-9.17-15.49-14.64-22.64a157.58,157.58,0,0,0-17.15-19.68c-10.88-10.17-24.19-16.15-38.75-10.38-10.28,4.08-14.13,12.59-15.05,23.49A35.74,35.74,0,0,0,634.89,269.29Z",
+              transform: "translate(-53 -70)",
+              opacity: "0.1",
+            }),
+            r.a.createElement("path", {
+              d:
+                "M638.53,266.55c7,10.81,19.16,16.9,29.57,24.49a24.87,24.87,0,0,1,6.51,6.26c2.63,4.06,3,9.21,2.46,14-.69,6.31-2.71,12.38-4.73,18.4l-4.37,13c-2.77,8.28-5.63,16.72-10.9,23.69-1.34,1.77-2.91,3.65-2.85,5.88a7.42,7.42,0,0,0,1.28,3.57,24.07,24.07,0,0,0,15.28,10.93,11.7,11.7,0,0,0,5.76,0c2.7-.79,4.72-3,6.61-5.07,9-9.94,18-20,24.5-31.65,6.35-11.37,10.15-24,13.65-36.52a76.08,76.08,0,0,0,3-14.12c.74-9-1.62-18-5.47-26.14s-9.17-15.49-14.64-22.64A157.65,157.65,0,0,0,687,231.06c-10.87-10.16-24.18-16.15-38.74-10.37-10.29,4.08-14.13,12.58-15.06,23.49A35.77,35.77,0,0,0,638.53,266.55Z",
+              transform: "translate(-53 -70)",
+              fill: e.imageHighlight,
+            }),
+            r.a.createElement("path", {
+              d:
+                "M859.65,625.24a37,37,0,0,1-.8,7.76c-.1.48-.21,1-.32,1.41-2.84,11.39-10.85,19.72-20.41,20.25-.32,0-.64,0-1,0-10.11,0-18.66-8.72-21.48-20.73-.08-.32-.15-.64-.22-1a37,37,0,0,1-.8-7.76c0-16.27,10.07-29.45,22.5-29.45S859.65,609,859.65,625.24Z",
+              transform: "translate(-53 -70)",
+              fill: e.text,
+            }),
+            r.a.createElement("path", {
+              d:
+                "M859.65,625.24a37,37,0,0,1-.8,7.76c-.1.48-.21,1-.32,1.41-.34,0-.67,0-1,0a45.76,45.76,0,0,1-7.36-1,44.92,44.92,0,0,1-6.56,1.5,45.87,45.87,0,0,1-5.14.48l-1.74,0a46.41,46.41,0,0,1-6.16-.41,45.17,45.17,0,0,1-9.67-2.4,45.56,45.56,0,0,1-5.22,1.4c-.08-.32-.15-.64-.22-1a37,37,0,0,1-.8-7.76c0-16.27,10.07-29.45,22.5-29.45S859.65,609,859.65,625.24Z",
+              transform: "translate(-53 -70)",
+              opacity: "0.1",
+            }),
+            r.a.createElement("path", {
+              d:
+                "M907.65,570.38a45.54,45.54,0,0,0-4.9-20.61L876.29,558l23.23-13.66a45.73,45.73,0,0,0-34.36-19.58,45.65,45.65,0,0,0-3.57-4.72l-38,11.83,31.17-18.33a45.73,45.73,0,0,0-72,24.39l32.55,37.47L780,549.86a45.74,45.74,0,0,0,40.93,80.7,45.92,45.92,0,0,0,29.28.81,45.78,45.78,0,0,0,55.62-44.66c0-1,0-2-.1-3A45.63,45.63,0,0,0,907.65,570.38Z",
+              transform: "translate(-53 -70)",
+              fill: e.imageHighlight,
+            }),
+            r.a.createElement("path", {
+              d:
+                "M906.86,578.86a121.9,121.9,0,0,0-42.34-.54c-15.89,2.63-32.13,8.41-47.67,4.19-9.12-2.48-17-8.22-25.91-11.41a49.18,49.18,0,0,0-26.75-1.6,45.76,45.76,0,0,0,56.69,61.06,45.92,45.92,0,0,0,29.28.81,45.78,45.78,0,0,0,55.62-44.66c0-1,0-2-.1-3A45.19,45.19,0,0,0,906.86,578.86Z",
+              transform: "translate(-53 -70)",
+              opacity: "0.1",
+            })
+          );
+        }
+      }
+      class Le extends l.Component {
+        render() {
+          const e = this.props.theme;
+          return r.a.createElement(
+            "div",
+            { className: "experience-main" },
+            r.a.createElement(j, { theme: e }),
+            r.a.createElement(
+              "div",
+              { className: "basic-experience" },
+              r.a.createElement(
+                C.Fade,
+                { bottom: !0, duration: 2e3, distance: "40px" },
+                r.a.createElement(
+                  "div",
+                  { className: "experience-heading-div" },
+                  r.a.createElement(
+                    "div",
+                    { className: "experience-heading-img-div" },
+                    r.a.createElement(Ue, { theme: e })
+                  ),
+                  r.a.createElement(
+                    "div",
+                    { className: "experience-heading-text-div" },
+                    r.a.createElement(
+                      "h1",
+                      {
+                        className: "experience-heading-text",
+                        style: { color: e.text },
+                      },
+                      x.title
+                    ),
+                    r.a.createElement(
+                      "h3",
+                      {
+                        className: "experience-heading-sub-text",
+                        style: { color: e.text },
+                      },
+                      x.subtitle
+                    ),
+                    r.a.createElement(
+                      "p",
+                      {
+                        className: "experience-header-detail-text subTitle",
+                        style: { color: e.secondaryText },
+                      },
+                      x.description
+                    )
+                  )
+                )
+              )
+            ),
+            r.a.createElement(De, { sections: x.sections, theme: e }),
+            r.a.createElement(ee, {
+              theme: this.props.theme,
+              onToggle: this.props.onToggle,
+            }),
+            r.a.createElement(te, { theme: this.props.theme })
+          );
+        }
+      }
+      var Oe = Le,
+        ze = a(41),
+        Ge = (a(286), a(25));
+      class Ve extends l.Component {
+        render() {
+          const e = {
+            labels: ["Open", "Merged", "Closed"],
+            datasets: [
+              {
+                data: [Ge.open, Ge.merged, Ge.closed],
+                backgroundColor: ["#28a745", "#6f42c1", "#d73a49"],
+                hoverBackgroundColor: ["#28a745dd", "#6f42c1dd", "#d73a49dd"],
+              },
+            ],
+          };
+          return r.a.createElement(
+            "div",
+            { className: "pr-chart" },
+            r.a.createElement(
+              C.Fade,
+              { bottom: !0, duration: 2e3, distance: "20px" },
+              r.a.createElement(
+                "h2",
+                { className: "pr-chart-header" },
+                "Pull Request Distribution"
+              )
+            ),
+            r.a.createElement(ze.Doughnut, {
+              data: e,
+              options: {
+                padding: "0",
+                margin: "0",
+                responsive: !0,
+                maintainAspectRatio: !0,
+                animation: { duration: 4e3 },
+              },
+            })
+          );
+        }
+      }
+      var Qe = Ve,
+        Fe = (a(287), a(31));
+      class Pe extends l.Component {
+        render() {
+          const e = {
+            labels: ["Open", "Closed"],
+            datasets: [
+              {
+                data: [Fe.open, Fe.closed],
+                backgroundColor: ["#28a745", "#d73a49"],
+                hoverBackgroundColor: ["#28a745dd", "#d73a49dd"],
+              },
+            ],
+          };
+          return r.a.createElement(
+            "div",
+            { className: "issue-chart" },
+            r.a.createElement(
+              C.Fade,
+              { bottom: !0, duration: 2e3, distance: "20px" },
+              r.a.createElement(
+                "h2",
+                { className: "issue-chart-header" },
+                "Issue Distribution"
+              )
+            ),
+            r.a.createElement(ze.Doughnut, {
+              data: e,
+              options: {
+                margin: "0",
+                padding: "0",
+                responsive: !0,
+                maintainAspectRatio: !0,
+                animation: { duration: 4e3 },
+              },
+            })
+          );
+        }
+      }
+      var Te = Pe;
+      a(288);
+      class Je extends l.Component {
+        render() {
+          const e = this.props.theme;
+          return r.a.createElement(
+            "div",
+            { className: "main-div" },
+            r.a.createElement(
+              "div",
+              { className: "os-charts-header-div" },
+              r.a.createElement(
+                C.Fade,
+                { bottom: !0, duration: 2e3, distance: "20px" },
+                r.a.createElement(
+                  "h1",
+                  { className: "os-charts-header", style: { color: e.text } },
+                  "Contributions"
+                )
+              )
+            ),
+            r.a.createElement(
+              "div",
+              { className: "os-charts-body-div" },
+              r.a.createElement(Qe, null),
+              r.a.createElement(Te, null)
+            )
+          );
+        }
+      }
+      var qe = Je;
+      a(289), a(290);
+      class Xe extends l.Component {
+        render() {
+          return r.a.createElement(
+            "div",
+            { className: "organizations-main-div" },
+            r.a.createElement(
+              "ul",
+              { className: "dev-icons-orgs" },
+              this.props.logos.map((e) =>
+                r.a.createElement(
+                  Q.a,
+                  {
+                    key: e.login,
+                    placement: "top",
+                    style: { marginBottom: "5px" },
+                    overlay: r.a.createElement(
+                      F.a,
+                      { id: "tooltip-top" },
+                      r.a.createElement("strong", null, e.login)
+                    ),
+                  },
+                  r.a.createElement(
+                    "li",
+                    { className: "organizations-inline", name: e.login },
+                    r.a.createElement(
+                      C.Fade,
+                      { bottom: !0, duration: 2e3, distance: "40px" },
+                      r.a.createElement("img", {
+                        className: "organizations-img",
+                        src: e.avatarUrl,
+                        alt: e.login,
+                      })
+                    )
+                  )
+                )
+              )
+            )
+          );
+        }
+      }
+      var We = Xe,
+        Ye = a(91);
+      class Ke extends l.Component {
+        render() {
+          const e = this.props.theme;
+          return r.a.createElement(
+            "div",
+            { id: "organizations" },
+            r.a.createElement(
+              "div",
+              { className: "organizations-header-div" },
+              r.a.createElement(
+                C.Fade,
+                { bottom: !0, duration: 2e3, distance: "20px" },
+                r.a.createElement(
+                  "h1",
+                  {
+                    className: "organizations-header",
+                    style: { color: e.text },
+                  },
+                  "Contributed Organizations"
+                )
+              )
+            ),
+            r.a.createElement(We, { logos: Ye.data })
+          );
+        }
+      }
+      var _e = Ke;
+      a(291), a(292);
+      class $e extends l.Component {
+        render() {
+          const e = this.props.pullRequest;
+          var t, a;
+          "OPEN" === e.state
+            ? ((t = {
+                iconifyClass: "octicon:git-pull-request",
+                style: { color: "#28a745" },
+              }),
+              (a = "#dcffe4"))
+            : "MERGED" === e.state
+            ? ((t = {
+                iconifyClass: "octicon:git-merge",
+                style: { color: "#6f42c1" },
+              }),
+              (a = "#f5f0ff"))
+            : ((t = {
+                iconifyClass: "octicon:git-pull-request",
+                style: { color: "#d73a49" },
+              }),
+              (a = "#ffdce0"));
+          var l,
+            n = "#" + e.number + " opened on " + e.createdAt.split("T")[0];
+          if (null !== e.mergedBy) {
+            const t = e.mergedBy.login;
+            l = r.a.createElement(
+              Q.a,
+              {
+                key: t,
+                placement: "top",
+                style: { marginBottom: "5px" },
+                overlay: r.a.createElement(
+                  F.a,
+                  { id: "tooltip-top" },
+                  r.a.createElement("strong", null, "Merged by ".concat(t))
+                ),
+              },
+              r.a.createElement(
+                "a",
+                {
+                  href: e.mergedBy.url,
+                  target: "_blank",
+                  rel: "noopener noreferrer",
+                },
+                r.a.createElement("img", {
+                  className: "merge-by-img",
+                  src: e.mergedBy.avatarUrl,
+                  alt: "",
+                })
+              )
+            );
+          } else l = r.a.createElement("noscript", null);
+          return r.a.createElement(
+            C.Fade,
+            { bottom: !0, duration: 2e3, distance: "40px" },
+            r.a.createElement(
+              "div",
+              {
+                className: "pull-request-card",
+                style: {
+                  backgroundColor: a,
+                  border: "1px solid ".concat(t.style.color),
+                },
+              },
+              r.a.createElement(
+                "div",
+                { className: "pr-top" },
+                r.a.createElement(
+                  "div",
+                  { className: "pr-header" },
+                  r.a.createElement("span", {
+                    className: "iconify pr-icons",
+                    "data-icon": t.iconifyClass,
+                    style: t.style,
+                    "data-inline": "false",
+                  }),
+                  r.a.createElement(
+                    "div",
+                    { className: "pr-title-header" },
+                    r.a.createElement(
+                      "p",
+                      { className: "pr-title" },
+                      r.a.createElement(
+                        "a",
+                        {
+                          href: e.url,
+                          target: "_blank",
+                          rel: "noopener noreferrer",
+                        },
+                        e.title
+                      )
+                    ),
+                    r.a.createElement("p", { className: "pr-subtitle" }, n)
+                  )
+                ),
+                r.a.createElement(
+                  "div",
+                  { className: "files-changed-header" },
+                  r.a.createElement(
+                    "p",
+                    {
+                      className: "files-changed-text",
+                      style: { backgroundColor: t.style.color },
+                    },
+                    e.changedFiles
+                  ),
+                  r.a.createElement(
+                    "p",
+                    { className: "files-changed-text-2" },
+                    "Files Changed"
+                  )
+                )
+              ),
+              r.a.createElement(
+                "div",
+                { className: "pr-down" },
+                r.a.createElement(
+                  "div",
+                  { className: "changes-repo" },
+                  r.a.createElement(
+                    "p",
+                    { className: "parent-repo" },
+                    "Repository:",
+                    " ",
+                    r.a.createElement(
+                      "a",
+                      {
+                        style: { color: t.style.color },
+                        href: e.baseRepository.url,
+                      },
+                      e.baseRepository.owner.login,
+                      "/",
+                      e.baseRepository.name
+                    )
+                  ),
+                  r.a.createElement(
+                    "div",
+                    { className: "changes-files" },
+                    r.a.createElement(
+                      "p",
+                      { className: "additions-files" },
+                      r.a.createElement("strong", null, e.additions, " + ")
+                    ),
+                    r.a.createElement(
+                      "p",
+                      { className: "deletions-files" },
+                      r.a.createElement("strong", null, e.deletions, " - ")
+                    ),
+                    l
+                  )
+                ),
+                r.a.createElement(
+                  "div",
+                  { className: "owner-img-div" },
+                  r.a.createElement(
+                    "a",
+                    {
+                      href: e.baseRepository.owner.url,
+                      target: "_blank",
+                      rel: "noopener noreferrer",
+                    },
+                    r.a.createElement("img", {
+                      className: "owner-img",
+                      src: e.baseRepository.owner.avatarUrl,
+                      alt: "",
+                    })
+                  )
+                )
+              )
+            )
+          );
+        }
+      }
+      var et = $e;
+      class tt extends l.Component {
+        render() {
+          const e = this.props.theme;
+          return r.a.createElement(
+            "div",
+            null,
+            r.a.createElement(
+              "div",
+              { className: "pull-requests-header-div" },
+              r.a.createElement(
+                C.Fade,
+                { bottom: !0, duration: 2e3, distance: "20px" },
+                r.a.createElement(
+                  "h1",
+                  {
+                    className: "pull-requests-header",
+                    style: { color: e.text },
+                  },
+                  "Pull Requests"
+                )
+              )
+            ),
+            r.a.createElement(
+              "div",
+              { className: "pull-request-body-div" },
+              Ge.data.map((e) => r.a.createElement(et, { pullRequest: e }))
+            )
+          );
+        }
+      }
+      var at = tt;
+      a(293), a(294);
+      class lt extends l.Component {
+        render() {
+          const e = this.props.issue;
+          var t, a;
+          !1 === e.closed
+            ? ((t = {
+                iconifyClass: "octicon:issue-opened",
+                style: { color: "#28a745" },
+              }),
+              (a = "#dcffe4"))
+            : ((t = {
+                iconifyClass: "octicon:issue-closed",
+                style: { color: "#d73a49" },
+              }),
+              (a = "#ffdce0"));
+          var l,
+            n = "#" + e.number + " opened on " + e.createdAt.split("T")[0];
+          if (e.assignees.nodes.length > 0) {
+            const t = e.assignees.nodes[0].name;
+            l = r.a.createElement(
+              Q.a,
+              {
+                key: t,
+                placement: "top",
+                style: { marginBottom: "5px" },
+                overlay: r.a.createElement(
+                  F.a,
+                  { id: "tooltip-top" },
+                  r.a.createElement("strong", null, "Assigned to ".concat(t))
+                ),
+              },
+              r.a.createElement(
+                "a",
+                {
+                  href: e.assignees.nodes[0].url,
+                  target: "_blank",
+                  rel: "noopener noreferrer",
+                },
+                r.a.createElement("img", {
+                  className: "assigned-to-img",
+                  src: e.assignees.nodes[0].avatarUrl,
+                  alt: "",
+                })
+              )
+            );
+          } else l = r.a.createElement("noscript", null);
+          return r.a.createElement(
+            C.Fade,
+            { bottom: !0, duration: 2e3, distance: "40px" },
+            r.a.createElement(
+              "div",
+              {
+                className: "issue-card",
+                style: {
+                  backgroundColor: a,
+                  border: "1px solid ".concat(t.style.color),
+                },
+              },
+              r.a.createElement(
+                "div",
+                { className: "issue-top" },
+                r.a.createElement(
+                  "div",
+                  { className: "issue-header" },
+                  r.a.createElement("span", {
+                    className: "iconify issue-icons",
+                    "data-icon": t.iconifyClass,
+                    style: t.style,
+                    "data-inline": "false",
+                  }),
+                  r.a.createElement(
+                    "div",
+                    { className: "issue-title-header" },
+                    r.a.createElement(
+                      "p",
+                      { className: "issue-title" },
+                      r.a.createElement(
+                        "a",
+                        {
+                          href: e.url,
+                          target: "_blank",
+                          rel: "noopener noreferrer",
+                        },
+                        e.title
+                      )
+                    ),
+                    r.a.createElement("p", { className: "issue-subtitle" }, n)
+                  )
+                )
+              ),
+              r.a.createElement(
+                "div",
+                { className: "issue-down" },
+                r.a.createElement(
+                  "div",
+                  { className: "assignee-repo" },
+                  r.a.createElement(
+                    "p",
+                    { className: "parent-repo" },
+                    "Repository:",
+                    " ",
+                    r.a.createElement(
+                      "a",
+                      {
+                        style: { color: t.style.color },
+                        href: e.repository.url,
+                      },
+                      e.repository.owner.login,
+                      "/",
+                      e.repository.name
+                    )
+                  ),
+                  r.a.createElement("div", { className: "assignee-info" }, l)
+                ),
+                r.a.createElement(
+                  "div",
+                  { className: "owner-img-div" },
+                  r.a.createElement(
+                    "a",
+                    {
+                      href: e.repository.owner.url,
+                      target: "_blank",
+                      rel: "noopener noreferrer",
+                    },
+                    r.a.createElement("img", {
+                      className: "owner-img",
+                      src: e.repository.owner.avatarUrl,
+                      alt: "",
+                    })
+                  )
+                )
+              )
+            )
+          );
+        }
+      }
+      var rt = lt;
+      class nt extends l.Component {
+        render() {
+          const e = this.props.theme;
+          return r.a.createElement(
+            "div",
+            null,
+            r.a.createElement(
+              "div",
+              { className: "issues-header-div" },
+              r.a.createElement(
+                C.Fade,
+                { bottom: !0, duration: 2e3, distance: "20px" },
+                r.a.createElement(
+                  "h1",
+                  { className: "issues-header", style: { color: e.text } },
+                  "Issues"
+                )
+              )
+            ),
+            r.a.createElement(
+              "div",
+              { className: "issues-body-div" },
+              Fe.data.map((e) => r.a.createElement(rt, { issue: e }))
+            )
+          );
+        }
+      }
+      var st = nt;
+      a(295);
+      class it extends l.Component {
+        render() {
+          return r.a.createElement(
+            "div",
+            { className: "opensource-main" },
+            r.a.createElement(j, { theme: this.props.theme }),
+            r.a.createElement(_e, { theme: this.props.theme }),
+            r.a.createElement(qe, { theme: this.props.theme }),
+            r.a.createElement(at, { theme: this.props.theme }),
+            r.a.createElement(st, { theme: this.props.theme }),
+            r.a.createElement(ee, {
+              theme: this.props.theme,
+              onToggle: this.props.onToggle,
+            }),
+            r.a.createElement(te, { theme: this.props.theme })
+          );
+        }
+      }
+      var ct = it;
+      a(296);
+      const ot = w;
+      class mt extends l.Component {
+        render() {
+          const e = this.props.theme;
+          return r.a.createElement(
+            "div",
+            { className: "contact-main" },
+            r.a.createElement(j, { theme: e }),
+            r.a.createElement(
+              "div",
+              { className: "basic-contact" },
+              r.a.createElement(
+                C.Fade,
+                { bottom: !0, duration: 1e3, distance: "40px" },
+                r.a.createElement(
+                  "div",
+                  { className: "contact-heading-div" },
+                  r.a.createElement(
+                    "div",
+                    { className: "contact-heading-img-div" },
+                    r.a.createElement("img", {
+                      src: a(32)("./".concat(ot.profile_image_path)),
+                      alt: "",
+                    })
+                  ),
+                  r.a.createElement(
+                    "div",
+                    { className: "contact-heading-text-div" },
+                    r.a.createElement(
+                      "h1",
+                      {
+                        className: "contact-heading-text",
+                        style: { color: e.text },
+                      },
+                      ot.title
+                    ),
+                    r.a.createElement(
+                      "p",
+                      {
+                        className: "contact-header-detail-text subTitle",
+                        style: { color: e.secondaryText },
+                      },
+                      ot.description
+                    ),
+                    r.a.createElement(O, { theme: e }),
+                    r.a.createElement(
+                      "div",
+                      { className: "resume-btn-div" },
+                      r.a.createElement(ne, {
+                        text: "See My Resume",
+                        newTab: !0,
+                        href: f.resumeLink,
+                        theme: e,
+                      })
+                    )
+                  )
+                )
+              )
+            ),
             r.a.createElement(ee, {
               theme: this.props.theme,
               onToggle: this.props.onToggle,
@@ -6819,11 +6792,11 @@
                 render: (e) =>
                   A
                     ? r.a.createElement(
-                        ce,
+                        fe,
                         Object.assign({}, e, { theme: this.props.theme })
                       )
                     : r.a.createElement(
-                        le,
+                        de,
                         Object.assign({}, e, { theme: this.props.theme })
                       ),
               }),
@@ -6831,7 +6804,7 @@
                 path: "/home",
                 render: (e) =>
                   r.a.createElement(
-                    le,
+                    de,
                     Object.assign({}, e, { theme: this.props.theme })
                   ),
               }),
@@ -6840,7 +6813,7 @@
                 exact: !0,
                 render: (e) =>
                   r.a.createElement(
-                    Re,
+                    Oe,
                     Object.assign({}, e, { theme: this.props.theme })
                   ),
               }),
@@ -6848,7 +6821,7 @@
                 path: "/education",
                 render: (e) =>
                   r.a.createElement(
-                    be,
+                    Se,
                     Object.assign({}, e, { theme: this.props.theme })
                   ),
               }),
@@ -6856,7 +6829,7 @@
                 path: "/opensource",
                 render: (e) =>
                   r.a.createElement(
-                    et,
+                    ct,
                     Object.assign({}, e, { theme: this.props.theme })
                   ),
               }),
@@ -6864,7 +6837,7 @@
                 path: "/contact",
                 render: (e) =>
                   r.a.createElement(
-                    rt,
+                    dt,
                     Object.assign({}, e, { theme: this.props.theme })
                   ),
               }),
@@ -6873,7 +6846,7 @@
                   path: "/splash",
                   render: (e) =>
                     r.a.createElement(
-                      ce,
+                      fe,
                       Object.assign({}, e, { theme: this.props.theme })
                     ),
                 }),
@@ -6881,7 +6854,7 @@
                 path: "/projects",
                 render: (e) =>
                   r.a.createElement(
-                    dt,
+                    oe,
                     Object.assign({}, e, { theme: this.props.theme })
                   ),
               }),
@@ -6911,7 +6884,7 @@
         splashBg: "#001C55",
       };
       var pt;
-      const ft = Object(L.b)(
+      const ft = Object(U.b)(
         pt ||
           (pt = Object(D.a)([
             "\n  *,\n  *::after,\n  *::before {\n    box-sizing: border-box;\n  }\n\n  body {\n    align-items: center;\n    background: ",
@@ -6929,7 +6902,7 @@
       );
       var gt = function () {
         return r.a.createElement(
-          L.a,
+          U.a,
           { theme: At },
           r.a.createElement(
             r.a.Fragment,
@@ -6964,4 +6937,4 @@
   ]),
   [[93, 1, 2]],
 ]);
-//# sourceMappingURL=main.117e2bc1.chunk.js.map
+//# sourceMappingURL=main.ed56207b.chunk.js.map
