@@ -41,10 +41,6 @@
       },
       "languages": [
         {
-          "name": "Java",
-          "iconifyClass": "logos-java"
-        },
-        {
           "name": "HTML",
           "iconifyClass": "logos-html-5"
         },
@@ -55,6 +51,10 @@
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
         }
       ]
     },

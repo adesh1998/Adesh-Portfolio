@@ -23,7 +23,7 @@ const greeting = {
   subTitle:
     "A dynamic Software Engineer, fueled by a Master's degree in Computer Science from Clemson University. I excel not only in technical domains like Data Structures and Object-Oriented Programming but also in essential soft skills such as collaboration, communication, and creative problem-solving. My track record speaks of results delivered through a potent blend of expertise and adaptability, making me a valuable asset in any software engineering endeavor.",
   resumeLink:
-    "https://drive.google.com/file/d/1NAdwwaXYg9utsMcT4eqGmRM29WWNBBQo/view?usp=drive_link",
+    "https://drive.google.com/file/d/1QVPlJcru0xlLMzfVpCi31KB1PFIhyg6W/view?usp=sharing",
   portfolio_repository: "https://github.com/adesh1998/Adesh-Portfolio",
   githubProfile: "https://github.com/adesh1998",
 };
@@ -353,13 +353,13 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Python OOP : Four Pillars",
-      subtitle: "- Febin George",
-      logo_path: "Udemy.png",
+      title: "Stripe Certified Professional Developer",
+      subtitle: "-Stripe",
+      logo_path: "stripe.png",
       certificate_link:
-        " https://www.udemy.com/certificate/UC-8fa2cfd3-fdc2-450d-b881-a93a71bc6248/",
-      alt_name: "Udemy ",
-      color_code: "#8C151599",
+        " https://stripecertifications.credential.net/050792d3-7fcf-4d3f-96eb-ceaf31f96004#gs.ee08h4",
+      alt_name: "Stripe ",
+      color_code: "purple",
     },
     // {
     //   title: "Machine Learning",
@@ -493,14 +493,25 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "Frontend Web Developer",
+          company: "Disaster Accountability Project	.",
+          company_url: "http://www.disasteraccountability.org",
+          logo_path: "disaster.jpeg",
+          duration: "May 2024 - Present",
+          location: "Rocksville, MD, USA",
+          description:
+            "As a React Developer, I played a key role in migrating an application from Angular to React with TypeScript, rewriting over 10 components to improve code maintainability. Coordinating closely with the UI/UX design team, I ensured that every component was aligned with Figma designs, mobile-friendly, and accessible with voice-over features. Beyond the basics of React, I advanced my skills by setting up Cypress for end-to-end testing, Prettier for code formatting, and establishing a GitHub workflow to streamline development. This setup achieved 100% test coverage, reducing code review time by 20%. I also deployed a state management system with Redux, optimizing application performance to handle over 200 concurrent user sessions without performance degradation. My work leveraged TypeScript, Cypress, Bootstrap, GraphQL, and Docker, contributing to a smooth migration and enhanced application efficiency.",
+          color: "#000000",
+        },
+        {
           title: "Software Engineer",
           company: "Cognizant Technology Solutions.",
           company_url: "https://www.cognizant.com/us/en",
           logo_path: "Cognizant.png",
           duration: "Nov 2020 - Jun 2022",
-          location: "Pune, Maharashtra, India",
+          location: "United States",
           description:
-            "Managed 25+ projects, addressing React Node.js and Spring MVC Maven vulnerabilities, resolving 300+ security bugs in Java, and achieving a 30% reduction in software bugs through adept debugging in Eclipse IDE. \n	Enhanced team efficiency by 20% based on sprint velocity metrics, by implementing Agile application development methodology and contributing to continuous improvement practices within the development lifecycle.\n Led a cross-functional team of four, mentoring trainees in web technologies, RESTful APIs and Microservices environment, contributing to technical documentation and web development success.",
+            "As a Software Engineer, I was initially trained in Java, Spring, and Angular, and soon after, I took on the challenge of resolving security vulnerabilities across multiple platforms. I coordinated over 25 projects, focusing on updating Spring and Angular dependencies to safe versions, addressing potential impacts on existing code, and resolving 300+ security bugs in the Java framework. My efforts led to a 30% reduction in software bugs. I utilized Eclipse IDE for debugging, created pull requests, and leveraged Jenkins for CI/CD pipelines, boosting deployment efficiency by 40%. Additionally, I spearheaded a cross-functional team of four, providing mentorship in REST APIs and Microservices, which contributed to continuous improvement and successful project outcomes.",
           color: "#000000",
         },
         {
@@ -509,7 +520,7 @@ const experience = {
           company_url: "https://www.cognizant.com/us/en",
           logo_path: "Cognizant.png",
           duration: "Dec 2019 - May 2020",
-          location: "Pune, Maharashtra, India",
+          location: "Unites States",
           description:
             "•	Designed and implemented an end-to-end website for the 'Online Tailoring Store' project with 95% test coverage, utilizing HTML5, CSS3, Java, and PostgreSQL for both front-end and back-end development. Ensured project integrity and adherence to SDLC and best practices in information systems through comprehensive validation using Mockito and Junit testing, thereby incorporating data-driven decision-making processes. Improved security protocols on the 'Online Tailoring Store' project by implementing OAuth security with JWT Token, resulting in a 50% reduction in unauthorized access attempts as measured by server log analysis.",
           color: "#000000",

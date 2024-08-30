@@ -433,6 +433,9 @@ body {
 }
 .footer-div {
   margin-top: 2rem;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 #topButton {
   visibility: hidden;
@@ -6367,4 +6370,4 @@ canvas {
 .fas {
   font-weight: 900;
 }
-/*# sourceMappingURL=main.2d9c9902.chunk.css.map */
+/*# sourceMappingURL=main.5e93a553.chunk.css.map */

@@ -16,8 +16,13 @@
       "__typename": "Organization"
     },
     {
-      "login": "codinasion",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/98682602?v=4",
+      "login": "codinasion-archive",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/112531802?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "Disaster-Accountability-Project",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9260428?v=4",
       "__typename": "Organization"
     }
   ]
