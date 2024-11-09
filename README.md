@@ -1,5 +1,7 @@
 <p align="center"> 
-    <img src="images/masterportfolio-banner-light.png" align="center" height="150"></img>
+    <img src="images/first.png" align="center" height="150"></img>
+    <img src="images/second.png" align="center" height="150"></img>
+    <img src="images/third.png" align="center" height="150"></img>
 </p>
 
 <h1 align="center"> Software Developer Master Portfolio 🔥 </h1> 
@@ -102,8 +104,6 @@ node git_data_fetcher.mjs
 This will fetch all the data from your github and it will automatically replace my data with yours.
 Whenever you want to update the github related information on the website you need to run this command.
 
-
-
 ## Other
 
 - You need to change the website title and other descriptions in `public/index.html`
@@ -140,7 +140,6 @@ Whenever you want to update the github related information on the website you ne
 
 Now, your website is successfully deployed and you can visit it at `<your-github-username>.github.io`.  
 If you are stuck somewhere and want to observe the deployment process in depth, then please watch below video.
-
 
 # Technologies used 🛠️
 
