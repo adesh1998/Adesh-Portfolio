@@ -1,7 +1,7 @@
 <p align="center"> 
-    <img src="images/first.png" align="center" height="150"></img>
-    <img src="images/second.png" align="center" height="150"></img>
-    <img src="images/third.png" align="center" height="150"></img>
+    <img src="Images/first.png" align="center" height="250"></img>
+    <img src="Images/second.png" align="center" height="250"></img>
+    <img src="Images/third.png" align="center" height="250"></img>
 </p>
 
 <h1 align="center"> Software Developer Master Portfolio 🔥 </h1> 
