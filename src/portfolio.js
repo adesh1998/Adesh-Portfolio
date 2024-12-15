@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Adesh's Portfolio",
   description:
-    "A dynamic Software Engineer, fueled by a Master's degree in Computer Science from Clemson University. I excel not only in technical domains like Data Structures and Object-Oriented Programming but also in essential soft skills such as collaboration, communication, and creative problem-solving. My track record speaks of results delivered through a potent blend of expertise and adaptability, making me a valuable asset in any software engineering endeavor.",
+    "Successfully migrated a large-scale application from Angular to React, significantly reducing load times and enhancing usability for over 500 concurrent users. Resolved 300+ security vulnerabilities in a microservices-based Angular and Spring MVC environment, ensuring system integrity and robustness. Developed a Shopify storefront using Next.js for the front end and Shopify Storefront API (GraphQL) for backend communication, achieving a 37.5% improvement in API response times. Streamlined over 1.6M data points into 300K and designed a dynamic traffic heatmap using Tableau, D3.js, and JavaScript, enabling data-driven decisions with an intuitive, interactive dashboard.",
   og: {
     title: "Adesh Bhosale Portfolio",
     type: "website",
@@ -21,7 +21,7 @@ const greeting = {
   title: "Adesh Bhosale",
   logo_name: "AdeshBhosale",
   subTitle:
-    "A dynamic Software Engineer, fueled by a Master's degree in Computer Science from Clemson University. I excel not only in technical domains like Data Structures and Object-Oriented Programming but also in essential soft skills such as collaboration, communication, and creative problem-solving. My track record speaks of results delivered through a potent blend of expertise and adaptability, making me a valuable asset in any software engineering endeavor.",
+    "Migrating a large-scale application from Angular to React, reducing load times and improving usability for 500+ users. Resolved 300+ security vulnerabilities in an Angular and Spring MVC microservices environment. Built a NodeJS web app with React, Express, and MongoDB, cutting API response time by 37.5% and enhancing user experience. Integrated Stripe API for secure payments under 60 seconds, reducing cart abandonment. Streamlined 1.6M data points into 300K and created a traffic heatmap with Tableau and D3.js for data-driven decisions.",
   resumeLink:
     "https://drive.google.com/file/d/1QVPlJcru0xlLMzfVpCi31KB1PFIhyg6W/view?usp=sharing",
   portfolio_repository: "https://github.com/adesh1998/Adesh-Portfolio",
@@ -499,8 +499,14 @@ const experience = {
           logo_path: "disaster.jpeg",
           duration: "May 2024 - Present",
           location: "Rocksville, MD, USA",
-          description:
-            "As a React Developer, I played a key role in migrating an application from Angular to React with TypeScript, rewriting over 10 components to improve code maintainability. Coordinating closely with the UI/UX design team, I ensured that every component was aligned with Figma designs, mobile-friendly, and accessible with voice-over features. Beyond the basics of React, I advanced my skills by setting up Cypress for end-to-end testing, Prettier for code formatting, and establishing a GitHub workflow to streamline development. This setup achieved 100% test coverage, reducing code review time by 20%. I also deployed a state management system with Redux, optimizing application performance to handle over 200 concurrent user sessions without performance degradation. My work leveraged TypeScript, Cypress, Bootstrap, GraphQL, and Docker, contributing to a smooth migration and enhanced application efficiency.",
+          description: `
+          • Led the migration of a web application from Angular to React using TypeScript, achieving a 30% improvement in scalability, maintainability, and performance
+          • Ensured WCAG 2.0 compliance and cross-browser compatibility by rewriting 30+ components, enhancing accessibility
+          • Enhanced state management with Redux and optimized performance for 500+ concurrent users through Lighthouse audits
+          • Increased product quality by identifying and resolving 61 bugs using Cypress and JUnit testing, achieving 100% test coverage and reducing code review time by 20%
+          • Streamlined data integration with AWS Amplify and GraphQL, writing 20+ efficient queries to handle large data volumes and enhance responsiveness
+          • Collaborated with UI/UX and product teams to validate Figma designs, improving development efficiency and ensuring a seamless user experience
+          `,
           color: "#000000",
         },
         {
@@ -510,8 +516,12 @@ const experience = {
           logo_path: "Cognizant.png",
           duration: "Nov 2020 - Jun 2022",
           location: "United States",
-          description:
-            "As a Software Engineer, I was initially trained in Java, Spring, and Angular, and soon after, I took on the challenge of resolving security vulnerabilities across multiple platforms. I coordinated over 25 projects, focusing on updating Spring and Angular dependencies to safe versions, addressing potential impacts on existing code, and resolving 300+ security bugs in the Java framework. My efforts led to a 30% reduction in software bugs. I utilized Eclipse IDE for debugging, created pull requests, and leveraged Jenkins for CI/CD pipelines, boosting deployment efficiency by 40%. Additionally, I spearheaded a cross-functional team of four, providing mentorship in REST APIs and Microservices, which contributed to continuous improvement and successful project outcomes.",
+          description: `
+          •	Reduced technical debt by addressing over 300 security vulnerabilities in a microservices-based Angular (TypeScript)/Spring MVC environment, reducing bug reports by 30% and improving system stability
+          •	Enhanced deployment efficiency by automating CI/CD pipelines with Jenkins, enabling 40% faster integration in AWS
+          •	Led root cause analysis for 25+ Agile projects, ensuring adherence to SDLC and driving collaboration across cross-functional teams using Git for version control
+          •	Optimized data retrieval and system scalability by implementing Redis caching and managing SQL databases, resulting in faster query responses and improved performance
+          `,
           color: "#000000",
         },
         {
@@ -521,8 +531,11 @@ const experience = {
           logo_path: "Cognizant.png",
           duration: "Dec 2019 - May 2020",
           location: "Unites States",
-          description:
-            "•	Designed and implemented an end-to-end website for the 'Online Tailoring Store' project with 95% test coverage, utilizing HTML5, CSS3, Java, and PostgreSQL for both front-end and back-end development. Ensured project integrity and adherence to SDLC and best practices in information systems through comprehensive validation using Mockito and Junit testing, thereby incorporating data-driven decision-making processes. Improved security protocols on the 'Online Tailoring Store' project by implementing OAuth security with JWT Token, resulting in a 50% reduction in unauthorized access attempts as measured by server log analysis.",
+          description: `
+          •	Engineered a secure login system using Java, OAuth2, and JWT tokens, reducing login time to under 3 seconds 
+          •	Conducted code reviews using SonarQube, addressing code smells and reducing redundancy by 70%
+          •	Leveraged Postman to test and debug REST API endpoints, ensuring seamless data flow and improving API reliability by reducing troubleshooting time
+          `,
           color: "#000000",
         },
         //     {
