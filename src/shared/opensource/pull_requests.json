@@ -2,6 +2,169 @@
   "closed": 5,
   "data": [
     {
+      "id": "PR_kwDOL8IFU86FM3pB",
+      "title": "[FR-R] LSS Step 4",
+      "url": "https://github.com/Disaster-Accountability-Project/SR-Front2024-React/pull/132",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2024-12-14T01:20:56Z",
+      "number": 132,
+      "changedFiles": 7,
+      "additions": 8500,
+      "deletions": 17610,
+      "baseRepository": {
+        "name": "SR-Front2024-React",
+        "url": "https://github.com/Disaster-Accountability-Project/SR-Front2024-React",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9260428?v=4",
+          "login": "Disaster-Accountability-Project",
+          "url": "https://github.com/Disaster-Accountability-Project"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL8IFU86FFSop",
+      "title": "[FE-R] LSS Step 3",
+      "url": "https://github.com/Disaster-Accountability-Project/SR-Front2024-React/pull/131",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2024-12-13T00:04:46Z",
+      "number": 131,
+      "changedFiles": 6,
+      "additions": 680,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "SR-Front2024-React",
+        "url": "https://github.com/Disaster-Accountability-Project/SR-Front2024-React",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9260428?v=4",
+          "login": "Disaster-Accountability-Project",
+          "url": "https://github.com/Disaster-Accountability-Project"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL8IFU86Epn7L",
+      "title": "Wizard card changes according to the need",
+      "url": "https://github.com/Disaster-Accountability-Project/SR-Front2024-React/pull/129",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1821380?v=4",
+        "url": "https://github.com/smilow",
+        "login": "smilow"
+      },
+      "createdAt": "2024-12-10T05:52:50Z",
+      "number": 129,
+      "changedFiles": 12,
+      "additions": 275,
+      "deletions": 367,
+      "baseRepository": {
+        "name": "SR-Front2024-React",
+        "url": "https://github.com/Disaster-Accountability-Project/SR-Front2024-React",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9260428?v=4",
+          "login": "Disaster-Accountability-Project",
+          "url": "https://github.com/Disaster-Accountability-Project"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL8IFU86Db0pm",
+      "title": "[Fe-R] - Create UI :  SR2.0 create add & edit country page",
+      "url": "https://github.com/Disaster-Accountability-Project/SR-Front2024-React/pull/128",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2024-11-28T07:43:02Z",
+      "number": 128,
+      "changedFiles": 12,
+      "additions": 1206,
+      "deletions": 51,
+      "baseRepository": {
+        "name": "SR-Front2024-React",
+        "url": "https://github.com/Disaster-Accountability-Project/SR-Front2024-React",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9260428?v=4",
+          "login": "Disaster-Accountability-Project",
+          "url": "https://github.com/Disaster-Accountability-Project"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL8IFU85-X6mK",
+      "title": "Create UI :  SR2.0 create add/edit services page (sr-admin page)",
+      "url": "https://github.com/Disaster-Accountability-Project/SR-Front2024-React/pull/118",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1821380?v=4",
+        "url": "https://github.com/smilow",
+        "login": "smilow"
+      },
+      "createdAt": "2024-10-11T19:00:59Z",
+      "number": 118,
+      "changedFiles": 16,
+      "additions": 693,
+      "deletions": 264,
+      "baseRepository": {
+        "name": "SR-Front2024-React",
+        "url": "https://github.com/Disaster-Accountability-Project/SR-Front2024-React",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9260428?v=4",
+          "login": "Disaster-Accountability-Project",
+          "url": "https://github.com/Disaster-Accountability-Project"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL8IFU857enOz",
+      "title": "Sidenav was not closing for mobile screen",
+      "url": "https://github.com/Disaster-Accountability-Project/SR-Front2024-React/pull/108",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1821380?v=4",
+        "url": "https://github.com/smilow",
+        "login": "smilow"
+      },
+      "createdAt": "2024-09-13T20:30:42Z",
+      "number": 108,
+      "changedFiles": 2,
+      "additions": 1,
+      "deletions": 9,
+      "baseRepository": {
+        "name": "SR-Front2024-React",
+        "url": "https://github.com/Disaster-Accountability-Project/SR-Front2024-React",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9260428?v=4",
+          "login": "Disaster-Accountability-Project",
+          "url": "https://github.com/Disaster-Accountability-Project"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL8IFU856bdd_",
+      "title": "[Fe-R] - Create UI :  SR2.0 create add services page (sr-admin page)",
+      "url": "https://github.com/Disaster-Accountability-Project/SR-Front2024-React/pull/104",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1821380?v=4",
+        "url": "https://github.com/smilow",
+        "login": "smilow"
+      },
+      "createdAt": "2024-09-04T17:54:37Z",
+      "number": 104,
+      "changedFiles": 14,
+      "additions": 454,
+      "deletions": 124,
+      "baseRepository": {
+        "name": "SR-Front2024-React",
+        "url": "https://github.com/Disaster-Accountability-Project/SR-Front2024-React",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9260428?v=4",
+          "login": "Disaster-Accountability-Project",
+          "url": "https://github.com/Disaster-Accountability-Project"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOL8IFU853gV4l",
       "title": "AgGrid migration from Angular to React - Taking over PR 89",
       "url": "https://github.com/Disaster-Accountability-Project/SR-Front2024-React/pull/92",
@@ -274,7 +437,7 @@
       "url": "https://github.com/adesh1998/Adesh-Portfolio/pull/1",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/50673082?v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50673082?u=664c41347c047a0ab29cdddc792cb70e59a45ad9&v=4",
         "url": "https://github.com/adesh1998",
         "login": "adesh1998"
       },
@@ -287,7 +450,7 @@
         "name": "Adesh-Portfolio",
         "url": "https://github.com/adesh1998/Adesh-Portfolio",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/50673082?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/50673082?u=664c41347c047a0ab29cdddc792cb70e59a45ad9&v=4",
           "login": "adesh1998",
           "url": "https://github.com/adesh1998"
         }
@@ -566,7 +729,7 @@
       "url": "https://github.com/clemson-cpsc4030/visualizing-tabular-data-in-d3-adesh1998/pull/1",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/50673082?v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50673082?u=664c41347c047a0ab29cdddc792cb70e59a45ad9&v=4",
         "url": "https://github.com/adesh1998",
         "login": "adesh1998"
       },
@@ -607,7 +770,7 @@
       }
     }
   ],
-  "merged": 20,
-  "open": 0,
-  "totalCount": 25
+  "merged": 24,
+  "open": 3,
+  "totalCount": 32
 }

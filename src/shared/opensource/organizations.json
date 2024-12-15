@@ -1,26 +1,6 @@
 {
   "data": [
     {
-      "login": "TheAlgorithms",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20487725?v=4",
-      "__typename": "Organization"
-    },
-    {
-      "login": "mindsdb",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31035808?v=4",
-      "__typename": "Organization"
-    },
-    {
-      "login": "KwickerHub",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/93937658?v=4",
-      "__typename": "Organization"
-    },
-    {
-      "login": "codinasion-archive",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/112531802?v=4",
-      "__typename": "Organization"
-    },
-    {
       "login": "Disaster-Accountability-Project",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9260428?v=4",
       "__typename": "Organization"
