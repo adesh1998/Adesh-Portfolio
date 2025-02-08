@@ -500,13 +500,12 @@ const experience = {
           duration: "May 2024 - Present",
           location: "Rocksville, MD, USA",
           description: `
-          • Led the migration of a web application from Angular to React using TypeScript, achieving a 30% improvement in scalability, maintainability, and performance
-          • Ensured WCAG 2.0 compliance and cross-browser compatibility by rewriting 30+ components, enhancing accessibility
-          • Enhanced state management with Redux and optimized performance for 500+ concurrent users through Lighthouse audits
-          • Increased product quality by identifying and resolving 61 bugs using Cypress and JUnit testing, achieving 100% test coverage and reducing code review time by 20%
-          • Streamlined data integration with AWS Amplify and GraphQL, writing 20+ efficient queries to handle large data volumes and enhance responsiveness
-          • Collaborated with UI/UX and product teams to validate Figma designs, improving development efficiency and ensuring a seamless user experience
-          `,
+          •	Led the migration of a web application from Angular to React using TypeScript, achieving a 30% improvement in scalability, maintainability, and performance
+          •	Ensured WCAG compliance and cross-browser compatibility by rewriting 30+ components and validating Figma designs, resulting in enhanced accessibility and a seamless user experience through collaboration with UI/UX teams
+          •	Enhanced state management with Redux and increased performance for 500+ concurrent users through Lighthouse audits
+          •	Increased product quality by identifying and resolving 61 bugs using Cypress and JUnit testing, achieving 100% test coverage and reducing code review time by 20%
+          •	Streamlined data integration with AWS Amplify and GraphQL, writing 20+ efficient queries to handle large data volumes and enhance responsiveness
+              `,
           color: "#000000",
         },
         {
@@ -514,28 +513,17 @@ const experience = {
           company: "Cognizant Technology Solutions.",
           company_url: "https://www.cognizant.com/us/en",
           logo_path: "Cognizant.png",
-          duration: "Nov 2020 - Jun 2022",
+          duration: "Dec 2019 - Jun 2022",
           location: "United States",
           description: `
+          •	Implemented payment gateway with Java-Spring Boot for 1000+ merchants, adhering to architecture guidelines
           •	Reduced technical debt by addressing over 300 security vulnerabilities in a microservices-based Angular (TypeScript)/Spring MVC environment, reducing bug reports by 30% and improving system stability
-          •	Enhanced deployment efficiency by automating CI/CD pipelines with Jenkins, enabling 40% faster integration in AWS
-          •	Led root cause analysis for 25+ Agile projects, ensuring adherence to SDLC and driving collaboration across cross-functional teams using Git for version control
-          •	Optimized data retrieval and system scalability by implementing Redis caching and managing SQL databases, resulting in faster query responses and improved performance
-          `,
-          color: "#000000",
-        },
-        {
-          title: "Full Stack Engineer",
-          company: "Cognizant Technology Solutions.",
-          company_url: "https://www.cognizant.com/us/en",
-          logo_path: "Cognizant.png",
-          duration: "Dec 2019 - May 2020",
-          location: "Unites States",
-          description: `
-          •	Engineered a secure login system using Java, OAuth2, and JWT tokens, reducing login time to under 3 seconds 
+          •	Spearheaded root cause analysis for 25+ Agile projects, ensuring adherence to SDLC and driving collaboration across cross-functional teams using Git for version control, while automating CI/CD pipelines with Jenkins
+          •	Integrated third-party APIs for email-based two-factor authentication, strengthening security and enhancing user authentication
+          •	Engineered a secure login system using Java, OAuth2, and JWT tokens, reducing login time to under 2 seconds 
           •	Conducted code reviews using SonarQube, addressing code smells and reducing redundancy by 70%
           •	Leveraged Postman to test and debug REST API endpoints, ensuring seamless data flow and improving API reliability by reducing troubleshooting time
-          `,
+              `,
           color: "#000000",
         },
         //     {
