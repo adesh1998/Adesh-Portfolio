@@ -23,7 +23,7 @@ const greeting = {
   subTitle:
     "Migrating a large-scale application from Angular to React, reducing load times and improving usability for 500+ users. Resolved 300+ security vulnerabilities in an Angular and Spring MVC microservices environment. Built a NodeJS web app with React, Express, and MongoDB, cutting API response time by 37.5% and enhancing user experience. Integrated Stripe API for secure payments under 60 seconds, reducing cart abandonment. Streamlined 1.6M data points into 300K and created a traffic heatmap with Tableau and D3.js for data-driven decisions.",
   resumeLink:
-    "https://drive.google.com/file/d/1QVPlJcru0xlLMzfVpCi31KB1PFIhyg6W/view?usp=sharing",
+    "https://drive.google.com/file/d/17lhZaxaHlijInS7brjK8gcMjOwpJ1689/view?usp=sharing",
   portfolio_repository: "https://github.com/adesh1998/Adesh-Portfolio",
   githubProfile: "https://github.com/adesh1998",
 };
